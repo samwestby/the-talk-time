@@ -1,13 +1,10 @@
 # Conversation Visualization
 
-Link to post-meeting visualization: https://pages.github.ccs.neu.edu/westby/conversation-visualization/view/ \
-Link to visualization walkthrough: https://youtu.be/2czHAxpGuKU
-
 ## Real-time visualization usage instruction
 
 _Note_: This feature only workings on Windows. 
 1) Install [OBS](https://obsproject.com/wiki/install-instructions)
-2) git clone https://github.ccs.neu.edu/westby/conversation-visualization.git 
+2) git clone https://github.com/samwestby/the-talk-time.git 
 3) Change directories into conversation-visualization/Zoom-Bot directory 
 5) python -m http.server 8123 
 6) Open a new terminal 
