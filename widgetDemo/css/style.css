@@ -1,0 +1,33 @@
+/* .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}*/
+
+.title {
+    text-align: center;
+}
+
+#transcript {
+    border: 1px solid black;
+    max-height: 100%;
+    overflow-y: auto;
+}
+
+.col {
+    height: 80vh;
+}
+/*
+.chartsContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+} */
+
+.chart {
+    border: 1px solid black;
+    align-items: center;
+  }
+  
+  svg {
+    margin: 0 auto;
+    display: block;
+  }

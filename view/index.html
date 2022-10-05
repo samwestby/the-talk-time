@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="" />
+  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors" />
+  <meta name="generator" content="Hugo 0.88.1" />
+  <title>Viz Demo</title>
+
+  <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="/view/glider.min.css">
+  <!-- Bootstrap core CSS -->
+  <link href="https://getbootstrap.com/docs/5.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.5.1/nouislider.css"
+    integrity="sha512-MKxcSu/LDtbIYHBNAWUQwfB3iVoG9xeMCm32QV5hZ/9lFaQZJVaXfz9aFa0IZExWzCpm7OWvp9zq9gVip/nLMg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.5.1/nouislider.min.js"
+    integrity="sha512-T5Bneq9hePRO8JR0S/0lQ7gdW+ceLThvC80UjwkMRz+8q+4DARVZ4dqKoyENC7FcYresjfJ6ubaOgIE35irf4w=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" href="https://getbootstrap.com/docs/5.1/assets/img/favicons/apple-touch-icon.png"
+    sizes="180x180" />
+  <link rel="icon" href="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-32x32.png" sizes="32x32"
+    type="image/png" />
+  <link rel="icon" href="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-16x16.png" sizes="16x16"
+    type="image/png" />
+  <link rel="manifest" href="https://getbootstrap.com/docs/5.1/assets/img/favicons/manifest.json" />
+  <link rel="mask-icon" href="https://getbootstrap.com/docs/5.1/assets/img/favicons/safari-pinned-tab.svg"
+    color="#7952b3" />
+  <link rel="icon" href="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon.ico" />
+  <meta name="theme-color" content="#7952b3" />
+  <script src="/view/glider.min.js"></script>x
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+  </style>
+
+  <!-- Custom styles for this template -->
+  <link href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/sticky-footer-navbar.css"
+    rel="stylesheet" />
+
+  <style>
+    .noUi-connect {
+      background: #007bff;
+    }
+
+    .noUi-handle {
+      border: 1px solid #D9D9D9;
+      border-radius: 3px;
+      background: #FFF;
+      cursor: default;
+      box-shadow: inset 0 0 1px #FFF;
+    }
+
+    .noUi-horizontal .noUi-handle-upper .noUi-tooltip {
+      top: 150%;
+      bottom: initial;
+    }
+
+    .noUi-horizontal .noUi-handle-lower .noUi-tooltip {
+      top: 150%;
+      bottom: initial;
+    }
+
+    #slider {
+      margin-bottom: 4%;
+      margin-top: 2%;
+    }
+
+    ;
+  </style>
+
+</head>
+
+<body class="d-flex flex-column h-100">
+
+  <header>
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Conversation Visualization</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+          aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">View Viz</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Download Bot Client</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">Usage Instructions</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled" aria-current="page" href="/" target="_blank">Chat View</a>
+            </li>
+          </ul>
+          <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1"
+              data-bs-toggle="dropdown" aria-expanded="false">
+              Change Data
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+              <li><a class="dropdown-item" href="#" id="file1">File 1</a></li>
+              <li><a class="dropdown-item" href="#" id="file2">File 2</a></li>
+              <li><a class="dropdown-item" href="#" id="file3">File 3</a></li>
+            </ul>
+          </div>
+          <!-- <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form> -->
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Begin page content -->
+  <main class="flex-shrink-0 mt-3">
+    <div class="container">
+      <div class="row flex-fill justify-content-center" style="min-height:0">
+        <div class="col-xl-7 ">
+          <div class="card">
+            <div class="card-header">
+              <h3 class="card-title">Transcript</h3>
+            </div>
+            <div class="card-body">
+              <div>
+                <div class="row">
+                  <div class="col-2 text-large">
+                    <h5>
+                      User
+                    </h5>
+                  </div>
+                  <div class="col-8">
+                    <h5>
+                      Message
+                    </h5>
+                  </div>
+                  <div class="col-2 text-large">
+                    <h5>
+                      Time
+                    </h5>
+                  </div>
+                </div>
+              </div>
+              <div id="transcript" class="overflow-scroll" style="height : 600px;">
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-5 ">
+
+          <div class="card h-100">
+            <div class="card-header">
+              <h3 class="card-title">Plots</h3>
+            </div>
+            <!-- <div id="slider"></div> -->
+            <div class="card-body h-100">
+              <div id="carouselExampleIndicators" class="carousel slide carousel-dark h-50" data-bs-ride="carousel">
+                <div class="carousel-inner h-100">
+                  <div class="carousel-item h-100">
+                    <div id="radialNoLiePlot" class="h-100">
+
+                    </div>
+                  </div>
+                  <div class="carousel-item active h-100">
+                    <div id="radialPlot" class="h-100">
+
+                    </div>
+                  </div>
+
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+              <div id="brokenBarPlot" class="h-50">
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+
+      </div>
+      <div id="slider"></div>
+
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-1">
+            <p id="stime" class="font-monospace fs-6">Start Time</p>
+          </div>
+          <div class="col-10">
+
+            <input type="range" class="form-range mt-2" id="customRange1" min="1" max="100" value="1">
+          </div>
+          <div class="col-1">
+            <p id="etime" class="font-monospace fs-6">End Time </p>
+          </div>
+
+
+
+        </div>
+      </div>
+  </main>
+
+  <footer class="footer mt-auto py-3 bg-light">
+    <div class="container">
+      <span class="text-muted ">
+        <small>
+          Made with ❤️ By @westby & @natkite, bootstrap cover template by
+          <a href="https://twitter.com/mdo">@mdo</a>, socket.io chat
+          application example by Guillermo Rauch. Licensed under the
+          <a href="LICENSE">MIT License</a>.
+        </small>
+      </span>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script>
+    // jquery fetch data
+
+  </script>
+  <script type="module">
+
+    import { io } from "https://cdn.socket.io/4.4.1/socket.io.esm.min.js";
+
+    // const socket = io("http://localhost:3000/");
+
+
+    var chatHistory = [];
+    var participants = [];
+    $(document).ready(function () {
+      $('.carousel').carousel('pause');
+      $('#file1').click(function () {
+        loadfile("data/json/Bed002.json")
+      });
+      $('#file2').click(function () {
+        loadfile("data/json/Bdb001.json")
+      });
+      $('#file3').click(function () {
+        loadfile("data/json/Bmr001.json")
+      });
+    });
+
+
+    var bb = document.getElementById("customRange1");
+    bb.oninput = function () {
+
+
+      var position = this.value;
+
+      var element = document.querySelector("#transcript > div:nth-child(" + position + ")");
+      element.scrollIntoView({
+        behavior: 'smooth',
+        block: 'center'
+      });
+      element.style.backgroundColor = "rgba(0,255,0,0.5)";
+      var a_value = 0.1;
+      let handle = setInterval(function () {
+        if (a_value < 0) {
+          clearInterval(handle);
+          return;
+        }
+
+        element.style.backgroundColor = "rgba(0,255,0," + (a_value -= 0.1) + ")";
+      }, 1000);
+
+
+
+
+
+
+      // // get value from slider
+      // var value = this.value;
+      // // get value % of elements from chatHistory
+      // var chatHistoryPercentage = Math.round(chatHistory.length * (value / 10000));
+      // // get chatHistoryPercentage elements of chatHistory
+      // var chatHistorySlice = chatHistory.slice(0, chatHistoryPercentage);
+      // // draw radial plot
+      // drawRadial(chatHistorySlice);
+      // drawBrokenPlot(chatHistorySlice);
+      // drawNoLieRadial(chatHistorySlice);
+      // // console.log(chatHistoryPercentage);
+      // if (chatHistoryPercentage > 0) {
+      //   var element = document.querySelector("#transcript > div:nth-child(" + chatHistoryPercentage + ")");
+      //   element.scrollIntoView({ behavior: "smooth", block: "center", inline: "center" });
+      //   //console.log(element);
+      //   // change background color of element
+      //   element.style.backgroundColor = "rgba(0,255,0,0.5)";
+      //   // remove color
+      //   var a_value = 0.1;
+      //   let handle = setInterval(function () {
+      //     if (a_value < 0) {
+      //       clearInterval(handle);
+      //       return;
+      //     }
+
+      //     element.style.backgroundColor = "rgba(0,255,0," + (a_value -= 0.1) + ")";
+      //   }, 1000);
+
+
+      // }
+
+
+      // // find message at the time of slider value
+      // // find row with that message and user
+      // // scroll to that row
+
+
+    }
+
+
+    var Valutimees = [
+      document.getElementById('stime'),
+      document.getElementById('etime')
+    ];
+
+    function getTimestamp(str) {
+      return new Date(str).getTime();
+    }
+
+    var timeSlider = document.getElementById('slider');
+    noUiSlider.create(timeSlider, {
+      start: [0, 100],
+      connect: true,
+      behaviour: 'drag',
+      tooltips: [true, true],
+      range: {
+        'min': 0,
+        'max': 100
+      },
+    });
+    var tt = [
+
+    ];
+
+    timeSlider.noUiSlider.on('update', function (values, handle) {
+      var handleVals = timeSlider.noUiSlider.get()
+      //console.log(handleVals);
+      // get only ements between handleVals
+      var chatHistoryPercentageStart = Math.round(chatHistory.length * (handleVals[0] / 100));
+      var chatHistoryPercentageEnd = Math.round(chatHistory.length * (handleVals[1] / 100));
+      var history = chatHistory.slice(chatHistoryPercentageStart, chatHistoryPercentageEnd);
+      console.log(history.length);
+      // draw radial plot
+      // get custom rangeslider
+      var slider = document.getElementById("customRange1");
+      // change max value of slider to length of history
+      slider.max = history.length;
+      // set value of slider to 0
+      slider.value = 1;
+
+      drawRadial(history, 0);
+      drawBrokenPlot(history);
+      drawNoLieRadial(history, 0);
+      clearTranscript();
+      // draw transcript
+      drawTranscript(history);
+
+
+
+
+
+    });
+
+    function clearTranscript() {
+      var transcript = document.getElementById("transcript");
+      transcript.innerHTML = "";
+    }
+
+    // click on dropdown
+
+
+    function drawTranscript(history) {
+      // add elements in history to DOM
+      var transcript = document.getElementById("transcript");
+      for (var i = 0; i < history.length; i++) {
+        var row = document.createElement("div");
+        row.className = "row";
+        var user = document.createElement("div");
+        user.className = "col-sm-2 badge";
+        user.style.color = d3.schemeCategory10[participants.indexOf(history[i].user)];
+        user.innerHTML = history[i].user;
+        var message = document.createElement("div");
+        message.className = "col-sm-8 text-start";
+
+        var parsed = history[i].message.split("|");
+        for (var j = 0; j < parsed.length; j++) {
+          parsed[j] = parsed[j].trim();
+          if (parsed[j] != "") {
+            if (parsed[j].includes("nvs:")) {
+              var link = document.createElement("span");
+              link.className = "badge rounded-pill bg-warning";
+              link.innerHTML = parsed[j].split(":")[1];
+              message.appendChild(link);
+            } else
+              if (parsed[j].includes("vs:")) {
+                var link = document.createElement("span");
+                link.className = "badge rounded-pill bg-info";
+                link.innerHTML = parsed[j].split(":")[1];
+                message.appendChild(link);
+              }
+              else {
+                message.innerHTML += parsed[j];
+              }
+            var span = document.createElement("span");
+            // span.innerHTML = parsed[j];
+            // message.appendChild(span);
+          }
+        }
+        if (message.innerHTML == "") {
+          var link = document.createElement("span");
+          link.className = "badge rounded-pill bg-danger";
+          link.innerHTML = "No Message";
+          message.appendChild(link);
+        }
+        // message.innerHTML = span.innerHTML;
+        var time = document.createElement("div");
+        time.className = "col-sm-2 justify-content-center align-items-center d-flex";
+        time.innerHTML = new Date(history[i].typingStartTime).toLocaleTimeString() + " - " + new Date(history[i].typingEndTime).toLocaleTimeString();
+        // reduce font size
+        time.style.fontSize = ".5rem";
+        row.appendChild(user);
+        row.appendChild(message);
+        row.appendChild(time);
+        transcript.appendChild(row);
+      }
+      // scroll to bottom
+      transcript.scrollTop = transcript.scrollHeight;
+    }
+
+    function updateTranscript(data) {
+      var transcript = document.getElementById("transcript");
+      var row = document.createElement("div");
+      row.className = "row";
+      var user = document.createElement("div");
+      user.className = "col-sm-2";
+      user.innerHTML = data.user;
+      var message = document.createElement("div");
+      message.className = "col-sm-8 text-start";
+      message.innerHTML = "<span>" + data.message + "</span>";
+      var time = document.createElement("div");
+      time.className = "col-sm-2 justify-content-center align-items-center d-flex";
+      time.innerHTML = new Date(data.typingStartTime).toLocaleTimeString() + " - " + new Date(data.typingEndTime).toLocaleTimeString();
+      time.style.fontSize = ".5rem";
+      row.appendChild(user);
+      row.appendChild(message);
+      row.appendChild(time);
+      transcript.appendChild(row);
+      // scroll to bottom
+      transcript.scrollTop = transcript.scrollHeight;
+    }
+    var hh;
+    var ww;
+
+
+    function drawRadial(history, pc) {
+      var radialPlot = document.getElementById("radialPlot");
+      if (ww == undefined) {
+        var width = radialPlot.clientWidth;
+        var height = radialPlot.clientHeight;
+        hh = height;
+        ww = width;
+      } else {
+        var width = ww;
+        var height = hh;
+      }
+
+      var margin = { top: 20, right: 20, bottom: 20, left: 20 };
+      // remove old svg
+      radialPlot.innerHTML = "";
+      var svg = d3
+        .select("#radialPlot")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height);
+      svg
+        .append("circle")
+        .attr("cx", width / 2)
+        .attr("cy", height / 2)
+        .attr("r", height / 2 - margin.top)
+        .attr("fill", "none")
+        .attr("stroke", "black");
+      var centerOfMass = {
+        x: 0,
+        y: 0,
+      };
+      var totalMass = 0;
+      var masses = {};
+      //console.log(participants);
+      for (var user in participants) {
+        masses[participants[user]] = 0;
+      }
+      for (var msg in history) {
+        if (history[msg].user in masses) {
+          masses[history[msg].user] += 1;
+        }
+      }
+      var positions = {};
+      for (var i = 0; i < participants.length; i++) {
+        positions[participants[i]] = {
+          x: Math.cos((i * 2 * Math.PI) / participants.length) * (height / 2 - margin.top),
+          y: Math.sin((i * 2 * Math.PI) / participants.length) * (height / 2 - margin.top),
+        };
+      }
+      //console.log(positions);
+      for (var participant in positions) {
+        //console.log();
+        centerOfMass.x += positions[participant].x * masses[participant];
+        centerOfMass.y += positions[participant].y * masses[participant];
+      }
+      totalMass = 0;
+      for (var participant in masses) {
+        totalMass += masses[participant];
+      }
+      if (totalMass > 0) {
+        centerOfMass.x /= totalMass;
+        centerOfMass.y /= totalMass;
+      } else {
+        centerOfMass.x = 0;
+        centerOfMass.y = 0;
+      }
+      //console.log(centerOfMass);
+      for (var participant in positions) {
+        //console.log(positions[participant]);
+        //console.log(positions[participant].x);
+        svg
+          .append("line")
+          .attr("x1", positions[participant].x + width / 2)
+          .attr("y1", positions[participant].y + height / 2)
+          .attr("x2", centerOfMass.x + width / 2)
+          .attr("y2", centerOfMass.y + height / 2)
+          .attr("stroke", "black")
+          .attr("stroke-width", "1px");
+        svg
+          .append("circle")
+          .attr("cx", positions[participant].x + width / 2)
+          .attr("cy", positions[participant].y + height / 2)
+          .attr("r", "20px")
+          .attr("stroke", "black")
+          .attr("fill", function (d) {
+            return d3.schemeCategory10[participants.indexOf(participant)];
+          });
+        // text label for the participant
+        svg
+          .append("text")
+          .attr("x", positions[participant].x + width / 2)
+          .attr("y", positions[participant].y + height / 2)
+          .attr("text-anchor", "middle")
+          .attr("font-size", "10px")
+          .attr("font-family", "sans-serif")
+          .attr("fill", "white")
+          .text(participant);
+
+        svg
+          .append("circle")
+          .attr("cx", centerOfMass.x + width / 2)
+          .attr("cy", centerOfMass.y + height / 2)
+          .attr("r", "10px")
+          .attr("stroke", "black");
+
+      }
+
+    }
+
+    function drawBrokenPlot(history) {
+      var brokenPlot = document.getElementById("brokenBarPlot");
+      brokenPlot.innerHTML = "";
+      var width = brokenPlot.clientWidth;
+      var height = brokenPlot.clientHeight;
+      var margin = { top: 20, right: 20, bottom: 20, left: 50 };
+      var svg = d3
+        .select("#brokenBarPlot")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height);
+      // get start and end time of the chat
+      // var startTime = new Date(history[0].typingStartTime);
+      // var endTime = new Date(history[history.length - 1].typingEndTime);
+      var minTime;
+      var maxTime;
+      var text = "";
+      for (var msg in history) {
+        if (minTime == undefined || new Date(history[msg].typingStartTime) < minTime) {
+          minTime = new Date(history[msg].typingStartTime);
+        }
+        if (maxTime == undefined || new Date(history[msg].typingEndTime) > maxTime) {
+          maxTime = new Date(history[msg].typingEndTime);
+          text = history[msg].message;
+        }
+      }
+      //console.log(text);
+      //console.log(minTime);
+      //console.log(maxTime);
+      let yScale = d3
+        .scaleBand()
+        .range([height - margin.bottom, margin.top])
+        .domain(participants);
+      var xScale = d3
+        .scaleTime()
+        .domain([minTime, maxTime])
+        .range([margin.left, width - margin.right]);
+      var lengthScale = d3.scaleLinear().domain([0, 1000]).range([0, width / 20]);
+
+      // let xScale = d3
+      //   .scaleLinear()
+      //   .range([margin.left, width - margin.right])
+      //   .domain([0, d3.max(chatHistory, (d) => {
+      //     return new Date(d.typingEndTime);
+      //   })]);
+
+      var xAxis = d3.axisBottom().scale(xScale);
+      var yAxis = d3.axisRight().scale(yScale);
+      xAxis.ticks(4).tickFormat(function (d) {
+        return new Date(d).toLocaleTimeString();
+      });
+
+      //  //console.log(d3.max(chatHistory, function (d) {
+      //     return new Date(d.typingEndTime);
+      //   }));
+
+      svg
+        .append("g")
+        .attr("class", "xAxis")
+        .attr("transform", "translate(0," + (height - margin.top) + ")")
+        .call(xAxis);
+
+      svg
+        .append("g")
+        .attr("class", "yAxis")
+        .attr("transform", "translate(0,0)")
+        .call(yAxis);
+      var barHeight = yScale.bandwidth();
+      var colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+      svg
+        .selectAll("rect")
+        .data(chatHistory)
+        .enter()
+        .append("rect")
+        .attr("x", function (d) {
+          return xScale(new Date(d.typingStartTime));
+        })
+        .attr("y", function (d) {
+          return yScale(d.user);
+        })
+        .attr("width", function (d) {
+          //console.log(d.message,new Date(d.typingEndTime), new Date(d.typingStartTime),(xScale(new Date(d.typingEndTime)) - xScale(new Date(d.typingStartTime))));
+          return (xScale(new Date(d.typingEndTime)) - xScale(new Date(d.typingStartTime)));
+        })
+        .attr("height", barHeight - 5)
+        .attr("fill", function (d) {
+          return colorScale(d.user);
+        })
+        .attr("rx", "1px");
+    }
+
+    function drawNoLieRadial(history, pc) {
+      var noLieRadial = document.getElementById("radialNoLiePlot");
+      noLieRadial.innerHTML = "";
+      var width = ww;
+      var height = hh;
+      var margin = { top: 20, right: 20, bottom: 20, left: 50 };
+      var tempData = {};
+      for (var msg in history) {
+        var seg = history[msg];
+        if (tempData[seg.user] == undefined) {
+          tempData[seg.user] = 0;
+        }
+        tempData[seg.user] += (new Date(seg.typingEndTime).getTime() - new Date(seg.typingStartTime).getTime());
+      }
+      var stp = [];
+      var initials = [];
+      for (var user in tempData) {
+        stp.push(tempData[user]);
+        initials.push(user);
+      }
+      //console.log(stp);
+      //console.log(initials);
+      const heightExtent = d3.extent(stp);
+
+      const bars = Array.from({ length: stp.length }, function (v, k) { return k });
+
+      const containerWidth = width;
+      const containerHeight = height;
+      const barWidth = 10;
+      const radius = Math.min(containerWidth / 2, containerHeight / 2) - barWidth * 4;
+      const y = d3.scaleLinear()
+        .domain([0, heightExtent[1]])
+        .range([0, radius]);
+
+      const angle = d3.scaleBand()
+        .domain(bars)
+        .range([0, 360])
+        .paddingInner(0.02)
+        .paddingOuter(0);
+      var svg = d3
+        .select("#radialNoLiePlot")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height);
+      const colourScale = d3.scaleOrdinal(d3.schemeCategory10);
+
+      const percentageBars = svg.selectAll('rect').data(stp);
+
+
+      percentageBars.enter().append('rect')
+        .attr('x', - barWidth / 2)
+        .attr('y', barWidth * 2)
+        .attr('width', barWidth)
+        .attr('height', function (d, i) { return y(d) })
+        .style('transform', function (d, i) {
+          return "translate(" + containerWidth / 2 + "px, " + containerHeight / 2 + "px) rotate(" + angle(i) + "deg)"
+        })
+        .attr('fill', function (d, i) {
+          return colourScale(i)
+        })
+
+      var elem = svg.selectAll("g myCircleText").data(stp)
+      var nameBubbles = elem.enter()
+        .append("g")
+        .attr("class", "name-bubbles")
+      const bubbles = nameBubbles.append('circle')
+        .attr("cx", 0)
+        .attr("cy", function (d, i) { return y(d) + barWidth * 2 })
+        .attr("r", barWidth * 2)
+        .attr("fill", function (d, i) { return colourScale(i) })
+        .style('transform', function (d, i) {
+          return "translate(" + containerWidth / 2 + "px, " + containerHeight / 2 + "px) rotate(" + angle(i) + "deg)"
+        })
+
+      const names = nameBubbles.append('text')
+        // .attr('x', -barWidth / 4)
+        .style('text-align', "center")
+        .style('text-anchor', 'middle')
+        // .style('font-weight', 'bold')
+        .style('font-weight', 10)
+        .style('font-size', barWidth)
+        .style('fill', 'white')
+        .style('font-family', 'system-ui')
+        .style('transform', function (d, i) {
+          const xBase = containerWidth / 2;
+          const yBase = containerHeight / 2;
+
+          const degrees = angle(i);
+          const radians = (degrees + 90) / 360 * 2 * Math.PI;
+          const barHeight = y(stp[i]) + barWidth * 2;
+
+          const yOffset = Math.sin(radians) * barHeight;
+          const xOffset = Math.cos(radians) * barHeight;
+
+          return "translate(" + (xBase + xOffset) + "px, " + (yBase + yOffset) + "px) ";
+        })
+        .text(function (d, i) { return initials[i] }) //stp[i] + '%'
+
+
+
+
+      // draw circle inside svg
+      svg
+        .append("circle")
+        .attr("cx", width / 2)
+        .attr("cy", height / 2)
+        .attr("r", height / 2)
+        .attr("fill", "none")
+        .attr("stroke", "black");
+
+      svg
+        .append("circle")
+        .attr("cx", width / 2)
+        .attr("cy", height / 2)
+        .attr("r", barWidth)
+        .attr("fill", "black");
+    }
+
+    var currentTime = new Date();
+
+    $.getJSON('./data/json/Bdb001.json', function (data) {
+      //console.log(data);
+      chatHistory = data;
+      data.map(function (d) {
+        var tempTime = new Date(currentTime.getTime() - 1.5 * 60 * 1000);
+        d.typingStartTime = new Date(tempTime.getTime() + d.typingStartTime * 1000);
+        d.typingEndTime = new Date(tempTime.getTime() + d.typingEndTime * 1000);
+        return d;
+      });
+      var startTime = chatHistory[0].typingStartTime;
+      var endTime = chatHistory[chatHistory.length - 1].typingEndTime;
+
+      var stimeblurb = document.getElementById("stime");
+      stimeblurb.innerHTML = new Date(startTime).toLocaleTimeString();
+      var etimeblurb = document.getElementById("etime");
+      etimeblurb.innerHTML = new Date(endTime).toLocaleTimeString();
+      for (let i = 0; i < chatHistory.length; i++) {
+        // if user not n participant, add to participant list
+        if (!participants.includes(chatHistory[i].user)) {
+          participants.push(chatHistory[i].user);
+        }
+      }
+      // console.log(participants);
+      // console.log(chatHistory);
+      var slider = document.getElementById("customRange1");
+      // change max value of slider to length of history
+      slider.max = chatHistory.length;
+      // set value of slider to 0
+      slider.value = 1;
+      drawTranscript(chatHistory);
+      drawRadial(chatHistory, 0);
+      drawBrokenPlot(chatHistory);
+      drawNoLieRadial(chatHistory, 0);
+
+    });
+
+    function loadfile(filename) {
+      clearTranscript();
+      currentTime = new Date();
+      $.getJSON(filename, function (data) {
+        //console.log(data);
+        chatHistory = data;
+        data.map(function (d) {
+          var tempTime = new Date(currentTime.getTime() - 1.5 * 60 * 1000);
+          d.typingStartTime = new Date(tempTime.getTime() + d.typingStartTime * 1000);
+          d.typingEndTime = new Date(tempTime.getTime() + d.typingEndTime * 1000);
+          return d;
+        });
+        var startTime = chatHistory[0].typingStartTime;
+        var endTime = chatHistory[chatHistory.length - 1].typingEndTime;
+
+        var stimeblurb = document.getElementById("stime");
+        stimeblurb.innerHTML = new Date(startTime).toLocaleTimeString();
+        var etimeblurb = document.getElementById("etime");
+        etimeblurb.innerHTML = new Date(endTime).toLocaleTimeString();
+        participants = [];
+        for (let i = 0; i < chatHistory.length; i++) {
+          // if user not n participant, add to participant list
+          if (!participants.includes(chatHistory[i].user)) {
+            participants.push(chatHistory[i].user);
+          }
+        }
+        var slider = document.getElementById("customRange1");
+        // change max value of slider to length of history
+        slider.max = chatHistory.length;
+        // set value of slider to 0
+        slider.value = 1;
+        clearTranscript();
+        drawTranscript(chatHistory);
+        drawRadial(chatHistory, 0);
+        drawBrokenPlot(chatHistory);
+        drawNoLieRadial(chatHistory, 0);
+      });
+    }
+
+
+
+    function updateRadial() { }
+
+  </script>
+</body>
+
+</html>

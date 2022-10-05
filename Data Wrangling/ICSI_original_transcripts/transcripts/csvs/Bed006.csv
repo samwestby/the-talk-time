@@ -1,0 +1,1796 @@
+start,end,participant,text
+5.350,6.170,fe004,b'\n      Time.\n    '
+8.570,10.800,fe004,b'\n      '
+9.206,9.930,mn015,b'\n      Thanks.\n    '
+13.186,14.073,,b'\n      '
+13.244,20.116,fe004,"b""\n      Are you Fey? Oh. Hi. I think we've met before, like, I remember talking to you about Aspect or something like that at some point or other. So.\n    """
+14.010,15.680,fe046,"b'\n      I am Fey, yeah. Hi.\n    '"
+14.820,16.410,me003,b'\n      What day is today?\n    '
+16.797,19.843,fe046,"b""\n      A couple times yeah. That's right, yeah.\n    """
+17.280,19.030,me012,"b""\n      It's the uh twenty -\n    """
+17.968,18.970,me003,b'\n      Nineteenth?\n    '
+19.300,20.175,me012,b'\n      nineteenth. '
+20.552,22.022,fe046,"b'\n      And you were my G_S_I briefly,\n    '"
+21.077,22.030,me012,b'\n      '
+21.682,22.808,mn036,b'\n      '
+21.700,22.842,me003,"b'\n      Right, right.\n    '"
+22.022,23.490,fe046,b'\n      until I dropped the class.\n    '
+22.030,23.540,fe004,"b""\n      Oh that's """
+23.490,24.790,fe046,b'\n      But. '
+23.540,24.447,fe004,b'\n      Well. '
+23.580,24.715,mn036,b'\n      '
+24.447,25.931,fe004,b'\n      No offense. '
+24.618,29.210,mn015,"b'\n      O_K, wh- wh- Yeah. O_K. Some in- some introductions are in order. '"
+28.200,29.282,fe004,"b'\n      Oh, O_K sorry.\n    '"
+29.282,30.401,fe004,b'\n      Getting '
+29.440,45.477,mn015,"b""\n      O_K. So. Um. For those who don't know - Everyone knows me, this is great. Um, apart from that, sort of the old gang, Johno and Bhaskara have been with us from - from day one and um\n    """
+35.898,36.975,fe046,b'\n      '
+35.990,37.140,fe004,b'\n      Yay! '
+41.058,41.632,fe046,b'\n      '
+41.525,42.460,me045,b'\n      Hi.\n    '
+44.190,45.690,me003,b'\n      '
+44.752,45.690,fe046,b'\n      '
+45.588,46.044,fe004,b'\n      '
+45.690,62.010,mn015,"b""\n      they're engaged in - in various activities, some of which you will hear about today. """
+48.010,49.840,fe046,b'\n      '
+54.338,55.103,fe004,b'\n      '
+55.633,57.687,mn036,b'\n      '
+55.874,56.627,me045,b'\n      '
+56.364,58.240,fe046,b'\n      '
+56.627,57.330,me045,b'\n      Oh wow. '
+62.340,68.409,mn015,b'\n      and um he sits in as a interested participant and helper.\n    '
+64.190,64.502,fe004,b'\n      '
+69.319,71.680,mn015,"b""\n      Is that a good characterization? I don't know.\n    """
+70.402,74.529,mn036,"b""\n      u- That's pretty good, I think. Yeah. """
+71.920,73.330,mn015,b'\n      O_K.\n    '
+72.863,73.566,me003,b'\n      '
+73.413,74.007,fe004,b'\n      '
+73.606,78.830,mn015,"b'\n      Keith is not technically one of us yet, '"
+76.501,77.761,me045,b'\n      Not yet.\n    '
+76.931,78.903,fe004,b'\n      '
+77.257,78.680,fe046,b'\n      '
+78.903,80.070,fe004,"b'\n      ""One of us."" '"
+79.050,82.770,mn015,"b""\n      but um it's too late for him now. So.\n    """
+81.468,83.890,me045,"b""\n      Yeah right. I've got the """
+83.500,84.240,fe046,b'\n      '
+84.420,88.670,mn015,b'\n      Um. Officially I guess he will be joining us in the summer.\n    '
+88.440,89.650,me045,b'\n      '
+88.751,89.383,fe004,b'\n      '
+89.900,121.020,mn015,"b'\n      And um hopefully it is by - by means of Keith that we will be able to get a b- a better formal and a better semantic um idea of what a construction is and um how we can make it work for us. Additionally his interest um surpasses um English because it also entails German, an extra capability of speaking and writing and understanding and reading\n    '"
+105.401,105.802,fe004,b'\n      '
+106.067,106.454,fe004,b'\n      '
+107.153,128.680,fe004,b'\n      '
+118.830,120.503,fe046,b'\n      '
+119.950,120.920,me045,b'\n      '
+121.530,122.660,mn015,b'\n      that language.\n    '
+124.060,127.380,mn015,"b""\n      And um, is there anyone who doesn't know Nancy?\n    """
+127.817,130.590,fe046,b'\n      '
+128.040,133.840,me003,b'\n      '
+128.530,130.978,mn015,b'\n      Do you - do you know Nancy? O_K.\n    '
+128.680,129.122,fe004,b'\n      Me?\n    '
+129.394,130.411,fe004,b'\n      Mm-hmm. '
+129.480,131.010,me045,b'\n      I know Nancy. '
+131.778,132.700,fe004,b'\n      What? '
+133.840,134.830,fe004,b'\n      You did? When?\n    '
+134.830,136.220,me003,b'\n      Uh before you came in.\n    '
+135.810,136.347,fe004,b'\n      Oh.\n    '
+136.640,137.850,me003,b'\n      '
+136.888,137.828,fe004,b'\n      About '
+137.039,137.880,me045,b'\n      Man!\n    '
+137.750,140.266,fe046,b'\n      '
+137.990,139.180,me003,b'\n      About '
+138.040,141.640,mn015,b'\n      '
+138.453,139.986,fe004,b'\n      O_K. '
+138.472,139.211,me045,b'\n      '
+139.089,142.580,mn036,b'\n      You '
+139.986,143.804,fe004,b'\n      '
+140.200,141.630,me003,b'\n      '
+140.266,142.375,fe046,b'\n      '
+144.100,145.300,me003,b'\n      '
+144.240,145.428,fe046,b'\n      '
+144.312,146.240,fe004,"b""\n      Yes, I know myself. It's O_K. It's a -\n    """
+145.910,159.200,mn015,"b'\n      O_K. And um Fey is with us as of six days ago officially? Officially, but in reality already um much much longer and um\n    '"
+152.999,153.792,fe046,"b'\n      Officially, yeah.\n    '"
+158.170,160.280,fe046,b'\n      '
+159.200,170.630,mn015,"b""\n      um next to some - some more or less bureaucratic uh stuff with the - the data collection she's also the wizard in the data collection\n    """
+169.501,170.825,fe004,b'\n      '
+170.825,171.859,fe004,b'\n      Of Oz. '
+171.280,176.053,mn015,"b'\n      Um, we\'re sticking with the term ""wizard"", O_K.\n    '"
+172.272,173.798,fe046,"b""\n      It's very exciting. """
+174.695,176.081,fe046,b'\n      Yes. Yes.\n    '
+175.304,176.280,me045,b'\n      '
+176.714,178.420,mn015,b'\n      and um\n    '
+176.955,179.690,fe004,b'\n      Not witch-like. '
+179.501,180.780,me003,b'\n      Wizardette.\n    '
+179.690,182.204,fe004,b'\n      '
+180.958,184.065,fe046,b'\n      '
+181.520,183.840,me045,b'\n      Wizard. '
+182.204,183.442,fe004,b'\n      '
+182.330,183.017,me012,b'\n      Wizardess. '
+183.310,184.940,mn015,"b'\n      Sorceress, I think.\n    '"
+183.326,183.939,me012,b'\n      '
+183.442,184.580,fe004,b'\n      O_K.\n    '
+184.747,185.570,me045,b'\n      '
+185.438,185.980,fe046,b'\n      Wizard.\n    '
+186.190,190.410,mn015,b'\n      wizard uh by by popular vote um\n    '
+186.593,187.208,me012,b'\n      '
+186.982,187.534,fe004,b'\n      O_K.\n    '
+189.509,190.403,fe004,b'\n      '
+190.939,192.690,fe004,"b""\n      Didn't take a vote? O_K.\n    """
+192.690,197.500,mn015,"b""\n      O_K, um, why don't we get started on """
+192.690,193.136,fe004,b'\n      '
+192.750,193.853,me003,b'\n      '
+192.763,194.184,fe046,b'\n      '
+197.600,199.060,mn015,b'\n      anyways.\n    '
+199.420,204.110,mn015,"b""\n      Um, so we're about to collect data and um\n    """
+204.670,204.910,me012,b'\n      '
+204.910,214.400,mn015,b'\n      the uh s- the following things have happened since we last met. When will we three meet again? And um\n    '
+207.829,208.349,fe004,b'\n      '
+208.647,209.042,fe004,b'\n      '
+211.721,212.743,fe004,b'\n      '
+213.982,215.082,fe004,b'\n      More than three of us.\n    '
+215.330,224.094,mn015,"b'\n      what happened is that um, ""A_"", '"
+215.376,215.772,fe004,b'\n      '
+222.282,222.734,fe004,b'\n      '
+223.645,224.000,fe004,b'\n      '
+224.094,229.678,mn015,b'\n      and '
+226.157,227.590,fe046,b'\n      '
+229.398,229.980,me045,b'\n      '
+229.664,230.724,fe046,b'\n      '
+229.678,237.700,mn015,b'\n      Um '
+237.434,239.290,me045,b'\n      The list of majors in the department?\n    '
+238.001,238.609,mn015,b'\n      sort of s-\n    '
+238.956,247.130,fe046,"b""\n      M- m- Majors? Majors? O_K, mayor - Something I don't know about these """
+239.495,242.247,mn015,b'\n      Ma- '
+240.050,240.751,me012,b'\n      '
+240.603,242.345,fe004,b'\n      '
+242.247,244.922,mn015,b'\n      Majors. '
+242.345,245.900,fe004,b'\n      '
+244.189,245.750,me045,b'\n      '
+244.524,245.607,me012,b'\n      '
+244.810,245.700,me003,b'\n      '
+244.922,252.200,mn015,b'\n      '
+248.019,249.019,fe046,"b'\n      Yeah, yeah, yeah.\n    '"
+249.019,249.411,fe046,b'\n      But -\n    '
+250.268,250.658,fe046,b'\n      Yeah.\n    '
+251.551,252.459,fe046,b'\n      So it was really\n    '
+252.459,253.847,fe046,"b'\n      Carol Snow who was confused, not\n    '"
+253.855,255.890,mn015,"b'\n      Yep, yep, yep. O_K.\n    '"
+254.220,255.500,fe046,b'\n      me and not Jerry.\n    '
+255.890,259.070,mn015,b'\n      So. '
+256.026,257.381,fe046,b'\n      '
+256.367,257.310,fe004,b'\n      '
+257.381,258.410,fe046,"b""\n      That's good.\n    """
+257.739,258.137,fe004,b'\n      '
+259.070,260.510,fe046,b'\n      So I should still do that.\n    '
+260.718,261.241,mn015,b'\n      Yep.\n    '
+261.194,261.545,fe046,b'\n      O_K.\n    '
+261.922,262.311,fe046,b'\n      And\n    '
+262.090,262.630,mn015,b'\n      And -\n    '
+262.637,263.765,fe046,b'\n      using the\n    '
+263.765,264.538,fe046,b'\n      thing that you wrote up.\n    '
+264.636,265.167,mn015,b'\n      Yep.\n    '
+265.104,265.438,fe046,b'\n      O_K.\n    '
+266.493,267.120,mn015,b'\n      Wonderful.\n    '
+266.557,266.896,fe004,b'\n      '
+267.543,267.891,fe004,b'\n      '
+267.619,275.179,mn015,b'\n      And um we have a little description of asking peop- subjects to contact Fey for you know recruiting them for our\n    '
+275.179,284.660,mn015,"b'\n      thing and um there was some confusion as to the consent form, which is basically that - that what what you just signed and since we have one already um -\n    '"
+279.697,280.485,fe004,b'\n      Right.\n    '
+284.920,290.670,fe004,"b""\n      Did Jerry talk to you about maybe using our class? the students in the undergrad class that he's teaching?\n    """
+290.740,306.530,mn015,"b'\n      Um well he said um we - definitely ""yes"", however there is always '"
+291.797,292.295,fe004,b'\n      e-\n    '
+302.940,303.710,fe004,b'\n      Yeah.\n    '
+305.120,305.994,fe004,"b'\n      O_K, but th-\n    '"
+305.994,309.450,fe004,"b""\n      I guess it's that um people in his class cover a different set so -\n    """
+309.450,309.856,fe004,b'\n      '
+309.856,312.448,fe004,b'\n      than the c- is the CogSci department that you were talking about?\n    '
+312.566,315.462,fe046,b'\n      I '
+313.058,315.435,fe004,b'\n      uh reaching out to? Cuz we have you know people from other\n    '
+315.539,316.550,mn015,b'\n      Yeah.\n    '
+315.816,316.787,fe004,b'\n      areas\n    '
+315.875,319.660,fe046,b'\n      that people like - like Jerry and George and et cetera just -\n    '
+319.660,321.480,fe004,b'\n      advertise in their classes as well.\n    '
+320.360,323.736,fe046,b'\n      Yeah or even I could - you know I could do the actual -\n    '
+322.450,329.450,fe004,"b""\n      Cuz I mean I - I know how to contact our students, so if there's something that you're sending out you can also s- um send\n    """
+322.588,323.650,mn015,b'\n      Mm-hmm.\n    '
+323.736,326.070,fe046,"b""\n      That's """
+325.940,326.890,mn015,b'\n      Yeah.\n    '
+329.546,339.256,fe004,b'\n      '
+334.250,335.520,fe046,b'\n      A mailing list.\n    '
+335.471,336.217,mn015,b'\n      Mm-hmm.\n    '
+337.010,337.447,fe046,b'\n      Yeah.\n    '
+337.288,337.840,mn015,b'\n      Yeah.\n    '
+339.434,339.827,fe004,b'\n      '
+339.490,340.670,mn015,b'\n      Do it. Yeah.\n    '
+339.917,340.705,fe046,"b""\n      That's -\n    """
+340.970,343.030,fe004,"b""\n      O_K, so you'll send it or something """
+343.080,344.601,mn015,"b'\n      As a matter of fact, if you - if -\n    '"
+343.107,348.590,fe046,"b""\n      I can send it. I'll send it, yeah. """
+343.955,345.484,fe004,b'\n      You can send it to me. O_K.\n    '
+345.162,346.241,mn015,"b'\n      Now, i-\n    '"
+345.484,347.715,fe004,"b""\n      Don't worry, we - this doesn't concern you anymore, Robert. It's fine.\n    """
+347.487,348.250,me045,b'\n      '
+347.600,356.314,mn015,b'\n      How - however I suggest that if you - if you look at your email carefully you may think - you may find that you already have it.\n    '
+348.510,349.324,fe004,b'\n      '
+353.616,354.077,fe004,b'\n      Oops. '
+354.513,355.084,fe004,b'\n      Already?\n    '
+355.084,355.750,fe004,b'\n      Really?\n    '
+355.750,356.363,fe004,b'\n      Oops. '
+356.238,356.908,fe046,b'\n      Probab-\n    '
+356.314,356.799,mn015,b'\n      '
+357.095,357.490,mn015,b'\n      O_K.\n    '
+357.270,358.940,fe004,"b""\n      I don't remember getting anything.\n    """
+357.720,361.400,mn015,"b""\n      W- we'll see. Anyhow, um\n    """
+357.830,359.390,fe046,b'\n      '
+360.750,362.276,fe046,b'\n      '
+362.769,364.260,mn015,b'\n      the uh\n    '
+367.000,371.190,mn015,"b'\n      Yeah, not only CogSci. Also we will talk about Linguistics and of course Computer Science.\n    '"
+370.720,371.102,fe004,b'\n      Mm-hmm.\n    '
+372.240,388.823,mn015,"b'\n      Um and then, secondly, we had, you may remember, um the problem with the re-phrasing, that subject always re-phrase sort of the task that uh we gave them, and so we had a meeting on Friday talking about how to avoid '"
+381.488,381.940,fe004,b'\n      '
+381.990,382.920,me003,b'\n      Right.\n    '
+389.267,394.074,mn015,b'\n      proved finally fruitful in the sense that we came up with a new scenario for\n    '
+389.376,389.889,fe004,b'\n      '
+394.074,403.410,mn015,b'\n      how to get the - the subject m- to really '
+404.221,419.805,mn015,b'\n      there the idea is now that next actually we - we need to hire one more person to actually '
+419.805,434.730,mn015,b'\n      Um '
+436.145,451.930,mn015,"b'\n      ""visit - do some sightseeing"" blah-blah-blah-blah-blah, sort of analogous to what Fey has started in - in - in compiling - compiling '"
+448.065,448.526,fe004,b'\n      '
+448.977,449.312,fe004,b'\n      '
+453.260,457.292,mn015,b'\n      o- '
+454.346,455.000,,b'\n      '
+458.307,464.960,mn015,"b'\n      And um. So out of these f- s- these high level categories the subject can pick a couple,\n    '"
+465.494,473.125,mn015,"b'\n      such as if - if there is a cop- uh a category in emptying your roll of film, the person can then decide\n    '"
+470.002,470.598,fe004,b'\n      '
+473.448,479.747,mn015,"b'\n      ""O_K, I wanna do that at this place"", sort of make up their own itinerary a- and - and tasks\n    '"
+475.921,476.305,fe004,b'\n      '
+476.642,476.987,fe004,b'\n      '
+480.393,485.703,mn015,"b'\n      and the person is not allowed to take sort of this h- high level category list with them, but\n    '"
+483.566,484.057,fe004,b'\n      '
+484.942,485.347,fe004,b'\n      '
+486.026,493.819,mn015,"b""\n      uh the person is able to take notes on a map that we will give him and the map will be a tourist's sort of schematic representation\n    """
+495.205,502.747,mn015,"b'\n      with - with symbols for the objects. And so, the person can maybe make a mental note that ""ah yeah I wanted to go shopping here"" and ""I wanted to\n    '"
+503.082,507.512,mn015,"b'\n      maybe take a picture of that"" and ""maybe um eat here""\n    '"
+508.625,516.100,mn015,"b'\n      and then goes in and solves the task with the system, I_E '"
+517.380,520.190,mn015,"b""\n      and we're gonna try out that - Any questions?\n    """
+519.540,524.777,fe004,b'\n      '
+524.777,528.166,fe004,b'\n      the nice thing about having data where you know what the actual intention was?\n    '
+527.533,528.685,mn015,b'\n      Mm-hmm. Yeah.\n    '
+528.961,530.996,fe004,b'\n      But they will um -\n    '
+530.996,532.670,fe004,"b""\n      There's nothing that says you know\n    """
+532.670,535.996,fe004,"b'\n      ""these are the things you want to do"" so they\'ll say ""well these are the things I want to do"" and -\n    '"
+535.996,538.708,fe004,"b""\n      Right, so they'll have a little bit more natural interaction?\n    """
+538.708,539.111,fe004,b'\n      O_K.\n    '
+538.838,539.552,mn015,b'\n      Hopefully.\n    '
+539.411,539.919,fe004,b'\n      Mm-hmm.\n    '
+539.919,540.272,fe004,b'\n      '
+540.580,546.550,me012,"b""\n      So they'll be given this map, which means that they won't have to like ask the system for in- for like high level information about where things are?\n    """
+541.482,541.913,fe004,b'\n      '
+546.550,552.940,mn015,"b""\n      Yeah it's a schematic tourist map. So it'll be uh i- it'll still require the - that information and\n    """
+553.277,554.024,mn015,b'\n      An-\n    '
+553.318,556.580,fe004,"b""\n      It w- it doesn't have like streets on it that would allow them\n    """
+555.699,558.547,mn015,b'\n      N- not - not - not really the street network.\n    '
+556.610,559.210,fe004,b'\n      to figure out their way - O_K.\n    '
+558.547,559.320,mn015,b'\n      '
+562.430,564.679,me045,"b""\n      So you're just saying like what part of town\n    """
+564.617,568.962,mn015,b'\n      Yeah a- and um the map is more a means for them to have\n    '
+564.679,566.297,me045,b'\n      the things are in or whatever?\n    '
+569.760,574.700,mn015,b'\n      the buildings and their names and maybe some ma- ma- major streets and their names\n    '
+574.587,574.982,fe004,b'\n      Mm-hmm.\n    '
+575.261,579.514,mn015,"b'\n      and we want to maybe ask them, if you have - get it sort of isolated street\n    '"
+580.072,588.177,mn015,"b'\n      the - the, whatever, ""River Street"", and they know that - they have decided that, yes, that\'s where they want to do this kind of action\n    '"
+583.078,583.598,fe004,b'\n      '
+588.585,593.350,mn015,b'\n      um that they have it with them and they can actually read them or sort of have the label\n    '
+593.406,598.421,mn015,"b""\n      for the object because it's too hard to memorize all these st- strange German names.\n    """
+602.340,610.695,mn015,"b""\n      And then we're going to have another - we're gonna have w- another trial run I_E the first with that new setup tomorrow at two\n    """
+611.801,615.700,mn015,b'\n      and we have a '
+612.780,613.165,fe004,b'\n      '
+613.719,614.068,fe004,b'\n      '
+616.842,627.345,mn015,"b""\n      for who - those who know him, he's the founder of I_C_I. So he'll - he's around seven- seventy years old, or something.\n    """
+626.513,628.500,fe004,"b""\n      I didn't know he was the founder. That's -\n    """
+628.674,629.289,fe004,b'\n      O_K.\n    '
+630.300,645.160,mn015,b'\n      And he also approached me and he offered to help '
+637.964,640.200,fe004,b'\n      '
+640.342,640.583,fe004,b'\n      '
+641.713,642.470,me045,b'\n      '
+642.477,643.840,fe004,b'\n      '
+644.699,645.206,fe004,b'\n      '
+645.945,646.290,fe004,b'\n      '
+647.966,649.580,fe004,b'\n      Using this new - new\n    '
+648.030,648.740,mn015,b'\n      data.\n    '
+649.385,650.920,mn015,b'\n      New - new set up.\n    '
+649.925,651.410,fe004,"b'\n      um plan, O_K.\n    '"
+651.768,652.296,mn015,b'\n      Yeah.\n    '
+654.580,656.120,mn015,"b""\n      Which I'll hopefully sort of\n    """
+656.943,658.591,mn015,b'\n      scrape together t-\n    '
+657.930,659.060,fe046,b'\n      '
+658.294,659.172,fe004,b'\n      '
+658.886,659.331,me045,b'\n      '
+659.242,663.510,mn015,"b'\n      But, thanks to Fey, we already have sort of a nice blueprint and I can work with that.\n    '"
+659.855,660.582,fe046,b'\n      '
+660.869,661.226,fe004,b'\n      '
+661.260,662.130,fe046,b'\n      '
+661.919,662.254,fe004,b'\n      '
+666.840,669.460,mn015,b'\n      Questions? Comments on that?\n    '
+671.578,672.585,mn015,"b'\n      If not, we can move on.\n    '"
+687.285,689.300,mn015,b'\n      No? No more questions?\n    '
+688.783,689.182,fe004,b'\n      '
+689.832,691.339,fe004,"b""\n      So what's the s- this is what you\n    """
+689.891,692.129,me045,"b""\n      I'm not sure I totally understand this but -\n    """
+691.443,692.072,mn015,b'\n      Hmm?\n    '
+691.835,694.110,fe004,"b'\n      made, Fey? Like so -\n    '"
+692.129,696.691,me045,"b""\n      I'm not sure I totally understand everything that's being talked about but I - I imagine I'll c- just catch on.\n    """
+694.580,699.630,mn015,b'\n      Um are you familiar with - with the - with the very rough setup of the data?\n    '
+696.250,698.552,fe004,"b""\n      So it's just based on like the materials you had about Heidelberg.\n    """
+698.384,700.406,fe046,"b'\n      Based on the web site, yeah, '"
+699.630,703.520,fe004,"b""\n      Oh O_K there's a web site and then you could like um figure out what the cate- O_K.\n    """
+700.590,701.770,mn015,b'\n      experiment?\n    '
+700.732,701.421,fe046,b'\n      Right.\n    '
+701.813,704.180,me045,"b""\n      Uh, this is where they're supposed to -\n    """
+701.863,703.756,fe046,"b""\n      It's a tourist information web site, so.\n    """
+703.640,704.180,fe004,b'\n      O_K.\n    '
+704.097,707.050,mn015,b'\n      Talk to a machine and it breaks down and then the human comes on. '
+704.511,705.024,fe004,b'\n      '
+704.815,705.627,me045,b'\n      Yeah.\n    '
+706.672,707.550,me045,b'\n      Yeah.\n    '
+707.520,720.740,mn015,b'\n      The question is just sort of how do we get the tasks in their head that they have an intention of doing something and have a need to ask the system for something without giving them sort of a clear wording or phrasing of the task.\n    '
+710.790,711.422,me045,b'\n      O_K.\n    '
+713.425,713.945,me045,b'\n      O_K.\n    '
+716.080,716.702,me045,b'\n      O_K.\n    '
+720.604,721.255,me045,b'\n      O_K.\n    '
+720.740,724.018,mn015,b'\n      Because what will happen then is that people '
+723.261,723.693,fe004,b'\n      Hmm.\n    '
+724.018,726.540,mn015,"b'\n      or as much as they can, of that phrasing.\n    '"
+726.489,729.865,fe004,"b'\n      Um, are you worried about being able to identify -\n    '"
+727.124,728.000,me045,b'\n      O_K.\n    '
+729.865,736.388,fe004,"b""\n      Um. The - The goals that we've d- you guys have been talking about are this - these you know identifying which of three modes um their question\n    """
+733.196,733.692,mn015,b'\n      Mm-hmm.\n    '
+737.072,740.860,fe004,"b""\n      uh concerns. So it's like the Enter versus View -\n    """
+738.930,747.318,mn015,b'\n      '
+741.740,742.640,fe004,b'\n      Uh-huh.\n    '
+744.330,745.120,fe004,b'\n      Uh-huh.\n    '
+747.098,747.665,fe004,b'\n      Mm-hmm.\n    '
+747.960,752.481,mn015,b'\n      um and the subjects sit down together with these high level things and so\n    '
+753.410,760.528,mn015,"b'\n      th- the q- first question for the subject is, ""so these are things, you know, we thought a tourist can do. Is there anything that interests you?""\n    '"
+760.418,760.936,fe004,b'\n      Mm-hmm.\n    '
+761.255,765.138,mn015,"b'\n      And the person can say ""yeah, sure sh- this is something I would do. I would go shopping"".\n    '"
+764.491,764.874,fe004,b'\n      '
+765.138,769.047,mn015,"b'\n      Yeah? and then we can sort of - this s- instructor can say ""well,\n    '"
+765.530,766.041,fe004,b'\n      Mm-hmm.\n    '
+769.013,769.386,fe004,b'\n      '
+769.831,775.900,mn015,b'\n      uh then you - you may want to find out how to '
+770.042,770.320,fe004,b'\n      '
+773.000,773.565,,b'\n      '
+776.200,776.640,fe004,b'\n      '
+776.640,780.690,fe004,b'\n      So the interaction beforehand will give them hints about how specific or how\n    '
+780.690,784.730,fe004,b'\n      whatever though the kinds of questions that are going to ask during the actual session?\n    '
+784.540,789.325,mn015,"b'\n      No. Just sort of - O_K, what - what - what would you like to buy and then\n    '"
+787.334,790.756,mn036,b'\n      '
+789.201,789.808,fe004,b'\n      Yeah.\n    '
+789.661,799.473,mn015,"b""\n      um O_K there you wanna buy a whatever cuckoos clocks O_K and the- there is a store there. So the task then for that person is t- finding out how to get there, right? That's sort of what's left.\n    """
+793.910,794.574,me045,b'\n      Mm-hmm.\n    '
+797.596,797.938,fe004,b'\n      Mm-hmm.\n    '
+798.863,799.370,fe004,b'\n      Mm-hmm.\n    '
+800.100,804.750,mn015,b'\n      And we know that the intention is to enter because we know that the person wants to buy a cuckoos clock.\n    '
+804.410,809.047,fe004,"b""\n      O_K, that's what I mean so like those tasks are all gonna be um unambiguous about which of the three\n    """
+809.648,810.317,mn015,b'\n      Hopefully.\n    '
+809.670,811.187,fe004,b'\n      modes. Right. O_K. So.\n    '
+811.215,812.373,mn036,"b'\n      Well,\n    '"
+811.321,811.887,fe004,b'\n      '
+811.566,812.185,mn015,b'\n      Hopefully.\n    '
+811.947,812.349,fe004,b'\n      t-\n    '
+812.373,821.890,mn036,b'\n      so the idea is to try to get the actual phrasing that they might use and try to interfere as little as possible with their choice of words.\n    '
+821.736,829.450,mn015,"b""\n      Yes. In a sense that's exactly the - the - the idea, which is """
+822.730,823.570,mn036,b'\n      uh uh\n    '
+828.220,828.588,mn036,b'\n      '
+828.588,833.520,mn036,"b'\n      Well, u- u- the one experiment th- that - that - that '"
+833.490,833.950,mn015,b'\n      Yep.\n    '
+833.638,834.325,me045,b'\n      Mm-hmm.\n    '
+833.813,834.950,fe046,b'\n      '
+833.900,838.470,mn036,b'\n      So to - to uh actually um uh specify the - the tasks.\n    '
+838.716,840.237,mn015,b'\n      Yeah. '
+838.800,840.683,mn036,"b'\n      Uh, but you know i-\n    '"
+840.773,847.403,mn015,b'\n      We had exactly that on our list of possible way- things so we - uh I even made a sort of a silly\n    '
+841.090,841.990,mn036,b'\n      i- '
+843.015,843.427,fe004,b'\n      '
+843.885,844.266,fe004,b'\n      '
+847.756,854.791,mn015,"b'\n      thing how that could work, how you control you are here you - you want to know how to get someplace, and this is the place\n    '"
+855.101,859.546,mn015,"b""\n      and it's a museum and you want to do some- and - and - and there's a person looking at pictures.\n    """
+858.257,858.941,,b'\n      '
+859.546,859.817,mn015,"b'\n      So,\n    '"
+860.287,864.706,mn015,"b'\n      you know, this is exactly getting someplace with the intention of entering and looking at pictures.\n    '"
+864.201,864.719,mn036,b'\n      Right.\n    '
+865.227,866.055,mn015,"b'\n      However,\n    '"
+866.602,872.418,mn015,"b""\n      not only was - the common census were - among all participants of Friday's meeting was\n    """
+868.763,869.051,fe004,b'\n      '
+872.983,887.470,mn015,"b""\n      it's gonna be very laborious to - to make these drawings for each different things, all the different actions, if at all possible, and also people will get caught up in the pictures. So all of a sudden we'll get descriptions of pictures in there.\n    """
+878.397,878.900,mn036,b'\n      Right.\n    '
+887.470,888.153,mn036,b'\n      Right.\n    '
+887.765,891.199,mn015,b'\n      And people talking about pictures and pictorial representations and -\n    '
+888.178,888.783,me045,b'\n      Hmm.\n    '
+891.690,892.326,mn036,b'\n      Right.\n    '
+891.987,892.499,mn015,b'\n      um\n    '
+892.880,896.070,mn015,b'\n      I would s- I would still be willing to try it.\n    '
+896.170,900.284,mn036,b'\n      '
+900.284,905.191,mn036,b'\n      you might be able to combine you know text uh and - and some sort of picture '
+903.921,904.433,fe004,b'\n      '
+905.191,911.089,mn036,b'\n      and also uh I think it - it will be a good idea to show them the text\n    '
+911.778,918.172,mn036,b'\n      and kind of '
+913.766,914.220,fe004,b'\n      '
+914.211,915.255,mn015,b'\n      Mm-hmm. Yeah.\n    '
+915.745,916.600,mn015,b'\n      We will -\n    '
+918.690,921.590,mn036,b'\n      by what '
+921.389,926.619,mn015,"b'\n      Yeah, they will have no more linguistic matter in front of them when they enter this room.\n    '"
+924.699,925.338,mn036,b'\n      Right.\n    '
+932.487,933.168,mn015,b'\n      O_K.\n    '
+938.118,940.240,mn015,b'\n      Then I suggest we move on to the -\n    '
+942.140,952.210,mn015,b'\n      to '
+953.742,957.381,mn015,"b""\n      actions, its um action items that we're do- dealing with,\n    """
+957.704,963.599,mn015,b'\n      one is modifying the SmartKom parser and the other one is modifying the SmartKom natural language generation\n    '
+958.274,958.681,fe004,b'\n      '
+964.302,966.667,mn015,b'\n      module. '
+967.198,972.037,mn015,"b""\n      this is not too complicated but I'm just mentioning it - put it in the framework because this is\n    """
+972.600,974.500,mn015,b'\n      something we will talk about now.\n    '
+975.025,978.740,mn015,"b'\n      Um, I have some news from the generation, do you have news from the parser?\n    '"
+978.700,980.313,me012,"b'\n      Um, '"
+978.962,979.353,fe004,b'\n      '
+979.245,982.620,mn015,b'\n      By that look I - '
+980.882,985.540,me012,"b'\n      Yes, uh, I would really p- It would be better if I talked about it on Friday.\n    '"
+980.950,981.290,me045,b'\n      '
+981.290,982.607,fe004,b'\n      '
+985.209,993.060,mn015,"b'\n      O_K. Yeah, wonderful. Um, did you run into problems or did you run into not h- having time?\n    '"
+985.845,986.853,me012,"b""\n      If that's O_K.\n    """
+992.969,996.431,me045,b'\n      '
+993.060,993.707,me012,b'\n      Yeah.\n    '
+993.707,995.570,me012,b'\n      But not - not '
+994.010,998.173,mn015,b'\n      '
+996.380,997.195,fe004,b'\n      '
+997.623,998.806,me045,b'\n      '
+997.710,998.408,me012,b'\n      O_K.\n    '
+999.052,1008.240,mn015,"b""\n      And um I - I do have some good news for the natural language generation however. And the good news is I guess it's done.\n    """
+999.653,1001.297,fe004,b'\n      '
+1008.660,1010.260,me003,b'\n      '
+1009.007,1009.880,me045,b'\n      '
+1010.050,1018.731,mn015,"b'\n      Uh, '"
+1019.724,1026.190,mn015,"b""\n      And so the version he's sending us is already producing the English that's needed to get by in version one point one.\n    """
+1026.700,1030.230,me012,b'\n      So I take it that was similar to the - what - what we did for the parsing?\n    '
+1029.597,1037.860,mn015,"b'\n      Yeah. I - I - it - even though the generator is a little bit more complex and it would have been, not changing one hundred words but maybe four hundred words, but it would have been\n    '"
+1033.177,1033.720,me012,b'\n      O_K.\n    '
+1038.184,1038.752,me012,b'\n      O_K.\n    '
+1038.321,1039.159,mn015,b'\n      '
+1039.872,1040.446,fe004,b'\n      '
+1039.950,1044.458,mn015,"b'\n      but this - this is I guess good news, and the uh - the time\n    '"
+1040.751,1041.033,fe004,b'\n      '
+1045.509,1049.700,mn015,b'\n      and especially Bhaskara and uh - and um -\n    '
+1051.242,1052.735,mn015,b'\n      Oh do I have it here? '
+1053.970,1064.230,mn015,"b""\n      No. The time is now pretty much fixed. It's the last week of April until the fourth of May so it's twenty-sixth through fourth.\n    """
+1064.230,1065.600,fe004,"b""\n      That they'll be here?\n    """
+1065.223,1074.792,mn015,"b""\n      That they'll be here. So it's - it's extremely important that the two of you are also present in this town\n    """
+1075.333,1076.220,me045,b'\n      '
+1075.600,1076.570,fe004,b'\n      '
+1076.400,1077.090,me012,b'\n      '
+1076.680,1077.740,mn015,b'\n      during that time.\n    '
+1077.290,1079.567,me003,"b'\n      Wait, what - what are the days?\n    '"
+1078.836,1079.538,me045,b'\n      '
+1079.567,1081.280,me003,b'\n      April twenty-sixth to the - May fourth?\n    '
+1081.170,1082.840,mn015,"b'\n      Yeah, something like that.\n    '"
+1083.180,1085.315,me003,b'\n      '
+1083.952,1084.780,me045,b'\n      '
+1084.051,1085.550,fe046,b'\n      '
+1084.780,1085.351,me012,b'\n      '
+1085.351,1085.670,me012,b'\n      Yeah.\n    '
+1085.462,1086.417,mn015,"b""\n      It's -\n    """
+1086.020,1087.630,me045,b'\n      You will be here. '
+1087.154,1088.028,fe046,b'\n      '
+1087.630,1091.302,mn015,"b""\n      There is a d- Isn't finals coming up then pretty much after that?\n    """
+1091.690,1092.810,me012,b'\n      '
+1092.661,1097.220,fe004,"b""\n      Yeah w- it doesn't really have much meaning to grad students but """
+1093.283,1094.060,me012,b'\n      '
+1097.144,1098.488,me012,"b""\n      Yeah actually, that's true.\n    """
+1097.228,1097.804,mn015,b'\n      O_K.\n    '
+1098.303,1098.758,fe004,b'\n      '
+1100.700,1101.790,mn015,"b'\n      Anyway, so this is -\n    '"
+1101.420,1103.350,me003,"b""\n      Well I'll be here working on something.\n    """
+1103.350,1104.160,me012,b'\n      '
+1103.430,1104.410,me045,b'\n      '
+1105.340,1110.700,me003,"b""\n      Guaranteed, it's just uh will I be """
+1108.970,1110.250,fe004,b'\n      '
+1109.930,1111.250,mn015,b'\n      '
+1110.622,1111.345,mn036,b'\n      Hmm.\n    '
+1111.250,1122.020,mn015,"b""\n      No it's just um you know they're coming for us so that we can bug them and ask them more questions and sit down together and write sensible code and they can give some nice talks and stuff. But uh\n    """
+1111.947,1112.405,fe004,b'\n      Ye-\n    '
+1115.476,1115.944,,b'\n      '
+1124.880,1125.800,mn015,b'\n      just make a -\n    '
+1124.960,1128.890,me003,"b""\n      But it's not like we need to be with them twenty-four hours a day s- for the seven days that they're here.\n    """
+1125.880,1126.560,me012,b'\n      '
+1126.915,1128.940,fe004,b'\n      '
+1127.012,1128.210,fe046,b'\n      '
+1127.159,1128.000,mn015,b'\n      Not -\n    '
+1127.660,1128.530,me012,b'\n      '
+1128.774,1130.960,mn015,b'\n      not unless you really really want to.\n    '
+1129.807,1131.990,me045,"b""\n      They're very dependent """
+1130.960,1133.140,me003,b'\n      '
+1134.184,1136.110,mn015,b'\n      Not unless you really want to.\n    '
+1137.420,1139.833,mn015,"b""\n      And they're both nice guys so you may - may want to.\n    """
+1139.860,1141.280,fe046,b'\n      '
+1139.987,1140.513,me012,b'\n      '
+1140.250,1141.130,me045,b'\n      '
+1142.120,1149.844,mn015,"b'\n      O_K, that much from the parser and generator side, unless there are more questions on that.\n    '"
+1145.000,1145.978,,b'\n      '
+1149.490,1149.922,fe004,b'\n      '
+1150.837,1153.630,fe004,"b'\n      So, no sample generator output yet?\n    '"
+1153.357,1153.944,mn015,b'\n      No.\n    '
+1153.938,1154.417,fe004,b'\n      O_K.\n    '
+1154.407,1172.240,mn015,"b""\n      It - Just a mail that, you know, he's sending me the - the - the stuff soon and I was completely flabbergasted here and I - and that's also it's - it's going to produce the concept-to-speech uh blah-blah-blah information for - necessary for one point one in English - based on the English, you know, in English. So.\n    """
+1154.700,1156.109,fe004,"b'\n      This is being sent, mm-hmm.\n    '"
+1158.299,1158.883,fe004,b'\n      O_K.\n    '
+1159.261,1159.774,fe004,b'\n      Mm-hmm.\n    '
+1162.821,1163.814,fe004,b'\n      '
+1172.640,1173.606,mn015,"b'\n      I was like ""O_K,\n    '"
+1173.433,1174.481,me045,b'\n      '
+1173.670,1174.490,fe004,b'\n      '
+1174.481,1175.320,me045,"b""\n      We're """
+1175.150,1176.110,mn015,"b'\n      we\'re done!""\n    '"
+1176.330,1181.455,fe004,"b""\n      So that was like one of the first l- You know, the first task was getting it working for English. So that's basically\n    """
+1181.455,1182.870,fe004,b'\n      over now. Is that right?\n    '
+1182.358,1183.170,mn015,b'\n      Yeah.\n    '
+1183.170,1184.685,fe004,b'\n      So the basic requirement fulfilled.\n    '
+1185.490,1188.553,mn015,"b'\n      Um, the basic requirement is fulfilled\n    '"
+1189.242,1189.689,fe004,b'\n      '
+1190.455,1190.837,fe004,b'\n      '
+1190.820,1192.437,mn015,b'\n      almost. When\n    '
+1192.112,1193.050,fe046,b'\n      '
+1193.130,1204.582,mn015,"b'\n      Andreas Stolcke and - and his gang, when they have um changed the language model of the recognizer and the dictionary, then we can actually a- put it all together\n    '"
+1194.892,1195.510,fe004,b'\n      Mm-hmm.\n    '
+1199.414,1203.040,fe004,b'\n      Mm-hmm. So the speech recognizer also works. Uh-huh.\n    '
+1199.600,1201.772,me012,b'\n      '
+1204.238,1204.759,fe004,b'\n      Mm-hmm.\n    '
+1205.104,1206.280,mn015,b'\n      and\n    '
+1207.101,1207.488,fe004,b'\n      '
+1207.320,1217.730,mn015,b'\n      '
+1207.678,1208.023,fe004,b'\n      '
+1208.549,1209.608,me045,b'\n      '
+1212.269,1213.328,fe046,b'\n      '
+1216.603,1217.100,me045,b'\n      '
+1217.246,1218.338,fe046,b'\n      '
+1217.336,1217.747,fe004,b'\n      Mm-hmm.\n    '
+1217.822,1219.590,me003,b'\n      '
+1218.452,1219.590,fe004,b'\n      '
+1218.920,1220.034,fe046,b'\n      '
+1219.986,1226.327,fe004,"b""\n      If - and they're kind of correct. """
+1220.860,1223.090,me045,"b""\n      So it's """
+1222.455,1223.130,mn015,b'\n      Hmm?\n    '
+1223.650,1225.344,me045,b'\n      Right. '
+1225.344,1228.680,me045,b'\n      Perhaps if the answers have something to do with the questions for example.\n    '
+1226.862,1229.410,fe004,"b""\n      And they're mostly in English. So. """
+1228.017,1229.160,me012,b'\n      '
+1228.730,1229.859,me045,b'\n      '
+1229.029,1229.900,fe046,b'\n      '
+1229.200,1230.055,mn015,b'\n      '
+1230.055,1231.174,mn015,b'\n      Then um -\n    '
+1230.520,1238.941,fe004,b'\n      Are they - is it using the database? the German T_V movie. O_K. So '
+1233.811,1234.307,mn015,b'\n      Yeah.\n    '
+1238.200,1240.260,mn015,b'\n      Um well actually th- um\n    '
+1239.835,1241.979,fe004,b'\n      Or are they all like American T_V programs?\n    '
+1241.783,1242.410,fe046,b'\n      '
+1242.410,1244.962,mn015,b'\n      um well - '
+1242.702,1243.152,me045,b'\n      I want to see\n    '
+1243.152,1246.230,me045,"b'\n      ""Die Dukes Von Hazard"" '"
+1244.250,1248.990,fe004,b'\n      '
+1245.270,1246.530,fe046,b'\n      '
+1246.590,1250.546,me045,b'\n      '
+1247.484,1248.056,mn015,b'\n      The -\n    '
+1247.655,1249.170,fe046,b'\n      '
+1249.170,1258.749,mn015,"b""\n      O_K, so you don't know how the German dialogue - uh the German - the demo dialogue actually works. It works - the first thing is what's, you know, showing on T_V,\n    """
+1249.722,1251.204,fe004,b'\n      '
+1259.112,1265.653,mn015,"b""\n      and then the person is presented with what's running on T_V in Germany on that day, on that evening\n    """
+1263.961,1265.322,fe004,"b'\n      Mm-hmm, mm-hmm.\n    '"
+1265.709,1266.332,fe004,b'\n      '
+1266.020,1270.568,mn015,"b'\n      and so you take one look at it and then you say ""well that\'s really nothing - there\'s nothing for me there""\n    '"
+1266.604,1266.999,fe004,b'\n      '
+1270.931,1281.215,mn015,"b'\n      ""what\'s running in the cinemas?"" So maybe there\'s something better happening there. And then you get - you\'re shown what movies play which films, and it\'s gonna be of course all the Heidelberg movies and\n    '"
+1272.474,1273.079,fe004,b'\n      Mm-hmm.\n    '
+1281.215,1286.669,mn015,b'\n      what '
+1282.710,1283.268,fe004,b'\n      Mm-hmm.\n    '
+1286.605,1287.059,fe004,b'\n      Hmm.\n    '
+1286.669,1289.885,mn015,"b'\n      So, ""American Beauty"" is ""American Beauty"", right? '"
+1288.737,1289.910,fe046,b'\n      '
+1288.934,1289.522,me045,b'\n      Mm-hmm.\n    '
+1289.322,1289.786,fe004,b'\n      Right.\n    '
+1290.490,1291.500,mn015,b'\n      And um.\n    '
+1292.015,1293.267,mn015,b'\n      '
+1292.130,1302.184,fe004,b'\n      '
+1294.057,1294.874,mn015,b'\n      N-\n    '
+1301.466,1307.320,mn015,"b""\n      Yeah, but it in that sense it doesn't make - In that case uh it doesn't really make sense to read them out loud.\n    """
+1302.366,1302.776,fe004,b'\n      S-\n    '
+1306.762,1310.763,fe004,"b""\n      Right. So it'll just display - O_K. So we don't have to worry about um -\n    """
+1307.350,1308.326,mn015,"b""\n      if you're displaying them.\n    """
+1309.449,1312.349,mn015,"b""\n      But uh it'll tell you that this is what's showing in Heidelberg\n    """
+1312.420,1312.830,fe004,b'\n      Yeah.\n    '
+1312.627,1316.500,mn015,"b'\n      and there you go. And the presentation agent will go ""Hhh!"" '"
+1313.800,1314.560,fe004,b'\n      O_K.\n    '
+1316.000,1316.900,me045,b'\n      '
+1316.064,1317.103,fe004,b'\n      '
+1316.624,1319.920,mn015,b'\n      Like that - the avatar. And um.\n    '
+1317.103,1317.665,fe004,b'\n      O_K.\n    '
+1318.278,1319.762,fe046,b'\n      '
+1318.780,1320.473,me045,b'\n      '
+1320.700,1327.230,mn015,b'\n      And then you pick - pick a movie and - and - and it show- shows you the times and you pick a time and you pick seats and all of this. So.\n    '
+1321.659,1322.181,fe004,b'\n      '
+1322.786,1323.287,fe004,b'\n      '
+1327.520,1328.130,fe004,b'\n      O_K.\n    '
+1329.827,1331.063,mn015,b'\n      Pretty straightforward.\n    '
+1330.971,1331.623,me045,b'\n      O_K.\n    '
+1333.663,1341.588,mn015,"b""\n      But it's - so this time we - """
+1341.490,1342.240,fe004,b'\n      Yeah.\n    '
+1342.153,1342.645,mn015,b'\n      Nuh? '
+1342.700,1343.395,fe004,b'\n      Right.\n    '
+1343.010,1345.600,mn015,"b""\n      But in English, that's not really a problem,\n    """
+1343.635,1345.150,fe046,b'\n      '
+1345.067,1345.549,fe004,b'\n      Mm-hmm.\n    '
+1345.919,1352.508,mn015,b'\n      unless we get some - some topical '
+1346.233,1346.518,fe004,b'\n      '
+1348.242,1348.704,fe004,b'\n      '
+1351.915,1352.656,fe004,b'\n      Right.\n    '
+1352.508,1357.640,mn015,b'\n      So the person may select  '
+1353.959,1354.470,fe004,b'\n      '
+1356.726,1357.400,me045,b'\n      '
+1357.400,1357.977,me045,"b'\n      ""Chicken Run"".\n    '"
+1357.422,1357.969,fe004,b'\n      '
+1360.560,1364.015,mn015,b'\n      O_K. Then uh on to the modeling.\n    '
+1365.580,1366.340,mn015,b'\n      Right?\n    '
+1366.840,1368.430,fe046,b'\n      '
+1366.940,1368.760,me003,"b'\n      Yeah, yeah, I guess.\n    '"
+1369.212,1371.570,mn015,"b'\n      Um then modeling,\n    '"
+1372.880,1373.760,mn015,b'\n      there it is.\n    '
+1373.780,1375.270,me003,b'\n      '
+1374.970,1377.000,me045,"b""\n      O_K. What's the """
+1375.270,1376.170,me003,b'\n      Yep. e-\n    '
+1375.393,1375.949,fe004,b'\n      '
+1380.120,1386.720,mn015,b'\n      This is very rough but this is sort of what um Johno and I managed to come up with.\n    '
+1387.820,1389.930,mn015,b'\n      The idea here is that -\n    '
+1390.139,1392.340,me003,b'\n      This is the uh s-\n    '
+1392.224,1393.440,mn015,b'\n      '
+1392.540,1395.220,me003,"b'\n      the schema of the X_M_L here, not\n    '"
+1395.530,1397.280,me003,b'\n      an example or something like that.\n    '
+1396.090,1400.741,mn015,b'\n      Yeah this is not an X_M_L this is sort of towards an - '
+1396.817,1397.367,me045,b'\n      O_K.\n    '
+1399.233,1399.793,mn036,b'\n      Right.\n    '
+1401.244,1401.740,fe004,b'\n      '
+1401.260,1406.060,mn015,"b'\n      The idea is, so, imagine we have a library of\n    '"
+1402.228,1402.630,fe004,b'\n      '
+1406.060,1410.020,mn015,b'\n      schema such as the Source-Path-Goal\n    '
+1410.020,1413.698,mn015,"b'\n      and then we have forced uh motion,\n    '"
+1413.698,1415.675,mn015,"b'\n      we have cost action,\n    '"
+1414.255,1414.720,me045,b'\n      Mm-hmm.\n    '
+1416.235,1416.747,fe004,b'\n      Mm-hmm.\n    '
+1416.465,1418.350,mn015,b'\n      we have a whole library of schemas.\n    '
+1419.040,1430.442,mn015,"b""\n      And they're gonna be, you know, fleshed out in - in their real ugly detail, Source-Path-Goal, and there's gonna be s- a lot of stuff on the Goal and blah-blah-blah, that a goal can be and so forth.\n    """
+1430.442,1432.920,mn015,b'\n      What we think is -\n    '
+1430.481,1431.117,fe004,b'\n      '
+1431.329,1431.709,fe004,b'\n      '
+1432.920,1437.660,mn015,b'\n      And all the names could - should be taken  '
+1436.324,1437.320,me045,b'\n      '
+1437.730,1447.022,mn015,"b'\n      the fact that we\'re calling this ""action schema"" right now should not entail that we are going to '"
+1447.022,1455.570,mn015,b'\n      we have here first of all on the - in the - in the first iteration a stupid list of Source-Path-Goal actions\n    '
+1453.927,1454.327,fe004,b'\n      '
+1454.676,1455.063,fe004,b'\n      '
+1455.620,1459.850,me003,b'\n      Actions that can be categorized with - or that are related to Source-Path-Goal.\n    '
+1457.847,1458.371,mn015,b'\n      wi-\n    '
+1459.366,1459.983,me045,b'\n      O_K.\n    '
+1459.870,1460.960,mn015,b'\n      to that schema\n    '
+1461.220,1461.668,fe004,b'\n      Mm-hmm.\n    '
+1462.080,1467.190,mn015,b'\n      and we will have you know forced motion and cost action actions.\n    '
+1467.380,1472.920,me003,b'\n      And then those actions can be in multiple categories at the same time if necessary.\n    '
+1472.730,1478.479,mn015,b'\n      So a push may be in - in - in both you know push uh in this or this uh -\n    '
+1478.030,1480.421,fe004,"b'\n      Forced motion and caused action for instance, O_K.\n    '"
+1479.730,1484.880,mn015,b'\n      Exactly. Yeah. '
+1484.849,1485.255,fe004,b'\n      '
+1485.910,1489.260,mn015,b'\n      get their own structure in the future.\n    '
+1489.260,1510.760,mn015,b'\n      So '
+1511.980,1520.100,mn015,b'\n      But it gives us a nice handle. So with this we can basically um you know s- slaughter the cow any- anyway we want.\n    '
+1519.572,1520.250,me045,b'\n      '
+1520.250,1521.360,mn015,b'\n      Uh.\n    '
+1522.171,1523.396,mn015,b'\n      It - it is -\n    '
+1524.070,1530.668,mn015,"b'\n      It was sort of a - it gave us some headache, how do we avoid writing down that we have sort of the Enter Source-Path-Goal that this -\n    '"
+1530.668,1538.846,mn015,b'\n      But this sort of gets the job done in that respect and maybe it is even conceptually somewhat adequate in '
+1538.846,1550.840,mn015,"b""\n      um we're talking about two different things. We're talking more on the sort of """
+1541.921,1542.317,fe004,b'\n      '
+1542.944,1543.345,fe004,b'\n      '
+1551.140,1559.650,me003,"b'\n      Uh one question, Robert. When you point at the screen is it your '"
+1555.620,1557.183,fe004,"b""\n      Yeah. It's the shadow.\n    """
+1558.273,1559.690,fe004,b'\n      '
+1560.010,1561.320,me003,"b""\n      and it doesn't -\n    """
+1560.170,1562.280,mn015,"b'\n      Well, '"
+1561.588,1562.342,fe004,b'\n      Right.\n    '
+1561.700,1562.319,me003,b'\n      Yeah.\n    '
+1562.230,1562.917,fe046,b'\n      '
+1562.436,1563.079,me045,b'\n      '
+1563.100,1569.190,me003,"b""\n      Basically, what this is - is that there's an interface between what we are doing and the action planner\n    """
+1563.848,1565.650,me045,b'\n      Spit right here. '
+1569.627,1572.518,me003,b'\n      and right now the way the interface is\n    '
+1571.189,1571.725,fe004,b'\n      '
+1572.398,1572.914,fe004,b'\n      '
+1572.518,1575.554,me003,"b'\n      ""action go"" and then they have the -\n    '"
+1575.554,1578.517,me003,b'\n      what the person claimed was the source and the person claimed as the goal\n    '
+1578.517,1579.818,me003,b'\n      passed on.\n    '
+1579.353,1579.935,fe004,b'\n      Mm-hmm.\n    '
+1579.818,1589.970,me003,"b'\n      And the problem is, is that the current system does not distinguish between goes of type ""going into"", goes of type ""want to go to a place where I can take a picture of"", et cetera.\n    '"
+1589.830,1601.850,mn015,"b'\n      So this is sort of what it looks like now, some simple ""Go"" action from it - from an object named ""Peter\'s Kirche"" of the type ""Church"" to an object named ""Powder-Tower"" of the type ""Tower"".\n    '"
+1592.242,1592.692,fe004,b'\n      '
+1592.981,1593.441,fe004,b'\n      '
+1601.787,1602.173,fe004,b'\n      '
+1602.593,1606.206,fe004,b'\n      This is the uh - what the action planner uses? This is - O_K.\n    '
+1602.931,1603.529,mn015,b'\n      Right?\n    '
+1605.510,1606.650,me003,b'\n      Right. '
+1606.206,1610.113,fe004,"b""\n      And is that - and tha- that's changeable? or not?\n    """
+1606.400,1607.310,mn015,b'\n      Currently.\n    '
+1610.040,1610.540,mn015,"b'\n      Yeah, well -\n    '"
+1610.540,1611.952,fe004,b'\n      Like are we adapting to it?\n    '
+1612.354,1613.153,fe004,b'\n      Or -\n    '
+1612.452,1617.675,mn015,"b'\n      No. We - This is the output, sort of, of the natural language understanding, right?\n    '"
+1613.172,1613.814,fe004,"b'\n      Oh, yeah. '"
+1616.836,1617.830,fe004,b'\n      Uh-huh.\n    '
+1617.952,1621.132,mn015,"b'\n      the input into the action planning, as it is now.\n    '"
+1619.382,1619.880,fe004,b'\n      Mm-hmm.\n    '
+1621.158,1621.679,fe004,b'\n      Mm-hmm.\n    '
+1622.412,1629.559,mn015,b'\n      And what '
+1623.790,1624.282,fe004,b'\n      '
+1628.101,1628.497,fe004,b'\n      '
+1628.955,1629.380,fe004,b'\n      '
+1629.380,1634.815,fe004,b'\n      '
+1629.700,1630.520,me003,b'\n      O_K.\n    '
+1630.020,1630.575,me045,b'\n      '
+1630.344,1635.376,fe046,b'\n      '
+1630.404,1631.870,mn015,"b""\n      um we're gon- uh uh\n    """
+1631.370,1633.190,me045,b'\n      '
+1631.870,1633.548,mn015,b'\n      here you have the action\n    '
+1634.060,1636.690,mn015,b'\n      and the domain object and w- and on - on -\n    '
+1635.560,1638.093,fe004,b'\n      What did you think he was doing? '
+1636.690,1638.673,mn015,b'\n      '
+1636.790,1638.890,fe046,b'\n      '
+1637.109,1638.380,me045,b'\n      '
+1638.093,1639.860,fe004,"b'\n      O_K, sorry. '"
+1638.310,1640.230,me003,b'\n      I just - '
+1638.990,1641.622,me045,b'\n      A laser pointer would be most appropriate here I think.\n    '
+1639.860,1644.568,fe004,b'\n      '
+1640.549,1641.360,fe046,b'\n      Eee. '
+1641.360,1644.850,mn015,b'\n      Yeah I - I um have - I have no -\n    '
+1642.186,1643.210,me045,b'\n      '
+1643.900,1646.932,me003,"b""\n      Robert likes to be abstract and that's what I just thought he was doing.\n    """
+1645.316,1647.480,mn015,b'\n      '
+1646.148,1647.230,me045,b'\n      '
+1646.271,1647.210,fe046,b'\n      '
+1646.313,1649.140,fe004,b'\n      '
+1647.996,1649.260,fe046,b'\n      '
+1648.170,1649.350,me003,b'\n      '
+1648.500,1657.793,mn015,"b'\n      Sort of between here and here, so as you can see this is on one level and we are going to add another\n    '"
+1655.063,1655.704,me045,b'\n      Mm-hmm.\n    '
+1659.560,1661.507,mn015,"b'\n      um ""Struct"", if you want,\n    '"
+1661.990,1664.889,mn015,b'\n      I_E a rich action description on that level.\n    '
+1665.200,1667.480,fe004,"b""\n      So it's just an additional information -\n    """
+1665.360,1666.380,mn015,b'\n      So in the future -\n    '
+1667.800,1676.860,mn015,"b'\n      Exactly. In the future though, the content of a hypothesis will not only be an object and an - an action and a domain object but an action, a domain object, and a rich action description,\n    '"
+1667.983,1670.840,fe004,"b""\n      Right? that doesn't hurt the current way.\n    """
+1671.963,1672.598,fe004,b'\n      Mm-hmm.\n    '
+1676.364,1676.873,fe004,b'\n      Mm-hmm.\n    '
+1678.050,1678.980,mn015,b'\n      which is -\n    '
+1678.070,1680.580,me003,"b'\n      Which - which we\'re abbreviating as ""'"
+1678.585,1679.107,fe004,b'\n      Good.\n    '
+1680.133,1680.787,fe046,b'\n      '
+1680.276,1681.195,me045,b'\n      '
+1681.045,1682.261,fe004,b'\n      Hmm. '
+1681.195,1682.230,me045,b'\n      Rad!\n    '
+1682.860,1683.161,me012,b'\n      '
+1683.161,1692.030,me012,"b'\n      So um you had like an action schema and a Source-Path-Goal schema, right? So how does this Source-Path-Goal schema fit into the uh action schema? Like is it one of the tags there?\n    '"
+1683.190,1684.296,fe004,b'\n      Hmm. '
+1684.230,1685.149,me003,b'\n      '
+1684.696,1685.710,fe046,b'\n      '
+1684.855,1685.891,fe004,b'\n      '
+1690.703,1692.350,fe004,b'\n      Yeah can you go back to that one?\n    '
+1692.528,1693.200,fe004,b'\n      '
+1693.960,1695.868,me003,"b'\n      So the Source-Path-Goal schema in this case,\n    '"
+1695.868,1699.789,me003,"b""\n      I've - if I understand how we described - we set this up,\n    """
+1698.427,1698.922,fe004,b'\n      '
+1699.789,1704.140,me003,"b""\n      um cuz we've been arguing about it all week, """
+1703.979,1704.380,fe004,b'\n      '
+1704.150,1708.070,me003,"b""\n      but uh we'll hold the - the -\n    """
+1709.310,1711.659,me003,b'\n      Well in this case it will hold the -\n    '
+1711.659,1713.864,me003,b'\n      '
+1713.864,1717.272,me003,b'\n      the '
+1715.037,1715.550,fe004,b'\n      '
+1717.272,1718.905,me003,b'\n      So basically that will store\n    '
+1718.905,1720.730,me003,b'\n      the - the object that is w-\n    '
+1720.800,1725.540,me003,b'\n      the '
+1723.409,1723.942,me045,b'\n      Mm-hmm.\n    '
+1724.470,1726.965,fe004,b'\n      So the fillers of the role source.\n    '
+1725.540,1727.760,me003,"b""\n      the f- we'll fill those in fill those roles in, right?\n    """
+1726.965,1727.573,fe004,b'\n      O_K.\n    '
+1727.570,1728.172,mn015,b'\n      Yeah.\n    '
+1728.352,1732.182,me003,b'\n      The S- Action-schemas basically have extra -\n    '
+1732.530,1736.758,me003,b'\n      See we - so those are - schemas exist because in case we need extra information\n    '
+1737.886,1743.455,me003,"b""\n      instead of just making it an attribute and which - which is just one thing we - we decided to make it's own entity so that we could\n    """
+1743.455,1744.986,me003,b'\n      explode it out later on\n    '
+1744.986,1747.890,me003,b'\n      in case there is some structure that - that we need to exploit.\n    '
+1747.740,1751.149,fe004,"b""\n      O_K, so th- sorry I just don't kn- um um um - This is just\n    """
+1751.149,1758.739,fe004,"b""\n      uh X_M_L mo- notational but um the fact that it's action schema and then sort of slash action schema that's a whole entit- That's a block,\n    """
+1757.370,1758.820,me003,"b""\n      That's a block, yeah.\n    """
+1758.739,1761.120,fe004,b'\n      whereas source is just an attribute? Is that -\n    '
+1760.948,1768.720,mn015,"b'\n      No, no, no. Source is just not spelled out here. Source meaning - Source will be uh will have a name, a type,\n    '"
+1763.600,1765.090,fe004,"b'\n      Oh, O_K, O_K.\n    '"
+1768.973,1769.381,fe004,b'\n      '
+1769.055,1773.348,mn015,"b'\n      maybe a dimensionality, maybe '"
+1771.150,1772.370,fe004,"b'\n      Uh-huh, uh-huh.\n    '"
+1773.840,1775.278,mn015,b'\n      uh orientation -\n    '
+1774.150,1777.720,fe004,b'\n      O_K could it - it could also be blocked out then as - O_K.\n    '
+1776.430,1778.420,me003,"b'\n      Yeah, the - So - Yeah.\n    '"
+1777.725,1791.713,mn015,"b""\n      s- Source it will be, you know we'll f- we know a lot about sources so we'll put all of that in Source. But it's independent whether we are using the S_P_G schema in an Enter, View, or Approach mode, right? This is just properties of the S_P_G """
+1781.172,1782.410,fe004,b'\n      O_K.\n    '
+1787.947,1788.512,fe004,b'\n      Mm-hmm.\n    '
+1788.678,1789.085,fe004,b'\n      '
+1792.240,1801.540,mn015,"b'\n      We can talk about Paths being the fastest, the quickest, the nicest and so forth, uh or - or - and the Trajector should be coming in there as well.\n    '"
+1800.035,1801.205,fe004,b'\n      O_K.\n    '
+1801.540,1803.650,mn015,b'\n      And then G- the same about Goals.\n    '
+1802.810,1809.660,fe004,"b""\n      O_K. So I guess the question is when you actually fill one of these out, it'll be under action schema? Those are -\n    """
+1810.220,1818.460,fe004,"b""\n      It's gonna be one - y- you'll pick one of those for - O_K these are - this is just a layout of the """
+1812.470,1813.280,me003,b'\n      Right.\n    '
+1814.880,1819.087,me003,"b'\n      Right, so the - the - the roles will be filled in with the schema and then what actual a-\n    '"
+1815.904,1816.710,mn015,b'\n      Hmm?\n    '
+1818.270,1819.368,mn036,b'\n      '
+1819.410,1820.173,fe004,b'\n      O_K.\n    '
+1819.790,1821.400,me003,b'\n      action is\n    '
+1821.400,1822.210,fe004,b'\n      O_K.\n    '
+1822.240,1825.900,me003,b'\n      chosen is - will be in the - in the action schema section.\n    '
+1822.433,1823.292,fe004,b'\n      S- S-\n    '
+1825.130,1830.667,fe004,"b""\n      O_K, so one question. This was - in this case it's all um clear, sort of obvious,\n    """
+1830.667,1834.866,fe004,"b'\n      but you can think of the Enter, View and Approach as each having their roles, right? the -\n    '"
+1834.866,1839.593,fe004,"b""\n      I mean it's - it's implicit that the person that's moving is doing entering viewing and approaching,\n    """
+1839.593,1847.829,fe004,"b""\n      but you know the usual thing is we have bindings between sort of - they're sort of like action specific roles and the more general Source-Path-Goal specific roles.\n    """
+1847.829,1851.090,fe004,b'\n      So are we worrying about that or not for now? O_K.\n    '
+1849.630,1854.050,mn015,"b'\n      Yes, yes. Since you bring it up now, we will worry about it. Tell us more about it. '"
+1852.170,1854.046,fe004,b'\n      O_K. '
+1852.620,1853.640,me045,b'\n      '
+1854.046,1856.150,fe004,"b""\n      What's that? Oh I guess it -\n    """
+1854.160,1855.610,mn015,b'\n      What do you - what do you -\n    '
+1856.170,1860.941,fe004,"b""\n      I - I may be just um reading this and interpreting it into my head in the way that I've always viewed things\n    """
+1860.800,1861.291,mn015,b'\n      Hmm.\n    '
+1860.932,1861.663,me045,b'\n      Hmm.\n    '
+1860.941,1863.289,fe004,b'\n      and '
+1863.289,1865.957,fe004,b'\n      But if it '
+1865.957,1871.047,fe004,"b'\n      um, you know, you have to list exactly what X_schema or '"
+1871.047,1877.131,fe004,"b'\n      that has its own s- structure and maybe it has stuff about that specific to entering or viewing or approaching,\n    '"
+1877.131,1884.083,fe004,"b""\n      but those could include roles like the thing that you're viewing, the thing that you're entering, the thing that you're whatever, you know,\n    """
+1883.133,1886.760,me045,"b'\n      So very specific role names are ""viewed thing"", ""entered thing"" -\n    '"
+1884.083,1890.101,fe004,"b'\n      that - which are - think - think of enter, view and approach as frames and they have frame-specific parameters and - and roles\n    '"
+1887.729,1888.191,me045,b'\n      Yeah.\n    '
+1887.778,1888.471,mn015,b'\n      Mm-hmm.\n    '
+1888.952,1889.466,mn015,b'\n      Yeah.\n    '
+1891.230,1898.338,fe004,"b""\n      and you can also describe them in a general way as Source-Path-Goal schema and maybe there's other image schemas that you could you know add after this that you know,\n    """
+1896.532,1897.195,mn015,b'\n      Mm-hmm.\n    '
+1898.338,1904.873,fe004,b'\n      how do they work in terms of you know a force dynamics or how do they work in f- terms of other things. So all of those have um\n    '
+1901.515,1902.727,mn015,"b'\n      Mm-hmm, Mm-hmm, Mm-hmm.\n    '"
+1905.479,1908.826,fe004,b'\n      basically f- either specific - frame specific roles or more general\n    '
+1908.826,1916.900,fe004,b'\n      frame specific roles that might have binding. So the question is are um - how to represent when things are linked in a certain way.\n    '
+1916.900,1921.387,fe004,"b""\n      So we know for Enter that there's Container potentially involved and it's not -\n    """
+1919.483,1920.027,mn015,b'\n      Mm-hmm.\n    '
+1921.912,1933.217,fe004,"b""\n      uh I don't know if you wanna have in the same level as the action schema S_P_G schema it - it's somewhere in there that you need to represent that there is some container and the interior of it corresponds to some part of the Source-Path-Goal\n    """
+1933.621,1947.670,fe004,"b""\n      um you know goal - uh goal I guess in this case. So uh is there an easy way in this notation to show when there's """
+1936.541,1937.157,mn015,b'\n      Mm-hmm.\n    '
+1943.310,1943.850,mn015,b'\n      Yeah.\n    '
+1946.808,1950.550,me003,"b""\n      The - wa- wasn't there supposed to be a link in the\n    """
+1947.718,1948.361,me012,b'\n      Right.\n    '
+1951.000,1954.630,me003,"b""\n      I don't know if this answers your question, I was just staring at this while you were talking, sorry.\n    """
+1952.335,1953.232,fe004,b'\n      '
+1955.053,1955.580,fe004,"b""\n      It's O_K.\n    """
+1955.580,1959.584,me003,"b'\n      Uh a link between the action schema,\n    '"
+1959.584,1961.217,me003,b'\n      a field in the s- in the\n    '
+1961.217,1966.680,me003,b'\n      schema for the image schemas that would link us to which action schema we were supposed to use so we could -\n    '
+1965.702,1967.119,mn015,b'\n      Yeah.\n    '
+1967.119,1970.745,mn015,"b""\n      Um, well that's - that's one - one thing is that\n    """
+1970.745,1972.332,mn015,"b'\n      we can link up,\n    '"
+1972.332,1974.380,mn015,b'\n      think also that um\n    '
+1974.308,1974.715,fe004,b'\n      '
+1975.540,1983.443,mn015,b'\n      we can have one or m- as many as we want links from - from the schema up to the s- action um description of it.\n    '
+1981.492,1981.878,fe004,b'\n      Hmm.\n    '
+1983.443,1986.285,mn015,"b""\n      But the notion I got from Nancy's idea was\n    """
+1986.285,1988.905,mn015,b'\n      that we may f- find sort of\n    '
+1988.905,1996.212,mn015,"b'\n      concepts floating around i- in the a- action description of the action f- ""Enter"" frame up there that are,\n    '"
+1996.724,2001.203,mn015,b'\n      e- when you talk about the '
+2000.868,2001.745,fe004,b'\n      Exactly.\n    '
+2001.203,2004.070,mn015,"b'\n      the S- Source-Path-Goal schema, and\n    '"
+2002.230,2003.730,fe004,"b'\n      Right, right.\n    '"
+2004.070,2009.270,mn015,b'\n      do we have means of - of telling it within that a- and the answer is absolutely.\n    '
+2006.819,2007.464,fe004,b'\n      Right.\n    '
+2008.636,2009.202,fe004,b'\n      Yeah.\n    '
+2009.270,2014.008,mn015,b'\n      The way - we absolutely have those means that are even part of the M_-three-L_ A_ '
+2013.400,2014.590,fe004,b'\n      Oh great. s- Uh-huh.\n    '
+2014.532,2017.039,mn015,b'\n      meaning we can reference. So meaning -\n    '
+2016.330,2019.151,fe004,"b""\n      Great. That's exactly what is necessary.\n    """
+2018.330,2025.599,mn015,b'\n      And um. This referencing thing however is of '
+2018.372,2019.290,me003,b'\n      Yeah.\n    '
+2019.290,2019.630,me003,b'\n      St-\n    '
+2025.990,2029.308,mn015,"b'\n      finished with their X_path, uh,\n    '"
+2030.236,2030.866,mn015,"b'\n      um,\n    '"
+2030.972,2031.429,fe004,b'\n      '
+2032.070,2048.125,mn015,"b""\n      specification and then it's going to be even """
+2037.644,2038.527,fe004,b'\n      Mm-hmm.\n    '
+2040.793,2041.451,fe004,b'\n      Mm-hmm.\n    '
+2047.247,2048.049,me045,b'\n      Mm-hmm.\n    '
+2047.415,2048.050,fe004,b'\n      O_K.\n    '
+2048.125,2051.884,mn015,b'\n      and - and all in a v- very easy e- homogenous framework.\n    '
+2051.400,2055.426,fe004,"b'\n      So you know - happen to know how - what - what ""sooner or later"" means like in practice?\n    '"
+2056.410,2070.574,mn015,"b""\n      That's """
+2056.597,2058.807,fe004,"b'\n      Or estimated. O_K, O_K.\n    '"
+2068.306,2068.826,fe004,b'\n      Mm-hmm.\n    '
+2069.640,2072.465,fe004,b'\n      So a pointer - a way to really say pointers.\n    '
+2071.066,2078.120,me003,"b""\n      Basically references from the roles in the schema - the bottom schemas to the action schemas is wha- uh I'm assuming.\n    """
+2073.515,2074.550,fe004,b'\n      Yeah.\n    '
+2076.217,2077.385,fe004,"b'\n      O_K, yeah.\n    '"
+2076.825,2077.630,mn015,b'\n      Yeah.\n    '
+2078.013,2081.589,mn015,"b'\n      Yeah, I mean '"
+2078.530,2079.420,fe004,b'\n      O_K.\n    '
+2081.589,2086.648,mn015,"b""\n      to the day when we're going to have """
+2087.147,2089.958,mn015,b'\n      that if the S_P_G action up there is '
+2090.629,2091.580,fe004,b'\n      Uh-huh.\n    '
+2090.860,2094.190,mn015,b'\n      then the '
+2093.938,2094.607,fe004,b'\n      Right.\n    '
+2094.585,2095.150,me045,b'\n      Mm-hmm.\n    '
+2095.420,2101.177,fe004,"b'\n      So you have constraints that are dependent on the c- actual s- specific filler, uh,\n    '"
+2096.891,2098.009,mn015,"b'\n      Mm-hmm, yeah.\n    '"
+2098.425,2098.823,mn015,b'\n      W-\n    '
+2099.291,2102.220,mn015,"b'\n      Yeah e- exactly. Um,\n    '"
+2102.060,2103.300,fe004,b'\n      of some attribute. Uh-huh.\n    '
+2102.220,2105.184,mn015,b'\n      you know '
+2105.471,2106.036,me045,b'\n      Right.\n    '
+2105.531,2111.450,mn015,b'\n      however '
+2106.469,2107.666,fe004,b'\n      '
+2107.666,2108.379,fe004,b'\n      '
+2109.503,2111.684,fe004,b'\n      Tsk. '
+2111.930,2114.498,fe004,b'\n      Or the Gateway Arch in St. Louis. So.\n    '
+2111.951,2112.408,mn015,b'\n      Yeah?\n    '
+2112.052,2112.505,me012,b'\n      S-\n    '
+2113.413,2113.956,mn015,b'\n      Yeah.\n    '
+2113.820,2114.848,me012,"b'\n      So um,\n    '"
+2114.848,2120.830,me012,b'\n      like are you gonna have similar schemas for F_M like forced motion and caused action and stuff like you have for S_P_G?\n    '
+2120.830,2121.274,mn015,b'\n      Yeah.\n    '
+2120.980,2129.130,me012,"b""\n      And if so like can - are you able to enforce that you know if - if it's - if it's S_P_G action then you have that schema, if it's a forced motion then you have the other schema\n    """
+2129.380,2130.720,me012,b'\n      present in the -\n    '
+2129.400,2134.162,mn015,"b'\n      Um we have absolute - No. We have absolutely no means of enforcing that,\n    '"
+2134.162,2142.278,mn015,"b'\n      so it would be considered valid if we have an S_P_G action ""Enter"" and no S_P_G schema, but a forced '"
+2143.370,2144.320,mn015,b'\n      '
+2143.450,2150.954,fe004,b'\n      Whi- which is not '
+2151.910,2153.538,fe004,b'\n      of that verb as well.\n    '
+2152.376,2155.903,mn015,b'\n      Hmm. It - maybe it means we had nothing to '
+2154.623,2155.134,me012,b'\n      O_K.\n    '
+2155.903,2167.825,mn015,"b""\n      What's """
+2167.086,2167.793,me012,b'\n      Right.\n    '
+2167.825,2173.478,mn015,b'\n      And um we started thinking about going through our '
+2173.860,2195.030,mn015,b'\n      you know I '
+2184.537,2185.121,fe004,b'\n      '
+2195.030,2201.320,fe004,"b""\n      Would they both be listed here in - O_K. Under so o- under action schema there's a list that can include both -\n    """
+2196.618,2197.520,mn015,b'\n      Yes.\n    '
+2201.207,2207.998,mn015,"b'\n      ye- Yeah, they they would - '"
+2201.400,2202.270,me003,b'\n      Right.\n    '
+2201.903,2203.074,fe004,b'\n      '
+2204.010,2205.420,me045,b'\n      Snack action.\n    '
+2205.281,2206.657,fe004,"b""\n      That's interesting.\n    """
+2207.929,2208.458,fe004,b'\n      What?\n    '
+2208.406,2209.926,mn015,b'\n      have the buying snack schema?\n    '
+2208.720,2209.340,me045,b'\n      '
+2209.340,2210.874,fe046,b'\n      Buying - '
+2209.926,2211.737,mn015,b'\n      '
+2210.050,2213.160,me045,"b""\n      I'm sure there's a commercial event schema in there somewhere. """
+2210.518,2210.929,fe004,b'\n      Oop. '
+2210.874,2212.466,fe046,b'\n      buying '
+2211.079,2212.105,fe004,b'\n      I- '
+2211.737,2215.720,mn015,"b'\n      Yeah, a ""commercial event"" or something. Yeah? So uh -\n    '"
+2212.168,2213.061,fe004,b'\n      d- f-\n    '
+2213.061,2214.660,fe004,b'\n      Yeah I - I -\n    '
+2215.610,2216.870,fe046,b'\n      '
+2215.816,2216.492,me045,b'\n      '
+2216.093,2216.603,fe004,b'\n      '
+2216.250,2222.322,mn015,b'\n      '
+2217.870,2219.110,fe004,b'\n      I see.\n    '
+2221.166,2221.758,fe004,b'\n      Uh-huh.\n    '
+2222.573,2223.131,fe004,b'\n      Uh-huh.\n    '
+2222.900,2225.477,mn015,"b'\n      you know at which - however that looks like,\n    '"
+2225.477,2227.022,mn015,b'\n      the place f-\n    '
+2227.021,2229.629,fe004,b'\n      Interesting. Would you say that the - like - '
+2227.022,2228.210,mn015,b'\n      thing to buy.\n    '
+2229.730,2233.096,fe004,"b'\n      I mean you could have a flat structure and just say these are two independent things,\n    '"
+2233.096,2240.091,fe004,"b""\n      but there's also this sort of like causal, well, so one is really facilitating the other and it's part of a compound action of some kind, which has structure.\n    """
+2239.257,2239.703,mn015,b'\n      Yeah.\n    '
+2240.769,2246.430,mn015,"b""\n      Now it's """
+2246.250,2246.756,fe004,b'\n      '
+2246.756,2251.310,fe004,"b""\n      uh I - I think that's """
+2246.840,2248.420,mn015,b'\n      and schema within schemata -\n    '
+2251.310,2252.090,mn015,b'\n      um\n    '
+2253.969,2256.510,mn015,"b'\n      Well, for me it seems that uh -\n    '"
+2256.994,2258.872,mn015,b'\n      '
+2257.640,2263.568,fe004,"b'\n      I mean there are truly times when you have two totally independent goals that they might express at once, but in '"
+2261.215,2262.040,mn015,b'\n      Yes.\n    '
+2263.568,2266.916,fe004,"b""\n      there's a purpo- means that you know f- for achieving some other purpose.\n    """
+2267.150,2276.850,mn015,"b""\n      Well, if I'm - if I'm recipient of such a message and I get a Source-Path-Goal where the goal is a bakery and then I get a commercial action which takes place in a bakery, right?\n    """
+2276.850,2277.610,fe004,b'\n      Uh-huh.\n    '
+2277.240,2282.960,mn015,"b'\n      and - and - and they - they are obviously, via identifiers, identified to be the same thing here.\n    '"
+2283.267,2286.625,fe004,"b""\n      Yeah. See that - that bothers me that they're the same thing.\n    """
+2287.252,2289.260,mn015,"b'\n      No, no, just the - Yeah?\n    '"
+2289.191,2296.037,fe004,"b""\n      Yeah because they're two different things one of which is l- you could think of one a sub you know pru- whatever pre-condition for the second.\n    """
+2289.750,2290.920,fe046,b'\n      '
+2295.680,2296.336,mn015,"b'\n      Yeah, yeah!\n    '"
+2296.202,2297.824,fe004,"b'\n      Right. Yeah, yeah. So. So. O_K.\n    '"
+2297.824,2303.063,fe004,"b""\n      So there's like """
+2304.030,2308.219,fe004,"b""\n      both a part. And they're - """
+2308.219,2312.405,fe004,b'\n      very different characters as far as Source-Path-Goal whatever. So when you identify Source-Path-Goal and\n    '
+2309.176,2310.748,mn015,"b'\n      Mm-hmm, yeah.\n    '"
+2312.405,2316.512,fe004,"b""\n      whatever, there's gonna to be a desire, whatever, eating, hunger, whatever other frames you have involved,\n    """
+2315.596,2316.590,fe046,b'\n      '
+2317.019,2325.107,fe004,b'\n      they have to match up in - in nice ways. So it seems like each of them has its own '
+2322.877,2323.298,mn015,b'\n      Mm-hmm.\n    '
+2325.107,2326.710,fe004,b'\n      schemas you know from the other -\n    '
+2326.710,2328.555,fe004,"b""\n      But you know that's just -\n    """
+2328.555,2329.277,fe004,"b""\n      That's just me.\n    """
+2329.277,2331.410,fe004,b'\n      Like - '
+2329.850,2330.192,mn015,"b'\n      Well,\n    '"
+2331.317,2332.404,mn015,"b""\n      I think we're gonna\n    """
+2332.404,2333.904,mn015,b'\n      hit a lot of interesting\n    '
+2333.904,2337.049,mn015,b'\n      problems and as I prefaced it\n    '
+2337.646,2340.988,mn015,b'\n      this is the result of one week of arguing '
+2339.857,2340.435,fe004,b'\n      Mm-hmm.\n    '
+2340.988,2341.626,mn015,b'\n      about it\n    '
+2341.230,2344.122,fe004,b'\n      '
+2341.540,2342.780,me003,b'\n      '
+2343.300,2344.190,me003,b'\n      Yeah.\n    '
+2343.310,2345.639,mn015,b'\n      '
+2345.639,2346.583,mn015,b'\n      and so -\n    '
+2345.850,2352.230,me045,"b'\n      Yeah I mean I - I still am not entirely sure that I really fully grasp the syntax of this. You know, like what -\n    '"
+2347.641,2348.160,fe004,b'\n      '
+2351.310,2354.590,me003,"b""\n      Well it's not - it's not actually a very - actually, it doesn't actually -\n    """
+2351.410,2352.757,mn015,b'\n      Um\n    '
+2352.757,2355.086,mn015,b'\n      it occur - it occurs to me that I mean ne-\n    '
+2352.887,2353.966,me045,b'\n      Right. '
+2354.590,2357.345,me045,b'\n      Or the intended interpretation of this. Yeah.\n    '
+2356.734,2360.339,mn015,"b'\n      um well I should have - we should have added an ano- an X_M_L example,\n    '"
+2360.339,2361.780,mn015,b'\n      or some X_M_L examples\n    '
+2360.860,2361.467,me045,b'\n      Yeah.\n    '
+2361.170,2363.770,fe004,b'\n      '
+2362.360,2367.225,mn015,b'\n      and - and this is on - on a - on - on my list of things until next - next week.\n    '
+2365.545,2366.090,me045,b'\n      O_K.\n    '
+2367.225,2372.310,mn015,"b""\n      It's also a question of the recursiveness and - and a hier- hierarchy\n    """
+2370.400,2372.103,fe004,b'\n      Yeah. Yeah.\n    '
+2372.610,2378.053,mn015,b'\n      um in there. Do we want the schemas just blump blump blump blump?\n    '
+2373.673,2376.491,fe004,b'\n      '
+2378.053,2387.700,mn015,"b""\n      I mean it's - if we can actually you know get it so that we can, out of """
+2384.977,2385.606,fe004,b'\n      Mm-hmm.\n    '
+2388.500,2392.393,mn036,b'\n      Well - well you have to be careful with that uh uh thing because uh\n    '
+2391.175,2391.715,fe004,b'\n      '
+2392.393,2393.151,mn036,b'\n      '
+2393.151,2402.568,mn036,b'\n      I mean many actions presuppose some - um almost '
+2399.185,2400.100,fe004,b'\n      Yeah.\n    '
+2400.372,2401.453,fe004,b'\n      Mayb- yeah.\n    '
+2403.030,2404.158,mn036,b'\n      not being hungry.\n    '
+2404.158,2414.701,mn036,b'\n      You have a specific intentions to cross the traffic light to get there. You have a further specific intentions to left - to lift your right foot and so uh uh I mean y- you really have to focus on\n    '
+2406.379,2406.997,fe004,b'\n      Mm-hmm.\n    '
+2406.874,2407.720,me045,b'\n      Yeah.\n    '
+2410.715,2411.555,mn015,b'\n      Hmm?\n    '
+2411.047,2411.853,me045,b'\n      '
+2411.417,2412.870,fe046,b'\n      '
+2412.037,2412.759,fe004,b'\n      Right.\n    '
+2415.380,2426.506,mn036,b'\n      on - on and '
+2418.012,2418.704,fe004,b'\n      Right.\n    '
+2418.621,2419.056,mn015,b'\n      Yeah.\n    '
+2426.506,2428.481,mn036,b'\n      that - that you want to '
+2428.481,2431.635,mn036,b'\n      from sub-tasks um that are '
+2431.164,2431.619,fe004,b'\n      M-\n    '
+2431.619,2432.093,fe004,b'\n      Th-\n    '
+2431.635,2434.340,mn036,b'\n      uh I mean but '
+2433.840,2439.554,fe004,b'\n      '
+2434.630,2435.066,mn036,b'\n      Yeah.\n    '
+2438.316,2438.901,mn015,b'\n      Mm-hmm.\n    '
+2439.554,2445.250,fe004,b'\n      you - like being able to '
+2443.160,2446.860,me003,"b'\n      Well the - the - the utterance was ""is there a bakery around here?"", not\n    '"
+2446.910,2450.417,fe004,b'\n      Well maybe their friend said they were going to meet them in a bakery around the area.\n    '
+2446.980,2448.780,me003,"b'\n      ""I want to go to a bakery.""\n    '"
+2449.218,2449.762,mn036,b'\n      Right.\n    '
+2450.560,2451.687,me003,b'\n      '
+2451.080,2452.143,fe046,b'\n      '
+2451.255,2461.480,fe004,"b""\n      And I'm, yeah - I'm - I'm inventing contexts which are maybe unlikely, but yeah I mean like - but it's still the case that um you could - you could override that default by giving extra information which is to me a reason why you would keep\n    """
+2451.687,2453.234,me003,b'\n      '
+2451.790,2452.206,mn036,b'\n      Right.\n    '
+2453.234,2455.320,me003,b'\n      Sure it - O_K. Yeah. '
+2458.196,2459.022,mn015,"b'\n      Mm-hmm, yeah.\n    '"
+2461.952,2467.200,fe004,"b'\n      the inference of that separate from the knowledge of ""O_K they really want to know if there\'s a bakery around here"", which is direct.\n    '"
+2465.989,2466.583,mn015,b'\n      Yeah.\n    '
+2467.200,2473.574,mn015,b'\n      Well there - there - there should never be a hard coded uh '
+2470.726,2474.244,fe004,b'\n      '
+2472.230,2473.060,fe046,b'\n      '
+2473.574,2475.573,mn015,b'\n      uh double schema\n    '
+2475.547,2476.260,fe004,b'\n      Right.\n    '
+2476.140,2483.001,mn015,"b'\n      thing, how uh - And, as a matter of fact, when I have traveled with my friends we make these - exactly these kinds of appointments.\n    '"
+2480.630,2481.235,fe004,b'\n      Mm-hmm.\n    '
+2482.354,2489.629,fe004,b'\n      Yeah. '
+2482.516,2483.150,me045,b'\n      Mm-hmm.\n    '
+2483.001,2484.140,mn015,b'\n      We o- o-\n    '
+2487.160,2487.659,me045,b'\n      Mm-hmm.\n    '
+2487.610,2488.117,mn036,b'\n      Right.\n    '
+2487.725,2488.226,me045,b'\n      Yep.\n    '
+2488.763,2489.521,mn036,b'\n      Well. '
+2489.521,2500.054,mn036,b'\n      I have a question about the slot of the S_P_G action. So '
+2489.629,2489.976,fe004,b'\n      '
+2500.503,2501.723,mn036,b'\n      will have a choice.\n    '
+2501.723,2503.606,mn036,b'\n      Or - or - or - or will it just\n    '
+2503.606,2506.650,mn036,b'\n      um uh - is it change -\n    '
+2505.207,2510.474,me045,"b'\n      Every S_P_G - every S_P_G action either is an Enter or a View or an Approach, right? O_K.\n    '"
+2509.030,2512.110,mn036,"b'\n      Right, right. So - so I - I mean for -\n    '"
+2509.404,2510.037,mn015,b'\n      Mm-hmm.\n    '
+2512.110,2516.142,mn036,b'\n      for each particular action that you may want to characterize\n    '
+2516.142,2517.340,mn036,b'\n      you would have\n    '
+2517.830,2521.285,mn036,b'\n      some number of slots that define uh uh uh\n    '
+2522.008,2526.713,mn036,b'\n      you know in '
+2524.394,2524.916,fe004,b'\n      '
+2526.713,2534.788,mn036,"b""\n      So is it a fixed number or - or do you leave it open - it could be between one and fifteen uh - it's - it's - it's flexible.\n    """
+2534.600,2537.101,mn015,"b'\n      Um, the uh -\n    '"
+2537.101,2546.225,mn015,"b""\n      Well, it sort of depends on - on if you actually write down the - the schema then you have to say it's either one of them\n    """
+2546.055,2546.672,fe004,b'\n      '
+2546.820,2554.454,mn015,"b'\n      or it can be none, or it can be any of them. However the uh - it seems to be\n    '"
+2554.454,2558.334,mn015,b'\n      sensible to me to r- to view them as mutually exclusive\n    '
+2560.030,2561.140,mn015,b'\n      um\n    '
+2562.255,2563.390,mn015,b'\n      maybe even '
+2562.497,2563.121,fe004,b'\n      J-\n    '
+2563.390,2566.010,fe004,b'\n      Do you mean within the Source-Path-Goal actions? Those three?\n    '
+2563.870,2564.171,mn036,b'\n      uh\n    '
+2564.171,2565.503,mn036,b'\n      '
+2565.270,2566.010,mn015,b'\n      Yeah.\n    '
+2565.503,2568.410,mn036,b'\n      ye- uh uh b- I- uh I - u- I understand uh but -\n    '
+2567.670,2568.630,fe004,b'\n      '
+2568.200,2571.320,mn015,"b""\n      And um how - how where is the end? So that's -\n    """
+2570.463,2574.166,mn036,b'\n      '
+2574.166,2580.160,mn036,b'\n      '
+2580.160,2584.893,mn036,b'\n      because you can either enter a building or view it or - or approach it and touch it or something. '
+2584.893,2589.880,mn036,b'\n      Um now you define uh '
+2588.227,2590.420,mn015,b'\n      Forced action or forced motion.\n    '
+2590.840,2597.420,mn036,"b""\n      uh s- S_P_G_one action that has to do with writing a letter, let's say. I mean not even within this context, but\n    """
+2591.050,2591.760,mn015,b'\n      Yeah.\n    '
+2597.520,2608.130,mn036,b'\n      a different action. Um and this - uh action-two would have various variable possibilities of interpreting what you would like to do.\n    '
+2608.767,2617.560,mn036,"b""\n      And - i- in - in a way similar to either Enter-View-Approach you may want to send a letter, read a letter, or dictate a letter, let's say.\n    """
+2617.560,2619.330,me003,b'\n      '
+2617.746,2618.750,mn036,"b'\n      So, h-\n    '"
+2619.530,2620.880,me003,b'\n      The uh -\n    '
+2622.116,2625.377,me003,"b""\n      These actions - I don't know if I'm gonna answer your question or not with this, but\n    """
+2625.299,2625.840,fe004,b'\n      '
+2625.377,2629.632,me003,"b'\n      the categories inside of action schemas, so, S_P_G action is a '"
+2629.632,2634.413,me003,"b""\n      Real- although I think what we're specifying here is this is a category where the\n    """
+2634.413,2641.463,me003,"b'\n      actions ""enter, view and approach"" would fall into because they have a related Source-Path-Goal schema in our tourist domain.\n    '"
+2642.280,2649.740,me003,"b'\n      Cuz viewing in a tourist domain is going up to it and - or actually going from one place to another to take a picture, in this - in a -\n    '"
+2647.980,2648.771,mn036,b'\n      Right.\n    '
+2648.771,2653.950,mn036,"b""\n      Oh, s- so it's sort of automatic derived fr- from the structure that - that is built elsewhere.\n    """
+2654.890,2657.680,me003,b'\n      derived '
+2656.877,2660.648,me045,"b'\n      This is a cate- this a category structure here, right? Action schema.\n    '"
+2659.580,2660.430,me003,b'\n      Right.\n    '
+2660.648,2665.393,me045,b'\n      What are some types of action schemas? Well one of the types of action schemas is Source-Path-Goal action.\n    '
+2665.393,2667.810,me045,b'\n      And what are some types of '
+2667.810,2668.305,me003,b'\n      Right.\n    '
+2668.099,2668.696,mn015,b'\n      Hmm.\n    '
+2668.105,2670.762,me045,"b'\n      a View, an Approach. Those are all Source-Path-Goal actions.\n    '"
+2670.100,2673.336,me003,b'\n      Inside of Enter there will be roles that can be filled\n    '
+2673.336,2677.898,me003,b'\n      basically. So if I want to go from outside to inside '
+2677.898,2680.968,me003,"b""\n      then you'd have the roles that need to filled, where you'd have a Source-Path-Goal\n    """
+2680.968,2685.800,me003,"b""\n      set of roles. So you'd the Source would be outside and Path is to the door or whatever, right?\n    """
+2685.800,2686.590,mn036,b'\n      Right.\n    '
+2687.400,2691.337,me003,"b""\n      So if you wanted to have a new type of action you'd create a new type of category.\n    """
+2691.337,2695.729,me003,b'\n      Then this category would - we would put it - or not necessarily - We would put\n    '
+2695.729,2698.437,me003,b'\n      a new action in the m- uh in the categories that -\n    '
+2698.437,2703.504,me003,"b'\n      in which it has the um - Well, every action has a set of related schemas\n    '"
+2703.504,2706.048,me003,"b'\n      like Source-Path-Goal or force, whatever, right?\n    '"
+2705.602,2706.144,me045,b'\n      Mm-hmm.\n    '
+2706.260,2706.590,mn036,b'\n      Right.\n    '
+2706.660,2713.880,me003,"b'\n      So we would put ""write a letter"" in the categories uh that - in which it had - it w- had uh\n    '"
+2714.170,2718.150,me045,b'\n      There could be a communication event action or something like that and you could write it.\n    '
+2714.610,2715.339,me003,b'\n      schemas u-\n    '
+2716.206,2716.847,mn015,b'\n      Mm-hmm.\n    '
+2716.388,2719.231,me003,b'\n      Exactly. Schemas uh that of that type.\n    '
+2718.124,2718.662,fe004,b'\n      '
+2720.002,2721.140,me003,"b'\n      And then later,\n    '"
+2721.140,2722.401,me003,"b'\n      you know, there - the -\n    '"
+2722.401,2725.880,me003,"b""\n      we have a communication event action where we'd define it down there as -\n    """
+2724.719,2725.152,fe004,b'\n      Hmm.\n    '
+2727.250,2736.314,fe004,"b""\n      So there's a bit a redundancy, right? in - in which the things that go into a particular - You have categories at the top under action schema and the things that go under a particular category are um\n    """
+2736.677,2744.663,fe004,"b""\n      supposed to have a corresponding schema definition for that type. So I guess what's the function of having it up there too?\n    """
+2744.903,2753.786,fe004,"b""\n      I mean I guess I'm wondering whether - You """
+2751.619,2752.259,mn015,b'\n      Mm-hmm.\n    '
+2754.142,2762.265,fe004,b'\n      you '
+2758.500,2759.136,mn015,b'\n      Yeah.\n    '
+2762.602,2770.260,fe004,"b""\n      if it's supposed to be categorized in category X_ then the corresponding schema X_ will be among the structures that - that follow. That's like -\n    """
+2768.610,2769.257,me003,b'\n      Right.\n    '
+2768.756,2769.234,mn015,b'\n      Yeah.\n    '
+2769.257,2773.730,me003,"b'\n      Well, this is one of things we were arguing about. '"
+2770.480,2775.490,mn015,b'\n      th- this is - this r- this is - this is more - this is probably the way that\n    '
+2770.950,2774.580,fe004,"b'\n      O_K, sorry. '"
+2775.660,2784.720,mn015,"b""\n      th- that's the way that seemed more intuitive to Johno I guess also for a while - for """
+2779.300,2780.141,fe004,b'\n      Uh-huh.\n    '
+2780.141,2781.990,fe004,b'\n      But now you guys have seen the light. So.\n    '
+2781.990,2784.110,me003,b'\n      No. '
+2782.493,2783.994,fe004,b'\n      '
+2784.524,2787.960,fe004,"b""\n      I- it's easy to go back and forth isn't it? """
+2784.720,2785.572,me003,b'\n      The - the reason -\n    '
+2785.572,2793.640,me003,"b""\n      One reason we're doing it this way is in case there's extra structure that's in the Enter action that's not captured by the schemas, right?\n    """
+2790.100,2793.082,fe004,b'\n      I agree. Right. Right.\n    '
+2793.082,2803.360,fe004,b'\n      Which is why I would think you would say Enter and then just say all the things that are relevant '
+2803.259,2804.590,me003,"b'\n      Right, but -\n    '"
+2804.520,2808.710,me045,b'\n      '
+2807.870,2808.630,fe004,b'\n      Um\n    '
+2808.679,2810.081,mn015,b'\n      No basically w-\n    '
+2808.990,2814.070,fe004,"b""\n      Ye- I see what you mean by that, but I - I don't if I would - I would need to have t- have that.\n    """
+2811.080,2811.989,fe046,b'\n      '
+2812.207,2816.150,mn015,b'\n      Get - get rid of the sort of S_P_G slash something\n    '
+2816.150,2817.139,fe004,b'\n      Right.\n    '
+2816.543,2821.654,mn015,"b'\n      uh or the sub-actions category, because what does that tell us?\n    '"
+2820.020,2820.723,fe004,b'\n      Uh-huh.\n    '
+2821.510,2822.330,fe004,b'\n      Yeah.\n    '
+2822.281,2828.310,mn015,b'\n      Um and I '
+2825.081,2827.891,fe004,b'\n      I- in fact what you could say is for '
+2827.891,2830.552,fe004,"b'\n      you could say ""here, list all the kinds of schemas that -\n    '"
+2830.552,2831.750,fe004,b'\n      on the category that -\n    '
+2831.590,2833.800,me045,b'\n      List all the '
+2831.750,2834.053,fe004,"b'\n      you know i- list all the parent categories"". It\'s just like\n    '"
+2834.053,2838.201,fe004,"b""\n      a frame hierarchy, right? like you have these blended frames. So you would say enter and you'd say """
+2835.089,2835.960,me045,b'\n      Yeah.\n    '
+2835.537,2836.096,mn015,b'\n      Mm-hmm.\n    '
+2838.563,2849.080,fe004,"b'\n      frames are such-and-such, h- and then those are the ones that actually you then actually define and say how the roles bind to your '"
+2846.229,2846.679,me045,b'\n      Yeah.\n    '
+2847.760,2853.540,me045,b'\n      This sounds like a '
+2849.830,2853.206,fe004,b'\n      Yeah it could '
+2851.360,2852.900,fe046,b'\n      '
+2853.206,2858.180,fe004,"b""\n      Like I said, I'm sure I'm just hitting everything with a hammer that I developed, but I mean you know uh it's -\n    """
+2856.398,2856.909,me045,b'\n      Yeah.\n    '
+2858.390,2861.648,fe004,"b""\n      I'm just telling you what I think, you just hit the button and it's like - """
+2860.780,2861.832,mn015,b'\n      '
+2861.020,2862.140,fe046,b'\n      '
+2861.070,2868.452,me045,"b""\n      Yeah I mean but there's a good question here. Like, I mean uh do you - When do you need -\n    """
+2868.661,2870.355,me045,b'\n      Hhh. '
+2870.355,2872.790,me045,b'\n      '
+2870.740,2872.350,fe046,b'\n      '
+2870.870,2872.228,fe004,b'\n      '
+2872.228,2874.020,fe004,b'\n      Metacomment. '
+2873.140,2873.364,me045,b'\n      Yeah. '
+2873.350,2875.146,fe046,b'\n      '
+2873.364,2874.717,me045,"b""\n      That's all recorded. """
+2874.717,2875.870,me045,b'\n      Um.\n    '
+2876.245,2878.140,fe004,"b'\n      ""Damn this project."" '"
+2876.474,2877.226,me045,b'\n      Why do you -\n    '
+2877.537,2878.703,me045,b'\n      Hhh. '
+2878.013,2878.920,fe046,b'\n      '
+2879.665,2881.279,me045,b'\n      How do I - how do I come at this question? '
+2879.740,2880.760,fe004,b'\n      '
+2881.602,2882.450,me045,b'\n      Um.\n    '
+2883.108,2885.262,me045,"b""\n      I just don't see why you would -\n    """
+2885.262,2886.316,me045,b'\n      I mean does th-\n    '
+2887.232,2889.928,me045,b'\n      Who uses this uh - this data structure?\n    '
+2889.928,2895.836,me045,"b'\n      You know? Like, do you say ""alright I\'m going to uh - '"
+2895.836,2903.625,me045,"b'\n      And then you know somebody ne- either the computer or the user says ""alright, well, I '"
+2903.878,2907.094,me045,"b'\n      And ""oh, O_K, so I can do an Enter-View-Approach"". It\'s not '"
+2907.094,2914.407,me045,"b'\n      It\'s more like you say ""I want to, uh - '"
+2909.860,2910.980,me003,b'\n      Well only one of -\n    '
+2914.407,2915.417,me045,b'\n      Right? So that\n    '
+2915.417,2921.740,me045,b'\n      the um - the uh sort of representation that '
+2919.573,2920.047,fe004,b'\n      Hmm.\n    '
+2919.914,2920.394,me003,"b""\n      I'd -\n    """
+2920.444,2920.622,me003,b'\n      I-\n    '
+2920.899,2922.981,me003,"b""\n      I think I'd - I'm not sure if I understand your question.\n    """
+2922.981,2926.371,me003,b'\n      Only one of those things are gonna be lit up when we pass this on.\n    '
+2926.289,2926.909,me045,b'\n      O_K.\n    '
+2926.818,2928.561,me003,b'\n      So only Enter will be -\n    '
+2928.561,2931.245,me003,"b'\n      if we - if our - if our module decided that Enter is the case,\n    '"
+2930.787,2931.351,me045,b'\n      O_K.\n    '
+2931.848,2932.915,me003,b'\n      View and Approach\n    '
+2933.476,2934.720,me003,b'\n      will not be there.\n    '
+2934.440,2934.959,me045,b'\n      O_K.\n    '
+2934.973,2935.389,fe004,b'\n      '
+2935.090,2939.851,mn015,b'\n      Well '
+2939.851,2941.827,mn015,b'\n      even '
+2941.137,2941.460,fe004,b'\n      '
+2941.460,2942.410,fe004,b'\n      Yeah.\n    '
+2942.460,2943.230,mn015,b'\n      um\n    '
+2943.455,2943.883,me045,b'\n      Mayb-\n    '
+2943.576,2946.770,mn015,"b""\n      nevertheless um l- let's - let's not -\n    """
+2944.584,2946.263,me003,"b""\n      Well in that case, we can't -\n    """
+2944.839,2945.983,fe004,b'\n      O_K. '
+2945.410,2950.080,me045,"b""\n      Well maybe I'm not understanding where this comes from and where this goes to. What are we doing with this?\n    """
+2946.263,2947.177,me003,"b""\n      we can't w-\n    """
+2946.443,2947.236,fe004,b'\n      '
+2947.177,2948.529,me003,b'\n      if - if -\n    '
+2947.628,2948.473,fe004,b'\n      '
+2948.529,2951.383,me003,"b""\n      well the thing is if that's the case we - our - I don't think our system can handle that\n    """
+2951.383,2952.240,me003,b'\n      currently.\n    '
+2952.240,2953.550,mn015,"b'\n      No, not at all. But -\n    '"
+2953.750,2954.650,me003,b'\n      '
+2954.167,2955.717,mn015,b'\n      U- s- '
+2954.226,2954.869,me045,b'\n      In principle.\n    '
+2955.173,2956.221,me045,b'\n      '
+2955.232,2956.267,fe046,b'\n      '
+2955.499,2956.775,fe004,"b'\n      ""Approach and '"
+2955.717,2960.330,mn015,b'\n      So - the - I think the - in some sense we - we ex-\n    '
+2956.775,2957.972,fe004,b'\n      '
+2957.352,2958.092,me045,b'\n      '
+2959.187,2959.914,fe004,b'\n      '
+2960.660,2965.700,mn015,b'\n      get the task done '
+2962.760,2964.150,mn036,b'\n      '
+2964.062,2964.570,fe004,b'\n      '
+2965.229,2965.826,fe004,b'\n      Mm-hmm.\n    '
+2966.035,2969.570,mn015,b'\n      need. Period. No more qualifiers than that. So.\n    '
+2968.910,2971.005,fe004,"b""\n      No, this is the useful, you know, don- don't worry.\n    """
+2970.100,2973.320,mn015,b'\n      and um and - and I th- I hope um\n    '
+2971.005,2971.619,fe004,b'\n      '
+2974.742,2981.850,mn015,"b""\n      uh let's make a - a - a - a """
+2982.746,2987.311,fe004,"b'\n      Yeah, I can guarantee that. '"
+2984.300,2985.630,fe046,b'\n      '
+2984.590,2985.400,me045,b'\n      '
+2985.660,2986.770,me045,b'\n      Sigh. '
+2985.670,2990.300,mn015,"b""\n      And it's gonna get more and more complex the - the l-\n    """
+2990.300,2992.930,mn015,b'\n      complexer and larger our domains get.\n    '
+2992.930,2993.750,mn015,b'\n      And\n    '
+2995.290,3004.760,mn015,b'\n      I think um we will have all of our points in writing pretty soon. So this is nice about being being recorded also. The um -\n    '
+3002.556,3003.367,me045,b'\n      Right. '
+3003.129,3005.079,fe004,b'\n      '
+3003.210,3005.498,fe046,b'\n      '
+3006.790,3010.700,me003,"b""\n      The r- uh the - in terms of why is - it's laid out like this versus some other -\n    """
+3007.397,3008.470,mn015,b'\n      the people -\n    '
+3008.367,3008.829,fe004,b'\n      '
+3009.478,3009.774,fe004,b'\n      '
+3009.582,3010.162,me045,b'\n      Yeah.\n    '
+3010.602,3011.350,me045,b'\n      Yeah.\n    '
+3011.350,3012.348,me003,b'\n      um\n    '
+3012.884,3015.405,me003,"b""\n      that's kind of a contentious point between the two of us\n    """
+3015.220,3018.500,fe004,b'\n      '
+3015.436,3016.610,me045,b'\n      '
+3015.594,3016.390,me003,b'\n      but\n    '
+3016.049,3018.870,fe046,b'\n      '
+3016.610,3018.056,me003,b'\n      '
+3017.450,3019.130,me045,b'\n      In '
+3018.056,3020.850,me003,b'\n      this is one wa- so this is a way to link\n    '
+3021.329,3022.410,me003,b'\n      uh\n    '
+3023.487,3026.763,me003,b'\n      the way these roles are filled out to the action.\n    '
+3026.514,3027.014,me045,b'\n      Mm-hmm.\n    '
+3026.763,3032.710,me003,"b'\n      Because if we know that Enter is a t- is an S_P_G action, right?\n    '"
+3031.466,3031.964,me045,b'\n      Mm-hmm.\n    '
+3032.710,3038.480,me003,b'\n      we know to look for an S_P_G schema and put the appropriate - fill in the appropriate roles later on.\n    '
+3035.283,3035.902,me045,b'\n      Mm-hmm.\n    '
+3038.408,3039.251,me045,b'\n      Yeah.\n    '
+3038.480,3042.600,fe004,b'\n      And you could have '
+3040.951,3042.830,mn015,"b'\n      Mm-hmm, yeah.\n    '"
+3041.690,3042.570,me003,b'\n      Right.\n    '
+3042.202,3042.970,me045,b'\n      Yeah.\n    '
+3042.727,3045.820,fe004,"b""\n      Right? So there's just like sort of reverse organization, right?\n    """
+3045.740,3047.335,me045,b'\n      '
+3046.210,3051.736,fe004,b'\n      So like unless '
+3049.670,3050.950,me045,b'\n      Again - '
+3051.920,3056.340,mn015,"b""\n      Yes because nobod- no- the modules don't - This is -\n    """
+3052.866,3053.531,fe004,b'\n      Yeah. uh\n    '
+3056.340,3062.213,mn015,"b'\n      this is a schema that defines X_M_L messages that are passed from one module to another,\n    '"
+3061.508,3062.114,fe004,b'\n      Mm-hmm.\n    '
+3062.213,3068.078,mn015,"b'\n      mainly meaning from the natural language understanding, or from the '"
+3064.956,3065.472,fe004,b'\n      Mm-hmm.\n    '
+3068.078,3069.384,mn015,b'\n      Now the -\n    '
+3069.384,3072.089,mn015,b'\n      the reason for - for not\n    '
+3072.089,3074.477,mn015,b'\n      using '
+3074.477,3076.754,mn015,"b'\n      you always will have to go back,\n    '"
+3076.754,3080.094,mn015,b'\n      each module will try - have to go back to look up which uh you know entity can have\n    '
+3080.094,3084.390,mn015,"b'\n      which uh, you know, entity can have which parents, and then -\n    '"
+3083.783,3084.367,fe004,b'\n      '
+3084.975,3100.606,mn015,"b'\n      So you always need the whole body of - of y- your model um to figure out what belongs to what. Or you always send it along with it, '"
+3091.992,3092.601,fe004,b'\n      Mm-hmm.\n    '
+3093.849,3094.547,fe004,b'\n      Mm-hmm.\n    '
+3099.138,3099.630,fe004,b'\n      Mm-hmm.\n    '
+3101.050,3103.420,fe004,"b""\n      O_K, so it's just like a pain to have to send it.\n    """
+3101.069,3101.970,mn015,b'\n      which e-\n    '
+3103.194,3106.266,mn015,"b""\n      It may or may not be a just a pain it's - it's -\n    """
+3105.560,3106.720,fe046,b'\n      '
+3106.266,3111.514,mn015,"b""\n      I'm completely willing to - to - to throw """
+3107.225,3108.680,fe004,"b'\n      O_K, I understand.\n    '"
+3109.897,3110.963,fe004,b'\n      '
+3110.570,3111.290,me045,b'\n      Well -\n    '
+3111.514,3115.760,mn015,b'\n      you know and - and - and it after some iterations we may just do that.\n    '
+3113.942,3114.443,fe004,b'\n      Mm-hmm.\n    '
+3115.480,3120.980,me045,"b'\n      I - I would just like to ask um like, if it could happen for next time, I mean, just beca-\n    '"
+3115.783,3116.240,fe004,b'\n      '
+3119.252,3119.664,fe004,b'\n      '
+3121.288,3128.030,me045,"b""\n      cuz I'm new and I don't really just - I just don't know what to make of this and what this is """
+3121.900,3122.584,mn015,b'\n      Mm-hmm.\n    '
+3127.714,3128.273,mn015,b'\n      Yeah.\n    '
+3128.030,3129.941,me045,"b'\n      of what would actually be in it, like\n    '"
+3129.941,3131.876,me045,b'\n      first of all what modules are\n    '
+3131.876,3134.650,me045,"b'\n      talking to each other using this, right? And -\n    '"
+3132.660,3134.523,mn015,"b'\n      Yeah, we -\n    '"
+3134.523,3144.673,mn015,b'\n      I will promise for the '
+3139.281,3139.772,me045,b'\n      O_K.\n    '
+3144.964,3145.648,fe004,b'\n      Be great.\n    '
+3145.200,3150.970,mn015,"b'\n      and how this can come about, nuh? including the sort of ""miracle occurs here""\n    '"
+3150.553,3151.201,me045,b'\n      Right.\n    '
+3151.150,3152.600,mn015,b'\n      um part.\n    '
+3151.681,3153.113,fe004,b'\n      '
+3152.670,3153.770,fe046,b'\n      '
+3153.770,3154.610,mn015,b'\n      And\n    '
+3156.810,3157.650,mn015,b'\n      um\n    '
+3159.820,3162.820,mn015,b'\n      is there more to be said? '
+3166.200,3169.968,mn015,b'\n      In '
+3169.968,3175.453,mn015,b'\n      and e- e- whether or not we take the Enter-View and we all throw up - up the ladder\n    '
+3175.453,3180.110,mn015,b'\n      um wha- how do how does Professor '
+3175.522,3176.089,fe004,b'\n      Yeah.\n    '
+3180.883,3181.975,mn015,"b'\n      hhh, '"
+3182.150,3184.580,mn015,b'\n      silence su- sublimination?\n    '
+3184.322,3185.047,me045,b'\n      '
+3184.813,3187.050,mn015,b'\n      Throwing somebody up the stairs?\n    '
+3184.970,3186.850,fe004,b'\n      '
+3186.790,3188.518,me045,b'\n      '
+3187.850,3190.420,mn015,"b""\n      Have you never read the Peter's Principle anyone here?\n    """
+3188.240,3189.150,fe046,b'\n      '
+3189.444,3190.465,me045,b'\n      Nope.\n    '
+3190.854,3192.490,mn036,"b'\n      Oh, uh '"
+3192.647,3194.474,me012,b'\n      People reach their level of uh\n    '
+3193.700,3194.490,mn036,b'\n      Yeah.\n    '
+3194.474,3195.233,me012,b'\n      max-\n    '
+3195.233,3198.096,me012,"b""\n      their level of - at which they're incompetent or whatever.\n    """
+3195.475,3196.700,fe004,b'\n      '
+3196.007,3200.497,mn015,b'\n      Maximum incompetence and then you can throw them up the stairs\n    '
+3197.455,3198.807,me045,b'\n      Alright. '
+3197.480,3198.701,mn036,"b'\n      Yeah. Right, right.\n    '"
+3197.827,3198.460,fe004,b'\n      Oh! '
+3199.259,3200.990,fe004,b'\n      '
+3199.507,3200.580,me012,b'\n      '
+3200.271,3201.100,me045,b'\n      '
+3200.497,3201.386,mn015,b'\n      um.\n    '
+3200.880,3201.620,fe046,b'\n      '
+3201.620,3202.579,mn036,"b'\n      Promote them, yeah.\n    '"
+3202.259,3203.168,mn015,b'\n      Yeah.\n    '
+3203.340,3210.250,mn015,"b'\n      O_K, so we can promote Enter-View all - all up a bit and and get rid of the uh blah-blah-X_blah uh\n    '"
+3205.359,3207.267,fe046,b'\n      '
+3210.250,3213.062,mn015,b'\n      asterisk sub-action item altogether.\n    '
+3212.930,3213.498,me045,b'\n      O_K.\n    '
+3213.062,3215.760,mn015,b'\n      No - no problem with that and we - w-\n    '
+3215.760,3227.890,mn015,b'\n      we - we will play around with all of them but the '
+3229.090,3242.560,mn015,"b""\n      more intention oriented specification um on parallel to that - that - this approach seems to be uh workable to me. I don't know.\n    """
+3242.797,3243.451,mn015,b'\n      '
+3244.310,3248.614,mn015,b'\n      If you all share '
+3248.647,3249.610,me045,b'\n      '
+3249.800,3251.360,fe004,b'\n      Uh yeah '
+3249.870,3256.750,me003,b'\n      This is a simple way to basically link uh roles to actions.\n    '
+3253.944,3254.231,fe004,b'\n      R-\n    '
+3257.743,3258.828,fe004,"b""\n      Yeah, yeah. That's fine.\n    """
+3258.520,3259.280,me045,b'\n      Sure.\n    '
+3258.828,3260.290,fe004,b'\n      '
+3258.900,3261.980,me003,"b""\n      That's the - that was the intent of - of it, basically.\n    """
+3259.230,3260.620,fe046,b'\n      '
+3261.270,3265.060,fe004,"b""\n      Uh that's true. Although um roles - """
+3261.406,3262.016,me045,b'\n      Sure.\n    '
+3262.307,3262.844,mn015,b'\n      Yeah.\n    '
+3265.010,3267.200,me003,"b""\n      So I - I do- I'm - I'm not -\n    """
+3265.560,3267.200,fe004,b'\n      Yeah I - I -\n    '
+3265.780,3268.835,mn015,"b'\n      I\'m - I\'m never happy when he uses the word ""roles"", I\'m -\n    '"
+3267.950,3271.007,fe004,b'\n      Yeah. '
+3269.210,3270.690,mn015,b'\n      '
+3269.280,3272.440,me003,b'\n      I b- I mean R_O_L_L_S so\n    '
+3271.473,3278.675,mn015,b'\n      '
+3272.275,3276.520,me045,b'\n      '
+3273.040,3275.994,fe004,b'\n      Bread rolls? '
+3273.140,3274.730,me003,b'\n      '
+3273.470,3276.885,fe046,b'\n      '
+3275.290,3277.390,me003,"b'\n      Yeah, pastries is what '"
+3275.570,3276.620,mn036,b'\n      '
+3275.994,3279.077,fe004,b'\n      Pastry oh ba- oh the bak- bakery example. I see.\n    '
+3276.885,3278.360,fe046,b'\n      Bakery. Bakery.\n    '
+3277.390,3279.075,me045,b'\n      This is the bakery example. Got it. Alright.\n    '
+3279.077,3280.480,fe004,b'\n      Right.\n    '
+3280.224,3281.120,me045,b'\n      '
+3280.816,3281.373,fe004,b'\n      O_K.\n    '
+3281.790,3282.830,fe046,b'\n      '
+3282.499,3283.052,me045,b'\n      Help! '
+3283.440,3286.200,fe004,"b""\n      I guess I'll agree to """
+3284.836,3285.660,me045,b'\n      '
+3285.043,3286.670,fe046,b'\n      '
+3286.790,3290.640,mn015,"b""\n      O_K. That's all """
+3292.220,3298.940,mn015,"b""\n      Oh no, there's one more issue. Bhaskara brought """
+3299.829,3302.118,fe004,"b""\n      I n- Didn't you say something about Friday, or - ? """
+3300.108,3302.454,me045,b'\n      '
+3302.010,3303.020,mn015,b'\n      Yeah.\n    '
+3302.118,3302.429,fe004,b'\n      Hmm.\n    '
+3303.020,3311.690,mn015,b'\n      '
+3304.529,3304.986,fe004,b'\n      '
+3305.386,3305.731,fe004,b'\n      '
+3311.583,3312.513,fe046,b'\n      '
+3312.230,3322.890,mn015,b'\n      So people have been thinking about an alternative time and the one we came up with is Friday two-thirty? three? What was it?\n    '
+3318.071,3318.462,fe004,b'\n      '
+3322.790,3327.490,me003,"b""\n      You have class until two, right? so if we don't want him - if we don't want him to run over here\n    """
+3324.174,3324.703,me012,b'\n      Mm-hmm.\n    '
+3324.873,3325.364,mn015,b'\n      Two-th-\n    '
+3324.970,3326.290,fe004,b'\n      So do I. Yeah.\n    '
+3327.490,3331.430,mn015,b'\n      Two-thirty-ish or three or Friday at three or something around that time.\n    '
+3328.004,3328.608,me045,b'\n      Mm-hmm.\n    '
+3328.250,3329.960,me003,b'\n      two thirty-ish or three is -\n    '
+3328.946,3329.456,fe004,b'\n      '
+3330.024,3330.423,fe004,b'\n      '
+3330.442,3331.440,me012,b'\n      Yeah. Yeah. e-\n    '
+3331.919,3334.740,mn015,b'\n      Um how - how are your -\n    '
+3332.015,3332.866,fe004,b'\n      That would be good.\n    '
+3334.560,3337.560,mn036,b'\n      uh Friday uh\n    '
+3337.380,3339.150,fe004,b'\n      '
+3337.680,3338.237,mn036,"b""\n      Yeah, that's fine.\n    """
+3338.901,3339.446,me045,b'\n      Uh -\n    '
+3339.120,3341.350,mn015,b'\n      And I know that you have until three -\n    '
+3339.679,3340.020,fe004,b'\n      '
+3340.528,3340.876,fe004,b'\n      '
+3341.664,3342.760,mn015,"b""\n      You're busy?\n    """
+3341.900,3342.580,fe046,b'\n      Yeah.\n    '
+3343.204,3344.900,fe004,b'\n      So three is - sounds good?\n    '
+3343.586,3344.066,mn036,b'\n      Yeah.\n    '
+3344.520,3345.390,me045,b'\n      Yeah.\n    '
+3344.930,3347.140,fe004,"b""\n      I'll be free by then.\n    """
+3345.728,3347.490,me045,b'\n      I could do that. Yeah I mean\n    '
+3347.930,3354.898,me045,"b'\n      earlier on Friday is better but three - you know I mean - if it were a three or a three thirty time then I would take the three or whatever, but yeah sure three is fine.\n    '"
+3350.837,3351.448,fe046,b'\n      '
+3353.333,3354.010,mn015,b'\n      Mm-hmm.\n    '
+3355.917,3358.980,mn015,"b'\n      Yeah, and you can always make it shortly after three probably.\n    '"
+3356.282,3356.885,me045,b'\n      I mean.\n    '
+3358.314,3361.682,fe046,"b""\n      Yeah, and I don't need to be here particularly deeply.\n    """
+3361.110,3362.390,mn015,"b'\n      Often, no, but\n    '"
+3361.949,3362.293,fe046,b'\n      Yeah.\n    '
+3362.293,3362.924,fe046,b'\n      '
+3362.620,3363.827,mn015,"b'\n      uh,\n    '"
+3363.707,3364.687,fe004,b'\n      '
+3363.827,3368.465,mn015,b'\n      whenever. You are more than welcome if you think that this kind of discussion\n    '
+3364.020,3364.760,fe046,b'\n      But yeah.\n    '
+3365.506,3366.650,me012,b'\n      '
+3367.307,3369.720,fe046,"b""\n      It's """
+3368.540,3370.204,fe004,b'\n      '
+3368.697,3369.600,me045,b'\n      '
+3369.720,3372.980,mn015,b'\n      gets you '
+3370.204,3372.000,fe004,"b'\n      ""That\'s the right answer."" '"
+3372.602,3373.238,fe004,b'\n      '
+3373.680,3374.880,mn015,"b""\n      you're free\n    """
+3374.740,3378.210,fe046,"b""\n      I'm just glad that I don't have to work it """
+3374.880,3376.184,mn015,b'\n      to c- '
+3376.184,3376.783,mn015,b'\n      '
+3377.020,3377.467,me045,b'\n      Yeah.\n    '
+3377.563,3378.086,fe004,b'\n      '
+3377.839,3378.315,mn015,b'\n      Hmm?\n    '
+3378.370,3383.779,fe046,"b""\n      I'm just glad that don't have to work it out """
+3378.381,3379.707,fe004,b'\n      '
+3380.503,3380.956,mn015,b'\n      '
+3382.753,3383.380,me045,b'\n      Yeah.\n    '
+3383.162,3386.090,mn015,b'\n      Uh but '
+3384.750,3388.190,fe046,"b""\n      Oh yeah. That's why I'm glad that I'm not involved in working it out. """
+3386.090,3388.190,mn015,b'\n      O_K. '
+3386.920,3388.070,me045,b'\n      '
+3387.130,3387.850,fe004,b'\n      '
+3388.147,3388.671,fe004,b'\n      '
+3389.647,3390.001,fe004,b'\n      '
+3389.800,3393.410,mn036,b'\n      '
+3393.410,3394.741,mn015,b'\n      And um\n    '
+3394.100,3395.580,me045,"b'\n      So already again this week, huh? '"
+3395.521,3401.110,mn015,b'\n      How diligent do we feel? Yeah. Do feel that we have done our chores for this week or -\n    '
+3399.490,3401.210,fe046,b'\n      '
+3400.051,3401.717,fe004,b'\n      '
+3400.610,3401.041,me012,b'\n      Yeah. '
+3401.240,3405.343,me012,"b""\n      So I mean clearly there's - I can talk about the um the parser changes on Friday\n    """
+3405.230,3407.630,mn015,"b'\n      O_K, Bhaskara will do the big show on Friday.\n    '"
+3405.343,3406.580,me012,"b'\n      at least, so.\n    '"
+3407.630,3409.470,fe004,b'\n      And you guys will argue some more?\n    '
+3409.246,3410.713,me045,b'\n      '
+3409.850,3412.000,me003,b'\n      And between now and then yeah.\n    '
+3409.940,3410.890,fe004,b'\n      and have some?\n    '
+3412.074,3412.786,fe004,b'\n      '
+3412.350,3413.157,me045,b'\n      Promise?\n    '
+3412.350,3413.160,mn015,b'\n      We will - r-\n    '
+3413.083,3414.630,mn036,b'\n      Yeah. '
+3413.157,3415.970,me045,b'\n      '
+3413.160,3414.163,me003,b'\n      We will.\n    '
+3414.163,3414.892,me003,"b""\n      Don't worry.\n    """
+3414.892,3416.250,me003,b'\n      '
+3415.200,3415.803,fe004,b'\n      Yeah.\n    '
+3415.430,3417.060,mn036,b'\n      '
+3415.803,3419.130,fe004,"b""\n      And we'll get the summary like, this - the c- you know, short version, like -\n    """
+3419.280,3424.840,mn036,b'\n      An- and I would like to second '
+3419.829,3420.350,fe004,b'\n      S-\n    '
+3422.420,3429.050,mn015,"b""\n      Yes. Yes. I've - I've - I've - I guess I'm on record for promising that now. So um -\n    """
+3422.479,3423.450,me045,b'\n      Yeah.\n    '
+3424.303,3424.806,fe004,b'\n      '
+3426.603,3427.950,fe004,b'\n      '
+3427.176,3427.813,mn036,b'\n      O_K.\n    '
+3427.300,3428.210,me045,b'\n      '
+3427.950,3429.860,fe004,"b""\n      Like have it - we'll have it in writing. So.\n    """
+3430.040,3431.030,mn015,b'\n      '
+3430.970,3432.740,fe004,"b'\n      or, better, '"
+3433.260,3434.890,mn015,b'\n      This is it and um\n    '
+3433.298,3433.625,fe004,b'\n      '
+3434.403,3434.809,fe004,b'\n      '
+3434.890,3439.140,me003,b'\n      The other good thing about it is Jerry can be on here on Friday and he can weigh in as well.\n    '
+3438.707,3439.213,mn015,b'\n      Yeah.\n    '
+3439.027,3439.725,fe046,b'\n      '
+3439.950,3447.798,mn015,b'\n      and um if you can get that '
+3446.220,3447.550,fe004,b'\n      Oh yeah uh\n    '
+3447.440,3449.040,fe046,b'\n      '
+3447.720,3448.146,fe004,b'\n      O_K.\n    '
+3448.763,3449.168,fe004,b'\n      '
+3449.168,3451.626,fe004,"b""\n      yeah they're - """
+3449.634,3450.551,mn015,b'\n      Give us -\n    '
+3449.995,3451.657,fe046,"b'\n      No problem, yeah.\n    '"
+3450.040,3452.620,me045,"b""\n      I think you've got one on hand, huh? """
+3451.626,3453.664,fe004,"b'\n      I have several in my head, yeah.\n    '"
+3453.664,3455.131,fe004,b'\n      Always thinking about binding.\n    '
+3455.131,3456.650,fe004,b'\n      '
+3455.598,3456.373,me045,b'\n      '
+3455.840,3466.690,mn015,"b""\n      Well the - the - the binding is technically no problem but it's - it - for me it seems to be conceptually important that we find out if we can s- if - if there - if there are things\n    """
+3459.795,3460.738,fe004,b'\n      '
+3464.161,3464.902,fe004,b'\n      '
+3466.990,3473.601,mn015,b'\n      '
+3467.000,3467.679,,b'\n      '
+3471.658,3472.380,fe004,b'\n      Mm-hmm.\n    '
+3473.601,3477.587,mn015,b'\n      If there are things that you know are '
+3477.587,3480.770,mn015,"b'\n      then we should put them up somewhere,\n    '"
+3480.807,3486.570,fe004,"b""\n      So, in general they'll be bindings across both intentions and the actions. So -\n    """
+3481.046,3481.732,mn015,b'\n      a-\n    '
+3484.489,3484.846,mn015,b'\n      Yep.\n    '
+3485.596,3486.840,mn015,b'\n      '
+3486.840,3489.766,fe004,"b""\n      Yeah. So it's gen- it's general across """
+3489.536,3490.032,mn015,b'\n      Yeah.\n    '
+3489.766,3496.668,fe004,b'\n      I mean Shastri would say you know binding is like '
+3496.371,3496.905,mn015,b'\n      O_K.\n    '
+3496.668,3499.690,fe004,"b""\n      So I don't think it will be isolated to """
+3499.823,3501.434,fe004,b'\n      definitely figure out where -\n    '
+3501.434,3503.002,fe004,"b'\n      Yeah, sometimes things belong and -\n    '"
+3503.002,3505.328,fe004,"b""\n      So actually I'm not sure - I would be curious to see\n    """
+3505.651,3508.624,fe004,b'\n      how separate the intention\n    '
+3508.624,3510.751,fe004,b'\n      part and the action part\n    '
+3510.751,3512.126,fe004,b'\n      are in the system.\n    '
+3512.126,3516.195,fe004,"b'\n      Like I know the whole thing is like intention lattice, or something like that, right? So\n    '"
+3514.671,3515.206,mn015,b'\n      Mm-hmm.\n    '
+3516.195,3519.248,fe004,b'\n      is the ri- right now are the ideas the rich - rich the R_A_D\n    '
+3519.166,3520.850,mn015,b'\n      '
+3519.248,3520.175,fe004,b'\n      or whatever\n    '
+3519.860,3520.980,fe046,b'\n      '
+3520.175,3521.420,fe004,b'\n      is one\n    '
+3521.450,3524.328,fe004,"b""\n      you know potential block inside intention. It's still -\n    """
+3524.294,3524.933,mn015,b'\n      Yeah.\n    '
+3524.328,3529.730,fe004,"b""\n      it's still mainly intention hypothesis and then that's just one way to describe the - the action part of it. O_K.\n    """
+3525.449,3525.917,mn015,b'\n      Yeah.\n    '
+3528.250,3528.704,mn015,b'\n      Yeah.\n    '
+3529.421,3529.987,mn015,"b""\n      It's -\n    """
+3529.630,3531.900,me003,"b""\n      It's an a- attempt to refine it basically.\n    """
+3531.630,3534.320,mn015,"b""\n      And yeah, it's an - an - it's - it's sort of -\n    """
+3531.920,3533.217,fe004,"b'\n      O_K, great uh-huh.\n    '"
+3534.165,3536.394,fe004,"b""\n      Not just that you want to go from here to here, it's that\n    """
+3536.707,3542.650,fe004,b'\n      the action is what you intend and this action consists of all com- complicated modules and image schemas and whatever. So.\n    '
+3536.730,3537.235,mn015,b'\n      Yeah.\n    '
+3542.100,3549.310,mn015,b'\n      Yeah. And - and there will be a - a - a '
+3547.871,3548.507,fe004,b'\n      Mm-hmm.\n    '
+3549.417,3550.820,fe004,"b""\n      which is, yeah, It's fine\n    """
+3549.705,3550.971,mn015,b'\n      um\n    '
+3550.971,3553.063,mn015,b'\n      ultimately\n    '
+3553.063,3554.022,mn015,b'\n      one -\n    '
+3553.942,3554.516,fe004,b'\n      '
+3554.022,3555.272,mn015,b'\n      so th- so that\n    '
+3555.272,3561.661,mn015,b'\n      if we want to get '
+3561.527,3562.020,me012,b'\n      '
+3561.661,3563.518,mn015,"b'\n      You can throw the rest away,\n    '"
+3563.129,3563.658,fe004,b'\n      Mm-hmm.\n    '
+3563.518,3564.414,mn015,b'\n      right?\n    '
+3564.017,3564.587,fe004,b'\n      Right.\n    '
+3564.414,3567.040,mn015,"b""\n      Because you're not gonna get anymore information out of\n    """
+3565.376,3565.898,,b'\n      '
+3566.403,3566.970,fe004,b'\n      Right.\n    '
+3567.510,3572.396,mn015,b'\n      the action a- as you find it there in the domain object.\n    '
+3570.841,3571.450,fe004,b'\n      Mm-hmm.\n    '
+3572.396,3574.009,mn015,b'\n      But then again um\n    '
+3574.009,3579.487,mn015,"b""\n      in this case, the domain object may contain information that we don't really care about either.\n    """
+3579.391,3579.922,fe004,b'\n      Mm-hmm.\n    '
+3579.487,3580.490,mn015,b'\n      So.\n    '
+3582.102,3582.625,mn015,b'\n      H-\n    '
+3583.343,3587.950,mn015,"b""\n      But w- we'll see that then, and how - how it sort of evolves.\n    """
+3587.754,3588.186,fe004,b'\n      Mm-hmm.\n    '
+3591.460,3597.405,mn015,b'\n      I mean if - if people '
+3595.830,3598.294,fe046,b'\n      '
+3596.111,3598.348,fe004,b'\n      '
+3597.762,3601.991,mn015,b'\n      happen is that they will get rid of that action thing '
+3598.912,3599.944,fe046,b'\n      '
+3601.991,3603.481,mn015,"b'\n      you know, and leave it up\n    '"
+3602.059,3602.599,fe004,b'\n      '
+3603.481,3605.550,mn015,b'\n      for us to get the parser input\n    '
+3606.280,3611.037,fe004,b'\n      Mmm. We know the things that make use of this thing so that we can just change them so that they make use of RAD.\n    '
+3606.292,3607.350,mn015,b'\n      um\n    '
+3609.380,3609.910,mn015,b'\n      Yeah.\n    '
+3611.687,3612.140,mn015,b'\n      Yeah.\n    '
+3612.033,3614.980,fe004,"b""\n      I can't believe we're using this term. """
+3612.140,3614.480,fe046,b'\n      '
+3613.490,3614.810,me045,b'\n      '
+3615.680,3618.331,fe004,"b""\n      RAD! Like every time I say it, it's horrible.\n    """
+3616.290,3617.350,fe046,b'\n      '
+3616.380,3617.270,me045,b'\n      '
+3618.331,3618.841,fe004,b'\n      O_K.\n    '
+3618.832,3619.413,mn015,b'\n      Mm-hmm.\n    '
+3618.841,3619.820,fe004,b'\n      I see what you mean. '
+3623.375,3625.834,fe004,b'\n      Is the -\n    '
+3623.860,3625.780,me003,"b""\n      RAD's a """
+3625.834,3627.520,fe004,"b'\n      But what is the ""why""?\n    '"
+3625.953,3627.190,me045,"b""\n      It's """
+3627.520,3628.680,me003,b'\n      Why? '
+3627.860,3628.930,fe004,b'\n      Why?\n    '
+3628.690,3631.540,me045,b'\n      It happened to c- be what it '
+3629.330,3630.440,mn015,b'\n      Well -\n    '
+3629.800,3632.240,me003,b'\n      It just happened to be the acronym. '
+3632.240,3637.660,fe004,"b""\n      Yeah. That's - doesn't make it a great term. It's just like those jokes where you have to work on both levels. Do you see what I mean? Like\n    """
+3634.310,3642.180,mn015,b'\n      ye- no but i- but if you - if you - if you '
+3634.440,3636.560,fe046,"b'\n      Just think of it as - as ""wheel"" in German. '"
+3636.560,3636.962,fe046,b'\n      '
+3636.600,3638.290,me003,b'\n      '
+3637.040,3638.320,me045,b'\n      '
+3640.664,3641.341,fe004,b'\n      Oh.\n    '
+3642.200,3649.890,mn015,"b'\n      whatever R_D_F - R_D_F is the biggest thing right? That\'s the rich - sort of ""Resource Description Framework""\n    '"
+3646.179,3647.283,me045,"b'\n      Oh ""rich de-""\n    '"
+3648.328,3649.162,fe004,b'\n      Oh.\n    '
+3649.279,3649.803,fe004,b'\n      '
+3650.230,3656.130,mn015,"b'\n      and um - and also - So, '"
+3653.160,3653.870,mn036,b'\n      '
+3654.001,3654.835,me045,b'\n      '
+3655.684,3656.367,fe004,b'\n      Mm-hmm.\n    '
+3655.932,3656.650,fe046,b'\n      '
+3656.346,3659.497,mn015,"b'\n      uh ""rich"" is also great, rwww. '"
+3658.339,3659.215,me012,b'\n      '
+3659.742,3661.430,me003,"b""\n      Who doesn't like to be a- """
+3659.843,3660.712,fe004,b'\n      Oh.\n    '
+3659.908,3661.296,me045,b'\n      Everybody likes action.\n    '
+3660.910,3665.350,mn015,b'\n      '
+3661.296,3662.989,me045,b'\n      '
+3661.410,3662.840,fe004,b'\n      Yeah. O_K.\n    '
+3661.430,3662.500,me003,b'\n      Yeah.\n    '
+3662.370,3663.420,fe046,b'\n      '
+3662.989,3666.180,me045,"b""\n      Plus it's hip. The """
+3663.420,3665.320,fe004,"b""\n      But what if it's not an action?\n    """
+3664.997,3665.643,me012,b'\n      '
+3665.132,3666.250,fe046,"b""\n      Yeah all the kids'll love it.\n    """
+3665.350,3666.900,mn015,"b""\n      It's - it's rad, yeah. """
+3666.890,3669.925,fe004,"b'\n      And intentions will be ""'"
+3667.110,3668.860,fe046,b'\n      '
+3667.470,3668.330,me045,b'\n      '
+3669.543,3671.681,fe046,b'\n      '
+3669.733,3670.395,me045,b'\n      '
+3669.925,3672.517,fe004,b'\n      '
+3670.287,3671.550,me012,b'\n      '
+3673.400,3677.657,fe004,b'\n      Um are the - are the sample data that you guys showed sometime ago - like the\n    '
+3677.657,3683.427,fe004,"b""\n      things - maybe - maybe you're gonna run a trial tomorrow. I mean, I'm just wondering whether the ac- some the actual sentences from this domain will be available. Cuz\n    """
+3683.427,3686.044,fe004,"b""\n      it'd be nice for me to like look if I'm thinking about examples\n    """
+3686.044,3688.126,fe004,"b""\n      I'm mostly looking at child language which you know\n    """
+3686.643,3689.352,me045,b'\n      '
+3688.126,3690.128,fe004,b'\n      will have '
+3688.254,3689.105,fe046,b'\n      '
+3690.128,3692.472,fe004,b'\n      the kinds of things that you guys are getting. So you showed some in this -\n    '
+3690.190,3690.740,mn036,b'\n      '
+3692.580,3693.019,mn015,b'\n      Mm-hmm.\n    '
+3692.703,3694.835,fe004,"b""\n      here before and maybe you've posted it before but\n    """
+3694.835,3696.631,fe004,b'\n      where would I look if I want to see?\n    '
+3696.960,3700.410,mn015,b'\n      Oh I - You want audio? or do you want transcript?\n    '
+3697.450,3698.200,fe004,b'\n      You know.\n    '
+3699.650,3701.030,fe004,b'\n      No just - just transcript.\n    '
+3700.980,3705.370,mn015,"b'\n      Yeah, well just transcript is just not '"
+3703.888,3704.497,fe004,b'\n      Sorry.\n    '
+3705.370,3705.880,fe004,"b'\n      Oh, O_K.\n    '"
+3705.718,3710.540,mn015,b'\n      Um I can e- I can uh '
+3706.630,3708.650,fe004,b'\n      I take that back then. '
+3709.680,3713.130,fe004,"b""\n      O_K, well don't - don't make it a high priority - I - In fact if you just tell me like\n    """
+3711.501,3712.057,mn015,b'\n      Yeah.\n    '
+3713.130,3715.156,fe004,b'\n      you know like '
+3714.812,3715.302,mn015,b'\n      Mm-hmm.\n    '
+3715.156,3720.280,fe004,"b""\n      The - the - the representational problems are - I'm sure, will be there, like enough for me to think about. So.\n    """
+3717.719,3718.400,mn015,b'\n      O_K.\n    '
+3720.340,3720.716,fe004,b'\n      '
+3722.890,3726.690,mn015,"b'\n      O_K, so Friday, whoever wants and comes, and can.\n    '"
+3723.262,3723.603,fe004,b'\n      '
+3725.604,3726.233,fe004,b'\n      O_K.\n    '
+3725.793,3726.579,me045,b'\n      O_K.\n    '
+3726.890,3728.330,fe004,b'\n      Here. O_K.\n    '
+3727.120,3728.070,mn015,b'\n      '
+3729.089,3731.763,mn015,b'\n      The big parser show.\n    '
+3729.350,3732.080,fe004,b'\n      '
+3730.772,3758.888,me045,b'\n      '
+3731.763,3733.960,mn015,b'\n      Now you can all turn off your -\n    '
+3735.390,3737.280,fe004,b'\n      '
+3739.580,3742.780,fe004,b'\n      '

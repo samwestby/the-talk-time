@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>👥</text></svg>" />
+  <title>Conversation Visualization</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
+  <!-- Bootstrap core CSS -->
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+
+    #transcript>div:nth-child(odd) {
+      background: #8389916b;
+    }
+  </style>
+</head>
+
+<body class="d-flex h-100 text-center">
+  <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+    <header class="mb-2">
+      <div>
+        <h3 class="float-md-start mb-0">Conversation Visualization</h3>
+        <nav class="nav nav-masthead justify-content-center float-md-end nav-pills">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link" href="http://localhost:3000" target="_blank">Text Chat</a>
+          <a class="nav-link disabled" " 
+              >Video Conferencing Soon</a
+            >
+            <!-- <a class=" nav-link" href="#" data-toggle="modal" data-target="#exampleModalCenter">About</a> -->
+        </nav>
+      </div>
+    </header>
+    <main class="">
+      <div class="container-fluid">
+        <div class="row flex-fill justify-content-center" style="min-height:0">
+          <div class="col-xl-7 ">
+            <div class="card">
+              <div class="card-header">
+                <h3 class="card-title">Transcript</h3>
+              </div>
+              <div class="card-body">
+                <div>
+                  <div class="row">
+                    <div class="col-2 text-large">
+                      <h5>
+                        User
+                      </h5>
+                    </div>
+                    <div class="col-8">
+                      <h5>
+                        Message
+                      </h5>
+                    </div>
+                    <div class="col-2 text-large">
+                      <h5>
+                        Time
+                      </h5>
+                    </div>
+                  </div>
+                </div>
+                <div id="transcript" class="overflow-scroll" style="height : 600px;">
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-xl-5 ">
+            <div class="card h-100">
+              <div class="card-header">
+                <h3 class="card-title">Plots</h3>
+              </div>
+              <div class="card-body h-100">
+                <div class="h-50" id="radialPlot">
+                  <!-- <svg preserveAspectRatio="xMidYMid meet"></svg> -->
+                </div>
+                <div class="h-50" id="brokenBarPlot">
+                  <!-- `                   <svg preserveAspectRatio="xMidYMid meet"></svg> -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+        </div>
+
+    </main>
+    <footer class="mt-3">
+      <label for="customRange1" class="form-label">Scrub Timeline</label>
+      <input type="range" class="form-range" id="customRange1" min="0" value="0">
+      <p class="text-muted">
+        <small>
+          Made with ❤️ By @westby & @natkite, bootstrap cover template by
+          <a href="https://twitter.com/mdo">@mdo</a>, socket.io chat application example by Guillermo Rauch. Licensed
+          under the <a href="LICENSE">MIT License</a>.
+        </small>
+      </p>
+    </footer>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script type="module">
+
+    import { io } from "https://cdn.socket.io/4.4.1/socket.io.esm.min.js";
+
+    const socket = io("http://localhost:3000/");
+
+    var chatHistory = [];
+    var participants = [];
+
+    socket.on("connect", () => {
+      console.log("Connected to server");
+    });
+
+    socket.on("chat message", (data) => {
+      chatHistory.push(data);
+      updateTranscript(data);
+      drawRadial(chatHistory);
+      drawBrokenPlot(chatHistory);
+    });
+
+    socket.on("chat history", (data) => {
+      chatHistory = data;
+      console.log(chatHistory);
+      console.log("YOOOO");
+      for (let i = 0; i < chatHistory.length; i++) {
+        // if user not n participant, add to participant list
+        if (!participants.includes(chatHistory[i].user)) {
+          participants.push(chatHistory[i].user);
+        }
+      }
+      drawTranscript(chatHistory);
+      drawRadial(chatHistory);
+      drawBrokenPlot(chatHistory);
+    });
+
+    socket.on("new user", (data) => {
+      participants.push(data);
+      console.log(participants);
+      drawRadial(chatHistory);
+      //updateRadia();
+      //updateBar();
+    });
+
+
+    function drawTranscript(history) {
+      // add elements in history to DOM
+      var transcript = document.getElementById("transcript");
+      for (var i = 0; i < history.length; i++) {
+        var row = document.createElement("div");
+        row.className = "row";
+        var user = document.createElement("div");
+        user.className = "col-sm-2 ";
+        user.innerHTML = history[i].user;
+        var message = document.createElement("div");
+        message.className = "col-sm-8 text-start";
+        message.innerHTML = "<span>" + history[i].message + "</span>";
+        var time = document.createElement("div");
+        time.className = "col-sm-2 justify-content-center align-items-center d-flex";
+        time.innerHTML = new Date(history[i].typingStartTime).toLocaleTimeString() + " - " + new Date(history[i].typingEndTime).toLocaleTimeString();
+        // reduce font size
+        time.style.fontSize = ".5rem";
+        row.appendChild(user);
+        row.appendChild(message);
+        row.appendChild(time);
+        transcript.appendChild(row);
+      }
+      // scroll to bottom
+      transcript.scrollTop = transcript.scrollHeight;
+    }
+
+    function updateTranscript(data) {
+      var transcript = document.getElementById("transcript");
+      var row = document.createElement("div");
+      row.className = "row";
+      var user = document.createElement("div");
+      user.className = "col-sm-2";
+      user.innerHTML = data.user;
+      var message = document.createElement("div");
+      message.className = "col-sm-8 text-start";
+      message.innerHTML = "<span>" + data.message + "</span>";
+      var time = document.createElement("div");
+      time.className = "col-sm-2 justify-content-center align-items-center d-flex";
+      time.innerHTML = new Date(data.typingStartTime).toLocaleTimeString() + " - " + new Date(data.typingEndTime).toLocaleTimeString();
+      time.style.fontSize = ".5rem";
+      row.appendChild(user);
+      row.appendChild(message);
+      row.appendChild(time);
+      transcript.appendChild(row);
+      // scroll to bottom
+      transcript.scrollTop = transcript.scrollHeight;
+    }
+
+    function drawRadial(history) {
+      var radialPlot = document.getElementById("radialPlot");
+      var width = radialPlot.clientWidth;
+      var height = radialPlot.clientHeight;
+      var margin = { top: 20, right: 20, bottom: 20, left: 20 };
+      // remove old svg
+      radialPlot.innerHTML = "";
+      var svg = d3
+        .select("#radialPlot")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height);
+      svg
+        .append("circle")
+        .attr("cx", width / 2)
+        .attr("cy", height / 2)
+        .attr("r", height / 2 - margin.top)
+        .attr("fill", "none")
+        .attr("stroke", "black");
+      var centerOfMass = {
+        x: 0,
+        y: 0,
+      };
+      var totalMass = 0;
+      var masses = {};
+      console.log(participants);
+      for (var user in participants) {
+        masses[participants[user]] = 0;
+      }
+      for (var msg in chatHistory) {
+        if (chatHistory[msg].user in masses) {
+          masses[chatHistory[msg].user] += 1;
+        }
+      }
+      var positions = {};
+      for (var i = 0; i < participants.length; i++) {
+        positions[participants[i]] = {
+          x: Math.cos((i * 2 * Math.PI) / participants.length) * (height / 2 - margin.top),
+          y: Math.sin((i * 2 * Math.PI) / participants.length) * (height / 2 - margin.top),
+        };
+      }
+      console.log(positions);
+      for (var participant in positions) {
+        console.log();
+        centerOfMass.x += positions[participant].x * masses[participant];
+        centerOfMass.y += positions[participant].y * masses[participant];
+      }
+      totalMass = 0;
+      for (var participant in masses) {
+        totalMass += masses[participant];
+      }
+      if (totalMass > 0) {
+        centerOfMass.x /= totalMass;
+        centerOfMass.y /= totalMass;
+      } else {
+        centerOfMass.x = 0;
+        centerOfMass.y = 0;
+      }
+      console.log(centerOfMass);
+      for (var participant in positions) {
+        console.log(positions[participant]);
+        console.log(positions[participant].x);
+        svg
+          .append("line")
+          .attr("x1", positions[participant].x + width / 2)
+          .attr("y1", positions[participant].y + height / 2)
+          .attr("x2", centerOfMass.x + width / 2)
+          .attr("y2", centerOfMass.y + height / 2)
+          .attr("stroke", "black")
+          .attr("stroke-width", "1px");
+        svg
+          .append("circle")
+          .attr("cx", positions[participant].x + width / 2)
+          .attr("cy", positions[participant].y + height / 2)
+          .attr("r", "20px")
+          .attr("stroke", "black")
+          .attr("fill", function (d) {
+            return d3.schemeCategory10[participants.indexOf(participant)];
+          });
+        // text label for the participant
+        svg
+          .append("text")
+          .attr("x", positions[participant].x + width / 2)
+          .attr("y", positions[participant].y + height / 2)
+          .attr("text-anchor", "middle")
+          .attr("font-size", "10px")
+          .attr("font-family", "sans-serif")
+          .attr("fill", "white")
+          .text(participant);
+
+        svg
+          .append("circle")
+          .attr("cx", centerOfMass.x + width / 2)
+          .attr("cy", centerOfMass.y + height / 2)
+          .attr("r", "10px")
+          .attr("stroke", "black");
+
+      }
+
+    }
+
+    function drawBrokenPlot(history) {
+      var brokenPlot = document.getElementById("brokenBarPlot");
+      brokenPlot.innerHTML = "";
+      var width = brokenPlot.clientWidth;
+      var height = brokenPlot.clientHeight;
+      var margin = { top: 20, right: 20, bottom: 20, left: 50 };
+      var svg = d3
+        .select("#brokenBarPlot")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height);
+      // get start and end time of the chat
+      // var startTime = new Date(history[0].typingStartTime);
+      // var endTime = new Date(history[history.length - 1].typingEndTime);
+      var minTime;
+      var maxTime;
+      for (var msg in history) {
+        if (minTime == undefined || new Date(history[msg].typingStartTime) < minTime) {
+          minTime = new Date(history[msg].typingStartTime);
+        }
+        if (maxTime == undefined || new Date(history[msg].typingEndTime) > maxTime) {
+          maxTime = new Date(history[msg].typingEndTime);
+        }
+      }
+      let yScale = d3
+        .scaleBand()
+        .range([height - margin.bottom, margin.top])
+        .domain(participants);
+      var xScale = d3
+        .scaleTime()
+        .domain([minTime, maxTime])
+        .range([margin.left, width - margin.right]);
+      var lengthScale = d3.scaleLinear().domain([0, 1000]).range([0, width / 20]);
+      // let xScale = d3
+      //   .scaleLinear()
+      //   .range([margin.left, width - margin.right])
+      //   .domain([0, d3.max(chatHistory, (d) => {
+      //     return new Date(d.typingEndTime);
+      //   })]);
+
+      var xAxis = d3.axisBottom().scale(xScale);
+      var yAxis = d3.axisRight().scale(yScale);
+      xAxis.ticks(6).tickFormat(function (d) {
+        return new Date(d).toLocaleTimeString();
+      });
+
+      console.log(d3.max(chatHistory, function (d) {
+        return new Date(d.typingEndTime);
+      }));
+
+      svg
+        .append("g")
+        .attr("class", "xAxis")
+        .attr("transform", "translate(0," + (height - margin.top) + ")")
+        .call(xAxis);
+
+      svg
+        .append("g")
+        .attr("class", "yAxis")
+        .attr("transform", "translate(0,0)")
+        .call(yAxis);
+      var barHeight = yScale.bandwidth();
+      var colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+      svg
+        .selectAll("rect")
+        .data(chatHistory)
+        .enter()
+        .append("rect")
+        .attr("x", function (d) {
+          return xScale(new Date(d.typingStartTime));
+        })
+        .attr("y", function (d) {
+          return yScale(d.user);
+        })
+        .attr("width", function (d) {
+          // return xScale(new Date(d.typingEndTime)) - xScale(new Date(d.typingStartTime));
+          return lengthScale(d.message.length);
+        })
+        .attr("height", barHeight)
+        .attr("fill", function (d) {
+          return colorScale(d.user);
+        });
+    }
+
+
+
+    function updateRadial() { }
+
+  </script>
+</body>
+
+</html>

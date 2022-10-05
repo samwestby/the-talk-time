@@ -1,0 +1,7 @@
+**/*checkpoints
+**/*DS_STORE
+**/.vscode
+**/.code-workspace
+Data Wrangling/ICSI_original_transcripts/transcripts/clean
+**/*.pyc
+**/__pycache*

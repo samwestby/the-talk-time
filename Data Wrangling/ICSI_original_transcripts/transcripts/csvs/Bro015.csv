@@ -1,0 +1,415 @@
+start,end,participant,text
+0.320,2.010,me006,b'\n      '
+1.240,2.830,me018,b'\n      '
+3.100,9.150,me013,b'\n      '
+3.500,4.450,me006,b'\n      '
+8.530,10.040,me006,b'\n      '
+8.680,9.370,mn007,b'\n      '
+9.940,13.981,me013,b'\n      uh wanted to mention a couple little bits of news. '
+13.550,15.210,mn007,b'\n      '
+13.981,18.524,me013,b'\n      Um Hynek is supposed to come for a couple days next week. '
+18.524,23.572,me013,"b""\n      Don't know which days yet. """
+23.572,24.808,me013,b'\n      '
+24.808,29.630,me013,b'\n      Um. '
+24.820,29.540,fn002,b'\n      '
+30.280,36.756,me013,"b""\n      we're starting to talk about maybe having Sunil come here uh for some chunk of the summer.\n    """
+37.843,50.990,me013,b'\n      So that may or may not happen but '
+44.840,45.190,me018,b'\n      '
+51.200,51.908,me013,b'\n      shift '
+51.870,53.390,me018,b'\n      '
+52.780,58.644,me013,b'\n      cuz Sunil will be here and '
+56.810,58.370,fn002,b'\n      '
+58.644,59.600,me013,b'\n      So.\n    '
+59.690,60.421,me013,b'\n      '
+60.060,62.100,fn002,b'\n      '
+60.421,62.600,me013,b'\n      Uh. '
+62.680,63.976,me013,"b""\n      That's my news.\n    """
+63.976,65.390,me013,b'\n      '
+64.320,64.760,fn002,b'\n      '
+64.950,65.947,mn007,b'\n      '
+65.947,67.610,mn007,b'\n      Alright. '
+67.013,68.800,me006,b'\n      Cool. I need a '
+68.710,69.110,me018,b'\n      '
+68.790,69.026,me013,b'\n      '
+69.026,72.300,me013,"b'\n      Oh, O_K. '"
+69.400,69.762,me006,b'\n      Yeah.\n    '
+69.590,70.970,mn007,b'\n      '
+69.882,70.486,me006,"b""\n      That's cool.\n    """
+70.240,71.930,me018,b'\n      '
+70.930,73.030,me006,b'\n      '
+72.740,74.650,me013,b'\n      There you go. '
+73.927,75.650,me006,b'\n      Right. '
+75.280,79.380,mn007,"b'\n      It will be some- sometime in summer. July or August, or.\n    '"
+78.350,78.866,me013,b'\n      '
+78.866,91.767,me013,"b""\n      Yeah, I mean it may not happen. I mean he wants - uh I think he wants some experience someplace else and he's - he's uh """
+80.424,80.944,mn007,b'\n      Mm-hmm.\n    '
+91.767,99.930,me013,"b""\n      But y- I don't know maybe June. """
+98.470,98.980,mn007,b'\n      '
+100.380,102.240,me013,b'\n      '
+104.750,109.200,mn007,b'\n      '
+106.850,107.900,me018,b'\n      '
+108.140,108.940,fn002,b'\n      '
+109.210,113.170,mn007,b'\n      more specifically t- for Aurora um '
+111.450,111.920,fn002,b'\n      '
+113.180,117.710,mn007,b'\n      '
+114.370,115.740,fn002,b'\n      '
+115.920,116.650,me006,b'\n      '
+117.570,118.640,fn002,b'\n      '
+118.472,121.684,mn007,b'\n      uh they are not decide on '
+120.580,122.800,fn002,b'\n      '
+121.684,122.525,mn007,b'\n      '
+122.525,134.740,mn007,b'\n      For the V_A_D they - probably they will do something like '
+134.770,140.830,mn007,b'\n      of the SpeechDat-Car '
+140.830,141.630,me013,b'\n      Mm-hmm.\n    '
+141.400,143.780,mn007,"b""\n      and apply them on channel one so it's -\n    """
+142.840,146.720,me013,b'\n      Oh so take a '
+144.263,145.338,mn007,b'\n      '
+145.338,145.732,mn007,b'\n      Uh g-\n    '
+146.622,150.570,mn007,"b'\n      Yeah, to the '"
+147.710,150.820,me013,b'\n      clean data. '
+149.980,151.340,me018,b'\n      '
+151.250,156.010,mn007,b'\n      '
+152.730,153.680,me018,b'\n      '
+155.000,160.600,me013,"b""\n      And - and i- when they're talking about it, do you have the impression that they're talking about """
+161.360,162.550,me018,b'\n      '
+161.460,167.140,me013,b'\n      '
+166.970,168.092,mn007,b'\n      '
+168.092,173.770,mn007,b'\n      '
+168.520,169.790,me013,b'\n      '
+170.360,171.240,me018,b'\n      '
+171.884,172.443,me013,b'\n      Mm-hmm.\n    '
+173.677,174.250,me013,b'\n      '
+174.250,175.690,mn007,b'\n      Um.\n    '
+174.250,175.690,me013,b'\n      '
+175.000,177.470,me018,b'\n      So they would just provide that as part of the data.\n    '
+177.600,180.360,mn007,b'\n      '
+181.290,183.331,me013,"b""\n      Yeah. Sounds like they're still arguing. Yeah.\n    """
+182.870,186.176,mn007,"b""\n      Yeah, they're still """
+183.331,185.570,me013,b'\n      '
+186.176,187.148,mn007,b'\n      '
+186.444,187.085,me013,b'\n      Yeah.\n    '
+187.148,189.617,mn007,"b""\n      Um I don't know what -\n    """
+192.642,193.715,mn007,b'\n      Yeah. '
+193.715,196.896,mn007,b'\n      Nothing much. Yeah. Probably the um - '
+196.896,199.043,mn007,"b'\n      these weight things, they will '"
+199.043,202.839,mn007,b'\n      apply the same kind of weighting scheme for '
+202.839,207.081,mn007,b'\n      T_I-digits than for the SpeechDat-Car. '
+207.081,211.857,mn007,b'\n      So it would be weighting of '
+211.857,221.310,mn007,b'\n      It would be an average of improvements rather than an average of '
+212.790,213.520,me018,b'\n      '
+217.970,218.910,me013,b'\n      Mm-hmm.\n    '
+221.640,226.470,mn007,b'\n      parts of T_I-digits more important than they are right now.\n    '
+228.510,229.770,me013,b'\n      '
+228.690,230.460,mn007,b'\n      '
+229.990,231.305,me013,b'\n      '
+231.305,233.265,me013,b'\n      '
+233.265,238.390,me013,"b'\n      Uh but it sounds like none of this is really decided, that this is how things are leaning and -\n    '"
+236.440,237.560,mn007,b'\n      '
+237.560,243.830,mn007,"b'\n      They - they t- I think they will tend to go this way, but hmm. '"
+241.580,243.940,me013,b'\n      '
+244.270,250.729,mn007,"b'\n      Yeah, if we have the result for the tandem with um M_S_G also\n    '"
+251.534,252.319,mn007,b'\n      '
+252.319,257.068,mn007,b'\n      So '
+257.068,260.895,mn007,b'\n      '
+262.093,265.119,mn007,b'\n      so there is '
+265.119,266.107,mn007,b'\n      '
+266.107,270.215,mn007,b'\n      Um. '
+270.215,271.934,mn007,"b""\n      Yeah, basically that's all. """
+271.934,278.470,mn007,"b""\n      We've started to work on some kind of report for the work """
+275.620,276.500,me013,b'\n      Mm-hmm.\n    '
+276.640,278.060,fn002,b'\n      '
+278.890,280.552,mn007,b'\n      more results. Hmm.\n    '
+278.890,283.570,me013,b'\n      Yeah you have a uh - you have a lunch talk sometime in - '
+282.059,282.487,mn007,b'\n      Mm-hmm.\n    '
+282.487,283.910,mn007,"b""\n      It's next week, yeah.\n    """
+283.120,284.520,fn002,b'\n      '
+283.710,285.250,me013,"b'\n      Next week? Oh, O_K.\n    '"
+285.910,286.850,fn002,b'\n      '
+286.420,290.660,me018,b'\n      '
+289.270,293.740,me013,b'\n      '
+291.030,294.270,me018,b'\n      Uh '
+293.740,294.440,mn007,b'\n      '
+294.440,296.601,fn002,"b'\n      Oh yes. But, '"
+296.601,301.753,fn002,"b""\n      no. This week I'm - """
+301.140,301.852,me018,b'\n      Ah.\n    '
+301.753,304.520,fn002,b'\n      I stopped it. Interfered. Yeah.\n    '
+302.681,304.430,me018,b'\n      You stopped working on it I see\n    '
+307.810,309.610,me013,b'\n      O_K. Uh.\n    '
+311.130,312.080,mn007,b'\n      '
+311.580,317.220,me013,b'\n      So it sounds like basically things are slowing down a bit? And - and - and trying to\n    '
+314.960,315.980,me018,b'\n      '
+317.480,320.890,me013,b'\n      collate results? and '
+319.680,322.289,mn007,b'\n      Mm-hmm. '
+322.250,323.180,me013,b'\n      Yeah.\n    '
+322.289,332.589,mn007,"b'\n      Um. Yeah. Right now, Sunil seems i- is in India actually. '"
+326.520,327.280,me013,b'\n      Right.\n    '
+332.589,333.430,mn007,b'\n      '
+333.290,336.837,me013,b'\n      Right. But that sort of puts it on us to do it. But. '
+333.430,334.718,mn007,b'\n      Um. And -\n    '
+336.180,337.359,mn007,"b""\n      I'm sorry? """
+336.837,340.788,me013,"b'\n      Kind of puts it on us to put more in, then, '"
+340.097,341.184,mn007,b'\n      Yeah. '
+340.788,349.840,me013,"b""\n      I mean. Uh. Who's - who's - was uh looking at the combination of uh spectral s- subtraction approaches with what we had for instance.\n    """
+348.500,349.950,fn002,b'\n      '
+350.050,353.500,mn007,b'\n      Sunil was '
+352.298,352.874,me013,b'\n      O_K.\n    '
+352.440,353.570,fn002,b'\n      '
+353.500,355.655,mn007,b'\n      Um. '
+355.655,366.490,mn007,"b""\n      He sent a bunch of - a bunch of results uh but I don't know what's the status of this. I """
+365.810,366.940,me013,b'\n      What was that again?\n    '
+367.780,375.753,mn007,b'\n      '
+374.310,375.210,me013,b'\n      Mm-hmm.\n    '
+375.753,377.665,mn007,b'\n      '
+376.840,378.210,me013,b'\n      And -\n    '
+377.665,380.100,mn007,b'\n      And it was not\n    '
+380.120,383.574,mn007,b'\n      better than what we had before. '
+380.820,382.610,fn002,b'\n      '
+383.574,387.580,mn007,b'\n      Then he tried to put the on-line normalization and '
+387.580,390.614,mn007,"b'\n      it did not improve further, putting the on-line normalization, so.\n    '"
+390.614,394.060,mn007,b'\n      '
+394.307,395.336,mn007,b'\n      Yeah. '
+394.648,395.072,me013,b'\n      Hmm.\n    '
+399.870,400.970,me013,b'\n      '
+400.970,402.666,me013,b'\n      '
+402.666,406.143,me013,b'\n      O_K. Well - '
+404.299,404.710,mn007,b'\n      Hmm. '
+405.810,407.710,me006,b'\n      '
+406.143,416.064,me013,"b'\n      Yeah. I - uh, I g- so I guess nothing has ever happened about uh making a standardized uh place where the software sits so that people can work with it, and '"
+412.540,412.840,me018,b'\n      '
+415.090,421.530,mn007,"b'\n      No. Well, I - I sent mails to start the - the process and I guess we should have to - '"
+417.150,418.270,fn002,b'\n      '
+422.790,423.523,mn007,b'\n      '
+423.523,428.970,mn007,"b'\n      Well, we know most what we have to - to put in - in this. '"
+429.100,430.380,me018,b'\n      '
+429.960,430.900,mn007,b'\n      '
+431.452,433.190,mn007,"b'\n      So, I guess. Yeah, we m-\n    '"
+432.770,434.649,me013,b'\n      O_K. '
+434.649,438.282,me013,"b""\n      Well, uh. Let's - let's come back to this uh later. """
+435.990,437.130,fn002,b'\n      '
+438.282,440.069,me013,b'\n      Um. '
+439.200,441.010,fn002,b'\n      '
+440.577,445.120,me013,b'\n      Um. '
+445.940,448.790,me018,"b""\n      No. I didn't. Um, are you talking about -\n    """
+448.050,449.450,me013,"b'\n      H_T_K, or - ? '"
+449.120,454.233,me018,"b""\n      Uh, no. This week I haven't. I've been - my whole time's been taken up with uh """
+454.233,457.030,me018,b'\n      '
+454.320,455.895,me013,b'\n      O_K. '
+455.895,456.859,me013,b'\n      u-\n    '
+456.859,458.110,me013,b'\n      O_K. '
+457.430,458.950,me018,b'\n      covering things. '
+458.310,462.890,me013,b'\n      This may be a very short meeting. Uh. '
+459.750,461.900,me018,b'\n      '
+461.348,461.675,mn007,b'\n      '
+464.730,466.031,me013,b'\n      Anything from '
+466.031,469.330,me013,b'\n      your side?\n    '
+466.100,469.281,me006,"b'\n      Uh, continuing readings '"
+467.059,467.529,mn007,b'\n      '
+468.754,469.534,mn007,b'\n      '
+469.281,472.320,me006,"b""\n      Uh. We're doing some background reading on phonetics.\n    """
+469.330,470.310,me013,b'\n      Uh-huh.\n    '
+472.350,474.860,me013,b'\n      O_K. '
+472.444,473.443,me006,b'\n      Yeah. '
+474.070,475.633,me026,b'\n      Well um. '
+475.633,485.433,me026,b'\n      One thing in - in the paper Avendano and his collaborators wrote '
+477.710,480.330,me018,b'\n      '
+480.330,481.150,me006,b'\n      '
+485.433,491.600,me026,b'\n      subtracting the mean of the log spectral magnitude '
+491.600,497.408,me026,b'\n      and they said perhaps that limited their approach that it did not try to normalize the phase in any way. '
+496.545,497.400,me013,b'\n      '
+497.408,504.255,me026,"b""\n      So I'm - I'm going to start thinking about """
+497.450,498.150,mn007,b'\n      '
+504.255,515.230,me026,b'\n      Um. Si- if - if the um channel '
+508.640,510.620,me013,b'\n      '
+508.940,512.540,fn002,b'\n      '
+515.470,522.510,me026,b'\n      So um perhaps just subtracting the mean of the phase would - would help.\n    '
+522.770,524.340,mn007,b'\n      '
+522.830,529.730,me026,"b""\n      Um but I don't know I th- I get the impression that they tried to do some things with the phase and they weren't successful.\n    """
+524.270,525.140,me018,b'\n      '
+524.340,524.896,mn007,b'\n      '
+524.356,525.470,me013,b'\n      '
+526.000,527.090,fn002,b'\n      '
+535.946,536.650,me013,b'\n      O_K.\n    '
+536.560,543.180,me018,b'\n      '
+540.210,541.110,fn002,b'\n      '
+543.540,560.920,me018,b'\n      where th- uh for the Italian system they had done a series of experiments playing around with the um - '
+543.750,544.820,fn002,b'\n      '
+549.300,550.690,me026,b'\n      '
+551.370,552.110,fn002,b'\n      '
+552.070,553.290,me026,b'\n      '
+554.660,555.900,fn002,b'\n      '
+554.927,555.462,me013,b'\n      Mm-hmm.\n    '
+555.416,556.144,mn007,b'\n      '
+556.885,557.700,me013,b'\n      '
+558.190,558.990,fn002,b'\n      '
+558.740,559.970,me026,b'\n      '
+559.660,560.139,me013,b'\n      '
+560.139,561.084,me013,b'\n      '
+560.990,564.550,fn002,b'\n      '
+561.170,561.790,me026,b'\n      '
+561.790,577.480,me018,"b""\n      it turns out that the one that they're actually using was not the best, uh in - in their series of experiments, which I uh - Maybe it's because they """
+576.320,578.500,me013,"b""\n      Sure. Wh- who's """
+578.040,581.570,me018,"b""\n      Uh, I don't know """
+580.370,581.790,me006,b'\n      '
+580.910,582.350,mn007,b'\n      Um.\n    '
+583.040,591.100,mn007,"b""\n      I don't know but it's the company who prepared the Italian database, so it was - Is it Alcatel, or - ? """
+590.650,592.900,fn002,b'\n      I '
+591.606,591.967,mn007,b'\n      I -\n    '
+592.900,593.470,me013,b'\n      Mmm.\n    '
+593.470,594.240,me006,b'\n      '
+594.420,595.770,mn007,"b""\n      I don't know. """
+595.110,617.770,me018,b'\n      So um '
+596.500,597.700,fn002,b'\n      '
+604.880,606.400,me026,b'\n      '
+616.430,616.900,me026,b'\n      '
+616.940,619.520,me006,b'\n      '
+617.950,626.590,me018,"b'\n      all different of kinds of variations, and that would let us, you know, pump through a lot more experiments. '"
+619.730,625.040,me006,b'\n      '
+622.950,623.640,fn002,b'\n      '
+623.655,624.680,me026,b'\n      '
+626.640,635.810,me018,b'\n      pointer about uh '
+629.770,630.710,fn002,b'\n      '
+636.130,643.430,me018,b'\n      so that you can do that. '
+638.120,644.280,me026,b'\n      '
+643.430,644.280,me018,b'\n      Oh!\n    '
+644.280,651.160,me018,b'\n      The other th- the other experiment that they had in that paper was uh uh playing with the number of Gaussians per state.\n    '
+651.160,652.330,me018,b'\n      And so.\n    '
+651.380,652.220,mn007,b'\n      Uh.\n    '
+651.540,652.810,me013,b'\n      Mm-hmm.\n    '
+652.330,658.870,mn007,"b""\n      I think it's - was playing with the number of states per word. They had sixteen, seventeen, eighteen.\n    """
+659.960,664.430,mn007,"b'\n      Yeah, because it was around - between sixteen and twenty or -\n    '"
+665.000,668.590,me018,b'\n      O_K. I should look at that more carefully cuz I wonder\n    '
+665.040,666.700,me026,b'\n      '
+666.580,667.650,mn007,b'\n      Yeah.\n    '
+667.630,668.860,me026,b'\n      '
+668.590,668.860,me018,b'\n      what\n    '
+668.860,670.751,me018,b'\n      they did about -\n    '
+670.751,675.480,me018,"b""\n      Oh, O_K. I was thinking it was Gaussians but it's states. O_K.\n    """
+673.160,674.290,mn007,"b'\n      So, and -\n    '"
+675.100,676.550,mn007,"b'\n      Yeah, apparently,\n    '"
+676.130,676.580,me018,b'\n      '
+676.860,682.040,mn007,b'\n      um '
+680.120,680.850,fn002,b'\n      '
+682.660,685.250,mn007,"b'\n      From - from eighteen to twenty, or -\n    '"
+684.680,685.458,me018,b'\n      Mm-hmm.\n    '
+686.953,687.692,me018,b'\n      Yeah.\n    '
+687.692,698.925,me018,b'\n      So. '
+688.900,690.300,me026,b'\n      '
+698.925,709.040,me018,"b'\n      uh make the silence model more powerful, you know, increasing the number of Gaussians to the number of states, different - different things like that, so. '"
+710.180,711.603,me013,b'\n      '
+711.603,712.550,me013,b'\n      Um. '
+712.550,713.140,fn002,b'\n      '
+713.140,713.972,me013,b'\n      '
+713.972,715.528,me013,b'\n      '
+715.528,716.364,me013,b'\n      Um.\n    '
+717.550,725.700,me013,"b""\n      Why don't - why don't we uh - if there aren't any other major things, why don't we do the digits, and then - then uh turn the mikes off.\n    """
+727.370,728.350,me018,b'\n      '
+727.730,729.066,me013,b'\n      '
+729.066,729.703,me013,"b""\n      So I'll start.\n    """
+729.703,732.643,me013,b'\n      Uh. '
+730.150,731.250,me018,b'\n      '
+732.643,736.810,me013,b'\n      Uh I got transcript uh L_ six four '
+734.260,737.830,me018,b'\n      '
+738.090,742.870,me013,"b'\n      Four four six one, three five three six, six two three seven. '"
+739.370,741.950,fn002,b'\n      '
+743.829,747.983,me013,"b'\n      Five, five two nine, one eight, four three eight, two. '"
+743.990,744.770,fn002,b'\n      '
+747.830,749.060,fn002,b'\n      '
+748.765,752.443,me013,"b'\n      Eight, one one seven, five zero, four six two, eight. '"
+753.336,756.258,me013,"b'\n      One six eight, three five zero, eight nine five. '"
+755.120,756.070,fn002,b'\n      '
+756.868,760.552,me013,"b'\n      Six, six eight zero, six nine, three zero six, nine. '"
+758.360,759.430,me018,b'\n      '
+761.372,764.171,me013,"b'\n      Eight five eight, four two, three one eight seven. '"
+761.560,762.240,me018,b'\n      '
+764.671,767.372,me013,"b'\n      Nine three two six, three, three one three. '"
+768.018,771.340,me013,"b'\n      Zero six four zero, seven, four seven three. '"
+772.180,774.605,me006,b'\n      Transcript L_ dash sixty five. '
+775.465,779.530,me006,"b'\n      Three three six, nine zero, one four five one. '"
+779.160,780.090,me018,b'\n      '
+780.250,781.810,fn002,b'\n      '
+780.270,785.770,me006,"b'\n      Six nine two eight, zero four O_ six, O_ three seven two. '"
+784.740,785.860,me018,b'\n      '
+786.720,791.712,me006,"b'\n      Five zero, one four, three eight, two three, nine six. '"
+788.600,790.640,mn007,b'\n      '
+792.531,796.920,me006,"b'\n      Six O_ six, eight nine, two nine five nine. '"
+793.840,795.070,fn002,b'\n      '
+797.360,798.400,me018,b'\n      '
+797.440,803.065,me006,"b'\n      Seven seven eight seven, five nine eight nine, six one two zero. '"
+803.040,803.760,me018,b'\n      '
+803.580,807.321,me006,"b'\n      Eight seven one, five one, nine six six eight. '"
+805.770,806.220,me018,b'\n      '
+807.960,812.440,me006,"b'\n      Three five zero, one three zero, eight four eight two. '"
+813.720,818.800,me006,"b'\n      Four eight two five, nine six two five, one two nine one. '"
+813.940,814.490,fn002,b'\n      '
+820.010,822.830,me018,b'\n      Transcript L_ sixty six. '
+822.260,823.830,me006,b'\n      '
+823.350,828.230,me018,"b'\n      Eight seven, three two, zero one, three five, five three. '"
+827.080,827.740,me026,b'\n      '
+828.680,832.064,me018,"b'\n      Two eight six, O_ two, O_ six six eight. '"
+832.440,837.002,me018,"b'\n      Seven, three two three, five three, three seven zero, two. '"
+837.612,841.239,me018,"b'\n      Two four six, three nine, five seven five zero. '"
+840.840,841.320,fn002,b'\n      '
+841.650,846.320,me018,"b'\n      Seven, two three O_, four four, four six eight, one. '"
+846.785,851.480,me018,"b'\n      Eight, five six four, eight one, one seven eight, five. '"
+847.990,848.790,fn002,b'\n      '
+850.199,851.380,mn007,b'\n      '
+851.990,853.040,fn002,b'\n      '
+852.230,855.900,me018,"b'\n      Four four two, five two five, seven seven one. '"
+856.440,860.020,me018,"b'\n      Two seven nine, five nine, eight five seven four. '"
+857.690,859.120,fn002,b'\n      My name is Maria. '
+857.705,868.845,,b'\n      '
+860.270,861.580,mn007,"b'\n      Oh, yeah. '"
+861.770,864.750,me026,b'\n      Transcript L_ dash sixty seven '
+862.059,862.580,fn002,b'\n      This.\n    '
+865.210,866.330,fn002,b'\n      '
+865.770,869.490,me026,"b'\n      Seven one five, six six, seven five O_ five. '"
+866.510,867.990,mn007,b'\n      Maria Carmen? '
+867.642,868.616,fn002,b'\n      Yeah.\n    '
+868.077,868.833,mn007,b'\n      Hmm.\n    '
+868.616,883.717,fn002,b'\n      '
+869.770,872.983,me026,"b'\n      One six six O_, seven two nine nine - '"
+872.983,876.164,me026,b'\n      '
+876.164,881.293,me026,"b'\n      One six six O_, seven two nine nine, six six five three. '"
+881.618,886.370,me026,"b'\n      Three O_, four four, five one, two seven, one two. '"
+884.380,885.557,fn002,b'\n      '
+884.983,886.260,mn007,b'\n      '
+887.058,891.860,me026,"b'\n      Eight seven, three one, eight nine, one three, five five. '"
+892.530,894.930,fn002,b'\n      '
+892.590,897.240,me026,"b'\n      Five six six, zero four three, four eight zero. '"
+895.720,897.280,me013,b'\n      '
+897.550,902.191,me026,"b'\n      Eight six, seven eight, five one, zero six, six nine. '"
+902.696,908.889,me026,"b'\n      One two two five, seven one eight six, nine nine five three. '"
+905.920,906.980,fn002,b'\n      '
+909.625,913.930,me026,"b'\n      Two four eight, four eight eight, four seven zero. '"
+913.790,914.341,mn007,b'\n      '
+914.341,916.837,mn007,b'\n      Transcript L_ dash sixty eight. '
+916.837,917.444,mn007,b'\n      '
+917.444,920.406,mn007,"b'\n      five zero two, one five, six two one four '"
+920.780,923.805,mn007,"b'\n      eight one nine, two five, one three two eight '"
+923.240,924.540,fn002,b'\n      '
+924.305,928.687,mn007,"b'\n      three, four three two, one O_, four one five, five '"
+929.474,933.247,mn007,"b'\n      two eight five, zero nine four, five nine zero one '"
+933.844,936.969,mn007,"b'\n      eight four two, two one eight, two six nine '"
+937.402,941.211,mn007,"b'\n      seven three four six, one, zero zero zero '"
+941.810,945.667,mn007,"b'\n      zero seven seven zero, three, two four six '"
+946.758,950.140,mn007,"b'\n      six four two four, one, three nine six '"
+950.740,954.280,fn002,b'\n      '
+954.450,955.390,me006,b'\n      '
+954.630,954.945,fn002,b'\n      '
+954.945,958.675,fn002,b'\n      Transcript '
+958.675,964.792,fn002,"b'\n      Five nine seven, six eight six, three five nine four. '"
+961.230,966.300,mn007,b'\n      '
+965.400,970.979,fn002,"b'\n      Six six five, six nine eight, five three five. '"
+970.180,970.810,me018,b'\n      '
+971.410,976.840,fn002,"b'\n      Six seven one three, nine, seven one eight. '"
+974.110,975.760,mn007,b'\n      '
+977.492,978.008,fn002,"b""\n      I'm sorry. """
+978.008,980.133,fn002,b'\n      Seven nine eight. '
+980.727,985.794,fn002,"b'\n      Six O_ one six, eight, nine one three. '"
+984.640,986.200,me018,b'\n      '
+986.280,991.966,fn002,"b'\n      Eight seven nine, five five four, eight five nine. '"
+992.552,997.768,fn002,"b'\n      Nine five nine nine, four, one eight five. '"
+998.359,1005.914,fn002,"b'\n      Four zero four six, three three one two, zero six nine one. '"
+1004.340,1006.160,mn007,b'\n      '
+1006.240,1012.356,fn002,"b'\n      Three six zero five, two eight, five two four, three. '"
+1013.910,1014.700,me013,b'\n      O_K. '

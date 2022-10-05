@@ -1,0 +1,2514 @@
+start,end,participant,text
+0.000,1.430,,b'\n      '
+0.000,1.012,mn035,b'\n      '
+3.644,5.106,mn035,b'\n      '
+6.690,8.000,me011,"b'\n      O_K, so we should be on.\n    '"
+8.259,9.365,mn082,b'\n      So\n    '
+8.430,9.685,me011,"b""\n      And I'm gonna go ahead and\n    """
+9.685,11.163,me011,"b'\n      start by reading the digit strings,\n    '"
+11.163,12.517,me011,b'\n      just to give you an example of how to do it.\n    '
+12.517,14.897,me011,b'\n      And so the first thing to do is read the transcript number\n    '
+14.897,17.010,me011,b'\n      which is '
+17.440,21.645,me011,b'\n      So this is transcript one five five one dash one five seven zero '
+21.787,22.880,me011,b'\n      two seven '
+23.032,23.802,me011,b'\n      three '
+23.884,24.758,me011,b'\n      four '
+24.806,26.079,me011,b'\n      five zero zero '
+26.114,27.349,me011,b'\n      seven one six '
+27.349,28.375,me011,b'\n      eight four four '
+28.676,30.418,me011,b'\n      nine five two four seven '
+30.725,31.880,me011,b'\n      O_ six O_ '
+31.937,32.614,me011,b'\n      zero '
+32.731,33.231,me011,b'\n      one '
+33.511,35.556,me011,b'\n      two O_ O_ two two O_ four '
+35.814,37.260,me011,b'\n      four one seven five '
+37.581,38.336,me011,b'\n      five three '
+38.427,39.308,me011,b'\n      six six eight '
+39.397,40.005,me011,b'\n      seven '
+40.125,40.558,me011,b'\n      eight '
+40.711,41.149,me011,b'\n      nine '
+41.381,42.319,me011,b'\n      O_ O_ nine O_ '
+42.545,43.914,me011,b'\n      one one five nine '
+44.104,46.165,me011,b'\n      two four six six two O_ five '
+48.490,50.100,me011,b'\n      And so if you could just go around the table\n    '
+51.372,52.685,me011,b'\n      and read them out.\n    '
+51.372,52.685,fn083,"b'\n      O_K, should I next?\n    '"
+52.685,52.931,me011,b'\n      Yep\n    '
+53.074,58.073,fn083,"b'\n      O_K, transcript is one seven three one dash one seven five O_ '"
+58.972,61.284,fn083,b'\n      O_ one nine nine O_ one three '
+61.548,63.392,fn083,b'\n      zero seven six seven five '
+62.736,64.326,mn082,b'\n      '
+63.392,65.095,fn083,b'\n      one seven four two O_ '
+65.665,66.087,fn083,b'\n      two '
+66.087,66.595,fn083,b'\n      three '
+66.595,67.292,fn083,b'\n      four '
+67.292,68.956,fn083,b'\n      six one eight seven '
+68.956,70.914,fn083,b'\n      seven four zero seven '
+71.038,72.435,fn083,b'\n      eight six four eight '
+72.463,73.385,fn083,b'\n      nine five '
+73.385,73.851,fn083,b'\n      O_ '
+73.994,74.699,fn083,b'\n      zero '
+74.699,75.440,fn083,b'\n      one zero '
+75.440,76.505,fn083,b'\n      three two three '
+76.755,78.140,fn083,b'\n      four three seven O_ '
+78.417,79.766,fn083,b'\n      five three zero two '
+79.766,80.494,fn083,b'\n      six nine '
+80.494,81.701,fn083,b'\n      seven nine seven '
+81.787,82.321,fn083,b'\n      eight '
+82.321,83.300,fn083,b'\n      nine O_ nine '
+85.132,91.020,mn021,"b'\n      O_K, this is transcript one five seven one, one five nine zero. '"
+91.020,92.285,mn021,b'\n      three nine five '
+92.332,94.290,mn021,b'\n      four seven seven O_ '
+94.505,95.408,mn021,b'\n      five nine '
+95.475,96.121,mn021,b'\n      six '
+96.188,98.583,mn021,b'\n      seven O_ O_ six one '
+98.994,101.275,mn021,b'\n      nine one six four two '
+101.684,102.872,mn021,b'\n      O_ seven one '
+103.159,104.176,mn021,b'\n      zero three '
+104.481,108.007,mn021,b'\n      one eight zero zero nine eight five '
+108.083,108.777,mn021,b'\n      two '
+108.806,109.509,mn021,b'\n      three '
+109.692,112.173,mn021,b'\n      four zero zero one seven '
+112.600,113.893,mn021,b'\n      six three five '
+113.918,115.135,mn021,b'\n      seven seven '
+115.230,117.178,mn021,b'\n      eight nine nine three '
+117.463,118.675,mn021,b'\n      nine six '
+118.828,119.347,mn021,b'\n      O_ '
+119.347,120.060,mn021,b'\n      zero '
+120.317,120.963,mn021,b'\n      one '
+121.239,124.709,mn021,b'\n      three one eight five seven four three '
+126.030,131.443,me011,b'\n      If you could sign that? '
+126.030,131.443,mn082,"b'\n      O_K, Transcript script one four one one dash one four thre- uh three zero. '"
+132.129,134.808,mn082,b'\n      seven six four six three seven four '
+135.142,137.185,mn082,b'\n      eight six six four seven '
+137.334,138.485,mn082,b'\n      nine nine O_ '
+138.770,139.283,mn082,b'\n      O_ '
+139.798,141.082,mn082,b'\n      zero zero six '
+141.167,143.667,mn082,b'\n      two two eight zero one two five '
+143.724,144.770,mn082,b'\n      three four '
+145.099,146.458,mn082,b'\n      four six O_ two '
+146.848,149.395,mn082,b'\n      five six four four six '
+149.677,151.631,mn082,b'\n      six eight one five '
+151.631,152.487,mn082,b'\n      seven O_ '
+152.606,153.357,mn082,b'\n      eight '
+153.433,154.441,mn082,b'\n      O_ three '
+154.768,155.201,mn082,b'\n      zer- '
+155.201,157.321,mn082,b'\n      zero three five three two '
+157.869,158.928,mn082,b'\n      one five three '
+159.266,160.445,mn082,b'\n      two six two two '
+160.612,161.648,mn082,b'\n      three eight '
+161.924,163.882,mn082,b'\n      four O_ one six one '
+164.034,164.804,mn082,b'\n      five '
+164.996,167.875,mn082,b'\n      seven two three five one two eight '
+170.016,175.776,mn030,"b'\n      Um, transcript number one six five one, one six seven O_- uh O_. '"
+176.768,177.931,mn030,b'\n      six O_ O_ '
+177.931,179.030,mn030,b'\n      seven zero '
+179.106,179.981,mn030,b'\n      nine one '
+180.319,182.449,mn030,b'\n      O_ three w- O_ O_ nine '
+182.810,185.956,mn030,b'\n      zero six two zero two eight five '
+186.310,187.146,mn030,b'\n      one eight '
+187.365,187.908,mn030,b'\n      two '
+188.258,189.161,mn030,b'\n      three '
+189.633,191.381,mn030,b'\n      four O_ eight five seven '
+191.952,193.217,mn030,b'\n      six two four '
+193.555,196.625,mn030,b'\n      seven four three nine five five zero '
+197.449,199.157,mn030,b'\n      eight seven two seven '
+200.255,201.912,mn030,b'\n      nine eight seven one one '
+202.317,202.835,mn030,b'\n      O_ '
+203.306,203.878,mn030,b'\n      zero '
+204.304,205.060,mn030,b'\n      one '
+205.536,207.460,mn030,b'\n      three two O_ seven three '
+208.241,209.081,mn030,b'\n      four two '
+209.753,210.931,mn030,b'\n      five five six '
+211.169,212.018,mn030,b'\n      six five '
+213.923,214.509,me011,b'\n      Thanks.\n    '
+214.978,219.667,mn035,b'\n      Transcript is '
+220.183,221.563,mn035,b'\n      O_ O_ five six '
+221.610,223.093,mn035,b'\n      zero zero six four '
+223.279,225.028,mn035,b'\n      two one one seven O_ '
+225.314,226.701,mn035,b'\n      three three three eight '
+226.979,227.882,mn035,b'\n      four two '
+228.110,229.558,mn035,b'\n      five five three five '
+229.641,230.230,mn035,b'\n      six '
+230.287,230.943,mn035,b'\n      seven '
+230.962,231.665,mn035,b'\n      eight '
+231.928,233.848,mn035,b'\n      O_ two five three seven '
+234.063,236.667,mn035,b'\n      zero four seven four five six three '
+236.952,238.340,mn035,b'\n      one six eight eight '
+239.239,239.862,mn035,b'\n      two '
+239.940,242.677,mn035,b'\n      three O_ three three nine five one '
+243.437,244.255,mn035,b'\n      four '
+244.456,245.483,mn035,b'\n      six three '
+245.939,248.011,mn035,b'\n      seven four six six two '
+248.097,249.485,mn035,b'\n      eight five three '
+249.627,250.255,mn035,b'\n      nine '
+250.293,250.727,mn035,b'\n      O_ '
+252.910,256.501,mn081,b'\n      Transcript one seven one one dash one seven three O_ '
+257.458,258.540,mn081,b'\n      nine four '
+258.599,259.273,mn081,b'\n      O_ '
+259.321,260.110,mn081,b'\n      zero '
+260.167,260.918,mn081,b'\n      one '
+261.215,264.342,mn081,b'\n      two zero zero three one nine nine '
+264.608,265.568,mn081,b'\n      four one '
+266.093,269.040,mn081,b'\n      five two one six nine eight eight '
+269.648,271.193,mn081,b'\n      six eight five '
+271.355,273.599,mn081,b'\n      seven nine zero eight '
+273.912,275.785,mn081,b'\n      eight O_ six nine '
+276.091,278.106,mn081,b'\n      nine O_ three nine '
+278.449,279.808,mn081,b'\n      O_ O_ seven '
+280.429,282.979,mn081,b'\n      one one six eight five two two '
+283.365,285.047,mn081,b'\n      two six zero eight '
+285.114,287.063,mn081,b'\n      three six five nine '
+287.433,288.760,mn081,b'\n      four seven four '
+288.956,291.295,mn081,b'\n      five eight three nine '
+291.485,292.236,mn081,b'\n      six '
+292.245,292.882,mn081,b'\n      seven '
+293.540,295.771,mn081,b'\n      nine four two O_ nine '
+295.771,296.650,me011,b'\n      Thanks\n    '
+297.433,299.286,me011,"b'\n      So, I wanted to just era- it- reiterate\n    '"
+298.162,298.818,mn081,b'\n      '
+299.286,300.687,me011,b'\n      cuz we did have have one person come in\n    '
+300.925,302.180,me011,"b'\n      a little later that, um\n    '"
+302.180,303.442,me011,b'\n      there will be an opportunity\n    '
+303.795,306.822,me011,"b""\n      to remove anything from the transcript that you don't want made public\n    """
+307.260,310.707,me011,"b""\n      after it's transcribed, so that'll be some months off, but you will have that opportunity\n    """
+311.634,312.370,me011,b'\n      O_K? Thanks.\n    '
+312.370,313.471,mn021,b'\n      O_K.\n    '
+313.019,314.268,mn082,b'\n      O_K. Thanks Adam.\n    '
+314.589,315.979,mn082,b'\n      We could start with our meeting?\n    '
+315.979,316.288,me011,b'\n      Yep!\n    '
+316.288,316.891,mn082,b'\n      Yep!\n    '
+316.891,318.720,me011,b'\n      Thanks very much.\n    '
+316.891,317.480,mn082,b'\n      O_K. '
+317.480,318.720,mn082,b'\n      You have to stay all the time here?\n    '
+318.720,319.717,me011,"b""\n      I don't have to\n    """
+319.717,320.810,me011,b'\n      Um.\n    '
+319.717,320.810,mn082,b'\n      But ch- you wanna do?\n    '
+320.810,321.380,me011,b'\n      Well -\n    '
+321.380,321.997,me011,"b""\n      It's just -\n    """
+321.997,323.019,me011,"b'\n      At the end of the meeting,\n    '"
+323.019,324.064,me011,"b""\n      don't turn off the mikes\n    """
+324.064,324.833,me011,b'\n      just leave them on.\n    '
+325.200,326.066,mn021,b'\n      O_K.\n    '
+325.210,325.940,me011,b'\n      And uh\n    '
+326.700,327.043,me011,b'\n      Uh.\n    '
+327.945,328.658,me011,b'\n      '
+328.658,329.822,me011,"b'\n      could y- actually, could you call me,\n    '"
+329.822,331.745,me011,"b""\n      At the end of the meeting? I'll leave my number on the board there\n    """
+331.745,333.459,mn082,b'\n      Yeah. O_K. We can do that.\n    '
+332.506,332.862,me011,b'\n      Thanks.\n    '
+335.166,337.540,fn083,"b'\n      Hey, Adam, you know what? It must be funny to do an a-\n    '"
+337.540,339.223,fn083,b'\n      research on how people '
+339.223,341.931,fn083,b'\n      behave while '
+341.431,343.023,mn082,b'\n      '
+341.931,343.023,me011,b'\n      Numbers are strange!\n    '
+341.931,343.023,fn083,b'\n      That must be -\n    '
+343.023,343.997,me011,b'\n      It is!\n    '
+343.023,343.997,fn083,b'\n      Yeah!\n    '
+343.997,346.016,fn083,b'\n      It must be much more interesting to -\n    '
+346.370,347.531,fn083,b'\n      to see their behavior.\n    '
+347.400,349.280,me011,b'\n      the - the meetings are strange.\n    '
+349.280,349.931,fn083,b'\n      Oh y- yeah!\n    '
+349.931,352.543,me011,b'\n      People interrupt each other much more than I thought they did.\n    '
+352.382,354.444,fn083,b'\n      '
+352.543,354.630,me011,b'\n      '
+352.970,354.909,mn082,b'\n      '
+357.935,358.951,mn082,b'\n      Two nine seven seven? '
+359.434,359.996,mn082,b'\n      '
+359.996,360.730,me011,b'\n      two nine seven seven.\n    '
+360.609,362.015,mn082,b'\n      O_K. Yeah. I will call you then.\n    '
+360.884,361.628,mn021,b'\n      O_K.\n    '
+362.015,362.704,me011,b'\n      Thanks.\n    '
+363.600,364.485,mn082,"b'\n      Uh, O_K.\n    '"
+364.485,366.314,mn082,"b""\n      So, then let's start with """
+366.314,368.428,mn082,"b""\n      our weekly meeting. The last time's uh\n    """
+368.850,370.865,mn082,b'\n      we learned too '
+368.850,370.865,me011,b'\n      '
+371.650,372.663,mn082,"b'\n      uh, today,\n    '"
+372.840,374.384,mn082,b'\n      I have two topics.\n    '
+374.771,375.783,mn082,"b'\n      And the first topic,\n    '"
+376.068,379.488,mn082,"b'\n      um, we have a new member in our '"
+379.613,380.920,mn021,b'\n      Hi.\n    '
+379.868,381.257,mn082,b'\n      I believe everybody\n    '
+381.257,383.592,mn082,b'\n      knows him very well in the meantime because he stayed here\n    '
+382.872,390.318,fn083,b'\n      '
+384.487,388.380,mn082,b'\n      quite a little time and I '
+388.680,392.342,mn082,"b'\n      So, but, anyway, I would like that Miguel Sanchez will introduce himself a little bit,\n    '"
+392.661,394.726,mn082,"b'\n      concerning his background, what he intend to do.\n    '"
+395.147,398.131,mn082,b'\n      And - '
+398.680,401.883,mn082,"b'\n      many things concerning, uh, his skills and\n    '"
+400.220,400.901,mn021,b'\n      Mm-hmm.\n    '
+402.239,404.770,mn082,b'\n      what the '
+405.097,408.011,mn082,"b'\n      I hope there will be a match, uh, then, for his future '"
+408.460,413.035,mn082,b'\n      And the '
+413.485,416.120,mn082,b'\n      I believe '
+416.500,417.902,mn082,b'\n      our starting position.\n    '
+418.609,422.423,mn082,"b'\n      And, um, yesterday I also discussed with Wilbert\n    '"
+423.034,423.859,mn082,b'\n      some\n    '
+423.859,424.994,mn082,b'\n      things and -\n    '
+425.492,428.039,mn082,b'\n      I would like to focus on the question '
+428.530,430.278,mn082,"b'\n      ""What problem we are\n    '"
+430.700,437.442,mn082,"b'\n      going to solve with such a proposal."" '"
+438.079,439.565,mn082,"b'\n      but, the '"
+440.160,442.201,mn082,"b""\n      But that's under the s- second topic, so first\n    """
+442.463,444.281,mn082,b'\n      I would like that Miguel\n    '
+444.605,445.056,mn082,b'\n      will\n    '
+445.568,448.140,mn082,b'\n      told us a little bit about his skills and - and uh\n    '
+447.225,447.589,mn021,b'\n      O_K.\n    '
+448.428,449.469,mn082,b'\n      his background.\n    '
+449.278,450.403,mn021,"b'\n      O_K, thank you Joe.\n    '"
+449.278,450.869,,b'\n      '
+450.150,450.667,mn082,"b'\n      So, please.\n    '"
+450.869,451.242,mn021,"b'\n      Well,\n    '"
+451.242,455.731,mn021,"b'\n      I, uh, as all of you know I came from - from Spain, from the\n    '"
+451.503,453.878,fn083,b'\n      '
+456.277,459.340,mn021,b'\n      uh '
+456.277,459.340,fn083,b'\n      '
+459.765,461.475,mn021,b'\n      and i- uh '
+461.475,463.090,mn021,b'\n      just '
+463.090,464.824,mn021,b'\n      P_H_D thesis\n    '
+464.824,467.769,mn021,b'\n      about uh '
+467.769,472.018,mn021,b'\n      power-saving '
+472.018,474.347,mn021,"b'\n      uh, In fact, I have developed an\n    '"
+474.347,475.492,mn021,b'\n      algorithm\n    '
+475.492,476.466,mn021,b'\n      to control\n    '
+476.466,479.489,mn021,b'\n      the ra- radio frequency power\n    '
+479.489,481.833,mn021,b'\n      uh of a wireless transceiver.\n    '
+481.833,484.760,mn021,"b'\n      And, uh '"
+484.760,485.613,mn021,b'\n      also\n    '
+485.613,488.262,mn021,"b'\n      in routing issues, especially\n    '"
+488.262,492.410,mn021,b'\n      in the so-called ad-hoc netw- wireless networks.\n    '
+492.410,492.929,mn021,b'\n      Where\n    '
+493.791,494.912,mn021,"b'\n      uh, you have\n    '"
+494.912,497.584,mn021,"b'\n      a set of, uh, mobile nodes\n    '"
+497.584,498.878,mn021,"b'\n      and, no other\n    '"
+498.878,500.058,mn021,"b'\n      infrastructure,\n    '"
+500.058,501.443,mn021,b'\n      no base stations.\n    '
+501.443,504.535,mn021,b'\n      So all the routing functions are done\n    '
+504.535,505.839,mn021,b'\n      by the node -\n    '
+505.839,507.490,mn021,b'\n      by the '
+507.490,509.386,mn021,"b'\n      O_K? So, nodes act\n    '"
+509.386,511.371,mn021,b'\n      as both end points\n    '
+511.371,511.965,mn021,b'\n      and\n    '
+511.965,513.675,mn021,b'\n      routers.\n    '
+513.675,514.726,mn021,b'\n      eh\n    '
+514.726,517.502,mn021,"b""\n      I've """
+517.502,519.207,mn021,b'\n      these kind of networks.\n    '
+519.207,522.140,mn021,"b'\n      And, uh, in fact, there are a lot of - of -\n    '"
+522.140,523.569,mn021,b'\n      research uh\n    '
+523.569,527.055,mn021,b'\n      articles about this - this kind of networks because\n    '
+527.055,527.931,mn021,"b'\n      You know, uh,\n    '"
+527.931,529.012,mn021,b'\n      mmm\n    '
+529.012,531.252,mn021,b'\n      infrastructure-based network -\n    '
+531.252,535.016,mn021,"b'\n      network has been a long topic of research. So,\n    '"
+535.016,536.318,mn021,"b'\n      for example, routing\n    '"
+536.318,538.034,mn021,b'\n      on - on wired networks\n    '
+538.337,539.280,mn021,b'\n      is a -\n    '
+539.280,541.406,mn021,b'\n      a topic still to be researched but\n    '
+541.406,543.456,mn021,b'\n      it has an important background.\n    '
+543.456,543.861,mn021,b'\n      But\n    '
+543.861,546.870,mn021,b'\n      mobile network- this kind of mobile networks\n    '
+546.870,550.599,mn021,"b'\n      is a little bit - uh newer, especially because\n    '"
+550.599,552.739,mn021,"b'\n      uh, until not so long\n    '"
+552.739,556.360,mn021,"b'\n      uh, the - the things were too heavy\n    '"
+556.360,557.508,mn021,"b'\n      to have a computer,\n    '"
+557.508,559.038,mn021,"b'\n      a wireless transceiver,\n    '"
+559.038,561.443,mn021,b'\n      on a more or less portable thing.\n    '
+561.443,562.195,mn021,"b'\n      So,\n    '"
+562.195,565.622,mn021,"b'\n      with the advent of this new technology, low power\n    '"
+565.622,568.836,mn021,"b'\n      uh, high, uh, processing capability\n    '"
+569.145,574.030,mn021,"b'\n      and wireless - eh - networking capability, in a really small package,\n    '"
+574.030,576.923,mn021,b'\n      new kind of devices are - are being built and\n    '
+576.923,578.797,mn021,"b'\n      are appearing, in the market.\n    '"
+579.460,580.682,mn021,"b'\n      And, eh, well\n    '"
+580.682,583.570,mn021,b'\n      this is more or less what I have done.\n    '
+583.570,584.378,mn021,b'\n      And\n    '
+584.378,588.022,mn021,"b""\n      the kind of, uh, things, I'm interested is\n    """
+588.022,589.997,mn021,"b'\n      more or less all, around this -\n    '"
+589.997,591.770,mn021,b'\n      these '
+591.770,592.623,mn021,b'\n      But\n    '
+592.623,594.418,mn021,"b'\n      I could say, uh\n    '"
+594.418,595.205,mn021,"b'\n      in general,\n    '"
+595.205,598.400,mn021,"b'\n      mobile service is not only about, uh\n    '"
+598.400,600.764,mn021,b'\n      these specific kind of networks.\n    '
+600.764,602.855,mn021,"b'\n      But, in general, about, uh\n    '"
+602.855,605.060,mn021,b'\n      services uh over\n    '
+605.060,608.760,mn021,b'\n      mobile or services that can benefit from the -\n    '
+606.739,608.164,mn081,b'\n      '
+608.760,612.341,mn021,"b'\n      uh, capability of nodes to move around.\n    '"
+612.341,614.229,mn021,"b'\n      And, uh, well, I -\n    '"
+614.693,618.013,mn021,"b""\n      I've been teaching now for twelve years,\n    """
+618.013,619.108,mn021,b'\n      comp- eh\n    '
+619.108,622.692,mn021,"b'\n      At a computer sciences school in my university,\n    '"
+622.692,624.771,mn021,"b""\n      I've been teaching computer networks.\n    """
+624.771,627.780,mn021,"b'\n      And, well, I am - more or less\n    '"
+627.780,630.962,mn021,"b'\n      uh, knowledgeable about, well,\n    '"
+630.962,632.751,mn021,"b'\n      T_C_P I_P networking,\n    '"
+632.751,634.912,mn021,"b'\n      I_S_O uh, networking,\n    '"
+634.912,636.229,mn021,"b'\n      and, uh\n    '"
+636.229,639.070,mn021,"b""\n      well I'm - I'm a computer guy, so\n    """
+639.070,640.190,mn021,"b""\n      I'm really -\n    """
+640.190,640.857,mn021,b'\n      um\n    '
+641.340,642.584,mn021,"b'\n      Well, I can say\n    '"
+643.118,644.109,mn021,"b'\n      uh, proudly\n    '"
+644.109,650.244,mn021,"b'\n      uh, more or less, computer skilled. I mean, uh, operating systems uh, programming languages\n    '"
+650.244,654.619,mn021,"b'\n      uh, networking '"
+654.619,656.537,mn021,b'\n      more or less well-trained.\n    '
+656.537,657.747,mn021,b'\n      So\n    '
+657.747,659.615,mn021,"b'\n      this is, I think, um,\n    '"
+659.615,661.322,mn021,b'\n      my first presentation.\n    '
+661.671,663.197,mn021,b'\n      Next - maybe next meeting\n    '
+663.401,664.372,mn021,b'\n      I will\n    '
+664.372,666.932,mn021,"b'\n      uh, do a small sketch about\n    '"
+666.932,669.468,mn021,"b'\n      uh, my past work, and -\n    '"
+669.468,673.399,mn021,"b'\n      well, presenting some det- a little bit more detailed approach\n    '"
+673.399,675.159,mn021,b'\n      with some schemes and -\n    '
+675.159,677.374,mn021,"b'\n      and some things from previous talks,\n    '"
+677.842,682.284,mn021,"b""\n      so you can have a better idea of w- the kind of work I've been doing.\n    """
+682.284,682.847,mn021,b'\n      O_K?\n    '
+682.774,683.294,mn082,b'\n      Mm-hmm.\n    '
+683.294,684.728,mn082,"b'\n      So, thanks, Miguel.\n    '"
+683.294,683.876,mn021,b'\n      Thank you.\n    '
+685.090,687.524,mn082,"b""\n      Yeah, we m- discussed it yesterday that you'll maybe -\n    """
+687.498,687.836,mn021,b'\n      Y-\n    '
+687.973,690.410,mn082,b'\n      will have a talk '
+689.372,689.926,mn021,b'\n      Yeah.\n    '
+690.713,691.084,mn082,"b'\n      But,\n    '"
+691.360,693.385,mn082,b'\n      Give me a sign and send me an abstract\n    '
+692.345,692.878,mn021,b'\n      Yeah.\n    '
+693.617,695.694,mn082,"b'\n      so that I can announce it, then, for the next meeting.\n    '"
+695.949,696.500,mn021,b'\n      '
+696.477,697.109,mn082,b'\n      '
+697.109,697.513,mn082,b'\n      '
+697.513,700.320,mn082,b'\n      Um. One short '
+700.739,701.474,mn082,b'\n      Uh.\n    '
+702.120,706.184,mn082,b'\n      Claudia did a lot of work concerning the web pages in the meantime.\n    '
+706.401,707.396,fn083,"b'\n      Oh, O_K.\n    '"
+706.804,708.241,mn082,"b'\n      And, despite\n    '"
+708.241,708.835,mn082,b'\n      '
+708.835,710.854,mn082,b'\n      busy stuff with waivers and uh\n    '
+710.434,712.129,fn083,b'\n      '
+711.258,712.897,mn082,b'\n      '
+713.277,715.490,mn082,"b'\n      uh, she found the time to\n    '"
+716.520,720.835,mn082,b'\n      um '
+718.646,719.188,mn021,b'\n      '
+720.835,723.851,mn082,b'\n      in '
+724.521,725.300,mn082,b'\n      we wanna\n    '
+725.640,727.540,mn082,b'\n      put it on the '
+727.837,729.091,mn082,b'\n      in the next days.\n    '
+729.460,733.116,mn082,"b'\n      So, I will send an email, then, to everybody that they '"
+733.116,734.600,mn082,b'\n      check their web pages\n    '
+734.910,737.225,mn082,"b""\n      whether they're aligned with, um,\n    """
+737.486,739.350,mn082,b'\n      their own views and opinions\n    '
+739.671,741.694,mn082,b'\n      of what we should - what should be\n    '
+742.046,745.615,mn082,"b'\n      presented on the web pages. And any feedback is then, well appreciated.\n    '"
+745.920,746.315,mn082,b'\n      No? '
+746.388,747.132,mn021,b'\n      O_K.\n    '
+746.977,747.309,mn082,b'\n      So. '
+747.547,749.423,mn082,"b""\n      Let's switch to the project proposal.\n    """
+749.827,752.249,mn082,"b'\n      Um, I mentioned that it is\n    '"
+752.249,752.843,mn082,b'\n      still\n    '
+752.843,753.704,mn082,b'\n      f-\n    '
+752.843,753.638,fn083,b'\n      Ah. Sorry.\n    '
+753.638,754.113,fn083,b'\n      Can I?\n    '
+753.704,754.113,mn082,b'\n      Yeah? '
+754.113,755.514,fn083,b'\n      Maybe I can add something.\n    '
+754.113,755.253,mn082,b'\n      Claudia -\n    '
+755.514,759.503,fn083,"b""\n      Yeah, if there's anything else which we - what we could add on the web site. So,\n    """
+759.503,759.776,fn083,b'\n      p-\n    '
+759.940,766.840,fn083,"b'\n      For example, if you have a small abstract or some pictures or whatever, about the work you did before, what you are planning to do here,\n    '"
+766.086,766.833,mn021,b'\n      O_K.\n    '
+766.611,767.428,mn082,b'\n      '
+766.840,769.846,fn083,"b'\n      that would be fine, cuz now we can add some more '"
+770.820,776.201,fn083,"b'\n      Or if you have something - or if somebody has some slides, o- or articles, whatever he wants to be\n    '"
+776.201,777.210,fn083,b'\n      '
+776.550,777.210,mn082,b'\n      Yeah.\n    '
+777.620,779.126,mn082,"b'\n      Then everybody sees the structure, -\n    '"
+779.126,781.108,mn082,"b'\n      how it is uh, structured -\n    '"
+779.886,782.438,fn083,b'\n      Yeah '
+781.108,783.164,mn082,b'\n      really structured. Then '
+783.476,784.162,mn082,b'\n      can easy\n    '
+784.589,787.747,mn082,"b'\n      offer some additional input which should be presented, then, on the web pages.\n    '"
+787.747,790.039,fn083,"b'\n      Yeah, it depends what - what everybody wants to do.\n    '"
+788.208,788.890,mn082,b'\n      Yeah.\n    '
+789.774,790.647,mn082,b'\n      Yeah.\n    '
+790.039,790.526,fn083,b'\n      So\n    '
+790.739,795.585,fn083,"b'\n      about the projects will be something, then, about publications will be another point, and -\n    '"
+795.585,798.744,fn083,"b'\n      Yeah, additional information about how is life in Berkeley and i-\n    '"
+798.744,804.156,fn083,"b""\n      Yep. I don't know, """
+803.391,804.156,mn082,"b'\n      Yeah, it is.\n    '"
+804.156,805.961,fn083,b'\n      when somebody arrives or\n    '
+804.156,804.392,mn082,b'\n      Yeah.\n    '
+805.615,808.500,mn082,b'\n      Half collection of necessary information.\n    '
+805.746,806.547,mn021,b'\n      Hmm-hmm-hmm.\n    '
+805.961,807.131,fn083,b'\n      stuff like that.\n    '
+806.337,808.500,mn030,"b""\n      But there's no personal homepage for\n    """
+808.500,811.944,mn030,"b'\n      everybody? Or, '"
+809.036,810.883,mn082,b'\n      Yeah su- You can have -\n    '
+810.883,811.944,mn082,"b'\n      Yeah, you can have it.\n    '"
+811.944,813.013,mn082,"b'\n      Because, as uh -\n    '"
+813.250,814.284,mn082,"b'\n      Uh, uh, le-\n    '"
+813.250,817.414,mn030,"b""\n      I'm not """
+814.843,816.246,fn083,b'\n      '
+815.862,817.338,mn021,b'\n      '
+816.081,819.401,mn082,"b""\n      No, but this is - oh, uh - Everybody's obliged to do it for his own, you know. """
+819.033,819.478,mn030,b'\n      Yeah.\n    '
+819.478,820.281,mn030,b'\n      O_K.\n    '
+819.527,820.781,mn082,b'\n      So there is not uh -\n    '
+821.199,824.667,mn082,"b'\n      Claudia is not the webmaster here to, uh, '"
+823.004,824.442,mn030,b'\n      '
+823.421,826.839,fn083,"b""\n      Oh, oh, no, I'm not doing it for everybody """
+825.007,826.168,mn082,b'\n      for - for '
+826.168,827.654,mn082,b'\n      This is responsible for -\n    '
+827.654,829.667,mn082,"b'\n      uh, '"
+829.990,833.500,fn083,"b'\n      Yeah, but - but what is planned is that I do something like a-\n    '"
+829.990,830.476,mn030,b'\n      Sure.\n    '
+834.080,836.743,fn083,"b'\n      previous, you know, layout, and give everybody\n    '"
+836.743,839.605,fn083,"b'\n      the, uh, opin- uh, the possibility to -\n    '"
+839.605,842.550,fn083,b'\n      the chance to put his '
+840.825,842.550,mn030,"b'\n      O_K, his name and so on.\n    '"
+842.433,844.345,mn021,"b'\n      Well, like have a '"
+842.550,846.110,fn083,"b'\n      that the layout is for everybody the same, so about the projects and stuff.\n    '"
+842.550,843.260,mn030,b'\n      Yeah.\n    '
+844.967,846.193,mn030,b'\n      O_K '
+846.326,847.440,fn083,"b'\n      So, there will be something.\n    '"
+846.327,846.919,mn082,b'\n      Yeah.\n    '
+848.649,849.053,mn082,b'\n      Yeah.\n    '
+849.759,850.347,mn082,b'\n      '
+850.347,851.679,mn082,"b'\n      O_K, thanks. So,\n    '"
+851.679,853.320,mn082,"b""\n      let's switch to the proposal.\n    """
+853.645,858.100,mn082,b'\n      I ask everybody whether '
+858.862,859.398,mn082,b'\n      Yeah. '
+859.817,861.115,mn082,b'\n      Everybody say yes? '
+861.115,861.657,mn082,b'\n      Yeah?\n    '
+861.900,862.279,mn030,b'\n      Yes.\n    '
+862.168,864.800,mn082,"b'\n      Yes, O_K. '"
+862.279,864.560,mn030,b'\n      '
+862.893,863.845,fn083,b'\n      '
+866.270,867.493,mn082,"b'\n      From my point of view,\n    '"
+867.954,872.720,mn082,"b'\n      As I mentioned before, we still in the starting position. I think the\n    '"
+872.905,875.736,mn082,b'\n      four '
+876.510,878.879,mn082,b'\n      will have really a major impact on - on f-\n    '
+879.204,879.962,mn082,b'\n      current\n    '
+880.710,881.523,mn082,"b'\n      um,\n    '"
+881.523,886.492,mn082,"b'\n      available wireless networks and, uh, also for '"
+887.250,889.424,mn082,"b'\n      And, what the '"
+889.781,891.538,mn082,b'\n      what kind of '
+891.924,892.558,mn082,b'\n      we are -\n    '
+893.510,896.027,mn082,b'\n      wan- wanna s- '
+896.027,898.035,mn082,b'\n      with such a project proposal.\n    '
+898.629,901.481,mn082,"b'\n      And Wilbert yesterday mentioned, and he is right, '"
+901.980,902.574,mn082,b'\n      '
+902.574,904.569,mn082,"b'\n      that, what kind of,\n    '"
+904.569,905.994,mn082,"b'\n      maybe, '"
+906.530,907.960,mn082,b'\n      we are '
+908.422,913.077,mn082,b'\n      The '
+913.462,918.190,mn082,"b'\n      and, uh, this kind of '"
+918.515,920.060,mn082,"b'\n      maybe not very well aligned,\n    '"
+921.115,922.054,mn082,b'\n      because\n    '
+922.410,923.277,mn082,b'\n      there '
+923.433,927.343,mn082,"b'\n      of course, a portion of '"
+927.859,931.547,mn082,"b""\n      But, I think that's not the """
+932.046,934.652,mn082,b'\n      um this kind of - um '
+934.652,936.154,mn082,b'\n      this kind of application '
+936.485,937.910,mn082,b'\n      So '
+938.490,940.879,mn082,b'\n      '
+940.879,942.288,mn082,b'\n      what kind of application\n    '
+942.744,942.980,mn082,b'\n      tsk '
+942.980,944.544,mn082,b'\n      um f- far away\n    '
+944.943,951.313,mn082,b'\n      and I would like to - more to focus if we '
+951.871,956.750,mn082,"b'\n      Um, What kind of problem we are going to solve. What kind of, uh, um,\n    '"
+957.346,961.692,mn082,"b'\n      um, '"
+961.692,966.060,mn082,b'\n      what kind of '
+966.330,967.657,mn082,b'\n      exists for '
+967.657,969.200,mn082,b'\n      And what kind of '
+970.270,972.690,mn082,b'\n      could we provide '
+973.014,974.430,mn082,b'\n      We '
+974.850,976.930,mn082,"b'\n      kind of, uh, really\n    '"
+977.580,980.435,mn082,b'\n      closely working together of these four building blocks.\n    '
+981.318,985.640,mn082,"b'\n      So maybe uh, Wilbert, you can start to discu- '"
+986.210,990.387,mn082,b'\n      tell the group about what you mentioned yesterday\n    '
+990.966,994.644,mn082,"b""\n      concerning certain kind of ideas. Maybe it's a brainstorming\n    """
+995.155,998.000,mn082,"b'\n      um, of - of these things\n    '"
+998.387,999.935,mn082,b'\n      and maybe we can comment\n    '
+1001.063,1002.054,mn082,b'\n      later on th-\n    '
+1002.472,1004.237,mn082,b'\n      these - uh\n    '
+1004.562,1005.460,mn082,b'\n      these ideas.\n    '
+1006.002,1010.016,mn082,"b'\n      And I saw you sk- still discuss with - with - uh - Mark, right? some stuff.\n    '"
+1006.781,1007.517,mn081,b'\n      '
+1010.341,1014.196,mn082,"b'\n      Was it also related with - with these things. No? O_K, It '"
+1011.939,1012.641,mn081,b'\n      No.\n    '
+1013.469,1019.234,mn081,"b'\n      This afternoon you mean? No, this was '"
+1014.196,1014.521,mn082,b'\n      Yeah. '
+1017.340,1017.754,mn082,b'\n      O_K\n    '
+1018.543,1019.674,mn082,"b'\n      Yeah, yeah.\n    '"
+1019.674,1019.797,mn082,b'\n      '
+1020.230,1022.507,mn082,"b'\n      Then, maybe then, one - one w- uh sentence before.\n    '"
+1020.627,1021.342,mn081,b'\n      wha- '
+1023.000,1027.160,mn082,b'\n      I believe everybody fits very well in these kind of things.\n    '
+1027.750,1031.168,mn082,"b'\n      Because from the mathematical description with Q_S-in-Advance,\n    '"
+1031.168,1032.546,mn082,"b'\n      me, as an expert for\n    '"
+1032.840,1036.490,mn082,"b'\n      quality of service and, uh, Michael as an expert for\n    '"
+1036.980,1040.640,mn082,"b'\n      uh, M_P_L_S and Wilbert an '"
+1040.640,1043.106,mn082,"b'\n      and, uh, I discussed with '"
+1043.631,1049.065,mn082,"b""\n      It's uh maybe a """
+1049.571,1049.893,mn082,b'\n      So.\n    '
+1050.043,1051.807,mn082,"b'\n      My idea is, in principle, to '"
+1051.807,1052.783,mn082,b'\n      '
+1052.783,1055.766,mn082,b'\n      '
+1056.085,1056.930,mn082,b'\n      such - such a -\n    '
+1057.720,1060.538,mn082,"b'\n      core activity, in principle. And we can\n    '"
+1060.682,1063.522,mn082,b'\n      see how much from the outer world can fit in.\n    '
+1063.912,1065.392,mn082,"b'\n      First of all, the first stage is\n    '"
+1065.620,1067.360,mn082,b'\n      the institution which is '
+1068.160,1068.922,mn082,b'\n      everybody.\n    '
+1069.196,1071.986,mn082,b'\n      That means uh K_P_N in your case and Siemens in '
+1072.960,1074.744,mn082,"b'\n      And maybe, then, in the broader world here\n    '"
+1074.979,1076.618,mn082,b'\n      other partners '
+1076.981,1077.712,mn082,b'\n      '
+1077.712,1079.492,mn082,"b'\n      Tomorrow, I will go to Cisco, for instance,\n    '"
+1079.492,1080.374,mn082,b'\n      and I will discuss\n    '
+1081.078,1082.184,mn082,"b'\n      uh, all\n    '"
+1083.197,1090.232,mn082,"b""\n      this kind of things. Maybe they have certain additional activities and they're interested in the results before - The benefit here """
+1090.612,1093.212,mn082,b'\n      '
+1093.212,1094.721,mn082,b'\n      If you have your '
+1095.030,1096.580,mn082,b'\n      That makes a little bit more easier.\n    '
+1097.170,1101.387,mn082,"b'\n      And, uh, if there is a technical linkage between such, uh\n    '"
+1102.100,1104.451,mn082,"b'\n      um, between the outer world and us\n    '"
+1102.704,1103.250,mn030,b'\n      '
+1104.451,1105.660,mn082,"b'\n      O_K, the better it '"
+1106.300,1110.300,mn082,"b'\n      But, anyway, if we come to a certain kind of '"
+1110.890,1113.184,mn082,"b'\n      within the core of the N_S_A group,\n    '"
+1113.471,1114.088,mn082,b'\n      I think\n    '
+1114.345,1115.849,mn082,"b""\n      that's really """
+1115.849,1116.444,mn082,b'\n      '
+1118.397,1121.887,mn082,b'\n      And '
+1122.204,1123.310,mn082,b'\n      go in the '
+1123.620,1124.104,mn082,"b'\n      mmm,\n    '"
+1124.618,1125.781,mn082,"b'\n      uh, really from the\n    '"
+1126.033,1127.415,mn082,b'\n      project '
+1127.613,1128.603,mn082,b'\n      I think we can\n    '
+1128.990,1129.930,mn082,b'\n      build it on this -\n    '
+1130.260,1130.990,mn082,b'\n      this core.\n    '
+1131.280,1131.594,mn082,"b'\n      You know,\n    '"
+1131.876,1132.099,mn082,b'\n      and\n    '
+1132.206,1135.455,mn082,"b'\n      go to the outer world with, and - and - and align it in a certain way.\n    '"
+1135.835,1139.635,mn082,"b'\n      For instance, that it also fit, maybe, to K_P_N, and Siemens, and in other companies.\n    '"
+1140.609,1140.971,mn082,b'\n      Yeah.\n    '
+1141.782,1142.728,mn081,b'\n      '
+1142.728,1144.994,mn081,b'\n      This probably has to be a '
+1144.796,1145.221,mn082,b'\n      Yep.\n    '
+1145.549,1149.455,mn081,b'\n      Um '
+1149.455,1152.068,mn081,b'\n      uh for '
+1152.068,1155.814,mn081,b'\n      '
+1155.814,1156.980,mn081,b'\n      than in\n    '
+1156.980,1158.634,mn081,b'\n      core technology.\n    '
+1158.908,1159.301,mn081,b'\n      u-\n    '
+1159.597,1162.060,mn081,b'\n      '
+1162.060,1165.933,mn081,"b'\n      uh, core '"
+1165.933,1170.487,mn081,"b""\n      So I'm u- I was thinking about """
+1170.487,1174.500,mn081,"b""\n      K_P_N was, um - they're interested in having, uh\n    """
+1174.500,1178.378,mn081,"b'\n      like, six people or something, working on the project for one year or maybe,\n    '"
+1178.378,1181.703,mn081,"b'\n      uh, three people fo- working on the project for two years,\n    '"
+1181.703,1183.461,mn081,b'\n      and have a kind of a demonstration\n    '
+1183.461,1187.622,mn081,"b'\n      uh, for a specifically in- U_M_T_S service.\n    '"
+1186.542,1187.216,mn021,b'\n      Mm-hmm.\n    '
+1187.622,1188.740,mn081,b'\n      I was thinking that\n    '
+1188.740,1191.100,mn081,b'\n      um\n    '
+1191.100,1198.039,mn081,"b'\n      as a - well, not really a U_M_T_S service, but - '"
+1198.039,1202.193,mn081,b'\n      a w- little bit based on '
+1202.193,1205.532,mn081,b'\n      That it would be interesting to have a kind of a device where you\n    '
+1205.532,1206.577,mn081,b'\n      can switch\n    '
+1206.577,1207.620,mn081,b'\n      from\n    '
+1207.620,1209.790,mn081,b'\n      w- a WaveLAN Technology\n    '
+1209.790,1211.560,mn081,"b'\n      to, um, U_M_T_S.\n    '"
+1211.560,1216.270,mn081,"b""\n      I think that's, uh, it's in - in the future that will be a main competitor of, uh,\n    """
+1216.270,1218.090,mn081,"b'\n      of U_M_T_S,\n    '"
+1216.972,1217.758,mn021,b'\n      Hmm-hmm-hmm.\n    '
+1218.090,1218.623,mn081,"b'\n      too, like\n    '"
+1218.623,1221.877,mn081,b'\n      the - the - '
+1222.345,1226.672,mn081,"b'\n      huge scope already, like five hundred feet, or - or even more sometimes.\n    '"
+1227.409,1231.250,mn081,"b""\n      so that's - it's might be interesting for, a service to walk into a building\n    """
+1231.650,1233.490,mn081,b'\n      or whatever is available on that network.\n    '
+1234.000,1236.445,mn081,b'\n      You can switch from U_M_T_S or\n    '
+1237.060,1237.400,mn081,b'\n      uh\n    '
+1238.060,1240.154,mn081,"b'\n      uh, to WaveLAN Technologies.\n    '"
+1240.154,1245.071,mn082,b'\n      Hmm. '
+1240.170,1240.926,mn021,b'\n      Hmm-hmm-hmm.\n    '
+1242.103,1243.298,mn081,b'\n      '
+1251.600,1254.700,mn081,"b'\n      Of course, it sounds strange for a company that does U_M_T_S to\n    '"
+1254.999,1255.660,mn081,b'\n      switch -\n    '
+1255.960,1259.607,mn081,b'\n      to - to be able to switch or provide the service to switch to WaveLAN but\n    '
+1259.577,1260.681,mn082,b'\n      '
+1260.153,1261.310,mn081,b'\n      at the end it makes\n    '
+1261.690,1264.040,mn081,b'\n      it easier for your - and cheaper for your customers.\n    '
+1265.990,1268.970,mn081,"b'\n      So, if '"
+1269.520,1271.273,mn021,b'\n      And you can build a - a -\n    '
+1271.273,1271.807,mn021,b'\n      '
+1271.807,1274.703,mn021,"b'\n      an - a - a double technology adapter, too.\n    '"
+1275.131,1276.490,mn021,b'\n      So you can market these\n    '
+1276.735,1278.451,mn021,b'\n      double-technology adapters.\n    '
+1279.095,1282.235,mn021,"b'\n      And, this can be a - a potential\n    '"
+1282.570,1283.020,mn081,b'\n      Yeah.\n    '
+1282.570,1285.632,mn021,"b'\n      uh um you know, uh, '"
+1286.154,1288.134,mn021,"b'\n      Because you just have to license, uh\n    '"
+1288.134,1288.668,mn021,b'\n      uh\n    '
+1288.668,1290.121,mn021,b'\n      WaveLAN technology.\n    '
+1290.660,1292.376,mn021,"b'\n      You can build, uh, the whole thing.\n    '"
+1293.260,1295.985,mn021,"b'\n      This U_- U_M_T_S WaveLAN, uh-\n    '"
+1293.260,1294.470,mn081,"b'\n      Yeah, and -\n    '"
+1295.985,1296.959,mn021,b'\n      mixed together.\n    '
+1297.496,1307.944,mn081,"b""\n      Yeah, something like that could be possible, maybe even a U_M_T_S-to-WaveLAN-gateway, or - I'm not sure if that's possible like we- U_- if U_M_T_S re- contains redirects or\n    """
+1307.944,1309.105,mn081,"b'\n      whatever, like switches.\n    '"
+1309.484,1311.273,mn081,"b""\n      I'm not sure about it. It """
+1311.419,1319.700,mn021,"b'\n      Mmm. I think, they are using different, uh, radio technologies. So, '"
+1316.480,1317.384,mn081,"b""\n      It's not a problem.\n    """
+1321.500,1322.194,mn081,"b'\n      No, but s-\n    '"
+1322.680,1324.310,mn081,b'\n      You could have a U_M_T_S '
+1324.860,1327.980,mn081,b'\n      that translates everything to that uh w- local '
+1324.860,1325.222,mn021,b'\n      Yeah.\n    '
+1328.580,1329.034,mn021,b'\n      Yeah.\n    '
+1329.295,1330.046,mn081,b'\n      If you will\n    '
+1329.295,1330.620,mn021,"b""\n      That - that's right.\n    """
+1330.620,1334.423,mn082,b'\n      '
+1334.825,1337.337,mn082,b'\n      wireless '
+1337.883,1339.853,mn082,b'\n      and '
+1339.853,1340.320,mn081,b'\n      Yes.\n    '
+1340.828,1345.200,mn082,b'\n      And '
+1345.912,1349.130,mn082,b'\n      Because if '
+1349.452,1352.944,mn082,"b'\n      I see it also in the American market, some WaveLAN communication in the outer world\n    '"
+1353.371,1354.663,mn082,"b'\n      will be available, the -\n    '"
+1354.927,1355.089,mn082,b'\n      m-\n    '
+1355.329,1357.540,mn082,"b'\n      and that is your assumption, that the more cost\n    '"
+1358.074,1360.307,mn082,b'\n      uh extensive um\n    '
+1360.895,1362.150,mn082,b'\n      U_M_T_'
+1362.650,1363.311,mn082,b'\n      could be\n    '
+1364.273,1365.800,mn082,"b'\n      principle used,\n    '"
+1366.009,1369.615,mn082,"b'\n      I would like to say, over WaveLAN, and then I have a normal WaveLAN connection, right?\n    '"
+1369.850,1370.327,mn081,b'\n      Yes.\n    '
+1370.648,1372.543,mn082,b'\n      And the router and the WaveLAN connection\n    '
+1373.810,1376.601,mn082,b'\n      goes into the core internet elsewhere and\n    '
+1377.340,1377.702,mn081,b'\n      Mm-hmm.\n    '
+1377.984,1381.209,mn082,b'\n      the connection is not dropped between this\n    '
+1381.580,1382.340,mn082,b'\n      seamless\n    '
+1382.698,1384.020,mn082,b'\n      hand off I would like to say.\n    '
+1384.485,1386.181,mn082,b'\n      Right? or what - or -\n    '
+1384.827,1385.944,mn081,"b'\n      Well,\n    '"
+1386.181,1389.126,mn081,b'\n      If '
+1386.430,1386.910,mn082,b'\n      What -\n    '
+1389.126,1390.890,mn081,b'\n      simply have to drop a connection.\n    '
+1391.712,1393.208,mn081,b'\n      If you have outstanding connections.\n    '
+1393.208,1393.659,mn035,b'\n      Yeah.\n    '
+1394.134,1395.085,mn081,"b""\n      But that's uh\n    """
+1395.085,1396.818,mn081,"b'\n      one thing of the internet, right?\n    '"
+1396.818,1397.531,mn081,"b""\n      It's """
+1397.531,1401.970,mn081,"b'\n      should be able to unplug a host, bring it somewhere else and everything continues like it should be.\n    '"
+1403.266,1404.013,mn081,"b""\n      I'm not sure i-\n    """
+1404.820,1405.650,mn081,"b""\n      if it's uh """
+1406.050,1409.761,mn081,"b'\n      if you really have to con- uh save a connection for all applications, I -\n    '"
+1410.490,1411.321,mn081,"b""\n      I don't """
+1412.091,1419.116,mn082,"b""\n      Yeah, but if this is the final goal, it should be as much as possible available that you do not have to break the connection if you switch between the subnets' technology\n    """
+1418.989,1419.442,mn021,b'\n      '
+1419.116,1419.410,mn082,b'\n      Right?\n    '
+1419.772,1423.762,mn021,"b'\n      Yeah but I - I have a point uh regarding the - this question,\n    '"
+1424.071,1425.995,mn021,b'\n      is eh the '
+1425.995,1426.398,mn021,b'\n      I mean.\n    '
+1426.707,1427.377,mn021,b'\n      uh\n    '
+1428.950,1430.080,mn021,b'\n      What about the user\n    '
+1430.317,1433.800,mn021,"b""\n      who is switching from one - let's say - """
+1434.236,1434.854,mn021,b'\n      network\n    '
+1435.160,1436.807,mn021,b'\n      to another '
+1437.080,1438.185,mn021,b'\n      where he has to '
+1438.772,1441.290,mn021,b'\n      It is O_K '
+1441.540,1442.050,mn021,b'\n      when he\n    '
+1442.350,1444.329,mn021,b'\n      uh '
+1444.519,1445.160,mn021,"b'\n      But probably,\n    '"
+1445.540,1446.310,mn021,b'\n      the user\n    '
+1446.710,1450.960,mn021,"b""\n      wants to be aware that he's switching from """
+1451.420,1452.109,mn021,"b'\n      Because maybe,\n    '"
+1452.109,1452.299,mn021,b'\n      '
+1452.299,1457.077,mn021,"b""\n      while he's uh having, let's say, a """
+1457.560,1459.437,mn021,b'\n      uh '
+1459.667,1462.751,mn021,b'\n      '
+1462.751,1464.926,mn021,b'\n      But when he '
+1465.256,1467.975,mn021,"b""\n      on the U_M_T_S, he's """
+1468.342,1471.815,mn021,"b""\n      uh an important - let's say, an important cost - or """
+1472.231,1473.318,mn021,b'\n      non-null cost.\n    '
+1473.382,1475.090,mn082,"b'\n      Yeah, non-null '"
+1473.795,1475.146,mn021,b'\n      So '
+1476.052,1476.890,mn021,b'\n      this can\n    '
+1477.350,1479.110,mn021,b'\n      be something that probably the user\n    '
+1479.300,1480.345,mn021,b'\n      '
+1480.512,1481.744,mn021,"b'\n      Of course, this '"
+1481.960,1486.070,mn021,b'\n      that the user wants the connection to be dropped when he switches.\n    '
+1486.770,1487.388,mn021,b'\n      to the w- uh -\n    '
+1487.388,1490.004,mn021,b'\n      r- uh from the zero-cost area network to -\n    '
+1490.250,1491.832,mn021,b'\n      to the - uh um\n    '
+1491.832,1494.158,mn021,b'\n      non-'
+1494.566,1495.167,mn021,b'\n      maybe\n    '
+1495.443,1497.022,mn021,b'\n      some users '
+1497.290,1498.148,mn021,"b'\n      Because they say ""O_K -\n    '"
+1498.433,1504.702,mn021,"b""\n      I'm not """
+1504.960,1506.461,mn021,"b'\n      So, if I switch -\n    '"
+1506.605,1508.266,mn021,"b'\n      If - if, because of my\n    '"
+1508.504,1509.667,mn021,b'\n      '
+1510.050,1513.077,mn021,"b""\n      or I'm going out of the coverage of the - of the uh\n    """
+1513.316,1518.399,mn021,"b'\n      wave - uh wireless uh local area network, well, I - I '"
+1518.660,1519.260,mn021,b'\n      And this\n    '
+1519.670,1523.179,mn021,b'\n      can be some pattern then that '
+1524.650,1525.310,mn035,b'\n      Yeah.\n    '
+1524.650,1525.922,mn082,"b'\n      Yeah, but if your s-\n    '"
+1525.922,1529.545,mn082,b'\n      uh I believe everybody is aware about the U_S_A_I_A architecture.\n    '
+1529.545,1531.374,mn082,b'\n      And uh '
+1531.636,1535.582,mn082,b'\n      this '
+1536.010,1539.026,mn082,b'\n      And in my conf- uh considered '
+1539.284,1540.987,mn082,b'\n      there is a certain kind of '
+1542.010,1544.187,mn082,b'\n      concerning '
+1544.187,1547.067,mn082,"b'\n      and - and all these kind of things. How to use quality of service, '"
+1547.307,1549.159,mn082,b'\n      in '
+1549.420,1551.962,mn082,b'\n      for certain '
+1552.342,1557.520,mn082,b'\n      And that '
+1557.995,1558.503,mn082,b'\n      um\n    '
+1558.920,1560.760,mn082,b'\n      user interaction always '
+1560.760,1562.541,mn082,b'\n      that you could set up a certain kind of\n    '
+1562.541,1565.486,mn082,b'\n      mini-database how to deal with all these kind of things.\n    '
+1566.037,1567.458,mn082,b'\n      I think '
+1567.741,1569.809,mn082,b'\n      But uh what I - I would like to ask\n    '
+1569.809,1571.614,mn082,"b'\n      Wilbert here, and we discuss it yesterday,\n    '"
+1571.614,1575.334,mn082,"b'\n      ""Is it only the usage of that P_C_M_C_I_A card where you have -\n    '"
+1575.600,1579.361,mn082,b'\n      instead of '
+1579.598,1582.470,mn082,b'\n      '
+1583.111,1584.695,mn082,"b'\n      uh concerning um,\n    '"
+1583.650,1584.520,mn081,b'\n      '
+1584.695,1585.361,mn082,"b'\n      what is the name,\n    '"
+1585.361,1586.626,mn082,b'\n      from '
+1587.156,1587.701,mn082,b'\n      '
+1588.270,1591.140,mn081,"b'\n      Oh, the one I have '"
+1588.822,1590.793,mn082,"b'\n      Where you can enable four technologies, and you\n    '"
+1590.793,1592.580,mn082,"b'\n      plug in, in your laptop and then you have\n    '"
+1592.818,1593.830,mn082,b'\n      every four\n    '
+1594.304,1597.592,mn082,b'\n      uh subnet layer technologies available in your '
+1599.030,1601.463,mn082,b'\n      Is that the '
+1602.040,1602.930,mn081,b'\n      Um.\n    '
+1604.273,1606.838,mn081,"b'\n      Well, the switching itself could be a problem.\n    '"
+1607.336,1608.620,mn081,"b""\n      Becau- well it's a\n    """
+1607.336,1607.926,mn082,b'\n      Why?\n    '
+1609.213,1612.752,mn081,"b""\n      depends like y- you're not going to probe on four different networks\n    """
+1612.752,1616.160,mn081,"b""\n      if one of the other networks is available, maybe you are, I don't know.\n    """
+1616.970,1617.670,mn081,b'\n      So that could be a t-\n    '
+1618.230,1620.462,mn081,"b'\n      topic for research, so maybe you know more about it.\n    '"
+1618.550,1623.179,mn035,b'\n      '
+1618.589,1619.387,mn082,"b'\n      Yeah, but this i-\n    '"
+1620.533,1622.237,mn082,"b'\n      Yeah, but this is th- only the probing to\n    '"
+1622.237,1624.650,mn082,b'\n      figure out that you get at a certain location\n    '
+1624.957,1630.060,mn082,b'\n      the information that a s- certain '
+1631.100,1631.880,mn082,"b'\n      And if so,\n    '"
+1631.666,1631.970,mn081,b'\n      Yeah.\n    '
+1631.880,1636.070,mn082,b'\n      then what '
+1636.720,1638.375,mn082,"b'\n      to this kind of technology, right?\n    '"
+1638.199,1639.056,mn081,b'\n      Y- Yes.\n    '
+1639.759,1641.482,mn082,b'\n      But this is '
+1641.991,1643.603,mn082,"b""\n      That's not """
+1644.480,1647.607,mn082,b'\n      I see '
+1644.847,1645.505,mn081,b'\n      Um.\n    '
+1648.071,1649.524,mn082,b'\n      in this uh idea.\n    '
+1650.930,1652.147,mn082,"b""\n      It's """
+1652.147,1654.070,mn082,b'\n      For '
+1654.529,1655.080,mn082,b'\n      one\n    '
+1655.910,1658.415,mn082,b'\n      P_C_M_C_I_A - and currently will have '
+1658.301,1659.213,mn021,b'\n      Hmm-hmm-hmm.\n    '
+1658.415,1661.340,mn082,"b'\n      P_C_M_C_I_A cards, and I compare G_S_M with U_M_T_S.\n    '"
+1661.693,1665.502,mn082,"b'\n      And today I would like to have G_S_M, and then I have my G_S_M connectivity.\n    '"
+1665.909,1667.275,mn082,b'\n      And I '
+1667.275,1668.880,mn082,b'\n      '
+1669.820,1672.406,mn082,"b'\n      G_S_M, because the interfaces, the '"
+1672.638,1674.320,mn082,b'\n      does not permit me to switch between the -\n    '
+1674.808,1677.657,mn082,b'\n      between '
+1677.975,1679.747,mn082,b'\n      I have to stop my connection and\n    '
+1679.994,1685.590,mn082,"b'\n      put in my wireless LAN P_C_M_C_I_A card, and then I can go on and set up the - the same connection one more time.\n    '"
+1686.149,1688.856,mn082,"b'\n      And what you have in mind, to do it a bit more seamlessly,\n    '"
+1689.170,1690.946,mn082,b'\n      and that makes an only sense for me\n    '
+1691.421,1692.790,mn082,"b'\n      if both technologies,\n    '"
+1693.142,1696.456,mn082,"b'\n      in principle, were close '"
+1696.672,1697.461,mn082,"b'\n      For instance,\n    '"
+1697.714,1700.082,mn082,"b'\n      the application would be that I have my laptop here,\n    '"
+1700.596,1702.784,mn082,"b'\n      and I work here with - wi- with my device,\n    '"
+1702.784,1705.370,mn082,"b'\n      any kind of device, and I work here in wireless LAN area.\n    '"
+1705.844,1708.793,mn082,"b'\n      And then I go outside, and '"
+1708.793,1711.866,mn082,b'\n      leaving the coverage of - uh of the - uh wireless LAN.\n    '
+1712.381,1714.399,mn082,"b'\n      And at a certain state, the device\n    '"
+1714.399,1718.698,mn082,b'\n      uh receives certain signals that the coverage of U_M_T_S or G_S_M is available.\n    '
+1719.102,1720.171,mn082,"b'\n      And at that state,\n    '"
+1720.171,1723.140,mn082,"b'\n      you automatically, or based on the certain kind of user profile,\n    '"
+1723.282,1724.040,mn082,b'\n      switched\n    '
+1724.630,1725.280,mn082,b'\n      to the\n    '
+1725.460,1726.121,mn082,b'\n      um\n    '
+1726.121,1728.306,mn082,b'\n      '
+1729.010,1729.803,mn082,"b""\n      That's the only\n    """
+1729.993,1732.500,mn082,b'\n      senseful application. From '
+1732.840,1735.852,mn082,b'\n      only to have a certain kind of control layer\n    '
+1736.384,1737.712,mn082,"b'\n      for the different drivers,\n    '"
+1737.712,1740.063,mn082,b'\n      which '
+1740.570,1742.484,mn082,b'\n      and uh then to\n    '
+1742.861,1744.602,mn082,b'\n      do the '
+1745.011,1747.392,mn082,b'\n      for an existing stream or application\n    '
+1747.728,1748.713,mn082,b'\n      between these -\n    '
+1748.713,1750.637,mn082,"b'\n      uh, '"
+1750.637,1751.520,mn082,b'\n      between those\n    '
+1751.800,1753.450,mn082,b'\n      uh these both technologies.\n    '
+1754.307,1757.786,mn082,"b""\n      Maybe there's more potential. I don't s- """
+1758.317,1760.135,mn082,"b""\n      additional idea. And I don't think\n    """
+1760.416,1761.096,mn082,b'\n      that\n    '
+1762.210,1764.520,mn082,b'\n      this '
+1765.510,1766.816,mn082,b'\n      uh '
+1767.338,1768.872,mn082,b'\n      which '
+1768.468,1769.163,mn081,b'\n      '
+1769.057,1771.618,mn082,"b""\n      And I believe there's a lot of activity throughout the world,\n    """
+1772.137,1775.392,mn082,b'\n      because this seamlessly communication is always mentioned\n    '
+1775.561,1776.762,mn082,b'\n      elsewhere where you cou-\n    '
+1776.859,1778.110,mn021,b'\n      '
+1777.152,1778.520,mn082,b'\n      where you listen to. So '
+1779.001,1780.008,mn082,b'\n      uh '
+1779.070,1781.065,mn081,b'\n      If - if you can leave it out the network\n    '
+1781.560,1782.560,mn081,b'\n      that will be really cool.\n    '
+1783.250,1783.770,mn081,"b""\n      That's\n    """
+1784.320,1786.290,mn081,"b'\n      what you w- what I would like to do, so '"
+1786.820,1787.200,mn081,b'\n      Yes.\n    '
+1787.630,1790.328,mn021,b'\n      But when quality of '
+1788.389,1788.920,mn081,b'\n      '
+1790.800,1792.265,mn021,"b'\n      well, I think '"
+1792.520,1794.026,mn021,b'\n      a '
+1794.349,1796.078,mn021,b'\n      maybe this - this uh\n    '
+1796.610,1799.455,mn021,b'\n      uh seamless migration cannot be\n    '
+1799.455,1801.298,mn021,b'\n      seamless at '
+1801.688,1805.201,mn021,b'\n      maybe the - the quality of service we are '
+1805.610,1808.051,mn021,b'\n      when we are '
+1808.313,1809.904,mn021,"b""\n      let's say """
+1810.250,1812.020,mn021,b'\n      cannot be '
+1812.400,1814.203,mn021,b'\n      switching to a different technology.\n    '
+1814.695,1816.378,mn021,"b'\n      So, this is another\n    '"
+1816.868,1820.617,mn021,b'\n      thing that is uh putting a little bit in more trouble\n    '
+1820.956,1821.451,mn021,b'\n      our -\n    '
+1822.046,1823.060,mn021,b'\n      our\n    '
+1823.177,1824.106,mn021,b'\n      scheme or -\n    '
+1825.360,1827.061,mn082,"b'\n      Now, I would like not to hear only\n    '"
+1825.478,1826.160,mn035,b'\n      Hm-\n    '
+1827.061,1830.268,mn082,b'\n      three opinions. But maybe there are also other opinions. And\n    '
+1828.013,1828.789,mn021,b'\n      O_K.\n    '
+1828.789,1830.163,mn021,"b'\n      Yeah. Oh, sorry.\n    '"
+1830.610,1833.258,mn082,b'\n      maybe everybody should uh give a short -\n    '
+1833.258,1834.716,mn082,"b'\n      Let us understand,\n    '"
+1833.258,1833.995,mn035,b'\n      I think you -\n    '
+1834.436,1834.931,mn035,b'\n      Yeah.\n    '
+1834.716,1836.298,mn082,b'\n      built for everybody and\n    '
+1834.931,1835.335,mn035,b'\n      '
+1835.826,1836.730,mn035,b'\n      I think we should -\n    '
+1836.298,1838.980,mn082,b'\n      their com- '
+1838.141,1838.980,mn035,b'\n      In this\n    '
+1839.520,1840.690,mn035,b'\n      thing of seamless\n    '
+1841.750,1844.308,mn035,b'\n      handoff - or handovers - should think more\n    '
+1845.416,1846.827,mn035,b'\n      maybe in '
+1846.827,1848.990,mn035,b'\n      So one layer is '
+1849.620,1850.300,mn035,b'\n      handover.\n    '
+1850.760,1853.760,mn035,"b""\n      It's clear if a technology doesn't provide that """
+1854.420,1856.220,mn035,"b""\n      you can't do magic and """
+1856.743,1857.408,mn035,b'\n      There are\n    '
+1857.859,1859.284,mn035,b'\n      certain '
+1859.902,1863.800,mn035,b'\n      '
+1860.192,1861.075,mn082,b'\n      '
+1861.516,1862.164,mn082,b'\n      '
+1864.448,1866.424,mn035,"b'\n      There, it '"
+1866.671,1868.837,mn035,b'\n      So that should be made possible then?\n    '
+1869.182,1869.950,mn021,b'\n      Mm-hmm.\n    '
+1869.950,1870.680,mn021,b'\n      Yeah.\n    '
+1870.680,1871.482,mn021,b'\n      Yeah.\n    '
+1870.812,1871.549,mn035,b'\n      So\n    '
+1871.482,1873.246,mn021,b'\n      It '
+1872.895,1873.274,mn035,b'\n      Yeah.\n    '
+1873.747,1874.574,mn021,b'\n      Mmm uh\n    '
+1874.368,1875.606,mn035,b'\n      There are '
+1874.574,1877.311,mn021,b'\n      Trying to - to - to - to poi- to pinpoint\n    '
+1875.606,1876.859,mn035,b'\n      '
+1877.567,1878.108,mn035,b'\n      Yeah.\n    '
+1877.660,1879.150,mn021,b'\n      The - the possible problems.\n    '
+1879.150,1879.743,mn035,b'\n      Yep.\n    '
+1880.190,1881.128,mn035,b'\n      '
+1881.516,1882.363,mn035,b'\n      the wrong\n    '
+1882.640,1883.940,mn035,"b'\n      thing to promise,\n    '"
+1884.730,1887.640,mn035,"b'\n      uh, ten megabits to everywhere. There you are.\n    '"
+1888.820,1889.690,mn035,"b'\n      But saying ""O_K\n    '"
+1890.010,1891.170,mn035,"b""\n      if it's """
+1891.480,1893.468,mn035,"b'\n      if the technology is O_K, you can do it.""\n    '"
+1893.919,1897.000,mn021,"b'\n      Yeah. In fact, if you take the slower technology '"
+1897.000,1898.914,mn021,b'\n      of the ones you are '
+1898.615,1898.914,mn035,b'\n      Yep.\n    '
+1899.365,1901.006,mn021,"b'\n      to support, you can\n    '"
+1901.459,1906.680,mn021,b'\n      offer this warran- this - uh this '
+1902.825,1903.443,mn035,b'\n      Yep.\n    '
+1906.489,1907.036,mn035,b'\n      Yeah.\n    '
+1906.929,1911.122,mn021,"b'\n      So, if everybody is - is '"
+1911.407,1912.398,mn021,b'\n      no '
+1912.765,1919.328,mn021,"b'\n      But in this case, maybe not too much effort should be put '"
+1919.836,1922.676,mn021,b'\n      a - usually a '
+1921.911,1922.571,mn035,b'\n      Yeah.\n    '
+1923.185,1926.666,mn021,b'\n      on a - a - w- with what the user is - is using.\n    '
+1925.147,1925.810,mn035,b'\n      Yep.\n    '
+1927.110,1928.150,mn035,b'\n      Mm-hmm.\n    '
+1928.016,1935.316,mn021,"b'\n      I mean, if you have a ten megabits bandwidth and the user is asking two kilobits per second, of course, you can uh build\n    '"
+1935.670,1936.240,mn021,b'\n      uh\n    '
+1937.210,1940.114,mn021,b'\n      certain reserve mechanisms\n    '
+1940.550,1942.062,mn021,b'\n      to warranty the user these\n    '
+1942.560,1944.989,mn021,b'\n      two kilobits per second bandwidth. But probably\n    '
+1945.227,1948.884,mn021,"b""\n      in - it isn't - it is not worth because you have so\n    """
+1949.454,1951.806,mn021,b'\n      many uh available bandwidths that\n    '
+1952.162,1953.780,mn021,b'\n      maybe uh it is not a problem.\n    '
+1953.095,1954.578,,b'\n      '
+1954.578,1955.142,,b'\n      '
+1954.918,1955.892,mn082,"b'\n      Oh, please come in.\n    '"
+1956.486,1956.889,mn035,b'\n      Hi.\n    '
+1956.495,1957.086,mn021,b'\n      Hi.\n    '
+1957.466,1963.518,,b'\n      '
+1957.483,1958.446,fn083,b'\n      Hmm?\n    '
+1962.006,1962.624,fn083,b'\n      Oh! '
+1963.635,1964.062,fn083,b'\n      O_K.\n    '
+1964.062,1967.746,fn083,b'\n      '
+1964.815,1968.090,mn035,b'\n      '
+1965.755,1967.129,mn082,b'\n      Uh. '
+1965.871,1967.002,mn021,"b'\n      Oh, O_K.\n    '"
+1967.129,1968.748,mn082,b'\n      '
+1967.311,1968.296,mn030,b'\n      '
+1972.969,1973.734,mn081,b'\n      '
+1973.734,1977.660,mn081,b'\n      The - the thing is that we are looking for a research '
+1974.217,1974.692,mn082,b'\n      Yeah.\n    '
+1979.610,1981.026,mn081,b'\n      uh four areas.\n    '
+1980.597,1981.026,mn082,b'\n      Yeah.\n    '
+1981.207,1984.255,mn082,b'\n      And the '
+1983.627,1984.090,mn081,b'\n      So -\n    '
+1984.350,1984.853,mn081,b'\n      So we -\n    '
+1984.407,1985.346,mn082,b'\n      Routing?\n    '
+1985.198,1988.480,mn081,b'\n      So - so we went '
+1988.480,1990.040,mn081,b'\n      to - through multicast.\n    '
+1990.827,1992.656,mn081,b'\n      So this architecture with m-\n    '
+1992.656,1996.294,mn081,"b'\n      well, '"
+1997.490,1999.470,mn081,b'\n      comparable to uh U_M_T_S environments.\n    '
+2000.300,2002.570,mn081,b'\n      We really did not find any -\n    '
+2003.840,2005.180,mn081,"b'\n      well, difficulties there.\n    '"
+2006.240,2007.330,mn081,"b'\n      On the blackboard, that is.\n    '"
+2007.330,2010.346,mn081,"b'\n      Of course, in real life there will b- probably be some problems.\n    '"
+2010.346,2015.908,mn021,b'\n      Have you - have you read about this - uh Barwan project held at Berkeley University?\n    '
+2015.571,2017.888,mn082,"b'\n      Well, what you - the pointer - the pointer you sent yesterday.\n    '"
+2016.171,2017.124,mn081,b'\n      '
+2018.090,2018.689,mn021,b'\n      Yeah.\n    '
+2018.357,2020.041,mn082,"b""\n      Yeah, I c- I didn't find the time,\n    """
+2020.367,2020.703,mn021,b'\n      O_K.\n    '
+2020.703,2021.962,mn082,"b'\n      yeah, to do so, but,\n    '"
+2021.962,2022.764,mn082,b'\n      uh\n    '
+2022.105,2023.835,mn081,b'\n      You mean the Iceberg project?\n    '
+2023.675,2024.432,mn021,b'\n      '
+2024.741,2026.142,mn081,b'\n      Barwan '
+2025.320,2026.142,mn021,b'\n      '
+2026.403,2027.581,mn035,"b""\n      How's it start?\n    """
+2026.657,2028.800,mn081,"b""\n      I know there's one that's of uh Randy Katz.\n    """
+2028.910,2030.900,mn021,b'\n      Uh da- it was another related\n    '
+2031.170,2032.628,mn021,b'\n      project called Daedalus.\n    '
+2033.070,2033.432,mn081,b'\n      Yes.\n    '
+2034.957,2036.670,mn021,b'\n      And uh well it seems they\n    '
+2037.050,2039.489,mn021,b'\n      what they were doing was some kind of '
+2039.489,2043.142,mn021,b'\n      uh things si- somehow '
+2044.510,2046.370,mn081,b'\n      They worked together wi- little bit with Nokia?\n    '
+2045.503,2045.972,mn021,b'\n      u-\n    '
+2047.218,2049.721,mn021,b'\n      Uh '
+2047.754,2048.572,mn081,b'\n      Palo Alto?\n    '
+2049.171,2049.966,mn081,b'\n      Mountain View?\n    '
+2049.721,2050.662,mn021,b'\n      '
+2050.970,2051.921,mn021,b'\n      I just uh\n    '
+2051.921,2055.636,mn021,b'\n      take a - a quick uh look at the - at the thing because I -\n    '
+2055.940,2056.844,mn021,b'\n      I was -\n    '
+2057.560,2058.190,mn021,b'\n      uh read\n    '
+2058.411,2060.572,mn021,b'\n      about this uh a long time ago.\n    '
+2061.070,2064.815,mn021,b'\n      And it - the - the latest report I - I found\n    '
+2065.108,2067.107,mn021,b'\n      was in nineteen ninety eight.\n    '
+2067.721,2074.250,mn021,"b'\n      And in this report, well, they - they pres- '"
+2069.565,2070.360,mn081,b'\n      Hmm.\n    '
+2074.677,2075.651,mn021,b'\n      And '
+2076.150,2077.212,mn021,b'\n      the main thing\n    '
+2077.630,2081.777,mn021,b'\n      and the quick uh thing I - I was uh looking at was a - a video\n    '
+2082.014,2085.625,mn021,b'\n      available in M_P-thr- '
+2086.076,2087.648,mn021,b'\n      And uh '
+2087.648,2091.540,mn021,b'\n      well '
+2091.540,2092.228,mn021,b'\n      one guy\n    '
+2092.513,2094.261,mn021,b'\n      with a '
+2094.261,2094.877,mn021,b'\n      moving\n    '
+2095.200,2096.920,mn021,b'\n      across different networks.\n    '
+2097.561,2100.554,mn021,b'\n      So starting at the C_S department at Berkeley\n    '
+2100.120,2103.995,fn083,b'\n      '
+2100.768,2102.169,mn021,b'\n      and then going out the street\n    '
+2102.405,2104.941,mn021,"b'\n      switching to the - a campus-wide network,\n    '"
+2104.941,2107.272,mn021,"b""\n      uh um I think it's a Metricom\n    """
+2107.677,2108.628,mn021,"b'\n      uh network,\n    '"
+2108.976,2111.352,mn021,b'\n      an- which is uh a test -\n    '
+2110.888,2111.929,mn082,"b'\n      A Ricochet here, right?\n    '"
+2112.320,2113.697,mn021,"b""\n      Ricochet, yeah, that's right.\n    """
+2112.837,2113.094,mn082,b'\n      Yeah.\n    '
+2113.094,2113.697,mn082,b'\n      Yeah.\n    '
+2113.697,2113.995,mn082,b'\n      Yeah.\n    '
+2114.030,2118.540,mn021,"b'\n      And then, finally switching to - I think it was '"
+2119.302,2120.200,mn021,b'\n      O_K.\n    '
+2120.200,2123.310,mn021,b'\n      I - as lo- uh as the - as the user is moving\n    '
+2123.310,2126.817,mn021,b'\n      out of the - of the coverage area of this second network.\n    '
+2127.135,2129.905,mn021,"b'\n      And, well, what they have built is a\n    '"
+2130.261,2133.158,mn021,b'\n      a - kind of uh proxy structure.\n    '
+2133.158,2133.681,mn021,b'\n      So\n    '
+2133.966,2136.714,mn021,b'\n      they are - they are putting most of the work\n    '
+2137.066,2139.037,mn021,b'\n      of this adaptational layer\n    '
+2139.512,2140.296,mn021,b'\n      on - '
+2140.296,2143.892,mn021,b'\n      on the side of the proxies. So the client or the server is not\n    '
+2144.121,2145.049,mn021,b'\n      '
+2144.190,2144.827,mn081,b'\n      '
+2145.049,2147.891,mn021,"b'\n      It is the proxy, the one that does the work.\n    '"
+2147.891,2148.358,mn081,b'\n      Yeah.\n    '
+2148.358,2150.613,mn021,"b'\n      O_K, so you can even, for example, use -\n    '"
+2150.411,2151.446,mn081,b'\n      '
+2151.492,2152.557,mn021,"b""\n      It's the same?\n    """
+2151.773,2154.084,mn082,b'\n      Ah we just discussed a lot about proxies.\n    '
+2153.773,2155.174,mn030,b'\n      '
+2154.014,2154.910,mn021,"b'\n      Oh, O_K.\n    '"
+2154.084,2155.947,mn082,b'\n      '
+2155.232,2156.508,mn081,b'\n      I like them '
+2155.947,2159.686,mn082,b'\n      '
+2156.212,2159.156,fn083,b'\n      '
+2156.624,2158.273,mn021,"b'\n      O_K, I -\n    '"
+2157.456,2158.666,mn081,b'\n      '
+2159.851,2163.716,mn021,"b'\n      It is just that - that - well, maybe we can - we can take a look at -\n    '"
+2164.012,2167.665,mn021,b'\n      oh maybe a more in-depth look at this project just to see\n    '
+2167.998,2168.425,mn021,b'\n      if\n    '
+2168.425,2168.830,mn021,b'\n      we are\n    '
+2169.518,2172.780,mn021,"b'\n      doing the same, or if we are doing something similar.\n    '"
+2172.993,2174.561,mn021,b'\n      It would be important for us -\n    '
+2174.822,2177.174,mn021,b'\n      to - to highlight the '
+2174.822,2175.240,mn081,b'\n      Yeah.\n    '
+2177.720,2180.412,mn021,"b'\n      Because if not, well, they can say, ""Oh, you are doing the same '"
+2180.750,2182.219,mn021,"b'\n      ""This was '"
+2181.342,2183.767,mn081,b'\n      Or maybe talk to them '
+2184.052,2186.129,mn021,"b'\n      Yeah, well we are '"
+2184.052,2187.044,mn081,b'\n      '
+2187.179,2187.500,mn082,b'\n      Mm-hmm.\n    '
+2187.708,2189.728,mn082,"b'\n      Uh maybe a few comments. First of all,\n    '"
+2189.978,2194.088,mn082,"b'\n      Um. Do you mind Mi- Miguel, to write the name of the project on the whiteboard?\n    '"
+2193.299,2193.613,mn021,b'\n      Yeah.\n    '
+2193.940,2194.970,mn021,b'\n      No problem.\n    '
+2194.451,2195.421,mn082,b'\n      So that everybody -\n    '
+2195.917,2198.601,mn082,b'\n      Uh '
+2198.601,2201.600,mn082,"b'\n      which Miguel sent to me, to everybody so that everybody can\n    '"
+2202.000,2202.987,mn082,b'\n      take a look to this\n    '
+2203.367,2204.830,mn082,"b'\n      uh, project.\n    '"
+2203.367,2204.760,mn081,b'\n      I was -\n    '
+2205.060,2208.313,mn082,"b""\n      And uh I don't know what avail- information is available because\n    """
+2208.599,2211.187,mn082,"b""\n      I didn't find the time currently to check it out.\n    """
+2211.187,2212.640,mn030,"b""\n      It's a project of the U_C.\n    """
+2211.533,2212.071,mn082,b'\n      But first of -\n    '
+2212.117,2213.000,mn021,b'\n      '
+2213.000,2215.035,mn021,"b'\n      Yeah, U_C Ber- uh Berkeley, yeah.\n    '"
+2213.060,2213.782,mn030,"b'\n      Oh, yeah.\n    '"
+2213.681,2214.183,mn082,b'\n      Yeah.\n    '
+2214.624,2216.158,mn081,b'\n      Wh- when did you go through this?\n    '
+2216.491,2218.439,mn021,"b""\n      I'll - I - you - uh """
+2218.439,2220.172,mn021,b'\n      I seen uh\n    '
+2220.666,2222.714,mn021,b'\n      uh reports from\n    '
+2222.714,2226.904,mn021,"b'\n      nineteen ninety- uh ninety-six, ninety-seven and ninety-eight.\n    '"
+2227.350,2228.678,mn081,b'\n      Cuz yesterday I was uh\n    '
+2228.678,2231.700,mn081,b'\n      Well '
+2228.678,2229.491,mn021,b'\n      Maybe the project -\n    '
+2229.491,2230.710,mn021,b'\n      n- uh\n    '
+2232.175,2232.792,mn081,"b""\n      It's funny.\n    """
+2233.988,2234.740,mn082,"b'\n      Uh, sorry?\n    '"
+2234.740,2237.115,mn081,"b'\n      Yeah, yesterday I was just surfing a little bit.\n    '"
+2234.740,2235.195,mn082,b'\n      Uh do -\n    '
+2237.115,2238.183,mn082,b'\n      Mm-hmm. '
+2238.183,2241.530,mn081,b'\n      And then from Nokia I came to this - that '
+2240.178,2241.574,mn082,b'\n      Ah! '
+2241.908,2243.676,mn081,b'\n      Nokia research. And then -\n    '
+2241.936,2243.813,mn082,b'\n      Yeah? '
+2243.109,2245.631,mn021,b'\n      I think that - that the leader was uh Professor Katz.\n    '
+2245.511,2246.720,mn081,"b""\n      That's right. And he's also\n    """
+2247.316,2247.770,mn081,b'\n      board\n    '
+2248.380,2248.900,mn081,b'\n      in Nokia\n    '
+2249.129,2249.794,mn021,b'\n      O_K.\n    '
+2249.641,2250.354,mn081,"b'\n      research, so '"
+2250.290,2254.415,mn082,b'\n      Mm-hmm. Then the second thing is that uh Daimler-Chrysler research here\n    '
+2254.754,2257.000,mn082,"b'\n      in Palo Alto as well as in Germany, '"
+2257.273,2259.189,mn082,b'\n      is '
+2259.293,2260.540,mn021,b'\n      Mm-hmm.\n    '
+2259.782,2261.750,mn082,b'\n      They have a specific antenna for\n    '
+2262.189,2265.677,mn082,b'\n      uh G_S_M '
+2266.115,2272.176,mn082,b'\n      extended G_- uh G_S_M networks and wireless LAN and '
+2272.715,2274.210,mn082,b'\n      In the roof of the car.\n    '
+2274.565,2275.080,mn082,b'\n      They have a s-\n    '
+2275.314,2276.340,mn082,b'\n      lot of '
+2276.606,2277.239,mn082,b'\n      in\n    '
+2277.523,2279.250,mn082,b'\n      the '
+2279.484,2283.200,mn082,b'\n      Then they collect data how it is - with handoff and all these kind of things and they\n    '
+2283.696,2287.306,mn082,b'\n      are driving around the different areas. And the same car exists here in Palo Alto\n    '
+2287.782,2288.690,mn082,b'\n      uh based on\n    '
+2288.690,2291.462,mn082,"b'\n      wireless LAN, G_S_M and '"
+2291.462,2292.304,mn021,b'\n      Mm-hmm.\n    '
+2291.462,2295.340,mn082,b'\n      They '
+2295.950,2299.708,mn082,b'\n      concerning the seamless handoffs and whether it works very well with speed\n    '
+2300.385,2302.144,mn082,b'\n      and um\n    '
+2302.932,2304.710,mn082,"b'\n      uh, Thomas is going to\n    '"
+2305.320,2306.580,mn082,b'\n      build mobile I_P\n    '
+2306.995,2308.294,mn082,b'\n      stuff in\n    '
+2309.271,2310.374,mn082,b'\n      their servers.\n    '
+2310.670,2311.337,mn082,b'\n      uh\n    '
+2311.594,2313.140,mn082,b'\n      because they want to\n    '
+2313.447,2316.988,mn082,b'\n      use '
+2317.222,2319.398,mn082,b'\n      So I think there is a lot of activities in the area.\n    '
+2319.830,2322.783,mn082,b'\n      Uh. And my third uh comment is\n    '
+2323.380,2326.132,mn082,b'\n      uh if we are going '
+2326.132,2328.388,mn082,b'\n      that is quite different from this thing '
+2328.621,2328.854,mn082,b'\n      '
+2329.043,2332.181,mn082,"b'\n      But, anyway, maybe as a core technology with a real\n    '"
+2332.536,2333.460,mn082,b'\n      product in mind.\n    '
+2333.850,2335.910,mn082,b'\n      I see some difficulty because '
+2336.677,2340.606,mn082,b'\n      currently has here certain kind uh of U_M_T_S know how.\n    '
+2340.951,2341.735,mn021,b'\n      Mm-hmm.\n    '
+2341.911,2344.824,mn082,b'\n      And you need it definitely because then - it j- must be your\n    '
+2344.824,2345.233,mn082,b'\n      uh\n    '
+2345.604,2347.268,mn082,b'\n      '
+2347.268,2350.137,mn082,b'\n      that you are very familiar with U_M_T_S if you wanna go\n    '
+2350.553,2351.470,mn082,b'\n      in - in that way.\n    '
+2351.872,2352.395,mn082,b'\n      And\n    '
+2352.941,2356.242,mn082,b'\n      As far as I know the U_M_T_S standardization is '
+2356.855,2359.310,mn082,"b'\n      Ninety percent, maybe, or '"
+2359.434,2360.160,mn021,b'\n      '
+2360.091,2361.174,mn082,b'\n      But '
+2360.160,2362.363,mn021,b'\n      Yeah b- le- let me - let me ask you\n    '
+2361.570,2362.109,mn082,b'\n      that -\n    '
+2362.363,2362.567,mn021,b'\n      '
+2362.516,2362.755,mn082,b'\n      Yeah.\n    '
+2362.567,2365.618,mn021,b'\n      a question about eh U_M_T_S or - or\n    '
+2365.618,2367.584,mn021,b'\n      third or possible fourth-\n    '
+2367.584,2368.415,mn021,b'\n      generation\n    '
+2368.819,2370.862,mn021,b'\n      communic- '
+2371.171,2373.427,mn021,"b'\n      Uh, from the point of view of the user,\n    '"
+2373.862,2379.201,mn021,b'\n      uh '
+2380.573,2382.932,mn021,b'\n      Is there any '
+2383.423,2386.917,mn021,b'\n      from the point of view of the user or of - of the terminals?\n    '
+2386.165,2387.936,mn082,b'\n      Users of - of U_M_T_S?\n    '
+2387.936,2388.316,mn021,b'\n      Yeah.\n    '
+2389.100,2391.523,mn082,b'\n      You '
+2392.188,2394.470,mn082,b'\n      You '
+2395.070,2397.084,mn082,"b""\n      it's not end-to-"""
+2396.668,2398.047,mn021,b'\n      Hmm-hmm-hmm.\n    '
+2397.852,2401.233,mn082,b'\n      It is only um '
+2401.019,2402.112,mn021,b'\n      O_K. Yeah.\n    '
+2401.748,2402.372,mn082,b'\n      get.\n    '
+2402.372,2406.060,mn082,b'\n      And within the core network '
+2406.551,2409.962,mn082,b'\n      in the core network '
+2410.798,2412.720,mn082,b'\n      And you use certain kind of '
+2412.914,2414.540,mn082,b'\n      '
+2414.870,2416.723,mn082,"b'\n      combine, in principle, the base\n    '"
+2416.883,2419.111,mn082,b'\n      station cluster control. But this is -\n    '
+2419.111,2421.830,mn082,b'\n      uh is '
+2421.272,2421.830,mn021,b'\n      Hmm-hmm-hmm.\n    '
+2422.007,2425.290,mn082,b'\n      And you have the gateway to the '
+2425.290,2428.860,mn082,"b""\n      And between both there's a certain kind of tunnel set up.\n    """
+2425.290,2426.254,mn021,b'\n      But in fact -\n    '
+2428.487,2431.900,mn021,"b'\n      But in - fact now, at the G_S_M level,\n    '"
+2432.161,2432.850,mn021,b'\n      what you have\n    '
+2433.109,2435.270,mn021,b'\n      is that every voice '
+2435.910,2438.809,mn021,b'\n      provides a - a p- a pretty fine fixed\n    '
+2439.200,2441.042,mn021,b'\n      uh data speed.\n    '
+2441.755,2444.070,mn021,"b'\n      So, we can say that every voice channel\n    '"
+2444.354,2447.040,mn021,b'\n      has an i- an incr- uh -\n    '
+2447.040,2448.132,mn021,b'\n      '
+2448.132,2450.230,mn021,b'\n      um '
+2450.230,2451.200,mn021,"b'\n      quality of service,\n    '"
+2451.552,2452.160,mn021,b'\n      which is\n    '
+2452.160,2454.664,mn021,b'\n      nnn ninety six hundred\n    '
+2454.970,2455.899,mn021,b'\n      bits per second.\n    '
+2456.609,2457.890,mn021,b'\n      Full duplex.\n    '
+2458.535,2460.274,mn082,"b'\n      You mean now for G_S_M, '"
+2458.676,2459.506,mn021,"b""\n      Doesn't it?\n    """
+2460.067,2460.440,mn021,b'\n      Yeah.\n    '
+2460.274,2460.515,mn082,b'\n      Yeah.\n    '
+2460.654,2461.064,mn082,b'\n      Yeah.\n    '
+2461.273,2461.843,mn021,b'\n      So.\n    '
+2462.657,2466.149,mn082,"b'\n      Yeah, what '"
+2466.343,2466.695,mn021,b'\n      Yeah.\n    '
+2467.259,2467.837,mn082,b'\n      Uh.\n    '
+2468.959,2470.045,mn082,b'\n      Sometimes we have some -\n    '
+2469.255,2473.224,mn021,"b'\n      No, but - um but not '"
+2473.464,2474.361,mn021,b'\n      about '
+2474.750,2475.530,mn021,"b'\n      you know, because\n    '"
+2475.897,2477.217,mn021,b'\n      G_S_M networks\n    '
+2477.460,2478.000,mn021,b'\n      were\n    '
+2478.000,2481.771,mn021,b'\n      developed to y- uh '
+2482.070,2486.248,mn021,"b'\n      Ah, delay is also '"
+2486.248,2486.703,mn021,"b'\n      So,\n    '"
+2487.021,2489.900,mn021,"b'\n      uh, in fact for every voice channel you have\n    '"
+2490.280,2494.531,mn021,"b'\n      uh a pretty fine maximum uh delay and jitter,\n    '"
+2494.531,2497.001,mn021,b'\n      and a - a - a specified\n    '
+2497.001,2498.593,mn021,b'\n      um data speed.\n    '
+2498.915,2499.329,mn021,b'\n      So\n    '
+2499.820,2501.514,mn021,b'\n      you can scale up -\n    '
+2501.790,2503.427,mn021,b'\n      scale up this uh\n    '
+2503.788,2505.940,mn021,b'\n      this um thing\n    '
+2505.940,2507.344,mn021,b'\n      by using several '
+2507.489,2508.370,mn021,"b'\n      So, in fact,\n    '"
+2508.631,2509.208,mn021,"b'\n      you have,\n    '"
+2510.032,2512.562,mn021,"b'\n      using just G_S_M technology,\n    '"
+2512.562,2513.766,mn021,b'\n      you have more or less the same\n    '
+2513.766,2514.730,mn021,b'\n      building blocks\n    '
+2514.973,2516.041,mn021,b'\n      as you can get\n    '
+2516.516,2518.450,mn021,b'\n      uh with the U_M_T_S.\n    '
+2518.950,2519.287,mn021,b'\n      I mean\n    '
+2519.287,2523.598,mn021,"b'\n      that one thing is that the technology is a little bit different,\n    '"
+2523.598,2533.360,mn021,b'\n      that uh the base station thing is different and maybe uh the - the internal routing uh inside the network is different but from the point of view of the mobile things\n    '
+2533.812,2534.590,mn021,b'\n      uh\n    '
+2535.170,2537.360,mn021,"b""\n      I'm not sure if - if -\n    """
+2536.139,2538.078,mn082,"b""\n      It's """
+2538.907,2543.280,mn082,"b""\n      It's not really """
+2543.710,2545.680,mn082,b'\n      a involvement in the '
+2546.208,2549.802,mn082,"b'\n      You have, in principle, the '"
+2549.802,2552.700,mn082,b'\n      for - for the G_S_M network. '
+2553.493,2554.043,mn021,b'\n      Mm-hmm.\n    '
+2553.590,2555.170,mn082,b'\n      uh the same '
+2555.470,2556.570,mn082,b'\n      But you also have a -\n    '
+2556.980,2558.040,mn082,b'\n      dat- uh packet\n    '
+2558.330,2559.125,mn082,b'\n      oriented\n    '
+2559.125,2561.215,mn082,"b""\n      communication that's on the G_P_S stuff.\n    """
+2561.739,2564.066,mn082,"b""\n      And that's also related to U_M_T_S. So,\n    """
+2563.584,2564.008,mn021,"b'\n      Yeah, but -\n    '"
+2564.008,2564.759,mn021,b'\n      The -\n    '
+2564.066,2565.158,mn082,b'\n      that is -\n    '
+2564.759,2567.007,mn021,"b'\n      You know, it is also being d- uh\n    '"
+2567.007,2569.610,mn021,"b'\n      developed, this G_ uh P_- D_P_R_S thing,\n    '"
+2570.408,2572.113,mn021,b'\n      G_P_R_S thing.\n    '
+2572.790,2576.260,mn021,"b'\n      which is uh pack- uh packet data over G_S_M. So,\n    '"
+2576.820,2577.198,mn021,b'\n      I mean.\n    '
+2577.459,2579.010,mn021,"b""\n      Uh, I don't see that\n    """
+2579.580,2583.425,mn021,b'\n      a - a lot of difference. We can '
+2583.876,2586.170,mn021,b'\n      f- uh from the uh mobile terminal\n    '
+2586.580,2587.321,mn021,b'\n      point of view.\n    '
+2587.321,2589.445,mn021,"b'\n      Uh, when uh U_M_T_S\n    '"
+2589.771,2590.646,mn021,b'\n      be deployed.\n    '
+2591.930,2593.049,mn021,"b""\n      What I'm trying to say is that -\n    """
+2593.049,2593.757,mn021,b'\n      is that -\n    '
+2593.757,2594.640,mn021,"b'\n      well, uh\n    '"
+2594.940,2595.378,mn021,b'\n      maybe\n    '
+2595.378,2599.770,mn021,b'\n      uh it is '
+2599.812,2604.210,mn021,b'\n      be uh um '
+2604.530,2606.706,mn021,"b""\n      uh I - I don't see - it - I think that\n    """
+2606.706,2608.634,mn021,b'\n      the U_M_T_S thing is more\n    '
+2608.634,2610.445,mn021,b'\n      a '
+2610.445,2612.182,mn021,b'\n      than a '
+2612.721,2613.441,mn021,"b""\n      Maybe I'm """
+2613.441,2614.889,mn021,b'\n      Just es- um '
+2614.672,2614.889,mn082,b'\n      '
+2614.889,2619.333,mn082,"b""\n      No, I think there's a lot - Yeah. - I think there's a lot of """
+2614.889,2617.283,mn021,b'\n      explaining my - m-\n    '
+2619.694,2621.934,mn082,b'\n      a research wh- in which direction '
+2621.987,2631.002,mn021,"b'\n      I mean - to be done here, not - not at the - of course, you know, '"
+2622.327,2623.194,mn082,b'\n      And because -\n    '
+2623.194,2623.970,mn082,b'\n      For inf-\n    '
+2631.097,2634.480,mn021,b'\n      But the point is that - uh this is '
+2635.541,2639.603,mn021,"b'\n      Because uh well, you know the - the - the orientation of our group which is\n    '"
+2639.692,2640.571,mn021,"b'\n      uh ""Networks\n    '"
+2640.856,2647.033,mn021,"b'\n      Services and Applications"", not uh wireless technology or the underlying wireless technology.\n    '"
+2647.420,2649.463,mn030,b'\n      You think more about '
+2649.463,2652.978,mn030,"b'\n      So, there is a lot of hardware to develop, but '"
+2649.463,2653.893,mn021,"b'\n      Yeah. You know, radio frequency technology, wide-band w- uh C_D_M_A.\n    '"
+2653.893,2654.845,mn021,b'\n      These kind of things\n    '
+2655.069,2663.996,mn021,b'\n      all have a lot of things to be - to be - uh '
+2663.329,2666.766,mn082,"b'\n      Right, but bear in mind the picture is a - is a '"
+2666.766,2671.734,mn082,b'\n      The picture '
+2671.734,2674.561,mn082,"b'\n      Like you did it or are doing now for G_S_M,\n    '"
+2674.561,2676.852,mn082,"b""\n      it's not """
+2676.852,2680.486,mn082,"b'\n      And, '"
+2680.486,2683.800,mn082,"b'\n      it will be very hard, in principle, to get some money back if you have only\n    '"
+2684.260,2687.488,mn082,b'\n      for - using it for voice. '
+2685.284,2686.211,mn021,"b'\n      Voice, yeah.\n    '"
+2687.488,2689.127,mn082,b'\n      What is the point? The point is that\n    '
+2689.127,2693.687,mn082,b'\n      you use the U_M_T_S to connect to the '
+2693.687,2695.830,mn082,b'\n      are still not available up to now.\n    '
+2696.370,2698.250,mn082,b'\n      But the problem is if you have the internet\n    '
+2698.485,2700.750,mn082,"b'\n      content, and you have maybe your small uh\n    '"
+2701.096,2702.806,mn082,b'\n      um '
+2702.806,2707.150,mn082,"b'\n      of maybe only evolution based for - for these uh new technologies, for - for -\n    '"
+2707.750,2708.492,mn082,b'\n      certain mobile\n    '
+2708.967,2709.679,mn082,b'\n      '
+2709.679,2710.443,mn021,b'\n      Hmm-hmm-hmm.\n    '
+2709.679,2712.838,mn082,"b'\n      then you have certain kind of problems, you know, because you cannot use '"
+2713.070,2715.740,mn082,"b'\n      And WAP is not an answer for - for these kind of things, you know.\n    '"
+2716.140,2716.640,mn082,b'\n      So.\n    '
+2717.026,2721.668,mn082,"b'\n      The - I believe there is a lot of research work and also if you see the end-to-end scope of the internet,\n    '"
+2718.798,2719.721,mn081,b'\n      '
+2721.668,2726.613,mn082,"b'\n      from the mobile node up to the certain kind of server, ""correspondent node"", or '"
+2727.130,2731.020,mn082,"b'\n      then you have certain kind of models, for instance, for the quality of service and all these kind of things.\n    '"
+2731.289,2732.287,mn082,b'\n      And then is U_M_T_S\n    '
+2732.287,2735.232,mn082,b'\n      only one link where you have certain kind of '
+2735.232,2736.256,mn082,b'\n      layer technology.\n    '
+2736.569,2738.250,mn082,b'\n      And you have to match these things '
+2739.110,2740.640,mn082,"b""\n      It's like a """
+2741.065,2741.741,mn021,b'\n      Hmm-hmm-hmm.\n    '
+2741.140,2744.242,mn082,"b'\n      Whatever you see, it is only an additional subnet layer technology.\n    '"
+2742.152,2742.893,mn021,b'\n      Yeah.\n    '
+2744.242,2745.380,mn082,b'\n      And you have all the\n    '
+2745.786,2746.590,mn082,b'\n      things mapped\n    '
+2747.030,2752.532,mn082,b'\n      to the - uh to - to the - to the - the '
+2752.931,2755.520,mn082,"b'\n      And furthermore, you see that the '"
+2755.520,2756.827,mn082,b'\n      '
+2757.100,2761.639,mn082,b'\n      '
+2762.560,2764.358,mn082,b'\n      to their access network '
+2765.427,2771.507,mn082,b'\n      And '
+2771.958,2773.478,mn082,"b'\n      But the question is, first of all,\n    '"
+2773.811,2776.160,mn082,"b'\n      ""Do we have the competence to do something like that?""\n    '"
+2776.550,2777.279,mn082,b'\n      '
+2777.279,2779.345,mn082,"b'\n      Second, we are not hardware builders,\n    '"
+2779.630,2781.554,mn082,b'\n      in that sense to set up certain kind of\n    '
+2782.190,2783.350,mn082,b'\n      end systems.\n    '
+2783.905,2785.085,mn082,b'\n      We can '
+2785.568,2789.650,mn082,"b'\n      yeah, from the '"
+2790.410,2792.740,mn082,"b""\n      But isn't the final outcome really such a device?\n    """
+2793.092,2794.565,mn082,"b'\n      Prototype, Linux based.\n    '"
+2795.087,2799.583,mn082,b'\n      And we go around here and we have maybe a G_P_S-base station sponsored by '
+2799.583,2801.880,mn082,b'\n      since they are living not so far away and - and\n    '
+2801.880,2805.720,mn082,"b'\n      maybe WaveLAN connection, here now a testbed and then - then figure out that it works?\n    '"
+2806.860,2808.349,mn082,"b'\n      So, '"
+2810.003,2812.491,mn081,"b'\n      Well, just to make the list a little bit longer.\n    '"
+2812.009,2812.370,mn082,b'\n      Yep.\n    '
+2812.491,2813.363,mn081,b'\n      '
+2814.201,2815.175,mn081,"b'\n      Um, you could also\n    '"
+2815.532,2820.804,mn081,"b'\n      think about uh session management. I do along with uh the network applications and services, uh\n    '"
+2821.232,2823.013,mn081,"b""\n      as you might know. It's a - a\n    """
+2823.540,2825.660,mn081,b'\n      if you can do it in the end systems or\n    '
+2826.006,2828.176,mn081,"b'\n      at sp- specific servers, then,\n    '"
+2828.176,2829.221,mn081,"b""\n      I'm in favor of that.\n    """
+2829.719,2834.206,mn081,"b'\n      But se- session management, I mean uh the authentication, if you go from one network to the other,\n    '"
+2834.586,2835.654,mn081,"b""\n      it's not solved. uh,\n    """
+2835.868,2838.030,mn081,b'\n      Nobody really wants a - a guest\n    '
+2838.350,2839.100,mn081,b'\n      on your network.\n    '
+2839.570,2842.875,mn081,b'\n      Unless you get some money '
+2843.608,2847.717,mn081,"b'\n      Then, there is also the session management in the sense that a lot of these things -\n    '"
+2847.717,2849.569,mn081,"b'\n      at the Barwan project, as you said,\n    '"
+2849.569,2850.662,mn081,b'\n      go through proxies.\n    '
+2851.303,2854.106,mn081,"b'\n      There might be kind of handoffs at - uh at proxies,\n    '"
+2854.106,2855.999,mn081,b'\n      like the '
+2854.106,2855.402,,b'\n      '
+2855.999,2859.559,mn081,b'\n      s- '
+2860.362,2863.871,mn081,"b""\n      That - that's als- I think also in the line of uh session management.\n    """
+2864.417,2868.193,mn081,"b""\n      Then there is this uh perfect thing uh the Berkeley sockets. It's almost perfect.\n    """
+2868.597,2870.970,mn081,"b'\n      They s- kind of skipped uh layer five,\n    '"
+2871.370,2873.660,mn081,"b'\n      uh session management or session layer,\n    '"
+2874.154,2874.679,mn081,b'\n      I think.\n    '
+2875.273,2879.857,mn081,"b""\n      That's um """
+2880.545,2883.788,mn081,"b'\n      the prot- application protocol on layer four,\n    '"
+2883.788,2887.018,mn081,"b'\n      uh T_C_P socket, or layer five for\n    '"
+2887.018,2887.945,mn081,b'\n      U_D_P socket.\n    '
+2888.515,2890.367,mn081,"b'\n      There might also be some research - Well,\n    '"
+2890.908,2893.967,mn081,b'\n      could you '
+2894.205,2896.010,mn081,b'\n      Norm- what they do right now is they\n    '
+2896.437,2897.767,mn081,b'\n      make it part of the\n    '
+2898.227,2899.810,mn081,b'\n      application-level protocol.\n    '
+2900.663,2904.986,mn081,"b""\n      That's what they do most often. Like with session management? for mobile the - uh\n    """
+2905.530,2908.766,mn081,b'\n      applications such as ist- instant messaging or\n    '
+2908.766,2911.521,mn081,"b'\n      uh talks, and so on, uh like '"
+2912.043,2914.205,mn081,"b""\n      It's just doing a - a reconnect.\n    """
+2914.205,2916.841,mn081,b'\n      If they think that the network is different or\n    '
+2917.268,2922.807,mn081,"b""\n      different capabilities come into play, they simply do a reconnect so it's part of the protocol.\n    """
+2922.807,2925.813,mn081,"b""\n      That's all what I think about session management, like\n    """
+2925.813,2927.428,mn081,b'\n      part of - in proxies or\n    '
+2927.428,2930.629,mn081,b'\n      is it en- embedded in application level protocols?\n    '
+2930.777,2932.012,mn082,"b""\n      But it's really\n    """
+2932.360,2932.939,mn082,b'\n      '
+2933.770,2937.401,mn082,"b""\n      Right? It's """
+2934.340,2935.136,mn081,"b""\n      I- it's -\n    """
+2937.614,2938.613,mn082,"b""\n      That's dangerous.\n    """
+2940.323,2944.712,mn082,"b""\n      Cuz if you go to the app- If you - For me that's starting with middleware aspects, you know?\n    """
+2940.323,2943.196,mn081,b'\n      So how do you want to focus on network '
+2945.160,2945.864,mn082,b'\n      And -\n    '
+2945.211,2950.895,mn081,"b'\n      Well the- So ""network applications"", if you look at the name of '"
+2951.670,2953.410,mn081,b'\n      one thing is that um\n    '
+2953.911,2954.300,mn081,b'\n      the-\n    '
+2954.790,2957.272,mn081,"b'\n      they used to call a - a n- a ""network""\n    '"
+2957.629,2958.980,mn081,b'\n      that was uh - if it was\n    '
+2959.420,2962.390,mn081,b'\n      like distributed between two systems connected\n    '
+2962.390,2963.918,mn081,b'\n      '
+2963.918,2965.433,mn081,b'\n      If you look at '
+2965.433,2967.006,mn081,b'\n      from the\n    '
+2967.006,2967.979,mn081,"b'\n      O_Z layer,\n    '"
+2967.979,2968.740,mn081,"b""\n      then it's\n    """
+2968.740,2971.138,mn081,"b'\n      uh, level two or something or '"
+2971.740,2972.943,mn081,"b'\n      maybe level three, but\n    '"
+2973.470,2975.654,mn081,b'\n      everything '
+2976.836,2980.607,mn081,"b'\n      So there are, I think, two - two different interpretations of uh ""network"".\n    '"
+2981.106,2985.217,mn082,b'\n      '
+2986.140,2987.240,mn082,"b'\n      protocol suite,\n    '"
+2987.527,2987.950,mn082,b'\n      is\n    '
+2988.647,2991.711,mn082,"b'\n      then layer one, in principle, up t- including layer four,\n    '"
+2992.460,2995.036,mn082,"b'\n      despite the fact that layer four is only residing, '"
+2995.510,2997.077,mn082,b'\n      in the end system and in the gateways.\n    '
+2997.386,2999.552,mn081,"b'\n      But are there ""network '"
+2997.827,2998.323,mn082,b'\n      Yeah.\n    '
+3001.272,3007.401,mn081,"b'\n      So, the - the name is ""Network Services and Applications"", s- so what could be an en- '"
+3007.401,3009.070,mn081,b'\n      look at the '
+3010.130,3012.510,mn082,"b'\n      Yeah, we have, I think, some. Yeah.\n    '"
+3012.830,3015.401,mn082,"b'\n      Do you see this word ""application"" related to a network?\n    '"
+3015.758,3019.321,mn082,b'\n      Or do you see this word independently? That was never discussed in detail.\n    '
+3019.962,3023.029,mn082,"b'\n      ""Network '"
+3023.029,3024.497,mn081,b'\n      O_K. '
+3023.029,3026.212,mn082,b'\n      in the '
+3024.232,3024.968,mn030,b'\n      '
+3026.212,3030.580,mn082,b'\n      For '
+3031.200,3032.364,mn082,"b'\n      uh, these applications should -\n    '"
+3032.364,3033.740,mn082,"b'\n      For instance, '"
+3034.320,3038.033,mn081,"b'\n      O_K, O_K, well, they will - '"
+3034.320,3036.210,mn082,"b""\n      And it's really, really """
+3036.210,3038.276,mn082,b'\n      You know? '
+3038.276,3042.717,mn082,"b'\n      No no, uh that is a typical application, I think, which is, in principle, also a little bit related to -\n    '"
+3043.382,3045.936,mn082,b'\n      uh to the '
+3046.634,3053.220,mn082,b'\n      And we '
+3053.962,3054.770,mn082,b'\n      Because\n    '
+3054.770,3056.438,mn082,b'\n      '
+3058.969,3063.133,mn082,b'\n      So the '
+3063.133,3064.480,mn082,b'\n      basic building blocks\n    '
+3064.725,3066.980,mn082,b'\n      in the proposal from the networking side.\n    '
+3067.490,3069.820,mn082,b'\n      We could have a certain kind of application\n    '
+3070.400,3071.308,mn082,"b""\n      and there's a\n    """
+3071.308,3075.890,mn082,"b""\n      lot of activities in the outside world and I believe there's a lot of """
+3076.629,3077.460,mn082,b'\n      Or there '
+3077.800,3080.532,mn082,b'\n      a lot of contacts uh with - with these people.\n    '
+3081.102,3084.680,mn082,b'\n      Especially at uh Georgia Tech. I know on - next week on\n    '
+3084.680,3085.672,mn082,b'\n      Tuesday.\n    '
+3085.672,3086.314,mn082,"b'\n      Tuesday, right?\n    '"
+3086.314,3087.760,mn082,b'\n      We will go to U_C_B.\n    '
+3088.070,3089.386,mn082,b'\n      There are three guys.\n    '
+3090.180,3090.954,mn082,b'\n      Then\n    '
+3090.973,3092.854,mn082,b'\n      Morgan mentioned one.\n    '
+3093.140,3095.119,mn082,b'\n      I do not know exactly um\n    '
+3095.593,3097.850,mn082,"b'\n      uh what he is doing, but,\n    '"
+3097.850,3102.170,mn082,"b""\n      he's also interesting in some kind of collaboration. He's also a professor in the U_C_B.\n    """
+3103.000,3108.570,mn082,b'\n      And uh many universities maybe '
+3109.000,3111.820,mn082,b'\n      most of the university have some activities in that area.\n    '
+3112.270,3115.030,mn082,b'\n      We will not take care about '
+3115.544,3116.990,mn082,b'\n      um '
+3116.990,3122.170,mn082,b'\n      for field ex- uh field trial access and - and - and maybe some support and - and whatever kind of thing.\n    '
+3122.837,3126.390,mn082,b'\n      And we focus really on the networking stuff and going in more detail in this\n    '
+3127.130,3127.651,mn082,b'\n      area.\n    '
+3127.865,3129.866,mn082,b'\n      And the alternative is maybe what\n    '
+3129.866,3130.412,mn082,b'\n      uh\n    '
+3130.412,3131.695,mn082,b'\n      currently we have only\n    '
+3132.122,3132.940,mn082,b'\n      uh this\n    '
+3133.250,3134.620,mn082,b'\n      uh proposal from Wilbert\n    '
+3135.000,3136.270,mn082,b'\n      to go more in the\n    '
+3136.270,3137.310,mn082,b'\n      smaller scope.\n    '
+3138.439,3141.580,mn082,b'\n      Figure out some potential from\n    '
+3142.619,3143.545,mn082,b'\n      maybe this\n    '
+3143.545,3146.585,mn082,b'\n      uh WaveLAN U_M_T_S stuff and -\n    '
+3146.585,3148.153,mn082,b'\n      and starting from '
+3149.580,3151.357,mn082,"b'\n      Or, are there '"
+3151.226,3151.609,mn030,b'\n      '
+3151.609,3152.947,mn030,b'\n      I think we uh\n    '
+3153.327,3158.267,mn030,"b'\n      have already so much work put into this proposal, why to '"
+3158.934,3161.587,mn030,"b""\n      So I don't see the reason for that.\n    """
+3162.015,3163.202,mn030,b'\n      Maybe\n    '
+3163.202,3166.590,mn030,b'\n      the application we suggested is not the best one.\n    '
+3167.266,3171.150,mn030,b'\n      So we have to think about an application '
+3172.052,3176.146,mn030,"b'\n      um, for mobile users, more relevant.\n    '"
+3177.010,3180.085,mn030,"b""\n      I don't know. Maybe video games. If you are traveling\n    """
+3180.085,3182.389,mn030,"b""\n      uh, it's boring to travel and then\n    """
+3182.745,3187.448,mn030,b'\n      you decide to play a g- video game with somebody '
+3188.042,3189.358,mn030,b'\n      So.\n    '
+3188.042,3190.583,mn082,"b""\n      Yeah, you know, it's still mentioned in the proposal.\n    """
+3190.583,3191.034,mn082,b'\n      And\n    '
+3191.296,3191.913,mn082,b'\n      th- um\n    '
+3191.913,3192.470,mn082,b'\n      I -\n    '
+3193.010,3199.440,mn082,"b""\n      I'm sure, O_K, that it is the wrong place to """
+3199.948,3204.825,mn082,b'\n      but uh - And - In - in the end of the text - in the end of the pr- text of the proposal.\n    '
+3205.550,3207.778,mn082,b'\n      But it is mentioned that it is only an example.\n    '
+3207.778,3209.770,mn082,b'\n      And that we use this\n    '
+3209.770,3213.610,mn082,"b'\n      application, in principle, '"
+3214.134,3215.310,mn082,b'\n      to these kind of things.\n    '
+3216.490,3217.388,mn082,b'\n      When you have a video\n    '
+3218.760,3219.630,mn082,b'\n      game server\n    '
+3219.905,3221.850,mn082,b'\n      and - and you want to have mobile access\n    '
+3222.329,3225.180,mn082,"b'\n      you must at least have one in your consortium,\n    '"
+3225.393,3226.900,mn082,"b'\n      or as a partner whatever,\n    '"
+3227.290,3228.420,mn082,b'\n      who '
+3228.922,3229.852,mn082,b'\n      And then\n    '
+3230.213,3233.600,mn082,"b'\n      we - we are playing videos, in principle, if you have a '"
+3233.886,3237.210,mn082,"b'\n      And that is, I think, much more harder than to have a certain kind of -\n    '"
+3237.210,3239.593,mn082,"b'\n      certain kind of access to the University,\n    '"
+3240.110,3243.989,mn082,"b'\n      and uh to this server, which is run on the campus of the University.\n    '"
+3244.089,3245.820,mn030,"b""\n      O_K, that's right.\n    """
+3244.290,3245.820,mn082,b'\n      And that is the point.\n    '
+3246.179,3250.710,mn082,b'\n      You '
+3250.710,3252.656,mn082,b'\n      and the - the um\n    '
+3253.266,3257.460,mn082,"b'\n      um, now, how to say, the '"
+3257.460,3257.960,mn082,b'\n      this\n    '
+3258.330,3259.681,mn082,b'\n      classroom scenario.\n    '
+3259.681,3261.699,mn082,"b""\n      But nevertheless, it's not the best """
+3261.699,3263.352,mn082,b'\n      and - and - and - and uh\n    '
+3263.352,3264.540,mn082,b'\n      s- networking stuff.\n    '
+3264.986,3265.680,mn082,b'\n      You are right.\n    '
+3268.570,3270.658,mn082,b'\n      But it - Does anybody '
+3271.200,3274.007,mn082,b'\n      certain kind of '
+3274.750,3276.020,mn082,b'\n      and to '
+3276.555,3277.470,mn082,b'\n      maybe in this\n    '
+3277.470,3279.228,mn082,b'\n      little bit smaller\n    '
+3280.199,3281.770,mn082,b'\n      oh uh scope\n    '
+3283.050,3288.562,mn082,b'\n      based on these building blocks? Because Multicast you still mentio- uh you mentioned that there is '
+3288.895,3292.100,mn082,"b'\n      described here that the potential, if you use it for the mapping to the\n    '"
+3292.481,3293.990,mn082,b'\n      next generation '
+3294.202,3295.294,mn082,b'\n      in the '
+3295.294,3295.980,mn082,b'\n      access\n    '
+3296.400,3297.004,mn082,b'\n      area\n    '
+3297.410,3299.187,mn082,b'\n      they are '
+3299.781,3300.720,mn082,b'\n      Multicast\n    '
+3301.289,3303.004,mn082,b'\n      because they '
+3304.191,3309.910,mn082,"b""\n      And to figure out whether they're useful inse- instead of using certain kind of tunneling mechanism and to set up these tunnels and\n    """
+3310.195,3314.837,mn082,b'\n      have the mapping between a P_S_D_N uh telephone number or whatever kind of number they are using\n    '
+3315.241,3318.270,mn082,"b""\n      to I_P addresses and then there's the tunnel I_Ds, and - and\n    """
+3318.429,3320.870,mn082,"b'\n      all this kind of things, I think, is very '"
+3321.360,3324.540,mn082,b'\n      as well for - for telecommunication providers.\n    '
+3324.960,3326.470,mn082,"b""\n      as well as for I_S_P's.\n    """
+3328.230,3330.365,mn082,b'\n      I - I think the potential is still there. You - you\n    '
+3330.525,3333.429,mn082,b'\n      '
+3335.746,3342.865,mn081,"b'\n      Well, think it works, but uh yes, the mapping of course between multicasting and the U_M_T_S or - or whatever '"
+3342.484,3344.270,mn082,b'\n      In next generation? Yeah.\n    '
+3344.605,3347.657,mn081,"b""\n      That's - or C_D_M_A or whatever - that's uh,\n    """
+3346.452,3347.071,mn082,b'\n      Yeah.\n    '
+3348.227,3348.670,mn081,"b'\n      yeah,\n    '"
+3349.702,3351.580,mn081,b'\n      probably a thing that has to be\n    '
+3352.220,3353.358,mn081,"b""\n      find out. I don't know\n    """
+3353.358,3357.290,mn081,"b""\n      what statuses. Maybe they already did it par- as part of U_M_T_S, I'm not sure.\n    """
+3358.300,3359.010,mn081,"b""\n      I don't have a clue.\n    """
+3359.940,3365.993,mn081,b'\n      I - I only know how it works on copper and like ethernet and on P_S '
+3367.020,3368.970,mn081,"b'\n      and how it works like that, but on the wireless\n    '"
+3369.330,3369.870,mn081,"b""\n      I'm not sure.\n    """
+3370.509,3372.249,mn082,b'\n      Now what do you see about the\n    '
+3372.445,3373.693,mn082,"b'\n      um, um,\n    '"
+3375.020,3375.890,mn082,b'\n      K_P_N\n    '
+3376.330,3377.167,mn082,b'\n      interests?\n    '
+3377.801,3379.504,mn082,"b'\n      Because, I believe s-\n    '"
+3379.748,3380.247,mn082,b'\n      if\n    '
+3380.543,3384.710,mn082,b'\n      the argument changes as follows that you are here and that you are very familiar\n    '
+3385.070,3387.567,mn082,"b'\n      with uh the Multicast stuff,\n    '"
+3388.232,3391.249,mn082,"b'\n      and K_P_N is very interesting in U_M_T_S stuff,\n    '"
+3391.249,3392.555,mn082,b'\n      and this is one\n    '
+3393.520,3394.783,mn082,b'\n      potential target\n    '
+3394.783,3398.720,mn082,"b'\n      network environment we are focusing on, but only for the uh\n    '"
+3398.720,3400.318,mn082,b'\n      '
+3400.769,3403.833,mn082,"b'\n      then, why do - the mapping of multica- '"
+3401.489,3402.177,mn081,b'\n      '
+3404.260,3407.470,mn082,"b'\n      mapping of Multicast, I think, must be of major '"
+3409.150,3411.640,mn081,"b""\n      Yes, but if - if it's available\n    """
+3409.150,3410.111,mn021,b'\n      One question.\n    '
+3412.300,3414.305,mn081,b'\n      that means so - so if uh\n    '
+3414.613,3417.511,mn081,"b""\n      if it's already part of the U_M_T_S standardization\n    """
+3418.509,3420.836,mn081,"b""\n      then uh it's immediately finished, like,\n    """
+3420.836,3424.309,mn081,"b'\n      O_K, you can tell, K_P_N well go to Ericsson or Nokia and buy it?\n    '"
+3425.550,3427.270,mn081,"b""\n      And if it's not in there yet\n    """
+3427.680,3429.645,mn081,"b'\n      well, it could be a suggestion and\n    '"
+3430.714,3432.305,mn081,b'\n      then the hardware people will\n    '
+3432.830,3437.797,mn081,b'\n      make it part u- like the '
+3438.249,3439.600,mn081,"b'\n      they will d- well,\n    '"
+3440.006,3440.930,mn081,b'\n      go for it.\n    '
+3441.501,3442.100,mn082,b'\n      Mm-hmm.\n    '
+3441.690,3443.860,mn081,"b'\n      Of course, yeah, this - this group could do that, '"
+3444.720,3445.324,mn081,"b'\n      Could be, but '"
+3446.245,3449.077,mn021,b'\n      I have a - an important doubt about\n    '
+3449.694,3453.518,mn021,b'\n      the I_P availability over U_M_T_S.\n    '
+3453.898,3454.278,mn021,b'\n      I mean -\n    '
+3454.634,3455.157,mn021,b'\n      you know that\n    '
+3455.438,3457.650,mn021,b'\n      the carriers and some manufacturers\n    '
+3457.932,3459.452,mn021,b'\n      have done an important effort\n    '
+3459.761,3460.901,mn021,b'\n      in developing\n    '
+3460.901,3462.207,mn021,b'\n      this web thing\n    '
+3462.690,3464.178,mn021,b'\n      and uh\n    '
+3464.178,3465.318,mn021,"b""\n      I'm not sure\n    """
+3465.651,3467.390,mn021,b'\n      what they plan to do with next\n    '
+3467.680,3470.646,mn021,"b'\n      generation. I mean, are they '"
+3470.940,3473.204,mn021,b'\n      are they '
+3473.592,3477.730,mn021,"b'\n      Or, are ju- just they - '"
+3477.730,3479.013,mn021,b'\n      and forgetting about the thing?\n    '
+3479.013,3480.533,mn021,"b""\n      I - I don't know what will """
+3481.400,3483.757,mn021,"b""\n      uh, I - I don't have a clue. Probably,\n    """
+3482.190,3483.757,,b'\n      '
+3484.282,3485.252,mn021,b'\n      if after\n    '
+3484.282,3485.252,,b'\n      '
+3485.252,3487.424,mn021,b'\n      searching a little bit on the - on the net\n    '
+3487.804,3489.205,mn021,"b'\n      I can get the answer, but\n    '"
+3489.205,3490.460,mn021,b'\n      initially\n    '
+3490.973,3494.152,mn021,b'\n      this is something to - to - to have in mind. I mean.\n    '
+3494.485,3495.613,mn021,b'\n      Because maybe\n    '
+3496.030,3498.660,mn021,b'\n      this U_M_T_S thing will appear\n    '
+3499.010,3502.803,mn021,b'\n      on the market without I_P as a native protocol.\n    '
+3503.230,3503.586,mn021,b'\n      And\n    '
+3503.720,3505.225,mn021,b'\n      if this is the case\n    '
+3505.463,3507.760,mn021,"b'\n      well, thus seamless integration could be\n    '"
+3508.075,3508.574,mn021,b'\n      '
+3508.574,3510.047,mn021,b'\n      '
+3510.047,3514.768,mn021,"b'\n      At least, uh, if you - we want to use U_M_T_'"
+3515.911,3517.098,mn021,"b""\n      I'm - I'm - just uh\n    """
+3517.312,3518.333,mn021,b'\n      throwing the question.\n    '
+3518.785,3520.346,mn021,"b'\n      uh I mean,\n    '"
+3520.346,3523.360,mn021,b'\n      looking for an '
+3523.810,3525.758,mn021,"b""\n      a clue about this. I don't know what -\n    """
+3525.758,3526.019,mn021,b'\n      what\n    '
+3526.470,3528.513,mn021,b'\n      '
+3531.830,3533.636,mn081,"b""\n      I'm not really sure,\n    """
+3533.636,3536.225,mn081,b'\n      but I thought I - I had the impression that we can\n    '
+3536.700,3538.695,mn081,b'\n      throw away our Nokia stuff when -\n    '
+3538.695,3542.730,mn081,"b'\n      our web gateways, when we g- even go to '"
+3543.800,3545.046,mn081,b'\n      let alone '
+3547.207,3553.549,mn082,"b'\n      Now, WAP is '"
+3548.166,3549.514,mn081,"b""\n      That's the impression I get.\n    """
+3553.902,3555.818,mn082,b'\n      capabilities of the end device.\n    '
+3556.992,3557.592,mn082,b'\n      Right?\n    '
+3557.770,3558.900,mn081,"b'\n      Yeah, definitely.\n    '"
+3558.374,3559.122,mn082,b'\n      So.\n    '
+3559.540,3561.801,mn082,b'\n      uh - I never was a friend -\n    '
+3559.540,3562.722,mn081,b'\n      But '
+3562.105,3562.722,mn082,b'\n      Huh.\n    '
+3563.126,3563.695,mn082,b'\n      Yeah.\n    '
+3563.126,3566.499,mn081,"b""\n      uh it's a - part of a - of design like the - the -\n    """
+3567.490,3569.420,mn081,b'\n      the terminal has a WAP stick.\n    '
+3570.060,3573.149,mn081,"b""\n      And there's a box that has also a - a WAP stick.\n    """
+3572.019,3573.149,mn082,b'\n      '
+3573.540,3578.028,mn081,"b'\n      And they do sometime - most cases, they do share an I_P address.\n    '"
+3578.273,3579.090,mn021,b'\n      '
+3578.408,3582.800,mn081,"b""\n      But doesn't uh have to deal with I_P at all. It's l- just a thirty-bit number\n    """
+3581.172,3582.099,mn021,b'\n      Mm-hmm.\n    '
+3583.373,3585.460,mn081,b'\n      that a- actually is an assigned number.\n    '
+3585.880,3587.931,mn081,"b""\n      But it's all only used for identification.\n    """
+3587.931,3588.833,mn081,"b""\n      That's the only thing.\n    """
+3588.833,3590.377,mn081,"b""\n      It's stored in a """
+3590.686,3591.890,mn081,b'\n      much like H_T_P\n    '
+3592.443,3594.440,mn081,b'\n      in a cookie and from the WAP gateway\n    '
+3594.950,3597.709,mn081,b'\n      then it will be H_T_P - real H_T_P - or something.\n    '
+3598.350,3601.174,mn081,"b""\n      So it's - it's really a different uh type of connection.\n    """
+3603.760,3606.209,mn081,"b'\n      It looks a little bit like uh the - the well,\n    '"
+3606.209,3609.487,mn081,"b""\n      W_M_L looks a little bit like H_T_M_L, but that's all what's uh -\n    """
+3609.796,3610.960,mn081,"b""\n      It's not I_P at all.\n    """
+3611.411,3611.833,mn082,b'\n      Right.\n    '
+3611.833,3613.805,mn081,"b'\n      Because there is a gateway, you can access with\n    '"
+3614.375,3616.322,mn081,"b'\n      almost the same microbrowser,\n    '"
+3616.797,3619.196,mn081,b'\n      the same i- uh web servers.\n    '
+3620.320,3623.431,mn081,"b'\n      If they provide the right content - uh, spit out the right\n    '"
+3624.096,3625.970,mn081,b'\n      uh W_M_L language.\n    '
+3626.940,3629.950,mn081,"b""\n      So it's - it's really a different network - technology - I think.\n    """
+3630.800,3631.070,mn082,b'\n      Yeah.\n    '
+3631.510,3634.314,mn082,"b""\n      It's transparent, in principle, what you can """
+3634.580,3635.853,mn082,"b'\n      Anyway, you have the gateway.\n    '"
+3636.334,3637.544,mn082,b'\n      It must be uh '
+3637.079,3637.544,mn081,b'\n      Yeah.\n    '
+3637.544,3640.560,mn082,b'\n      The ca- uh c- uh t- conversion of the media\n    '
+3641.063,3641.972,mn081,b'\n      But '
+3641.063,3643.650,mn082,b'\n      '
+3644.030,3645.630,mn082,"b""\n      But, I don't see that uh -\n    """
+3646.460,3647.521,mn082,"b""\n      It's too """
+3647.901,3650.181,mn082,"b'\n      If WAP was available in the beginning of G_S_M,\n    '"
+3650.320,3651.514,mn021,b'\n      Mm-hmm.\n    '
+3651.155,3653.690,mn082,b'\n      then I think '
+3654.150,3656.490,mn082,"b'\n      well-deployed. But now, the first generation of\n    '"
+3656.830,3657.538,mn081,b'\n      I- i-\n    '
+3656.830,3658.130,mn082,b'\n      web-browsers are in the ha-\n    '
+3658.130,3661.866,mn082,"b'\n      and - and uh I would say ""handies"", so that\'s wrong '"
+3662.246,3662.792,mn082,b'\n      but\n    '
+3662.792,3665.500,mn082,b'\n      the - the next generation of networks are still available.\n    '
+3665.880,3668.530,mn082,b'\n      and the ba- uh the bandwidth constraints are no more\n    '
+3669.180,3669.813,mn081,b'\n      Well -\n    '
+3669.180,3669.813,mn082,b'\n      applicable?\n    '
+3669.813,3673.233,mn081,"b'\n      Ri- right now there is still a lot of WAP, actually.\n    '"
+3670.429,3671.162,mn082,b'\n      And -\n    '
+3673.233,3674.563,mn082,"b'\n      Yeah, but - The '"
+3673.233,3674.239,mn081,b'\n      So that the -\n    '
+3673.276,3674.558,mn021,b'\n      Mm-hmm.\n    '
+3674.563,3675.181,mn082,b'\n      pffft '
+3675.181,3675.991,mn082,b'\n      uh\n    '
+3675.436,3677.224,mn081,"b'\n      Well, users - usage.\n    '"
+3675.991,3678.511,mn082,b'\n      I '
+3678.890,3680.490,mn082,"b'\n      Please raise your hand, who is using WAP.\n    '"
+3680.860,3683.876,mn081,"b'\n      My colleagues are. Yeah. Yeah, they are using WAP.\n    '"
+3681.140,3682.165,mn021,b'\n      '
+3681.827,3682.160,mn082,b'\n      Yeah?\n    '
+3682.687,3683.032,mn082,b'\n      Yeah?\n    '
+3683.983,3685.158,mn082,"b'\n      O_K, one of six.\n    '"
+3685.293,3685.691,mn082,b'\n      So.\n    '
+3685.529,3686.718,mn030,b'\n      '
+3686.128,3686.718,mn082,b'\n      '
+3686.718,3690.067,mn030,"b""\n      I don't have a mobile phone. """
+3687.946,3689.037,mn081,b'\n      Yeah.\n    '
+3688.052,3690.067,mn082,b'\n      Oh. '
+3689.761,3690.067,mn081,b'\n      i-\n    '
+3689.943,3691.171,mn021,b'\n      '
+3690.067,3691.839,mn035,b'\n      Who is using mobile phones? '
+3690.067,3694.712,mn081,b'\n      Bu- '
+3691.064,3693.051,mn030,b'\n      '
+3694.437,3695.652,mn021,b'\n      No. '
+3695.163,3702.214,mn081,"b""\n      So that's maybe the reason. And I'm not - I doubt that it's not available in Germany. It's - would be unbelievable to me.\n    """
+3695.652,3696.393,mn021,b'\n      '
+3702.214,3704.482,mn082,"b'\n      Now, do you - yeah, do you see the chance for WAP?\n    '"
+3704.482,3705.406,mn082,"b""\n      I don't see it.\n    """
+3704.997,3708.137,mn081,b'\n      It i- it is. In - in - in Sweden it is also there.\n    '
+3708.137,3709.989,mn081,"b'\n      And in the Netherlands, it is also available.\n    '"
+3709.207,3710.753,mn021,b'\n      Mmm. '
+3710.113,3711.878,mn081,b'\n      every provider provides -\n    '
+3710.753,3713.148,mn021,"b""\n      In Spain it's available but uh you know,\n    """
+3713.433,3714.241,mn021,b'\n      uh\n    '
+3714.619,3717.276,mn021,b'\n      my '
+3717.572,3720.375,mn021,b'\n      that it is difficult to me to believe\n    '
+3720.496,3725.052,mn021,b'\n      that I can do interesting work with a four lines display.\n    '
+3726.105,3731.946,mn021,b'\n      Ah '
+3726.773,3727.224,mn081,b'\n      Oh.\n    '
+3727.224,3728.249,mn081,"b'\n      Yeah, but -\n    '"
+3729.749,3731.524,mn081,b'\n      '
+3731.524,3734.616,mn081,"b""\n      I'm the first one to admit that's a h- that it is a """
+3735.451,3739.113,mn081,"b""\n      but - and - but I'm - I just wanted to say it """
+3739.702,3744.505,mn081,"b'\n      But if it makes sense to me and to - especially to have WAP in - in between,\n    '"
+3744.957,3746.750,mn081,b'\n      '
+3746.966,3747.872,mn021,b'\n      Huh-huh-huh.\n    '
+3747.766,3760.368,mn081,b'\n      So they have this optimized protocol to - to transmit a few ASCII bytes that can '
+3760.426,3760.786,mn082,b'\n      Yeah.\n    '
+3760.786,3763.658,mn081,"b""\n      So, that's - that's true. I immediately agree.\n    """
+3763.658,3774.886,mn081,"b'\n      But the thing was, y- you just asked well, ""will - will it be the same, will there be WAP for U_M_T_S"" and so on, Q_P_R_S. And - well - I don\'t have the answer, but I thought it was '"
+3769.759,3771.149,mn021,b'\n      Well '
+3771.149,3773.127,mn021,"b""\n      I - I don't """
+3775.065,3780.249,mn081,"b""\n      I'm just - It's weird - it's weird to stop doing it with G_P_R_S.\n    """
+3775.156,3775.766,mn035,b'\n      Yeah.\n    '
+3780.033,3781.260,mn021,b'\n      Hmm-hmm-hmm.\n    '
+3782.290,3783.978,mn035,"b""\n      But usually WAP shouldn't -\n    """
+3784.824,3788.300,mn035,b'\n      '
+3788.300,3789.990,mn035,b'\n      So if you '
+3790.260,3790.610,mn035,b'\n      WAP\n    '
+3790.980,3793.660,mn035,b'\n      with U_M_T_S you might be able to do it.\n    '
+3794.050,3794.780,mn035,b'\n      But\n    '
+3794.780,3795.100,mn081,b'\n      Yes.\n    '
+3795.510,3797.294,mn035,"b""\n      that shouldn't be your only way of -\n    """
+3796.017,3798.076,mn082,"b""\n      There's a gate- You can put the gateway -\n    """
+3797.294,3802.213,mn081,"b'\n      if you want to do it in a - in a mobile phone - want to implement it, as a light stack or something. Yes?\n    '"
+3798.733,3799.100,mn082,b'\n      '
+3799.270,3799.915,mn082,b'\n      '
+3802.213,3802.430,mn082,b'\n      Yep.\n    '
+3804.180,3804.810,mn081,b'\n      Sure.\n    '
+3804.667,3807.450,mn035,"b""\n      But usually - that's not the reason to have U_M_T_S.\n    """
+3809.970,3811.120,mn081,"b'\n      No, not -\n    '"
+3811.570,3817.622,mn081,"b""\n      not if you have a big uh web pad or something. Then you m- There - there's an I_P stack in it and -\n    """
+3813.550,3814.032,mn035,b'\n      Yep.\n    '
+3814.059,3814.522,mn082,b'\n      Mm-hmm.\n    '
+3819.268,3819.734,mn082,b'\n      Mm-hmm.\n    '
+3820.048,3824.215,mn082,"b'\n      So maybe I would like to ask Claudia, you read the proposal in the meantime?\n    '"
+3820.108,3820.798,mn081,b'\n      Hmm.\n    '
+3824.215,3828.768,fn083,"b'\n      Yeah, but the task changed really a '"
+3824.743,3825.149,mn082,b'\n      Yeah.\n    '
+3826.690,3827.822,mn082,b'\n      '
+3828.308,3830.142,mn082,b'\n      And do you have some comments on it\n    '
+3830.726,3834.230,mn082,"b'\n      from the next - this is version zero dot five right, yeah.\n    '"
+3834.010,3837.114,fn083,"b""\n      Yeah, but I'd rather like to follow the discussion\n    """
+3837.114,3840.426,fn083,"b""\n      before I gave any comments, cuz it's really\n    """
+3840.791,3847.202,fn083,"b""\n      The first point is it's much more than it was before I """
+3847.519,3848.549,mn082,"b""\n      That's right. Yeah.\n    """
+3847.562,3856.947,fn083,b'\n      And it really changed a lot cuz the - I mean I '
+3857.350,3867.053,fn083,b'\n      a classroom where you know everybody could look on with any kind of device and follow lectures or do exercise or whatever. So.\n    '
+3867.053,3874.201,fn083,b'\n      Now we are talking about something which is much more precise and the - the range of stuff is maybe more '
+3874.201,3881.594,fn083,"b""\n      narrow than before so I'd rather like to - to follow it a bit, and then to get more into """
+3877.465,3878.070,mn081,b'\n      So-\n    '
+3881.942,3882.525,mn082,b'\n      O_K.\n    '
+3882.686,3885.027,mn081,b'\n      c- Can I '
+3885.027,3892.954,mn081,b'\n      U_M_T_S or wireless '
+3892.954,3895.805,mn081,b'\n      And especially U_M_T_S. If they want to get back the money.\n    '
+3895.805,3899.242,mn081,b'\n      So is it maybe a research topic to focus on the -\n    '
+3899.981,3902.180,mn081,b'\n      not really '
+3902.180,3907.481,mn081,b'\n      but at least the different application of protocol-based usage.\n    '
+3907.481,3911.712,mn081,"b'\n      So you have uh one connection, one application uses F_T_P whatever,\n    '"
+3911.712,3914.349,mn081,b'\n      '
+3914.349,3921.088,mn081,b'\n      That - those type of application you m- may - might want to '
+3921.088,3922.492,mn081,"b'\n      Could that be something, or - ? '"
+3922.963,3925.117,mn082,b'\n      '
+3925.917,3926.375,mn082,b'\n      area.\n    '
+3926.597,3928.369,mn082,b'\n      Right? Because billing '
+3926.835,3927.978,mn081,b'\n      '
+3929.485,3930.513,mn081,"b""\n      No - Well, it's -\n    """
+3929.553,3936.322,mn082,b'\n      Or '
+3930.513,3931.077,mn081,b'\n      '
+3931.077,3931.478,mn081,b'\n      e-\n    '
+3932.571,3933.430,mn081,"b""\n      Yeah, that's true.\n    """
+3936.714,3939.642,mn082,b'\n      So. And then you are still at the triple-A_ service\n    '
+3939.782,3940.122,mn081,"b'\n      Yeah,\n    '"
+3940.485,3941.399,mn081,"b""\n      that's right.\n    """
+3941.153,3942.607,mn082,b'\n      uh activity\n    '
+3944.116,3945.856,mn082,b'\n      and '
+3946.628,3948.141,mn082,b'\n      has the skills to deal with '
+3948.316,3949.957,mn082,b'\n      And then we are leaving our scope anyway.\n    '
+3949.762,3950.323,mn081,b'\n      O_K.\n    '
+3952.450,3953.090,mn035,b'\n      '
+3953.090,3954.408,mn035,b'\n      '
+3955.238,3956.526,mn035,b'\n      proposal is that\n    '
+3957.951,3964.388,mn035,b'\n      every single block '
+3965.094,3967.387,mn035,b'\n      This means that there are many things done.\n    '
+3968.058,3972.027,mn035,"b'\n      Oh, what was it? Maybe I was routing mobility management\n    '"
+3973.333,3976.130,mn035,b'\n      But no one actually put them '
+3976.326,3977.144,mn082,"b""\n      Yeah. That's -\n    """
+3976.624,3978.494,mn035,"b""\n      But - So that's the big problem. But\n    """
+3977.524,3978.283,mn082,b'\n      That is a -\n    '
+3978.688,3981.652,mn035,b'\n      the problem with '
+3982.463,3984.086,mn035,b'\n      to put all these big pieces to-\n    '
+3983.041,3984.814,fn083,"b'\n      What do you mean by ""put together""?\n    '"
+3985.397,3987.249,mn035,b'\n      So that you '
+3985.397,3988.787,mn082,"b'\n      As it - What I mean, the synergy effect, right? From - from - Yeah.\n    '"
+3987.567,3988.738,mn035,b'\n      a complete scenario.\n    '
+3988.787,3989.295,mn082,b'\n      Yeah.\n    '
+3988.914,3989.408,mn035,"b'\n      You have,\n    '"
+3989.172,3989.957,fn083,b'\n      Ah.\n    '
+3989.708,3996.959,mn035,"b'\n      in one scenario, multicast, '"
+3997.219,3998.656,mn082,b'\n      '
+3997.408,3998.088,fn083,b'\n      Mm-hmm.\n    '
+3997.841,4000.011,mn035,b'\n      Not just '
+3998.563,4000.011,fn083,"b""\n      So why I wasn't,\n    """
+4000.526,4004.578,fn083,"b'\n      well, yeah, uh hold myself back a bit with comments, is\n    '"
+4003.715,4004.171,mn082,b'\n      '
+4004.578,4015.560,fn083,b'\n      uh cuz when '
+4015.560,4026.603,fn083,b'\n      And so the discussion was much broader than it is maybe right now. And there I had the impression the umbrella was this kind of classroom '
+4027.800,4034.213,mn082,"b'\n      Yeah, in principle, it '"
+4030.731,4032.988,fn083,"b'\n      Yeah, yeah, yeah. It '"
+4034.631,4036.230,mn082,b'\n      and the work packages are\n    '
+4034.786,4035.570,fn083,b'\n      Yeah. '
+4036.874,4037.718,mn082,b'\n      better ident-\n    '
+4037.718,4038.318,mn082,b'\n      '
+4038.609,4041.392,mn082,b'\n      could be '
+4040.083,4042.088,fn083,"b""\n      Yeah, yeah, yeah. That's - that's clear.\n    """
+4041.818,4043.523,mn082,"b'\n      But that has not changed, yeah?\n    '"
+4042.386,4043.063,fn083,b'\n      But-\n    '
+4043.325,4050.303,fn083,"b""\n      Yeah, that's - that's clear, but then I don't get - because when we were discussion - discussing this uh stuff weeks ago,\n    """
+4050.968,4053.159,fn083,"b'\n      uh I had the impression that,\n    '"
+4053.626,4060.368,fn083,"b'\n      you know, everything of these work packages '"
+4060.678,4064.315,fn083,b'\n      And now it sounds '
+4066.581,4069.715,fn083,"b""\n      Ah but, it's also because I missed """
+4070.931,4072.964,mn082,"b'\n      Yeah, the problem is if you -\n    '"
+4071.963,4077.885,fn083,"b""\n      It's a - a bit hard for me to follow the development what happened in the last four weeks, why it """
+4075.830,4083.628,mn082,"b""\n      Yeah O_K maybe one sentence - one sentence. If you're """
+4084.319,4086.901,mn082,b'\n      This application has certain kind of requirements.\n    '
+4087.355,4088.562,mn082,b'\n      These requirements '
+4088.729,4092.569,mn082,"b'\n      maybe, Multicast and - and - and quality of service and mobility\n    '"
+4092.804,4096.140,mn082,b'\n      access and then mobility management '
+4096.140,4097.271,mn082,b'\n      and - '
+4097.271,4099.028,mn082,b'\n      That '
+4099.912,4102.749,mn082,b'\n      Then you have in mind that - Or you '
+4103.128,4106.377,mn082,b'\n      that all '
+4106.377,4108.168,mn082,b'\n      is not '
+4108.168,4113.430,mn082,b'\n      That you can use it with '
+4113.430,4117.481,mn082,b'\n      that is '
+4118.227,4122.050,mn082,b'\n      it must be fit end to '
+4122.050,4124.371,mn082,b'\n      very hard with - with '
+4124.728,4127.286,mn082,b'\n      that you assume that Multicast will be '
+4127.286,4129.464,mn082,b'\n      '
+4129.464,4131.688,mn082,b'\n      '
+4131.688,4134.233,mn082,b'\n      this mechanism must be applied really for -\n    '
+4134.233,4136.000,mn082,b'\n      all throughout of the '
+4136.264,4137.554,mn082,b'\n      Otherwise it makes no '
+4137.554,4138.174,mn082,b'\n      and we\n    '
+4138.174,4139.663,mn082,"b'\n      come to the conclusion, ""O_K,\n    '"
+4140.068,4142.925,mn082,"b'\n      uh Multicast, we '"
+4143.202,4146.583,mn082,b'\n      that you have eh '
+4147.045,4149.072,mn082,b'\n      '
+4149.285,4150.717,mn082,b'\n      '
+4151.087,4154.321,mn082,b'\n      and then the point is how to select these mechanism if you want to have\n    '
+4154.643,4155.959,mn082,b'\n      not a certain kind of\n    '
+4156.311,4157.251,mn082,b'\n      access to the\n    '
+4157.870,4158.526,mn082,b'\n      '
+4159.163,4160.320,mn082,b'\n      elsewhere in the network\n    '
+4161.021,4162.727,mn082,b'\n      you want to use '
+4162.965,4167.272,fn083,b'\n      So if I understand it '
+4163.406,4164.658,mn082,"b'\n      Yeah, and -\n    '"
+4167.272,4179.500,fn083,"b""\n      So - Cuz what's difficult for """
+4180.609,4182.328,mn082,"b'\n      The application, for instance, here,\n    '"
+4182.328,4183.503,mn082,b'\n      that eh the\n    '
+4183.964,4185.119,mn082,b'\n      interactive classroom.\n    '
+4185.252,4186.016,fn083,b'\n      Yeah.\n    '
+4185.286,4188.497,mn082,b'\n      But elsewhere '
+4188.880,4191.379,mn082,b'\n      video audio or whatever kind of -\n    '
+4189.514,4192.252,fn083,"b'\n      Oh, O_K. So, what has changed -\n    '"
+4191.379,4194.938,mn082,b'\n      game server what -whatever kind of interactive multimedia\n    '
+4195.122,4198.985,mn082,b'\n      especially do- uh downstreaming applications maybe eh video on demand\n    '
+4199.381,4200.369,mn082,"b'\n      then, eh\n    '"
+4200.369,4202.420,mn082,b'\n      whatever kind of application you can consider.\n    '
+4202.734,4208.411,fn083,"b""\n      So what has changed is that we're not only focussing on this intelligent """
+4209.588,4210.938,mn082,b'\n      Not on '
+4211.172,4211.995,mn082,"b""\n      That's not """
+4212.137,4212.647,mn082,b'\n      But we s-\n    '
+4212.930,4214.175,mn082,"b""\n      That's why we say\n    """
+4214.323,4214.822,mn082,b'\n      '
+4215.075,4221.550,mn082,b'\n      that we have a certain kind of eh '
+4221.550,4222.266,fn083,b'\n      Mm-hmm.\n    '
+4222.266,4227.005,mn082,b'\n      That means the '
+4227.005,4227.950,mn082,b'\n      And these mechan-\n    '
+4227.950,4233.409,mn082,"b""\n      And you see that there's a trend to provide I_P functionality more and more in these kind of networks.\n    """
+4233.913,4243.163,mn082,b'\n      But the problem is that you could not focus '
+4243.884,4251.218,mn082,"b'\n      And if you see, for instance - We have routing algorithm but different protocols and '"
+4252.103,4261.929,mn082,b'\n      different things really for different '
+4262.272,4267.686,mn082,"b""\n      For instance, that's one provider domain and you can say well why not use active """
+4267.686,4268.774,mn082,b'\n      So it means that\n    '
+4268.774,4273.963,mn082,b'\n      '
+4273.963,4274.978,mn082,"b""\n      It's """
+4275.489,4277.092,mn082,b'\n      to deal with that in the whole '
+4277.873,4282.802,mn082,b'\n      because security reasons and '
+4283.175,4290.070,mn082,b'\n      pos- uh potential um extensions in the um '
+4290.535,4294.283,mn082,b'\n      and - without losing the end to end scope '
+4295.798,4302.055,mn082,b'\n      Then you can have certain n- novel features '
+4302.055,4305.513,mn082,"b'\n      the po- the potential, in principle, to - to uh\n    '"
+4305.513,4308.686,mn082,b'\n      '
+4308.686,4313.307,mn082,b'\n      '
+4313.552,4315.349,mn082,"b""\n      There will be a fifth generation, I'm """
+4315.800,4319.996,mn082,"b'\n      And then you derive the certain kind of building blocks for this network, if you ever really full I -\n    '"
+4318.285,4318.858,mn021,b'\n      '
+4319.996,4322.803,mn082,b'\n      uh uh full I_'
+4322.803,4327.223,mn082,b'\n      '
+4327.223,4332.517,mn082,b'\n      because u- you are accessing a certain kind of server node in the '
+4333.165,4335.360,mn082,b'\n      And then this mechanism must '
+4335.360,4339.401,mn082,"b'\n      But nevertheless eh internet backbone is in the meantime, based on its success,\n    '"
+4339.401,4340.960,mn082,b'\n      impossible to '
+4341.591,4346.811,mn082,b'\n      You see the difficulties with I_P version '
+4346.811,4349.146,mn082,"b'\n      They are discussed since, you know, ten '"
+4349.676,4358.306,mn082,b'\n      The '
+4358.778,4360.931,mn082,b'\n      And so you have to mi- to have to have in mind\n    '
+4360.931,4364.007,mn082,b'\n      '
+4364.774,4371.862,mn082,"b'\n      at a certain stage end to end available, maybe we have a lucky that '"
+4372.351,4374.423,mn082,b'\n      maybe they are only '
+4374.423,4379.882,mn082,b'\n      '
+4380.244,4389.045,mn082,b'\n      But you have to '
+4389.345,4398.112,mn082,b'\n      So is it possible to d- have certain kind of normal features in the '
+4398.368,4401.424,mn082,b'\n      I always say that the success of internet make it '
+4402.115,4405.299,mn082,"b""\n      It's impossible to """
+4405.299,4405.546,mn082,b'\n      s-\n    '
+4405.546,4408.972,mn082,b'\n      '
+4408.972,4411.580,mn082,b'\n      So that is eh overall picture\n    '
+4411.580,4413.541,mn082,b'\n      that we have in mind with these things.\n    '
+4413.541,4415.144,mn082,b'\n      And we can not u-\n    '
+4415.144,4416.681,mn082,b'\n      We - we are six people\n    '
+4416.681,4418.182,mn082,b'\n      or seven or whatever\n    '
+4418.182,4418.881,mn082,"b'\n      if Hannes come,\n    '"
+4418.881,4420.959,mn082,b'\n      We are not able to solve the problems\n    '
+4420.959,4425.329,mn082,b'\n      uh in - in uh w- in the few years or whatever\n    '
+4425.329,4428.570,mn082,b'\n      what the whole internet community has um\n    '
+4428.570,4432.389,mn082,b'\n      done in - in - si- since - uh since a '
+4432.728,4434.795,mn082,b'\n      But we can f- pick up\n    '
+4434.795,4440.156,mn082,b'\n      some f- '
+4440.156,4442.086,mn082,"b""\n      And that's my missing """
+4442.086,4446.169,mn082,"b'\n      have here, in principle, really the description of this problem I mentioned\n    '"
+4446.169,4449.912,mn082,b'\n      and focus really on the reasonable size of the project\n    '
+4449.912,4454.726,mn082,b'\n      maybe in the first stage fo- for the N_S_A '
+4454.726,4459.586,mn082,"b'\n      and maybe possible extension from, for instance, if K_P_N say ""yes, that\'s great,""\n    '"
+4459.907,4464.694,mn082,"b'\n      ""that\'s the right direction. We will support that."" And if Siemens say ""O_K, great, we will support it"", and - and what - it -\n    '"
+4464.694,4470.998,mn082,b'\n      mmm University of Berlin or something and maybe University of Mannheim or Duisburg or '
+4471.245,4473.912,mn082,b'\n      So if we have all the similar project\n    '
+4473.912,4476.934,mn082,b'\n      then you have only to take '
+4476.934,4479.595,mn082,"b""\n      that there's some transparency concerning the results and\n    """
+4479.595,4485.332,mn082,b'\n      and the activities are '
+4486.534,4488.256,mn082,"b""\n      So that's the basic """
+4488.256,4493.506,mn082,"b""\n      But really it's to - to figure out certain kind of """
+4493.506,4495.769,mn082,b'\n      '
+4495.769,4499.416,mn082,b'\n      and we have certain '
+4500.337,4504.465,mn082,"b'\n      O_K, we can go to a broader '"
+4501.728,4502.239,mn021,b'\n      u-\n    '
+4502.604,4504.581,mn021,b'\n      Let me - let me propose a - a -\n    '
+4504.790,4506.727,mn021,b'\n      a - a reasoning way.\n    '
+4507.203,4511.360,mn021,"b""\n      Uh let's assume that we are """
+4509.902,4511.454,mn082,b'\n      '
+4511.683,4513.190,mn021,b'\n      so we get the '
+4513.646,4514.121,mn021,b'\n      to do\n    '
+4514.341,4516.332,mn021,b'\n      whatever what we want to do.\n    '
+4516.816,4519.974,mn021,"b'\n      So my question is, what we want to do is?\n    '"
+4520.396,4522.302,mn021,"b""\n      Let's assume that we have the funding.\n    """
+4522.831,4527.244,mn021,b'\n      What will be our first and or - or and second steps?\n    '
+4527.711,4529.787,mn021,"b'\n      Ah, what kind of things uh we -\n    '"
+4530.711,4537.617,mn021,"b'\n      eh we will buy, what kind of things we will eh program or we will deploy?\n    '"
+4539.130,4543.025,mn021,b'\n      Because answering this - these questions '
+4543.025,4546.984,mn021,b'\n      '
+4548.989,4550.962,mn021,"b""\n      So let's assume -\n    """
+4549.632,4554.770,mn082,"b'\n      Yeah, but the problem is '"
+4552.424,4553.018,mn081,b'\n      Mmm. '
+4554.331,4554.770,mn081,b'\n      N- '
+4554.770,4555.590,mn081,"b'\n      Well, '"
+4555.590,4557.873,mn081,b'\n      I - I th- I think I agree with '
+4557.873,4559.696,mn081,b'\n      But uh right now\n    '
+4557.927,4558.411,mn082,b'\n      Yeah.\n    '
+4559.911,4561.176,mn081,"b""\n      we're looking at b- a th-\n    """
+4561.176,4563.737,mn081,b'\n      You want to do a '
+4564.616,4565.401,mn081,b'\n      So if you\n    '
+4565.545,4565.680,mn081,b'\n      d-\n    '
+4565.837,4570.267,mn081,"b'\n      assume that it should connect uh really good to Siemens and to uh K_P_N, and to the -\n    '"
+4570.267,4573.757,mn081,b'\n      then it starts to get big we should all go to the - in the same '
+4574.174,4576.599,mn081,"b'\n      If you already assume ""well, O_K, they paid money"",\n    '"
+4577.615,4580.706,mn081,"b'\n      and now you think, O_K, what - what great thing you want to do,\n    '"
+4581.697,4586.512,mn081,b'\n      then '
+4587.362,4591.952,mn082,"b'\n      Yeah, but we have no eh - current no public funding,\n    '"
+4591.947,4596.806,mn081,"b""\n      No. But you - but you don't """
+4591.952,4593.705,mn082,"b""\n      O_K, everybody's paid """
+4591.958,4593.949,mn035,"b'\n      Yeah, but - but - Yeah. But -\n    '"
+4592.096,4592.537,mn021,b'\n      Yeah.\n    '
+4592.134,4593.234,fn083,b'\n      Yeah.\n    '
+4593.853,4594.135,mn082,b'\n      Yeah.\n    '
+4594.637,4595.255,mn082,b'\n      Yeah.\n    '
+4595.319,4597.254,fn083,b'\n      '
+4597.864,4604.917,mn035,b'\n      But for theoretical - or for '
+4597.965,4598.657,mn081,b'\n      Uh.\n    '
+4605.462,4609.015,mn035,"b""\n      So if we don't """
+4608.256,4609.139,mn082,b'\n      Mm-hmm.\n    '
+4609.015,4612.226,mn035,"b""\n      we probably wouldn't """
+4611.895,4614.711,mn082,"b""\n      That's right. That's right. Yeah. """
+4612.002,4613.042,mn021,b'\n      Absolutely.\n    '
+4612.060,4613.165,mn030,b'\n      '
+4612.226,4614.711,mn035,b'\n      '
+4612.557,4614.413,fn083,b'\n      '
+4614.711,4616.051,mn035,"b""\n      So that's why, I think,\n    """
+4615.701,4616.346,mn082,b'\n      Yeah.\n    '
+4616.051,4616.614,mn035,"b'\n      yeah,\n    '"
+4616.614,4617.780,mn035,"b""\n      it's a good question.\n    """
+4617.462,4620.306,mn082,b'\n      '
+4619.138,4619.715,mn035,b'\n      Yep.\n    '
+4620.306,4623.379,mn082,"b'\n      Yeah. I want to have really the activities you know,\n    '"
+4623.379,4627.179,mn082,b'\n      what is really the outcome what is really the problem we are going to solve.\n    '
+4627.179,4628.471,mn082,b'\n      These are my questions.\n    '
+4628.471,4630.799,mn082,b'\n      And if we have identified this block\n    '
+4630.799,4632.915,mn082,b'\n      then it is possible to raise some money.\n    '
+4633.713,4634.355,mn082,b'\n      Yeah.\n    '
+4635.319,4637.963,mn035,"b""\n      That's just the same question just other """
+4636.316,4638.870,mn021,b'\n      Let - let me put an example. You know I -\n    '
+4638.870,4643.986,mn021,"b'\n      Some days ago, I bought, like some of you, this kind of things. '"
+4644.493,4654.418,mn021,"b'\n      This is a P_D_A eh three com uh Palm Pilot compatible, nothing - nothing that great, but it has some - some possibility of '"
+4647.476,4648.902,mn035,b'\n      Modernistic stuff! '
+4648.902,4650.533,mn035,b'\n      Completely useless! '
+4654.418,4656.393,mn021,"b'\n      But the point is eh, the only -\n    '"
+4657.164,4660.580,mn021,b'\n      '
+4660.580,4663.874,mn021,"b'\n      is just uh this Omnisky modem,\n    '"
+4663.874,4668.611,mn021,"b'\n      which is uh, I think it is a subscription-based uh thing.\n    '"
+4668.611,4671.034,mn021,"b'\n      You have to pay every - every month,\n    '"
+4671.034,4673.436,mn021,"b'\n      and eh of course,\n    '"
+4673.436,4683.391,mn021,"b""\n      I cannot imagine that uh tomorrow I'll be able to buy a different thing with four different networks, four different providers on it.\n    """
+4683.391,4684.991,mn021,"b""\n      Maybe I'm wrong but\n    """
+4684.991,4690.192,mn021,"b'\n      if I have the funding I say ""O_K, well, I can buy this or even I can buy a mobile computer,\n    '"
+4690.192,4691.134,mn021,"b'\n      a notebook"".\n    '"
+4691.134,4691.946,mn021,b'\n      O_K?\n    '
+4691.946,4695.403,mn021,"b'\n      A lot more expensive, but '"
+4695.403,4698.411,mn021,b'\n      Then I can add a '
+4698.411,4707.006,mn021,b'\n      because mmm the majority of the - of the notebooks only have two P_C cards uh type two slots. So\n    '
+4707.451,4713.683,mn021,"b""\n      In - in the better case, maybe I'm """
+4714.554,4715.695,mn021,b'\n      So ah\n    '
+4716.712,4718.718,mn021,b'\n      the difficulty I see is that '
+4718.718,4724.372,mn021,b'\n      ah if we are - if you want to think in - in two three four different technologies\n    '
+4724.372,4734.255,mn021,"b'\n      um, maybe we are uh too '"
+4735.367,4736.436,mn021,"b'\n      Which is not bad, but\n    '"
+4736.436,4739.106,mn021,"b""\n      uh, I'm just saying that it will be\n    """
+4739.106,4742.227,mn021,b'\n      able - It will - Sorry. It will be '
+4742.227,4746.723,mn021,b'\n      to develop a - a '
+4746.723,4755.775,mn021,"b'\n      If somebody tell us, ""O_K, now here you have the '"
+4756.577,4759.489,mn021,b'\n      So mmm\n    '
+4759.489,4761.512,mn021,"b""\n      I'm still trying to -\n    """
+4762.763,4779.412,mn021,"b'\n      you know, to get used to the uh - all the ideas and to see that all the things are really '"
+4780.158,4783.106,mn021,"b""\n      So that's why I was proposing this - this question.\n    """
+4783.106,4785.466,mn021,"b""\n      Let's assume we have the funding.\n    """
+4785.466,4790.668,mn021,"b""\n      Now let's proceed. What - what """
+4791.678,4793.869,mn021,b'\n      Because oh at the end uh\n    '
+4793.869,4799.094,mn021,"b'\n      somebody will uh be asking us ""O_K, did you do your homework? Did you do what you -\n    '"
+4799.904,4800.982,mn021,b'\n      So.\n    '
+4801.414,4802.255,mn082,"b""\n      It's clear.\n    """
+4809.622,4812.033,mn082,"b'\n      Now from my point of view in the beginning,\n    '"
+4812.033,4815.638,mn082,"b'\n      one more time, if I see the four building blocks,\n    '"
+4815.638,4818.730,mn082,b'\n      and eh I could speak only for '
+4819.378,4824.301,mn082,b'\n      I believe to derive a certain kind of Q_S Reservation-in-'
+4824.751,4825.439,mn021,b'\n      Mm-hmm.\n    '
+4825.902,4830.325,mn082,b'\n      Much more uh general\n    '
+4831.306,4833.957,mn082,"b'\n      as it is done for - for U_S_A_I_A, but\n    '"
+4833.957,4837.160,mn082,b'\n      mapped then '
+4837.160,4839.053,mn082,b'\n      subnet layer technologies.\n    '
+4839.241,4842.109,mn021,b'\n      But for different networks?\n    '
+4839.894,4841.259,mn082,b'\n      '
+4841.641,4842.048,mn082,b'\n      Yes.\n    '
+4842.048,4842.471,mn082,b'\n      For -\n    '
+4842.109,4843.417,mn021,b'\n      The point is for '
+4842.471,4844.634,mn082,b'\n      '
+4844.634,4848.858,mn082,b'\n      But '
+4848.858,4852.224,mn082,b'\n      really using certain kind of - of um\n    '
+4852.761,4855.192,mn082,"b'\n      um quantitative description,\n    '"
+4855.192,4858.773,mn082,b'\n      you can have more of a '
+4858.773,4861.500,mn082,"b'\n      you can have taken into account moving patterns,\n    '"
+4861.500,4863.190,mn082,b'\n      and - and - and '
+4863.190,4871.078,mn082,b'\n      '
+4871.501,4877.902,mn082,b'\n      if I want be mobile and I want to have not a interruption of my - in my application qualities of service. So.\n    '
+4873.732,4874.904,mn021,b'\n      Hmm-hmm-hmm.\n    '
+4877.902,4878.820,mn082,b'\n      Um\n    '
+4878.820,4882.083,mn082,b'\n      But '
+4882.083,4885.135,mn082,b'\n      and figure out what is available within U_M_T_S.\n    '
+4885.636,4887.985,mn082,b'\n      And if I really have an '
+4887.985,4896.360,mn082,b'\n      where I '
+4896.360,4899.770,mn082,b'\n      So '
+4899.770,4903.504,mn082,b'\n      And '
+4903.504,4906.197,mn082,b'\n      And how it is possible to map this one to '
+4907.169,4908.528,mn082,b'\n      And if you have the building blocks\n    '
+4909.210,4910.190,mn082,b'\n      '
+4910.887,4916.895,mn082,b'\n      what is '
+4916.895,4921.838,mn082,"b'\n      then you have, in principle, the ideas for the following generation what you could improve.\n    '"
+4921.558,4922.968,mn021,b'\n      Hmm-hmm.\n    '
+4921.838,4923.056,mn082,b'\n      Because then you are '
+4923.056,4925.702,mn082,b'\n      maybe '
+4925.702,4928.009,mn082,b'\n      I believe the '
+4928.401,4930.907,mn082,b'\n      And I believe the '
+4931.471,4937.028,mn082,"b'\n      So, in '"
+4937.610,4940.527,mn082,"b'\n      some theoretical examination of these problems,\n    '"
+4940.802,4942.013,mn021,b'\n      I think so\n    '
+4941.376,4943.791,mn082,b'\n      and then '
+4945.187,4952.579,mn082,b'\n      must be '
+4954.010,4957.031,mn082,"b'\n      uh P_Cs available. Maybe we have to extend it then,\n    '"
+4957.031,4959.003,mn082,"b'\n      and figure out some real scenarios,\n    '"
+4959.003,4960.256,mn082,b'\n      and maybe '
+4960.284,4961.621,mn021,b'\n      Oh yeah.\n    '
+4960.360,4961.967,mn082,"b'\n      Because uh, despite the fa-\n    '"
+4961.967,4963.779,mn082,"b'\n      uh uh Hopefully, then we '"
+4962.257,4963.034,mn021,b'\n      W-\n    '
+4963.779,4967.551,mn082,b'\n      with the money also not eh only for the '
+4967.551,4969.438,mn082,b'\n      there are also some '
+4969.438,4971.520,mn082,b'\n      then we add a certain kind of '
+4971.520,4973.004,mn082,"b""\n      But I think that's - """
+4973.004,4974.661,mn082,"b""\n      that's """
+4973.968,4975.116,mn021,"b'\n      A long way, yeah. '"
+4974.661,4975.760,mn082,"b""\n      That's """
+4975.388,4976.087,mn021,"b""\n      That's right.\n    """
+4976.552,4981.573,mn082,b'\n      But in the beginning we must have a certain kind of '
+4982.296,4983.818,mn082,b'\n      with the relevant\n    '
+4984.611,4985.570,mn082,b'\n      technology.\n    '
+4986.311,4990.386,mn082,b'\n      '
+4990.386,4993.679,mn082,b'\n      because '
+4993.679,4998.831,mn082,"b""\n      There's some money """
+4998.831,5000.179,mn082,b'\n      It '
+4999.009,5000.046,mn021,b'\n      Hmm-hmm-hmm.\n    '
+5000.179,5002.112,mn082,b'\n      And it will be '
+5003.810,5006.617,mn082,"b'\n      Because there is a big eh harmonization effort,\n    '"
+5007.568,5015.852,mn082,b'\n      despite the fact they are '
+5016.610,5025.834,mn082,"b'\n      So. And after this theoretical framework, if this one is aligned, O_K you have some specification and you set up some Linux or Free B_S_D or whatever kind of prototype.\n    '"
+5025.834,5027.731,mn082,b'\n      So that is what '
+5028.812,5029.409,mn082,b'\n      And then -\n    '
+5030.205,5031.226,mn082,"b'\n      O_K, and then you will see.\n    '"
+5031.426,5032.525,mn021,b'\n      Hmm-hmm.\n    '
+5035.256,5039.000,mn082,b'\n      The problem is - which I see is that it could be\n    '
+5039.000,5041.011,mn082,b'\n      fruitful to standardization\n    '
+5041.011,5047.879,mn082,b'\n      that it could be fruitful to some extent to telecommunication providers.\n    '
+5050.069,5054.150,mn082,"b""\n      But there's not a real product like you say.\n    """
+5054.150,5057.449,mn082,"b""\n      There's not the """
+5056.889,5057.839,mn021,b'\n      Hmm-hmm-hmm.\n    '
+5057.449,5062.041,mn082,"b'\n      Yeah, if you go '"
+5062.041,5065.323,mn082,b'\n      We have a new P_C_M_C_I_A card and - and\n    '
+5065.323,5072.045,mn082,"b'\n      extend something and the end system, or what you mentioned here was the seamless four technologies inter-working in the '"
+5072.045,5074.671,mn082,b'\n      then you have an - an - a device which you can '
+5074.671,5078.285,mn082,b'\n      If you go for a networking pfff '
+5078.285,5083.609,mn082,"b'\n      uh improvements, in principle, and - and understanding next generation '"
+5083.609,5087.179,mn082,"b""\n      uh there's no """
+5086.507,5087.374,mn021,b'\n      Hmm-hmm.\n    '
+5089.910,5094.377,mn082,"b""\n      But it is a long term - it's long term, I think, uh """
+5096.238,5099.420,mn082,"b""\n      And it's more related I believe to the skills\n    """
+5099.420,5106.326,mn082,b'\n      to what is available and - and currently as I see what uh will be available within the N_S_A group.\n    '
+5109.487,5110.291,mn021,b'\n      O_K.\n    '
+5109.617,5111.843,mn082,"b'\n      And uh, the point is if\n    '"
+5111.843,5115.743,mn082,b'\n      we focus on - on this networking - small - more networking stuff\n    '
+5115.743,5118.122,mn082,b'\n      and em\n    '
+5118.122,5123.232,mn082,b'\n      some '
+5123.232,5124.433,mn082,"b'\n      whatever this means,\n    '"
+5124.433,5127.756,mn082,"b'\n      It might be we have then the active classroom, but it could be '"
+5127.756,5129.791,mn082,b'\n      that is not '
+5130.804,5132.354,mn082,"b""\n      it's only - Hmm?\n    """
+5130.804,5133.420,fn083,"b""\n      Yeah but there's something needed to sell it. And I think -\n    """
+5133.331,5136.313,mn082,b'\n      Yeah. Then - then '
+5136.944,5139.659,mn082,"b""\n      I don't know you know, I'm not an application expert, I -\n    """
+5139.659,5143.040,mn082,b'\n      We have some content. We will '
+5139.686,5140.257,mn035,b'\n      '
+5140.939,5141.843,mn021,b'\n      Bless you.\n    '
+5141.612,5142.597,fn083,b'\n      Bless you.\n    '
+5143.718,5149.977,mn082,"b'\n      Uh Anyway, but uh that were - is my '"
+5149.977,5154.634,mn082,b'\n      The good thing is that the money '
+5154.634,5159.719,mn082,b'\n      So that '
+5159.041,5160.040,mn021,b'\n      Hmm-hmm-hmm.\n    '
+5159.719,5162.961,mn082,"b'\n      But first of all Wilbert need more, definitely,\n    '"
+5162.961,5167.953,mn082,b'\n      because maybe then K_P_N is uh no more interesting to go '
+5167.953,5170.984,mn082,"b'\n      or we can convince with these kind of things which we have in mind,\n    '"
+5171.934,5174.236,mn082,b'\n      uh companies like K_P_N.\n    '
+5175.647,5176.541,mn082,b'\n      So\n    '
+5177.772,5183.381,mn082,b'\n      And if we have '
+5184.162,5187.410,mn082,"b'\n      N_S_A core group activity,\n    '"
+5187.742,5193.458,mn082,"b""\n      and this theoretical framework, whether it is finished in half a year or one year doesn't matter, in principle, because\n    """
+5193.458,5198.844,mn082,b'\n      the road map for the - the next generation networks is - is eh - is for '
+5198.844,5207.670,mn082,b'\n      And b- before U_M_T_S will be deployed '
+5198.916,5199.577,mn021,b'\n      '
+5208.451,5210.146,mn082,b'\n      So.\n    '
+5210.146,5218.484,mn082,b'\n      And - and have '
+5218.484,5223.612,mn082,"b'\n      This is a smaller portion in the gen- more generic framework, I would like to say, from '"
+5223.612,5225.775,mn082,b'\n      Why not go in '
+5225.139,5225.861,mn021,b'\n      O_K\n    '
+5225.775,5226.244,mn082,"b""\n      I don't know.\n    """
+5226.739,5230.366,mn082,"b""\n      But uh that's the point eh we are sitting here together.\n    """
+5229.755,5230.366,mn021,b'\n      Yeah.\n    '
+5232.299,5232.542,mn021,b'\n      But -\n    '
+5233.443,5237.151,mn082,"b'\n      But for - for Dietmar I think eh eh he mentioned it to me,\n    '"
+5237.151,5244.153,mn082,"b""\n      it's very clear that he will go on with a portion of time, with this U_S_A_I_A stuff,\n    """
+5244.153,5246.456,mn030,"b""\n      That's right. It depends on my -\n    """
+5244.153,5252.371,mn082,b'\n      in the '
+5252.371,5258.327,mn082,"b""\n      Because your focusing on the mathematical thing of whether it's a network or other thing, it doesn't """
+5254.720,5255.602,mn030,"b""\n      Well, I'm foc-\n    """
+5256.484,5261.870,mn030,"b""\n      I'm focused on performance evaluation and um - especially of """
+5258.327,5259.437,mn082,b'\n      Yeah. Yeah.\n    '
+5261.574,5262.140,mn082,b'\n      Yeah.\n    '
+5262.214,5270.067,mn030,b'\n      I never eh e- um dealed with um mobile communications. So why not?\n    '
+5269.459,5272.995,mn082,b'\n      Yeah. So. There is '
+5270.067,5272.377,mn030,"b""\n      So that's eh, to open my mind.\n    """
+5272.995,5277.429,mn082,b'\n      with uh maybe a portion of time at the University of Berlin - Berlin.\n    '
+5277.429,5282.832,mn082,"b'\n      And independently whether I will leave the uh uh I_C_S_I in - in the mid of December or not,\n    '"
+5282.832,5288.579,mn082,b'\n      I will still focus on - on - on these Q_S-in-Advance schemes\n    '
+5288.579,5292.252,mn082,b'\n      eh also within '
+5293.226,5298.373,mn082,b'\n      And I believe your routing stuff is '
+5295.922,5296.795,mn021,b'\n      Hmm-mmm.\n    '
+5298.373,5302.033,mn082,"b'\n      And when you - when you will go back to Spain, right?\n    '"
+5299.495,5300.054,mn021,b'\n      Yeah.\n    '
+5301.681,5303.852,mn021,b'\n      Yeah. Sure. Yeah. And - and\n    '
+5302.033,5303.396,mn082,"b'\n      Yeah, so.\n    '"
+5303.396,5308.641,mn082,"b""\n      and - and that's why, in principle, the skills will be always available """
+5303.852,5305.109,mn021,"b""\n      I'm fortunate be-\n    """
+5308.641,5313.088,mn082,b'\n      if there is a certain type of project in the '
+5310.400,5311.014,mn021,b'\n      Mm-hmm.\n    '
+5313.088,5315.997,mn082,b'\n      '
+5313.678,5314.255,mn021,b'\n      '
+5314.255,5317.567,mn021,b'\n      N- Not only this. We can even use this u-\n    '
+5317.567,5318.563,mn021,b'\n      platform to -\n    '
+5318.907,5322.328,mn021,b'\n      to get some European projects in the future because\n    '
+5321.828,5322.370,mn082,b'\n      yeah\n    '
+5322.328,5326.147,mn021,"b""\n      you know, sometimes eh it's a good thing -\n    """
+5323.837,5324.507,mn082,b'\n      maybe\n    '
+5325.138,5328.368,mn082,"b'\n      Currently no money is available, you know. '"
+5327.125,5329.724,mn021,b'\n      Yeah but '
+5329.724,5332.374,mn021,"b""\n      I think w- This will improve over time, I'm """
+5332.736,5333.998,mn021,b'\n      So uh -\n    '
+5334.499,5335.156,mn021,b'\n      Probably.\n    '
+5335.482,5340.306,mn021,"b'\n      You know, this kind of joint work of different countries de- companies, universities.\n    '"
+5340.306,5345.944,mn021,b'\n      '
+5345.944,5352.223,mn021,b'\n      Because it is involving different partners from different points of - of '
+5352.730,5356.965,mn082,"b'\n      Now, I will not prevent anybody from getting some '"
+5356.695,5357.567,mn030,b'\n      '
+5356.965,5362.179,mn082,"b'\n      uh very uh very slow, in principle, but my last question is for Wilbert.\n    '"
+5362.179,5363.696,mn082,"b'\n      Wilbert, you\n    '"
+5363.696,5373.950,mn082,b'\n      I - I think you '
+5373.950,5378.400,mn082,"b""\n      Don't you think that K_P_N could be convinced to go on this way what I mentioned before?\n    """
+5379.233,5380.215,mn082,"b""\n      There's no way?\n    """
+5379.372,5379.949,mn081,b'\n      No.\n    '
+5381.395,5387.706,mn082,"b'\n      They needed definitely, in principle, some kind of service or device or product or whatever.\n    '"
+5385.362,5385.928,mn081,b'\n      Yeah.\n    '
+5387.972,5390.472,mn081,"b""\n      That's right now the s- the status. Yes.\n    """
+5395.064,5397.211,mn082,b'\n      Can we '
+5397.211,5399.704,mn082,"b""\n      maybe, I think it's a little bit more easier,\n    """
+5399.704,5402.507,mn082,b'\n      a discussion on Thursday?\n    '
+5404.548,5407.975,mn081,"b""\n      I'm out for th- one - a week and a half.\n    """
+5407.975,5414.195,mn081,"b'\n      So on Wednesday, Thursday, Friday, I have a workshop at Stanford and next week I have a week on holiday.\n    '"
+5408.865,5410.200,mn082,b'\n      O_K.\n    '
+5414.203,5415.047,mn082,b'\n      O_K.\n    '
+5415.047,5418.531,mn082,"b""\n      Maybe that's enough time for you to consider a little bit more\n    """
+5419.733,5421.662,mn082,b'\n      in this direction?\n    '
+5420.359,5421.109,mn081,b'\n      Could be.\n    '
+5422.005,5426.484,mn082,b'\n      And then we could have eh discussion and maybe\n    '
+5426.484,5429.095,mn082,b'\n      this one is an overall\n    '
+5429.095,5437.408,mn082,"b'\n      work, in principle, where everybody could hook in and - and get certain kind of small portions to solve it\n    '"
+5429.819,5430.166,mn081,b'\n      Yeah.\n    '
+5437.170,5439.215,mn081,b'\n      So - so the only solution would - for -\n    '
+5437.408,5438.998,mn082,b'\n      and\n    '
+5439.215,5440.971,mn081,b'\n      for K_P_N would be that\n    '
+5440.971,5444.738,mn081,b'\n      there is a p- a project in this area.\n    '
+5444.738,5447.216,mn081,b'\n      So - that makes sense to '
+5447.216,5447.777,mn081,"b'\n      This,\n    '"
+5447.777,5450.112,mn081,b'\n      I mean the '
+5449.223,5449.969,mn021,b'\n      Hm-hmm.\n    '
+5450.112,5453.441,mn081,"b'\n      with a group of uh a few people, like four or something,\n    '"
+5454.703,5456.314,mn081,b'\n      and that connects to this project.\n    '
+5456.314,5462.404,mn081,"b'\n      So, one somebody or two somebodies can be found uh founded '"
+5462.404,5464.523,mn081,b'\n      to join '
+5464.523,5468.323,mn081,"b'\n      But that the other four should build a service on top of it,\n    '"
+5468.049,5468.701,mn082,b'\n      mm-hmm.\n    '
+5468.323,5470.251,mn081,b'\n      that has a clear business focus.\n    '
+5470.251,5475.427,mn081,b'\n      It means eh a - a U_M_T_S service basically.\n    '
+5475.777,5476.384,mn082,b'\n      Mm-hmm.\n    '
+5476.869,5480.058,mn082,b'\n      Can you consider poten- '
+5480.058,5484.286,mn082,b'\n      some potential U_M_T_S services\n    '
+5484.286,5486.079,mn082,b'\n      besides this one?\n    '
+5485.467,5486.079,mn081,b'\n      Yeah.\n    '
+5488.450,5489.606,mn082,b'\n      And -\n    '
+5488.540,5489.577,mn081,"b'\n      Yeah, but\n    '"
+5489.577,5492.723,mn081,b'\n      you see the - the - they ask something pretty strange.\n    '
+5492.723,5498.064,mn081,b'\n      They - they want something pretty '
+5498.064,5503.851,mn081,b'\n      There are sixty million billion people in the '
+5503.851,5507.680,mn081,b'\n      and try to make a lot of money with it in the form of start-ups or whatever.\n    '
+5509.021,5512.681,mn081,"b'\n      And just think of a service like that, if I '"
+5512.981,5518.122,mn082,"b'\n      No, but, uh fff '"
+5514.735,5515.467,mn081,b'\n      w-\n    '
+5518.122,5521.721,mn082,b'\n      that it is a little bit more evol- evolved and - than in the -\n    '
+5519.632,5520.399,mn081,b'\n      Mm-hmm.\n    '
+5521.721,5527.519,mn082,"b'\n      the core network technology in the access network, I would like to say. And this is aligned then\n    '"
+5527.519,5530.223,mn082,"b""\n      as much as possible to the internet. That's the basic """
+5530.223,5534.602,mn082,b'\n      that you '
+5537.069,5537.694,mn081,b'\n      Mm-hmm.\n    '
+5537.979,5540.891,mn082,b'\n      Because normally I - I believe the - the - the people are\n    '
+5540.801,5542.284,mn081,b'\n      I - you know -\n    '
+5540.891,5542.073,mn082,"b'\n      either on the application layer,\n    '"
+5542.073,5543.894,mn082,"b'\n      that means higher than layer four,\n    '"
+5543.894,5547.794,mn082,b'\n      or they are on layer f- one to l- l- '
+5547.360,5547.927,mn081,b'\n      Bu-\n    '
+5547.794,5556.064,mn082,"b'\n      And the service people are considering ""O_K, U_M_T_S you have some location information, and maybe you are - have the infrastructure in the car,\n    '"
+5556.064,5561.364,mn082,"b'\n      so, if I provide a certain kind of service, independently what the network is offering, you know.\n    '"
+5561.721,5566.395,mn082,b'\n      Because they do not consider it very well. They know there '
+5566.395,5572.147,mn082,"b""\n      and you have a G_P_S, and they know, O_K, it's based on satellite. And there's U_M_T_S, that is based on base station.\n    """
+5572.147,5576.087,mn082,"b""\n      There's all that they consider. And then assume, O_K, I can do that.\n    """
+5576.087,5581.228,mn082,b'\n      And the networking guy said O_K it would be '
+5581.228,5584.465,mn082,b'\n      but do not consider really what a sense of benefit\n    '
+5584.465,5591.168,mn082,"b'\n      uh for applications, there were new app- old application make use of it and how can '"
+5591.168,5592.354,mn082,b'\n      which we\n    '
+5592.354,5594.265,mn082,"b""\n      haven't considered up to now\n    """
+5594.265,5597.279,mn082,"b'\n      based on this new network function, L_A_T enrich -\n    '"
+5594.936,5595.921,mn081,b'\n      '
+5597.279,5599.520,mn082,"b'\n      enriched network function, L_A_T.\n    '"
+5600.629,5602.983,mn082,"b""\n      So, I think it's worth to -\n    """
+5604.875,5606.859,mn082,b'\n      to consider something in that way\n    '
+5609.950,5614.793,mn081,"b'\n      Well, u- until now I have been trying to think about it, but eh f- to me u-\n    '"
+5614.793,5619.871,mn081,"b'\n      what I have every - every time I encountered it, it is all - this is all pretty close by,\n    '"
+5619.871,5622.424,mn081,b'\n      like the industry is already behind this.\n    '
+5622.424,5626.296,mn081,b'\n      So they - they want to make this available pretty soon.\n    '
+5623.310,5625.229,mn082,b'\n      '
+5627.768,5635.698,mn081,"b""\n      So I'm just trying to think uh m- more ahead, like uh use the wireless device as a - only as a """
+5637.716,5645.710,mn081,"b'\n      So - so whenever you come in with your uh G_S_M phone and there is a P_C available, like everything will be directed to the - the bigger device or something.\n    '"
+5645.710,5647.592,mn081,b'\n      So more services like that.\n    '
+5647.592,5658.720,mn081,b'\n      I think '
+5662.755,5666.370,mn082,b'\n      Not currently there is a techno- technology split.\n    '
+5663.200,5664.236,mn081,b'\n      '
+5667.924,5670.307,mn082,b'\n      Of course you have I_P in the mobile device\n    '
+5670.307,5672.533,mn082,b'\n      but if you see the strange protocols text\n    '
+5672.533,5676.493,mn082,"b""\n      there's I_P over I_P and tunnels and - and whatever, so, but it's uh\n    """
+5676.493,5681.629,mn082,b'\n      looks very strange to '
+5681.629,5684.508,mn082,"b'\n      you have to map it to I_P addresses and - and so on, but\n    '"
+5684.508,5688.576,mn082,b'\n      for '
+5688.576,5690.339,mn082,b'\n      We are far away from that.\n    '
+5691.455,5697.465,mn082,"b""\n      And if you take a really look to the G_P_R_S protocols texts and I believe also they apply for U_M_T_S but I'm not\n    """
+5697.465,5699.526,mn082,"b'\n      eh very familiar with that,\n    '"
+5699.526,5705.138,mn082,b'\n      and the next generations access network is - will come soon.\n    '
+5705.138,5708.243,mn082,"b""\n      You see it's every three years or four years they will have a new generation.\n    """
+5709.774,5711.005,mn081,"b""\n      And there's a - We m-\n    """
+5710.578,5712.468,mn082,b'\n      But anyway you - '
+5711.005,5717.995,mn081,b'\n      Our group might fo- want to focus on the uh I_P over ether '
+5716.483,5718.156,fn083,b'\n      '
+5716.889,5717.780,mn021,b'\n      '
+5717.924,5721.424,mn082,b'\n      Why? What kind - what kind - I_P over '
+5717.995,5719.369,mn081,b'\n      or over '
+5719.158,5722.257,mn030,b'\n      '
+5720.629,5722.327,mn081,"b'\n      N- no nets,\n    '"
+5721.424,5722.372,mn082,b'\n      '
+5722.327,5722.776,mn081,b'\n      Yeah.\n    '
+5722.372,5723.554,mn082,b'\n      '
+5722.776,5723.381,mn081,b'\n      '
+5723.453,5724.265,fn083,b'\n      '
+5723.554,5725.854,mn082,b'\n      '
+5724.064,5725.757,mn081,b'\n      Like only over ether.\n    '
+5725.757,5728.897,mn081,b'\n      '
+5731.349,5737.069,mn081,"b'\n      If you want to do - make like also for wireless devices end to end I_P available, '"
+5737.069,5737.567,mn081,b'\n      Like.\n    '
+5742.654,5744.700,mn082,b'\n      Can you repeat it?\n    '
+5745.301,5754.315,mn081,"b'\n      Well, so he - he says well I_P to I_P or end to end I_P, is far - '"
+5755.781,5757.446,mn081,b'\n      um\n    '
+5757.446,5761.741,mn081,b'\n      So you - what you '
+5761.741,5765.169,mn081,b'\n      and just do uh I_Ps playing over '
+5765.981,5766.548,mn082,b'\n      Mm-hmm.\n    '
+5767.205,5769.992,mn082,b'\n      Something like that is my final vision.\n    '
+5768.060,5772.060,mn081,"b'\n      Like - like S_D_H, I_P over fiber or '"
+5771.883,5772.585,mn082,b'\n      Mm-hmm.\n    '
+5772.060,5779.487,mn081,"b'\n      This gets rid of the S_D_H. Or, well, start with get rid of the A_T_M first and then get rid of S_D_H.\n    '"
+5772.888,5773.587,mn082,b'\n      '
+5774.862,5776.670,mn082,b'\n      Yeah. A_T_M stuff. Yeah.\n    '
+5776.670,5777.309,mn082,b'\n      Yeah.\n    '
+5777.309,5778.098,mn082,b'\n      '
+5779.899,5781.692,mn082,"b""\n      There's - the problem is - is, you see\n    """
+5781.692,5788.183,mn082,b'\n      that the providers eh have always there broken view for - for the management.\n    '
+5788.813,5798.730,mn082,"b'\n      If you have different kind of protocols texts and network management system, and the billing system and all these kinds of things which is '"
+5792.239,5792.992,mn081,b'\n      Yeah.\n    '
+5798.730,5804.268,mn082,b'\n      is eh not aligned. We have it for different islands and - and\n    '
+5802.346,5803.271,mn021,b'\n      Hmm-hmm-hmm.\n    '
+5804.268,5806.947,mn082,b'\n      '
+5806.947,5810.270,mn082,b'\n      If you have really then I_P networks at a certain generation\n    '
+5810.270,5814.219,mn082,b'\n      where you have really the physical media and where necessary\n    '
+5814.219,5816.089,mn082,b'\n      uh additional '
+5816.089,5817.578,mn082,"b'\n      protocols,\n    '"
+5817.578,5821.994,mn082,"b'\n      and then you have really always end to end. It makes you things much more simple much more easier,\n    '"
+5821.994,5825.341,mn082,"b'\n      uh, but is far far away, you know. Yeah.\n    '"
+5821.994,5822.899,mn021,b'\n      Uh.\n    '
+5824.112,5827.814,mn021,b'\n      Unless - unless we speak about quality of '
+5825.341,5825.872,mn082,b'\n      Yeah.\n    '
+5825.872,5826.298,mn082,b'\n      Yeah.\n    '
+5827.814,5832.231,mn021,b'\n      which is not eh '
+5832.444,5840.207,mn082,b'\n      Yeah but you have the extension for the eh quality of service mechanism which you have to map then to the underlying technology.\n    '
+5834.867,5836.272,mn021,"b'\n      Yeah, but -\n    '"
+5840.207,5841.064,mn082,b'\n      And -\n    '
+5840.207,5844.872,mn021,"b""\n      Yeah but for example nobody's really using R_S_V_P.\n    """
+5844.872,5849.164,mn082,b'\n      Yeah but maybe in the LAN interface it makes since to use it\n    '
+5849.164,5853.615,mn081,"b'\n      Eh you guys do that discussion later on please, uh? R_S_V_P.\n    '"
+5849.164,5856.963,mn082,b'\n      And - and - But yeah but I think we sh- we will miss the cake and I think we should stop now but please '
+5851.773,5853.537,mn021,"b'\n      O_K, sorry, sorry.\n    '"
+5853.275,5854.744,fn083,b'\n      '
+5853.555,5855.157,mn030,b'\n      '
+5855.583,5856.429,mn030,b'\n      '
+5856.963,5858.045,mn082,b'\n      short\n    '
+5858.045,5859.459,mn082,b'\n      eh s-\n    '
+5859.459,5863.645,mn082,b'\n      go on with considerations and potential and - and uh\n    '
+5863.645,5866.359,mn082,"b""\n      um we didn't make s-\n    """
+5866.359,5868.879,mn082,b'\n      much progress '
+5868.879,5869.783,mn082,b'\n      but anyway\n    '
+5869.783,5873.011,mn082,b'\n      this kind of activity lives from '
+5873.732,5875.541,mn082,b'\n      And so I really\n    '
+5875.541,5879.607,mn082,b'\n      if somebody has an idea send an email and then I would like to\n    '
+5879.607,5882.857,mn082,"b""\n      enforce everybody not that I'm doing everything\n    """
+5882.857,5887.614,mn082,"b""\n      I could not - I f- didn't have the """
+5887.614,5890.644,mn082,b'\n      maybe I will stay here only s- four '
+5890.644,5893.717,mn082,b'\n      So it would be really\n    '
+5893.717,5897.019,mn082,b'\n      not the '
+5897.019,5901.424,mn082,b'\n      and if I stay longer of course we can go on but nevertheless I rely heavily\n    '
+5901.424,5905.506,mn082,b'\n      uh also from the contributions of '
+5904.957,5906.981,mn021,"b""\n      Hmm-hmm-hmm. That's right.\n    """
+5905.506,5908.816,mn082,"b'\n      of - of everybody, also from the institution behind. So\n    '"
+5909.621,5915.477,mn082,"b'\n      If there is certain kind of idea or questions or whatever, we are s- only a small group of people\n    '"
+5915.477,5922.566,mn082,"b'\n      we can easily join on a white board and - and start a discussion. It must not be on every Tuesday, you know,\n    '"
+5916.697,5918.964,mn021,"b'\n      Well, if '"
+5922.358,5923.285,mn021,b'\n      O_K.\n    '
+5922.566,5923.849,mn082,b'\n      at a certain time.\n    '
+5923.849,5928.200,mn082,b'\n      And I try to '
+5928.200,5930.377,mn082,b'\n      And we can go in different directions.\n    '
+5931.518,5937.662,mn082,"b'\n      And if you have a real focus on the certain novel thing for the services or U_M_T_S or whatever, great.\n    '"
+5937.662,5943.448,mn082,"b'\n      If not, the long term and then these things must be, nevertheless - must be defined in much more '"
+5943.448,5944.628,mn082,b'\n      '
+5944.628,5945.314,mn082,b'\n      O_K?\n    '
+5945.314,5946.525,mn082,"b'\n      So, thanks\n    '"
+5945.575,5946.791,mn021,b'\n      O_K\n    '
+5946.425,5947.254,mn081,b'\n      O_K\n    '
+5946.525,5948.353,mn082,"b'\n      please do not,\n    '"
+5946.841,5948.637,fn083,b'\n      '
+5947.254,5949.275,mn081,b'\n      '
+5947.890,5948.832,mn030,b'\n      '
+5948.353,5953.013,mn082,b'\n      um what Adam mentioned to '
+5948.521,5950.903,mn035,b'\n      '
+5950.823,5953.792,mn030,b'\n      Not to switch off. '
+5951.122,5952.498,mn081,b'\n      '
+5951.157,5953.000,fn083,"b""\n      Do not - Don't switch it off.\n    """
+5952.985,5954.838,mn021,"b""\n      O_K, yeah, that's right.\n    """
+5953.000,5956.655,fn083,b'\n      '
+5953.013,5956.142,mn082,b'\n      '
+5953.792,5957.290,mn030,b'\n      '
+5955.974,5958.434,mn021,"b'\n      Oh, can you call Adam?\n    '"
+5956.142,5969.827,,b'\n      '
+5958.052,5959.347,mn082,b'\n      '
+5959.216,5960.774,mn021,b'\n      At this number?\n    '
+5959.347,5960.306,mn082,b'\n      '
+5960.306,5962.677,mn082,b'\n      '
+5960.774,5963.547,mn021,b'\n      '
+5963.392,5965.656,mn082,b'\n      '
+5969.827,5978.036,mn082,b'\n      '
+5969.827,5971.671,me011,b'\n      '
+5971.671,5975.409,me011,b'\n      '

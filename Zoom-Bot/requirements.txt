@@ -1,0 +1,5 @@
+webrtcvad==2.0.10
+pyvirtualcam==0.9.1
+numpy==1.19.3
+Pillow==8.0.1
+pyppeteer==1.0.2

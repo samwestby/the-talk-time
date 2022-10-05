@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta
+      name="author"
+      content="Mark Otto, Jacob Thornton, and Bootstrap contributors"
+    />
+    <meta name="generator" content="Hugo 0.88.1" />
+    <title>Sticky Footer Navbar Template · Bootstrap v5.1</title>
+
+    <link
+      rel="canonical"
+      href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/"
+    />
+
+    <!-- Bootstrap core CSS -->
+    <link
+      href="https://getbootstrap.com/docs/5.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+
+    <!-- Favicons -->
+    <link
+      rel="apple-touch-icon"
+      href="https://getbootstrap.com/docs/5.1/assets/img/favicons/apple-touch-icon.png"
+      sizes="180x180"
+    />
+    <link
+      rel="icon"
+      href="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-32x32.png"
+      sizes="32x32"
+      type="image/png"
+    />
+    <link
+      rel="icon"
+      href="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-16x16.png"
+      sizes="16x16"
+      type="image/png"
+    />
+    <link
+      rel="manifest"
+      href="https://getbootstrap.com/docs/5.1/assets/img/favicons/manifest.json"
+    />
+    <link
+      rel="mask-icon"
+      href="https://getbootstrap.com/docs/5.1/assets/img/favicons/safari-pinned-tab.svg"
+      color="#7952b3"
+    />
+    <link
+      rel="icon"
+      href="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon.ico"
+    />
+    <meta name="theme-color" content="#7952b3" />
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    <!-- Custom styles for this template -->
+    <link
+      href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/sticky-footer-navbar.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="d-flex flex-column h-100">
+    <header>
+      <!-- Fixed navbar -->
+      <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">Conversation Visualization</a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarCollapse"
+            aria-controls="navbarCollapse"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav me-auto mb-2 mb-md-0">
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="index.html"
+                  >Viz View</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Download Bot Client</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="about.html"
+                  >Usage Instructions</a
+                >
+              </li>
+              <li class="nav-item">
+                <a
+                  class="nav-link disabled"
+                  aria-current="page"
+                  href="/"
+                  target="_blank"
+                  >Chat View</a
+                >
+              </li>
+            </ul>
+            <!-- <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form> -->
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Begin page content -->
+    <main class="flex-shrink-0">
+      <div class="container">
+        <h1 class="mt-5">Conversation Visualization</h1>
+        <h2 class="mt-5">Motivation</h2>
+        <p class="lead mt-3">This project aims to prototype different visualizations for video conferencing platforms with the help of feedback from users, scholars and the average remote worker in the 21st century. The goal of the prototyped visualizations is to enable equitable outcomes for meeting participants. A common gripe among meeting participants is that they either do not get an opportunity to speak or that the meeting topic is not relevant to their interests.</p>
+        <h2 class="mt-5">Data</h2>
+        <p class="lead mt-3">We use the <a href="https://www1.icsi.berkeley.edu/Speech/mr/" target="_blank">ICSI Meeting Corpus</a> to conduct our visualization design study. The International Computer Science Institute (ICSI) Meeting Corpus is an audio data set consisting of about 70 hours of meeting recordings. The data consists of individual lapel mic recorded channels of audio for each participant and also contains the transcript for the accompanying conversation. The transcript files are presented as .mrt xml files. We parse the .mrt files and extract the start and end times of the utterances, the participant id and the uttered text. The files are divided into different segments depending on the speaker. If a vocal sound was made the segments contain text transcriptions. If a non vocal sound was made the segment contains a description of the sound. For convenience we have chosen to ignore segments without text and focus solely on Vocal segments. There are 75 separate meetings that have been transcribed. Each meeting is labelled according to the type of meeting it belongs to and has a different number of participants.</p>
+        <h2 class="mt-5">Task Analysis</h2>
+        <p class="lead mt-3">This table is a task analysis for the post-meeting conversa-
+tional dynamics visualization. Tasks are ordered from highest priority
+to lowest. (*) indicates top priority tasks.</p>
+        <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Domain Task</th>
+                <th scope="col">Abstract Task</th>
+                <th scope="col">Task Level</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">1</th>
+                <td>Compare the behavior of meeting participants*</td>
+                <td>Query: Compare</td>
+                <td>Low</td>
+              </tr>
+              <tr>
+                <th scope="row">2</th>
+                <td>Annotate the different Entities in the transcript* </td>
+                <td>Produce: Annotation </td>
+                <td>High</td>
+              </tr>
+              <tr>
+                <th scope="row">3</th>
+                <td>Identify behavioral outliers* </td>
+                <td>Query: Identify </td>
+                <td>Low</td>
+              </tr>
+              <tr>
+                <th scope="row">4</th>
+                <td>Identify links between speakers*</td>
+                <td>Produce: Derive & High </td>
+                <td>High</td>
+              </tr>
+              <tr>
+                <th scope="row">5</th>
+                <td>Record a meeting in an effective manner </td>
+                <td>Analyze: Record </td>
+                <td>Low</td>
+              </tr>
+              <tr>
+                <th scope="row">6</th>
+                <td>Browse through topics explored in the meeting </td>
+                <td>Search: Explore  </td>
+                <td>Mid</td>
+              </tr>
+            </tbody>
+          </table>
+        <h2 class="mt-5">Final Visualization</h2>
+        <img class="rounded mx-auto d-block" src="smol.gif"/>
+        <h4 class="mt-5">Radial Balance Plot</h4>
+        <img class="rounded mx-auto d-block" src="balance.png" height="320"/>
+        <p class="lead mt-3"> The Radial Balance Plot is a variation of <a href="https://riffanalytics.ai/faqs/#metrics" target="_blank">Riff Analytics' MeetingMediator widget</a>. The purpose of this visualization is to tell how imbalanced a conversation is from the beginning of the conversation. The central black dot denotes the "Center of Mass" of the participants. Here the "Mass" of each participant is the time each utterance takes.</p>
+        <h4 class="mt-5">Radial No-Lie Plot</h4>
+        <img class="rounded mx-auto d-block" src="nolie.png" height="320"/>
+        <p class="lead mt-3">The Radial No-Lie Plot is designed as a radial bar chart around the central point. The bars encode the percentage of conversation time that each participant dominates. The need for this plot was motivated by the Lie-Factor introduced by the Radial Balance Plot.</p>
+        <h4 class="mt-5">Broken Bar Plot</h4>
+        <img class="rounded mx-auto d-block" src="broken.png" height="320"/>
+        <p class="lead mt-3">The Broken Bar Plot is a standard borizontal bar plot where each of the individual colored rectangular segments represent an utterance. The length of each rectangle corresponds to the time it takes for utterance.</p>
+        <h4 class="mt-5">Future Work</h4>
+        <dl class="row">
+            <dt class="col-sm-3">MacOS Client</dt>
+            <dd class="col-sm-9">Currently, the Zoom Bot client only supports Windows. A MacOS client will be developed soon. </dd>
+            <dt class="col-sm-3 text-truncate">Modified Color Scheme</dt>
+            <dd class="col-sm-9">We use the default D3 Ordinal Color Scheme. Given the low number of categories we do not see any efects of not using a specific color palette. However for a large number of users, this may be required.</dd>
+            <dt class="col-sm-3">NLP Based Sentiment and Topic Detection</dt>
+            <dd class="col-sm-9">An NLP pipeline can be used to analyse the transcript data realtime</dd>
+            <dt class="col-sm-3">Support Different File-formats</dt>
+            <dd class="col-sm-9">We currently use a <code>.json</code> files to store the transcript. However the original transcripts are <code>.mrt</code> files</dd>
+        </dl>
+      </div>
+    </main>
+
+    <footer class="footer mt-auto py-3 bg-light">
+      <div class="container">
+        <span class="text-muted">
+          <small>
+            Made with ❤️ By @westby & @natkite, bootstrap cover template by
+            <a href="https://twitter.com/mdo">@mdo</a>, socket.io chat
+            application example by Guillermo Rauch. Licensed under the
+            <a href="LICENSE">MIT License</a>.
+          </small>
+        </span>
+      </div>
+    </footer>
+
+    <script
+      src="https://getbootstrap.com/docs/5.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

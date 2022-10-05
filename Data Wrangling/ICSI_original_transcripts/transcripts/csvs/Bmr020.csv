@@ -1,0 +1,1942 @@
+start,end,participant,text
+0.000,1.858,fe008,b'\n      '
+0.340,1.426,me011,"b""\n      O_K, we're recording.\n    """
+1.389,4.890,me013,b'\n      We can '
+1.717,2.572,mn017,b'\n      '
+2.598,3.900,mn017,"b""\n      I'm doing some """
+4.090,7.650,mn017,"b'\n      square brackets, coffee sipping, square brackets. '"
+5.890,7.000,me001,b'\n      '
+6.122,8.500,me011,b'\n      '
+6.360,8.650,me018,b'\n      '
+6.426,7.920,mn014,b'\n      '
+6.615,10.032,me013,b'\n      '
+7.513,9.226,me001,b'\n      '
+7.920,12.786,mn014,"b""\n      That's """
+8.710,9.470,me018,b'\n      '
+8.790,13.190,fe008,b'\n      '
+9.959,12.390,mn017,b'\n      '
+9.960,11.470,me001,b'\n      Is that voiced or unvoiced?\n    '
+10.671,15.000,me013,b'\n      '
+10.740,11.931,me011,b'\n      '
+12.390,14.850,mn017,b'\n      Gar- darn! '
+13.290,13.850,me018,b'\n      '
+13.590,14.348,fe008,b'\n      '
+13.840,15.023,mn014,b'\n      '
+13.963,14.672,me011,b'\n      '
+14.348,16.155,fe008,b'\n      Channel two. Yeah. '
+14.672,16.448,me011,b'\n      '
+16.774,17.791,me013,b'\n      '
+17.007,18.488,me001,b'\n      These '
+17.089,18.631,fe008,b'\n      Uh - '
+18.631,21.115,fe008,b'\n      '
+18.827,20.011,mn017,b'\n      '
+20.030,20.790,me011,b'\n      '
+20.970,22.270,me013,b'\n      '
+21.280,24.750,me018,"b""\n      There's gonna be some zeros from this morning's meeting because I noticed that\n    """
+22.598,22.935,me013,b'\n      '
+24.750,29.710,me018,"b'\n      Barry, I think maybe '"
+27.330,28.340,mn017,b'\n      '
+28.824,29.564,me013,b'\n      Yeah. '
+29.660,34.009,mn014,"b""\n      So it's not - it's not that bad if it's at the end, but it's - in the beginning, it's """
+29.690,31.097,me011,"b""\n      It's """
+31.910,33.018,me018,b'\n      Yeah. Yeah. '
+33.540,36.376,me011,"b'\n      Yeah, you wanna - you wanna keep '"
+37.940,39.219,me011,"b'\n      noise floors, '"
+39.110,39.756,fe008,"b""\n      That's interesting. """
+39.219,39.948,me011,b'\n      through the whole meeting.\n    '
+39.756,40.360,fe008,b'\n      '
+39.980,44.280,me013,"b'\n      Uh, I probably just should have left it on. Yeah I did have to run, but - '"
+40.360,40.534,fe008,b'\n      Hmm. '
+42.227,42.721,mn017,b'\n      '
+44.350,46.058,me001,b'\n      Is there any way to change that in the '
+46.430,47.457,me011,b'\n      Change '
+47.060,51.660,me001,"b""\n      Where like you just don't - like if you - if it starts catching zeros, like in the driver or something -\n    """
+51.660,52.390,me001,b'\n      '
+52.390,54.644,me001,"b'\n      in the card, or somewhere in the hardware -\n    '"
+54.644,58.802,me001,"b'\n      Where if you start seeing zeros on w- across one channel, you just add some '"
+56.299,57.692,mn017,b'\n      '
+59.026,59.590,me001,b'\n      '
+59.388,59.955,me013,b'\n      '
+59.590,60.954,me001,b'\n      noise floor - like a small noise floor.\n    '
+60.885,66.525,me011,b'\n      I mean '
+62.424,65.630,mn017,b'\n      '
+64.689,66.824,me001,b'\n      Yeah. '
+66.138,72.583,me013,"b""\n      Well, I - u- I actually don't know what the """
+66.296,68.138,mn014,b'\n      Manual post-processing. '
+66.367,68.102,mn017,b'\n      '
+72.583,74.551,me013,b'\n      for - for - when we use the '
+73.104,75.575,mn017,b'\n      '
+74.551,75.568,me013,"b'\n      but um, '"
+75.008,75.842,me011,b'\n      As an argument. '
+75.568,80.200,me013,"b'\n      there is an - there is an o- an option in - in RASTA, which, '"
+80.617,82.134,me013,b'\n      in- when I '
+82.134,85.480,me013,"b'\n      uh, back in the days when I actually '"
+82.221,83.713,mn017,b'\n      '
+84.748,85.066,me001,b'\n      '
+85.540,89.140,me013,b'\n      I '
+88.381,88.897,me001,b'\n      O_K.\n    '
+89.140,94.420,me013,b'\n      '
+94.420,94.731,me001,b'\n      Right.\n    '
+94.420,94.895,me013,b'\n      '
+94.895,102.550,me013,b'\n      and it was a lot faster to just add a constant to the - '
+98.051,98.720,me001,b'\n      Mmm.\n    '
+98.595,99.562,mn017,b'\n      '
+100.097,108.501,mn017,b'\n      '
+100.482,100.997,me001,b'\n      O_K.\n    '
+102.230,102.602,me001,b'\n      Right.\n    '
+102.550,104.943,me013,b'\n      '
+104.943,106.391,me013,b'\n      So it d- it '
+108.607,109.570,me013,b'\n      '
+109.570,111.520,me013,b'\n      Gee! Here we all are!\n    '
+111.641,117.148,me011,b'\n      '
+113.018,114.030,me013,"b""\n      There's an agenda?\n    """
+114.349,115.620,mn017,b'\n      '
+117.307,119.427,mn017,b'\n      '
+117.416,119.437,me011,b'\n      transcription process. I sort of '
+119.437,121.357,me011,b'\n      condensed the three things you said into that.\n    '
+120.189,122.448,mn017,b'\n      '
+121.357,127.867,me011,b'\n      '
+127.867,128.196,me011,b'\n      '
+128.196,132.089,me011,"b""\n      So if there's anything that n- absolutely, desperately needs to be done, you should let me know now.\n    """
+133.984,138.299,fe008,b'\n      '
+135.765,137.110,me013,b'\n      '
+137.110,139.450,me013,"b'\n      Uh, and you just sent off a\n    '"
+140.046,141.673,me013,"b'\n      Eurospeech paper, so.\n    '"
+141.470,142.210,mn017,b'\n      Right.\n    '
+143.070,145.264,mn017,b'\n      I '
+144.042,145.655,mn014,b'\n      '
+144.470,145.160,me013,b'\n      Right.\n    '
+144.480,145.485,me011,b'\n      '
+145.264,148.187,mn017,b'\n      both '
+148.187,148.739,mn017,b'\n      '
+148.739,151.145,mn017,b'\n      Um - but - '
+149.460,155.070,me013,b'\n      '
+149.820,151.339,me011,b'\n      '
+151.145,152.350,mn017,b'\n      '
+151.339,153.454,me011,"b'\n      Well yeah, you sent it in '"
+153.270,154.000,me001,b'\n      '
+153.617,157.801,mn017,"b'\n      We actually exceeded the delayed deadline by o- another day, so.\n    '"
+157.801,159.216,mn017,b'\n      '
+157.958,159.026,mn014,b'\n      Oops. '
+158.590,161.588,me013,b'\n      Oh they - they had some extension that they announced or something?\n    '
+160.630,167.890,mn017,"b'\n      Well yeah. Liz had sent them a note saying ""could we please '"
+167.890,169.560,mn017,b'\n      they said yes. '
+168.900,172.440,me018,"b'\n      And then she said ""Did I say three? I meant four."" '"
+170.095,171.960,mn017,b'\n      '
+170.193,171.395,me001,b'\n      '
+170.487,172.130,me011,b'\n      '
+170.957,171.535,mn014,b'\n      '
+171.022,172.766,fe008,b'\n      '
+171.970,173.430,mn017,b'\n      But u- '
+173.450,177.456,me011,"b'\n      uh, Dave Gelbart sent me email, I think he sent it to you too, '"
+177.860,179.159,me011,"b""\n      there's a special topic,\n    """
+179.682,182.752,me011,"b'\n      section in si- in Eurospeech on new,\n    '"
+182.752,184.497,me011,b'\n      corp- corpors- corpora. '
+184.497,185.380,me011,b'\n      '
+185.380,187.650,me011,"b""\n      And it's not due until like May fifteenth. """
+186.519,187.927,mn017,b'\n      '
+187.622,189.631,me013,b'\n      Oh this '
+189.106,190.227,me011,"b""\n      No. It's a different one.\n    """
+189.381,190.543,mn014,"b""\n      No it's - Yeah.\n    """
+189.780,190.176,me001,b'\n      Huh!\n    '
+190.543,190.930,mn014,b'\n      Yeah. '
+190.730,191.653,me011,b'\n      '
+191.124,191.816,me013,b'\n      Oh!\n    '
+191.797,193.380,mn014,b'\n      I got '
+192.560,196.314,me011,b'\n      I s- forwarded it to Jane as I thought being the most relevant person.\n    '
+196.560,197.033,me011,b'\n      Um -\n    '
+197.570,200.759,me011,"b'\n      So, I thought it was '"
+198.221,199.326,me013,b'\n      '
+198.484,198.901,fe008,"b""\n      Yeah I'm -\n    """
+199.260,200.317,fe008,b'\n      Yeah. I think so too.\n    '
+200.760,201.190,fe008,b'\n      '
+201.190,205.788,fe008,"b""\n      Um, I haven't gotten over to there yet, but what - our discussion yesterday, I really - I - I wanna submit one.\n    """
+202.563,202.972,me011,b'\n      Mm-hmm. '
+204.032,206.492,mn014,b'\n      Was this '
+206.116,206.342,fe008,b'\n      Yeah. '
+206.576,209.259,mn014,b'\n      I think '
+207.809,210.980,fe008,"b'\n      And, you offered to - to '"
+209.210,210.996,me011,"b""\n      I'll """
+211.113,213.890,mn017,b'\n      '
+211.404,212.151,fe008,b'\n      '
+211.499,212.249,me011,"b'\n      really do,\n    '"
+212.413,213.327,me011,"b'\n      most of it, so.\n    '"
+212.640,212.946,mn014,b'\n      Yeah. '
+213.410,213.716,fe008,b'\n      Uh-huh. '
+214.386,215.641,mn017,b'\n      '
+214.456,216.550,me011,b'\n      But any - any help you need I can certainly provide.\n    '
+214.500,215.160,me013,"b'\n      Well,\n    '"
+216.109,217.787,me013,"b""\n      that's - that's a great idea. """
+217.039,217.711,mn017,b'\n      '
+217.711,218.480,mn017,b'\n      Well -\n    '
+218.570,226.433,mn017,"b'\n      there - there were some interesting results in this paper, though. For instance that Morgan - uh, accounted for fifty-six percent of the Robustness meetings in terms of number of words.\n    '"
+225.591,228.896,me013,b'\n      '
+226.140,228.612,me011,b'\n      Wow. '
+226.380,227.492,me001,b'\n      '
+226.433,228.610,mn017,b'\n      '
+227.380,228.382,fe008,b'\n      In - in terms of what?\n    '
+228.629,228.947,fe008,b'\n      In term- '
+228.630,230.200,mn017,b'\n      Number of words. '
+229.322,231.831,me013,b'\n      '
+229.471,230.758,fe008,b'\n      One? Wow! O_K.\n    '
+230.533,233.716,me011,b'\n      '
+230.890,236.170,mn017,b'\n      '
+232.440,233.340,fe008,b'\n      '
+232.750,233.704,me013,b'\n      n- No. '
+233.335,236.351,mn014,b'\n      Oh. '
+233.652,234.832,fe008,b'\n      because - '
+233.704,235.520,me013,b'\n      '
+233.716,236.259,me011,b'\n      I know- '
+233.753,235.330,me001,b'\n      '
+234.832,235.571,fe008,b'\n      '
+235.571,238.045,fe008,"b'\n      is it partly, eh, c- correctly identified words?\n    '"
+238.387,238.908,fe008,b'\n      Or is it - '
+239.230,241.820,mn017,"b'\n      No. Well, according to the '"
+239.940,241.289,fe008,b'\n      or just overall volume?\n    '
+241.454,242.250,me013,b'\n      Yeah.\n    '
+241.464,242.843,me011,b'\n      '
+241.620,242.270,fe008,b'\n      Oh. O_K.\n    '
+242.843,245.058,me011,"b""\n      I think it's - he's - he's in all of them,\n    """
+243.350,244.762,me013,b'\n      '
+244.520,247.170,mn017,"b""\n      I mean, we didn't mention Morgan by name we just -\n    """
+245.058,246.208,me011,b'\n      and he talks a lot.\n    '
+247.080,247.587,mn014,b'\n      '
+247.610,251.120,me013,b'\n      Well - we have '
+247.696,248.939,me011,b'\n      One participant.\n    '
+248.109,251.395,fe008,b'\n      '
+248.560,249.307,me001,b'\n      '
+248.880,250.830,mn017,b'\n      We - we - we - something about -\n    '
+249.491,252.376,me011,b'\n      '
+252.160,256.950,mn017,"b'\n      No, we as- identify him as the person dominating the conversation. '"
+254.800,255.470,me013,b'\n      Well.\n    '
+255.324,255.786,me011,b'\n      Yeah.\n    '
+255.650,260.231,me013,b'\n      '
+255.918,256.388,fe008,b'\n      O_K. '
+258.456,261.817,fe008,b'\n      '
+258.540,262.004,me011,b'\n      '
+258.700,261.640,me018,b'\n      '
+259.170,260.857,me001,b'\n      '
+259.190,260.930,mn017,b'\n      '
+260.665,263.244,mn014,b'\n      '
+261.896,262.965,mn017,b'\n      Hmm. '
+262.309,262.861,me013,"b'\n      Um,\n    '"
+263.040,267.300,me013,"b'\n      but uh, other than that delightful result, what was the rest of the paper about? '"
+264.503,265.234,fe008,b'\n      '
+265.930,267.144,mn017,b'\n      '
+266.078,266.886,me011,b'\n      '
+267.144,272.680,mn017,"b'\n      Um, well it was about - it had three sections uh - three kinds of uh\n    '"
+268.420,269.690,me013,b'\n      You '
+273.240,274.575,mn017,"b'\n      results, if you will. '"
+274.575,278.185,mn017,"b'\n      Uh, the one was that the - just the - the amount of overlap um,\n    '"
+276.397,276.664,me011,b'\n      '
+277.525,278.912,me011,b'\n      '
+278.185,283.339,mn017,b'\n      '
+278.912,279.729,me011,b'\n      '
+283.339,283.850,mn017,b'\n      '
+283.850,288.803,mn017,"b'\n      which is essentially a stretch of speech with uh, no pauses exceeding five hundred milliseconds.\n    '"
+288.803,289.480,mn017,b'\n      '
+289.480,292.530,mn017,"b'\n      Um, and we computed how many overlapped i-\n    '"
+292.658,293.358,mn017,b'\n      uh\n    '
+293.770,296.590,mn017,b'\n      spurts there were and how many overlapped '
+295.390,297.210,me018,b'\n      '
+296.920,303.816,mn017,"b'\n      Um, for four different '"
+303.816,304.630,mn017,b'\n      '
+304.630,306.250,mn017,"b'\n      Switchboard and CallHome,\n    '"
+306.932,310.993,mn017,b'\n      '
+306.954,307.267,me011,b'\n      '
+310.993,311.800,mn017,"b'\n      Um,\n    '"
+312.630,314.554,mn017,"b'\n      and found that the,\n    '"
+314.554,315.760,mn017,"b'\n      uh,\n    '"
+315.981,324.990,mn017,"b'\n      you know, as you might '"
+316.825,317.258,me013,b'\n      '
+320.182,320.740,me011,b'\n      '
+324.990,325.340,mn017,b'\n      '
+325.340,327.341,mn017,b'\n      almost '
+327.341,330.870,mn017,b'\n      and the  '
+331.110,333.140,mn017,b'\n      '
+333.380,335.760,mn017,b'\n      result '
+335.897,336.940,me011,b'\n      '
+336.110,340.295,mn017,b'\n      two-party telephone conversations have '
+340.295,346.920,mn017,"b'\n      sort of in gen- you know - order of magnitude-wise as, uh - as face-to-face meetings with multiple -\n    '"
+344.902,347.703,me011,b'\n      '
+347.390,356.530,mn017,b'\n      Yeah. '
+348.812,349.296,me013,b'\n      '
+349.520,350.720,me013,b'\n      '
+351.355,351.646,fe008,b'\n      Mm-hmm.\n    '
+352.273,352.539,fe008,b'\n      Yeah.\n    '
+353.289,353.542,fe008,b'\n      Yeah.\n    '
+356.750,357.530,mn017,b'\n      you know -\n    '
+357.734,364.710,mn017,"b'\n      you know, how people - it talks about how uh - how - how people are so good at turn taking, and '"
+364.710,371.217,mn017,"b'\n      generally, u- the overlapped speech does not - is less than five percent. '"
+369.156,371.014,fe008,b'\n      '
+371.217,374.834,mn017,b'\n      this is '
+374.290,376.645,me001,b'\n      Did he mean face - like face-to-face? Or - ? '
+376.500,379.359,mn017,b'\n      '
+378.304,379.019,me001,b'\n      Hmm.\n    '
+379.359,383.832,mn017,"b""\n      It's s- what these conversation analysts have been studying for years and years """
+379.570,379.907,fe008,b'\n      Mm-hmm. '
+381.479,382.064,me001,b'\n      '
+382.108,382.445,fe008,b'\n      Mm-hmm. '
+382.590,382.883,fe008,b'\n      '
+382.883,387.821,fe008,"b'\n      Well, of course, no, it '"
+382.989,383.467,mn014,b'\n      '
+383.832,384.590,mn017,b'\n      '
+387.483,387.961,me011,b'\n      Hmm.\n    '
+388.016,391.321,fe008,b'\n      to go against '
+388.256,389.459,mn014,b'\n      And in f-\n    '
+388.660,391.170,mn017,"b'\n      Well, he - he made a claim - Well -\n    '"
+389.080,389.658,me001,b'\n      '
+389.366,390.402,me011,b'\n      '
+391.321,392.280,fe008,b'\n      '
+391.430,393.810,me013,"b'\n      Yeah, we - we have pretty limited sample here.\n    '"
+391.490,392.197,me011,b'\n      '
+391.754,392.172,mn014,b'\n      But -\n    '
+392.649,395.072,mn014,b'\n      Five percent of '
+393.420,394.165,fe008,b'\n      '
+394.165,394.695,fe008,b'\n      Yeah.\n    '
+394.487,395.880,me011,"b'\n      Yeah, I was gonna ask that '"
+395.250,398.680,mn017,"b""\n      Well it's """
+395.450,396.078,mn014,b'\n      Yeah.\n    '
+395.540,400.252,fe008,"b""\n      Exactly. It's - i- it's not against his conclusion, it just says that it's a bi- bell curve, and that,\n    """
+396.242,396.920,mn014,"b'\n      Yeah, so -\n    '"
+400.252,400.580,fe008,b'\n      '
+400.580,403.290,fe008,"b'\n      you have something that has a nice range, in your sampling.\n    '"
+402.560,409.050,mn017,"b'\n      Yeah. So there are slight - There are differences in how you measure it, but '"
+409.280,413.145,mn017,b'\n      between '
+409.456,409.600,me011,b'\n      '
+412.354,412.651,fe008,b'\n      Mm-hmm. '
+413.145,417.704,mn017,"b'\n      you know, close to - in meetings like these, uh - you know, close to '"
+417.140,420.160,me013,b'\n      '
+417.581,417.899,fe008,b'\n      Mm-hmm. '
+417.704,418.110,mn017,b'\n      '
+418.190,418.740,me011,b'\n      '
+419.427,420.530,mn017,b'\n      '
+420.530,423.510,mn017,b'\n      Robustness meeting? It was '
+423.530,431.353,mn017,"b'\n      So, '"
+424.140,425.270,me013,b'\n      Maybe ten percent?\n    '
+429.587,430.240,me013,b'\n      '
+431.353,432.840,mn017,"b'\n      uh, the '"
+431.473,434.883,me011,b'\n      '
+432.081,432.955,me013,b'\n      '
+434.359,435.482,me013,b'\n      '
+435.119,435.961,me011,"b'\n      multi-party,\n    '"
+436.823,439.546,me011,b'\n      conversations and '
+439.887,441.672,mn014,b'\n      '
+440.460,442.660,me011,"b""\n      Yeah. I - I - I don't know. I mean that's just something -\n    """
+441.186,443.846,me013,b'\n      '
+442.570,445.040,me018,"b'\n      Yeah, I just wonder if you have to normalize by the numbers of speakers or something.\n    '"
+443.110,443.356,fe008,b'\n      Yeah. '
+443.789,446.670,mn014,"b'\n      Then - Yeah, then normalize by - by something like that, yeah.\n    '"
+444.469,451.990,mn017,b'\n      '
+444.957,446.364,fe008,"b""\n      Yeah, that's a good point. Yeah.\n    """
+447.800,448.465,fe008,b'\n      Good idea. '
+449.575,450.246,me011,b'\n      '
+451.547,456.176,me011,"b""\n      I bet there's a """
+453.200,453.982,mn014,b'\n      Yeah. '
+453.650,454.880,mn017,b'\n      Right.\n    '
+456.525,457.213,me011,b'\n      Right? Because you-\n    '
+456.540,458.190,me018,b'\n      Cuz not everybody '
+457.095,457.592,mn017,b'\n      Right.\n    '
+457.562,457.962,me011,b'\n      Right.\n    '
+458.722,461.052,me011,b'\n      You have a lot of - a lot of '
+460.666,461.120,me013,b'\n      '
+461.260,461.920,mn017,b'\n      Right.\n    '
+461.560,464.939,me011,b'\n      '
+462.021,462.463,fe008,b'\n      Uh-huh. '
+463.160,464.140,mn017,b'\n      So -\n    '
+464.180,472.840,mn017,"b'\n      Right. And - and - and then - and we also d- computed this both with and without backchannels, so you might think that backchannels have a special '"
+464.834,465.542,fe008,"b""\n      Yes, that's right.\n    """
+465.716,466.014,fe008,b'\n      Mm-hmm.\n    '
+469.460,469.848,me011,b'\n      '
+471.290,475.197,me011,b'\n      '
+473.018,473.585,mn017,b'\n      R- right.\n    '
+473.770,484.468,mn017,b'\n      '
+479.674,480.162,me011,b'\n      Mm-hmm.\n    '
+480.697,481.250,me013,b'\n      Mm-hmm. '
+485.018,488.130,mn017,b'\n      For '
+488.379,490.560,mn017,b'\n      um - '
+490.560,493.751,mn017,"b""\n      I don't know - f- fourteen percent of the words to maybe\n    """
+493.751,494.559,mn017,b'\n      '
+494.559,495.900,mn017,b'\n      uh\n    '
+496.890,501.160,mn017,"b""\n      I don't know, eleven percent or something - it's - it's not a """
+500.283,500.642,me011,b'\n      Mm-hmm. '
+501.781,503.420,mn017,"b""\n      Anyway, so it's uh -\n    """
+504.250,508.965,mn017,b'\n      That was - that was one set of '
+506.775,507.619,fe008,b'\n      '
+507.619,507.814,fe008,b'\n      Hmm. '
+508.965,515.430,mn017,b'\n      the stuff we had in the - in the H_L_T paper on how overlaps effect the '
+511.153,511.471,me011,b'\n      '
+515.430,516.183,mn017,b'\n      '
+515.529,515.945,me011,b'\n      Right. '
+515.543,516.244,me013,b'\n      Mm-hmm. '
+516.183,522.923,mn017,"b'\n      And we rescored things um, a little bit more carefully. We also fixed the transcripts in - in numerous ways.\n    '"
+522.022,522.525,me013,b'\n      '
+522.923,526.040,mn017,b'\n      '
+525.541,526.362,me013,b'\n      '
+526.040,527.391,mn017,"b'\n      one number, which was\n    '"
+527.391,527.967,mn017,b'\n      '
+527.967,532.132,mn017,b'\n      what if you '
+532.132,532.850,mn017,b'\n      '
+532.850,537.456,mn017,b'\n      So - so the - the conjecture from the H_L_T results was that '
+537.153,537.535,me013,b'\n      '
+537.456,542.940,mn017,b'\n      most of the added recognition error is from insertions '
+542.940,543.980,mn017,b'\n      '
+543.980,548.250,mn017,"b'\n      So, we scored '"
+548.380,550.190,mn017,"b'\n      uh, in such a way that\n    '"
+550.190,552.803,mn017,b'\n      the uh - '
+552.230,555.423,me011,"b""\n      Oh by the way, who's on channel """
+553.760,554.070,mn014,b'\n      Yeah.\n    '
+553.833,554.683,me001,"b""\n      That's - """
+554.173,556.277,mn014,b'\n      I j- was just wondering. Yeah. '
+556.028,556.838,me001,"b""\n      That's me.\n    """
+559.670,562.143,mn017,"b""\n      uh, well Don's been working hard. """
+561.277,561.914,me001,"b""\n      That's right.\n    """
+562.352,565.680,mn017,"b'\n      O_K, so - '"
+562.389,563.284,me001,b'\n      '
+566.257,571.010,mn017,"b""\n      speaking here, and then there's some """
+571.210,572.989,mn017,"b'\n      um, and this is the time bin\n    '"
+573.340,574.450,mn017,"b'\n      that we used, '"
+574.530,582.665,mn017,"b""\n      then of course you're gonna get insertion errors here and here. Right? """
+577.028,577.359,me011,b'\n      Right.\n    '
+582.665,586.117,mn017,b'\n      '
+586.117,589.690,mn017,"b'\n      uh, region that was deemed to be '"
+587.473,588.265,me013,b'\n      '
+589.820,592.980,mn017,b'\n      And '
+592.980,595.187,mn017,"b'\n      uh, results from s- for - so - '"
+594.990,595.681,me011,b'\n      '
+595.187,598.573,mn017,"b""\n      That's somewhat - that's somewhat subject to error, but still we - we - """
+596.183,597.338,me011,b'\n      '
+598.573,601.180,mn017,"b'\n      Uh, Don did some ha- hand-checking '"
+601.310,608.363,mn017,"b'\n      and - and we think that - based on that, we think that the results are you know, valid, although of course, some error is gonna be in there.\n    '"
+608.363,608.871,mn017,b'\n      '
+608.871,616.558,mn017,"b'\n      But basically what we found is after we take out these regions - so we only score the regions that were certified as foreground speech, '"
+616.558,619.200,mn017,b'\n      the recognition error went down to almost '
+619.200,622.831,mn017,"b'\n      uh, the '"
+622.831,623.610,mn017,b'\n      '
+623.610,629.838,mn017,b'\n      So that means that '
+624.616,625.245,me011,"b""\n      That's """
+629.838,632.280,mn017,b'\n      '
+630.024,630.281,mn014,b'\n      Yeah. '
+632.369,634.360,mn017,b'\n      even though there is this back- '
+632.953,635.126,me011,b'\n      '
+635.526,639.283,me011,"b'\n      with the close-talking mikes, the - the signal will be '"
+636.690,637.460,mn017,b'\n      Right.\n    '
+638.401,638.775,mn017,b'\n      Right. '
+639.252,639.706,mn017,b'\n      Mm-hmm. '
+639.454,640.007,me013,b'\n      Mm-hmm. '
+641.160,642.880,mn017,"b'\n      Um, so - '"
+641.606,641.885,me011,b'\n      '
+641.885,643.826,me011,b'\n      What - what sort of normalization do you do?\n    '
+645.060,646.956,mn017,"b'\n      Uh, well, we just -\n    '"
+646.956,647.800,mn017,b'\n      '
+647.800,650.360,mn017,"b'\n      we do - u- you know, vit-\n    '"
+649.320,651.722,me011,"b'\n      I mean in you recognizer, in the S_R_I recognizer.\n    '"
+649.369,650.196,me013,b'\n      '
+651.410,654.110,mn017,"b'\n      Well, we do uh, V_T_L - '"
+653.270,654.020,me013,b'\n      '
+654.110,658.110,mn017,"b'\n      vocal tract length normalization, w- and we uh -\n    '"
+658.497,659.180,me013,b'\n      '
+658.547,661.020,mn017,"b'\n      you know, we - we uh, '"
+661.660,664.299,mn017,b'\n      make all the features have zero mean and unit variance. '
+661.901,662.660,me013,b'\n      '
+663.589,664.467,me013,b'\n      '
+664.467,665.797,me013,b'\n      And - '
+664.490,665.813,me011,b'\n      '
+665.910,670.730,mn017,b'\n      Over - over the entire c- over the entire '
+665.988,666.819,me011,b'\n      Or windowed?\n    '
+667.868,669.069,mn014,"b""\n      Don't """
+669.318,669.534,me011,b'\n      '
+669.628,670.078,me011,b'\n      Hmm.\n    '
+670.730,674.533,mn017,"b""\n      Um, now we didn't re-align the recognizer for this. We just took the old - """
+674.533,681.191,mn017,b'\n      So this is actually a '
+676.800,677.500,me013,b'\n      Right.\n    '
+677.180,677.578,me011,b'\n      '
+681.191,685.910,mn017,"b""\n      So the recognizer didn't have the benefit of """
+684.760,687.117,me013,b'\n      Were you including the - the '
+686.850,687.680,mn017,b'\n      Yes.\n    '
+687.863,692.410,me013,b'\n      And did the - did - did the la- did the - the problems with the '
+691.760,697.410,mn017,"b'\n      Um, it - '"
+693.058,695.520,me013,b'\n      fray- for - for insertions?\n    '
+696.310,697.090,me013,b'\n      Less so.\n    '
+697.550,699.120,mn017,b'\n      So we have to um -\n    '
+699.380,700.420,me013,"b'\n      I mean, you still -\n    '"
+699.570,703.828,mn017,b'\n      '
+703.150,707.679,me013,b'\n      I would '
+705.120,705.670,mn017,b'\n      Yes.\n    '
+705.954,708.500,mn017,"b""\n      It's - It's - Yes. Yeah. """
+708.140,714.552,me013,b'\n      '
+712.390,712.775,mn017,b'\n      Mm-hmm. '
+713.780,715.020,me011,"b""\n      I'm not looking forward to it.\n    """
+714.895,716.881,me013,"b""\n      i- it's the high signal-to-noise ratio\n    """
+715.472,717.807,me011,b'\n      '
+716.003,717.644,fe008,b'\n      '
+717.150,717.870,mn017,b'\n      Right.\n    '
+717.940,719.830,me013,b'\n      '
+718.440,719.680,mn017,b'\n      u- s- Right.\n    '
+720.050,723.550,mn017,b'\n      So - so that was number - that was the '
+721.613,723.163,me013,b'\n      '
+723.550,725.720,mn017,"b'\n      uh, the '"
+725.720,729.120,mn017,b'\n      the '
+729.120,736.522,mn017,"b'\n      uh, what we call ""interrupts"", although that\'s - that may be '"
+736.522,740.630,mn017,"b'\n      Uh, so we - we used the punctuation from the original transcripts '"
+740.720,744.820,mn017,b'\n      and we inferred the beginnings and ends of sentences.\n    '
+745.260,746.709,mn017,"b'\n      So, you know - '"
+748.313,748.671,fe008,b'\n      '
+748.671,750.765,fe008,"b'\n      Di- did you use upper-lower case also, or not?\n    '"
+748.690,749.620,mn017,b'\n      Um -\n    '
+750.502,750.889,mn017,b'\n      Hmm?\n    '
+750.919,752.358,fe008,b'\n      U- upper lower case or no? '
+751.625,757.894,mn017,"b'\n      No, we only used, you know, uh periods, uh, question marks and '"
+757.894,760.290,mn017,"b""\n      And we know that there's th- that's not a very g-\n    """
+760.520,763.940,mn017,"b'\n      I mean, we miss a '"
+761.127,761.301,fe008,b'\n      '
+761.702,762.380,fe008,"b""\n      Yeah. That's O_K but -\n    """
+762.380,762.960,fe008,b'\n      '
+762.960,763.947,fe008,b'\n      Comma also or not?\n    '
+763.940,765.780,mn017,b'\n      '
+764.758,765.303,fe008,b'\n      '
+766.156,767.440,mn017,b'\n      '
+767.440,770.740,mn017,"b'\n      we looked at locations where,\n    '"
+771.090,772.140,mn017,"b'\n      uh, '"
+772.140,777.240,mn017,b'\n      if you have '
+778.890,787.580,mn017,"b'\n      you know, where do these - where do other people start their '"
+782.540,783.533,mn014,b'\n      Ah. '
+787.580,792.330,mn017,b'\n      So we '
+792.420,797.840,mn017,b'\n      at the to- at the - so the - the foreground speaker started into their sentence and then someone else started later.\n    '
+798.590,799.494,mn017,b'\n      O_K? '
+798.610,800.658,mn014,b'\n      Somewhere in between the start and the end? O_K.\n    '
+799.494,801.600,mn017,b'\n      And so what - '
+800.658,801.370,mn014,b'\n      '
+801.370,803.896,mn014,b'\n      Somewhere in between the start and the end of the foreground?\n    '
+802.480,806.714,mn017,b'\n      Yes. '
+805.439,805.767,mn014,b'\n      Yeah.\n    '
+806.714,815.380,mn017,"b'\n      So, the - the question was how can we - what can we say about the places where the second or - or actually, '"
+815.380,819.070,mn017,b'\n      um '
+818.230,819.720,me018,b'\n      Three words from the end. '
+819.429,820.156,me011,b'\n      '
+819.470,821.595,mn017,b'\n      '
+819.536,822.844,fe008,b'\n      '
+820.156,822.076,me011,b'\n      '
+820.300,820.970,me018,b'\n      '
+821.342,821.833,mn014,b'\n      '
+821.595,825.280,mn017,b'\n      And we looked at this in terms of um - '
+824.538,829.043,me011,b'\n      '
+826.231,827.529,me013,b'\n      '
+826.240,829.410,mn017,b'\n      So - so we had - '
+827.032,827.592,fe008,b'\n      '
+827.919,829.046,me013,b'\n      '
+829.410,835.721,mn017,"b'\n      to - for - for the purposes of this analysis, we '"
+835.721,836.320,mn017,b'\n      '
+836.320,841.550,mn017,"b'\n      Um, '"
+841.708,844.030,mn017,"b'\n      you know, considered that to be a interrupt\n    '"
+844.120,847.310,mn017,"b'\n      as if it were at - at the beginning of the word. So that, '"
+847.360,852.083,mn017,"b'\n      if any part of the word was overlapped, it was considered an interrupted '"
+851.070,851.845,me013,b'\n      Mm-hmm. '
+852.083,855.130,mn017,"b'\n      And then we looked at the - the locatio- the, '"
+855.130,856.240,mn017,"b'\n      um,\n    '"
+856.460,865.828,mn017,"b'\n      you know, the '"
+860.460,861.237,mn014,b'\n      Tag '
+865.828,867.970,mn017,b'\n      And the tags we looked at are '
+868.457,871.480,mn017,b'\n      the '
+871.620,872.860,mn017,b'\n      or actually - Sorry.\n    '
+873.280,874.730,mn017,b'\n      '
+874.730,875.660,mn017,b'\n      whether\n    '
+875.760,881.792,mn017,b'\n      there was a '
+881.792,882.530,mn017,b'\n      '
+882.530,885.170,mn017,"b'\n      and then we had things like discourse markers,\n    '"
+885.550,887.108,mn017,b'\n      '
+887.108,888.040,mn017,b'\n      '
+888.040,889.900,mn017,"b'\n      uh, disfluencies.\n    '"
+889.900,891.599,mn017,"b'\n      um,\n    '"
+891.599,895.990,mn017,"b'\n      uh, filled pauses - '"
+895.990,896.900,mn017,"b'\n      um, '"
+896.900,901.880,mn017,"b'\n      the interruption points of a disfluency, so, where you hesitate, or where you start the repair there. '"
+902.020,910.510,mn017,b'\n      '
+906.556,907.389,me018,b'\n      '
+911.920,914.580,mn017,"b'\n      uh so, the end of a filled pause '"
+915.286,917.490,mn017,b'\n      and the end of a discourse marker. '
+918.910,920.490,mn017,b'\n      And we just eyeballed - I mean '
+920.630,936.519,mn017,"b""\n      we didn't really hand-tag all of these things. We just """
+936.519,941.650,mn017,b'\n      um - '
+941.650,942.650,mn017,"b'\n      um,\n    '"
+943.030,946.463,mn017,"b'\n      identity of the words, we - we tagged them as one of these things.\n    '"
+946.463,947.284,mn017,b'\n      '
+947.583,951.250,mn017,b'\n      '
+951.250,952.070,mn017,b'\n      '
+952.070,962.000,mn017,"b'\n      So, and then we looked at the disti- so we looked at the '"
+953.891,954.309,me013,b'\n      '
+962.020,965.360,mn017,"b'\n      And uh, we found that there '"
+963.236,963.935,me013,b'\n      '
+965.360,967.203,mn017,b'\n      '
+967.203,974.550,mn017,b'\n      so at the end '
+974.690,981.708,mn017,b'\n      O_K? '
+981.708,986.340,mn017,"b'\n      So we have this little histogram which shows these distributions and, '"
+986.310,987.600,me018,b'\n      '
+986.604,991.385,mn017,b'\n      '
+990.300,992.715,me011,"b""\n      It's nice to actually """
+991.385,992.310,mn017,b'\n      Yeah.\n    '
+991.950,994.040,me018,b'\n      I wonder about the cause and '
+994.460,999.270,me018,b'\n      In other words uh '
+994.880,995.690,mn017,"b""\n      Well we're ne- """
+997.200,997.847,mn014,b'\n      '
+999.440,999.840,me018,b'\n      Uh -\n    '
+999.840,1004.610,mn017,"b""\n      Right. There's no statement about cause and """
+1001.370,1004.460,me018,"b'\n      Yeah, right. No, no, no. Right, I - I see. Yeah. '"
+1004.474,1006.450,me013,"b""\n      But he - yeah, he's - he's right, y- I mean maybe\n    """
+1006.700,1015.390,me013,"b""\n      you weren't """
+1008.520,1009.240,mn017,b'\n      Right.\n    '
+1009.190,1009.478,mn014,b'\n      '
+1012.060,1012.910,me018,b'\n      '
+1012.126,1012.664,mn017,b'\n      Right. '
+1013.345,1014.088,me018,b'\n      Yeah.\n    '
+1013.425,1015.411,mn017,b'\n      Right. '
+1015.720,1016.950,mn017,"b'\n      So,\n    '"
+1016.539,1017.460,me013,b'\n      or '
+1017.496,1024.590,mn017,"b'\n      uh, and that was basically it. And - and we - so we wrote this and then, '"
+1023.587,1024.160,mn014,b'\n      Oops. '
+1024.620,1031.146,mn017,b'\n      cutting furiously and '
+1025.361,1027.384,mn014,b'\n      '
+1025.616,1026.530,me001,b'\n      '
+1025.772,1027.394,fe008,b'\n      '
+1025.827,1026.821,me011,b'\n      '
+1025.860,1026.910,me013,b'\n      '
+1031.146,1033.380,mn017,"b'\n      uh, and - until it fi- '"
+1031.755,1034.214,me011,b'\n      Made the font smaller and the '
+1032.291,1035.088,mn014,"b'\n      Font smaller, yeah. '"
+1033.740,1038.890,mn017,"b""\n      No, no. W- well, d- you couldn't really make """
+1034.590,1036.530,me018,b'\n      '
+1036.520,1038.140,mn014,b'\n      '
+1038.890,1043.190,mn017,b'\n      you know the - the '
+1038.940,1040.028,me011,b'\n      Took out white space.\n    '
+1041.887,1042.380,mn014,b'\n      '
+1043.280,1047.730,mn017,b'\n      shrunk it to '
+1044.610,1045.290,me018,b'\n      '
+1046.020,1054.300,me018,"b""\n      Wasn't there - wasn't there some result, Andreas - I - I """
+1046.076,1047.590,me013,b'\n      Yeah - '
+1049.841,1050.607,mn017,b'\n      Mm-hmm. '
+1051.229,1051.755,mn017,b'\n      Mm-hmm. '
+1054.330,1060.280,me018,b'\n      and that they tend to happen when uh '
+1060.440,1062.030,mn017,b'\n      Yeah. Well -\n    '
+1060.890,1063.913,me018,"b""\n      And so that's when people tend to backchannel. Uh- i- i- do you rem- """
+1062.713,1073.580,mn017,b'\n      '
+1065.410,1066.560,me018,b'\n      Right. Right.\n    '
+1066.872,1067.433,me018,b'\n      But - '
+1070.900,1072.280,me001,"b""\n      Yeah, we're gonna be looking at that.\n    """
+1072.280,1073.250,me001,b'\n      '
+1074.130,1075.870,mn017,b'\n      This is purely based on\n    '
+1075.870,1077.290,mn017,b'\n      you know the words and - '
+1076.792,1077.819,me018,b'\n      Mm-hmm.\n    '
+1077.977,1079.282,fe008,b'\n      I have a reference for that though.\n    '
+1079.380,1080.090,me018,b'\n      Oh you do.\n    '
+1079.600,1080.400,mn017,b'\n      Yeah.\n    '
+1079.746,1080.056,fe008,b'\n      Uh-huh. '
+1080.680,1083.076,me018,b'\n      So am I recalling correctly? About - '
+1081.070,1082.220,mn017,b'\n      '
+1081.914,1082.530,fe008,b'\n      '
+1082.530,1084.901,fe008,"b""\n      Well, I didn't know about """
+1084.629,1085.092,me013,b'\n      '
+1084.801,1085.505,me018,b'\n      Uh-huh.\n    '
+1085.035,1086.308,fe008,b'\n      but I know of another\n    '
+1086.605,1087.139,fe008,b'\n      paper that\n    '
+1087.710,1088.535,fe008,b'\n      talks about something\n    '
+1088.547,1089.478,me018,b'\n      Hmm.\n    '
+1088.741,1088.997,fe008,b'\n      that - '
+1088.850,1090.335,me001,"b""\n      I'd like to see that reference too.\n    """
+1090.295,1093.820,me018,b'\n      '
+1090.720,1091.112,fe008,b'\n      '
+1093.820,1095.210,me018,b'\n      to uh -\n    '
+1094.200,1094.602,me013,b'\n      '
+1095.380,1099.510,me018,b'\n      to handle those people that call you on the phone and just like to talk and talk and talk. '
+1099.550,1103.986,me018,b'\n      And you just have this little '
+1103.977,1105.631,me001,b'\n      '
+1103.986,1109.600,me018,b'\n      And so then you '
+1104.002,1106.720,fe008,b'\n      '
+1104.980,1105.642,me011,b'\n      '
+1105.740,1106.921,me001,b'\n      '
+1105.939,1107.233,me011,b'\n      Uh-huh. '
+1106.474,1107.280,me013,b'\n      '
+1106.660,1108.310,mn017,b'\n      Oh yeah. '
+1108.640,1115.148,mn017,b'\n      '
+1109.578,1112.236,me013,b'\n      '
+1109.600,1112.645,me018,b'\n      '
+1109.856,1110.688,fe008,b'\n      '
+1111.922,1112.445,fe008,b'\n      '
+1114.710,1115.720,me018,b'\n      Uh-huh. Sure. Yeah. '
+1115.148,1124.220,mn017,b'\n      '
+1119.821,1120.341,me013,b'\n      Right. '
+1123.700,1125.604,me018,b'\n      Oh! '
+1124.290,1130.638,mn017,"b'\n      So, '"
+1125.604,1126.340,me018,b'\n      Huh.\n    '
+1130.130,1131.052,me001,b'\n      '
+1130.460,1131.130,me018,b'\n      '
+1130.638,1133.330,mn017,"b""\n      It's really impolite if you don't, and - """
+1133.968,1134.489,mn017,b'\n      So. '
+1134.887,1135.261,me013,b'\n      Huh. '
+1135.460,1143.430,me013,b'\n      '
+1139.650,1143.460,me018,"b""\n      It wouldn't matter? Yeah. """
+1140.096,1142.015,me001,b'\n      Yeah. '
+1140.724,1143.242,mn017,b'\n      '
+1142.211,1145.263,me011,b'\n      '
+1142.980,1143.977,fe008,b'\n      '
+1144.506,1144.896,fe008,b'\n      '
+1144.555,1145.729,mn017,b'\n      '
+1145.940,1156.156,me011,"b'\n      Where the barber who was afraid of scissors was playing a - a tape of clipping sounds, and saying ""uh-huh"", ""yeah"", '"
+1150.110,1152.670,me018,b'\n      '
+1151.438,1152.900,me013,b'\n      '
+1151.736,1155.243,mn017,b'\n      '
+1153.020,1156.500,me013,b'\n      '
+1153.112,1155.630,me018,b'\n      '
+1154.987,1157.138,fe008,b'\n      '
+1155.630,1156.500,mn017,b'\n      Anyway. '
+1156.600,1158.410,mn017,"b""\n      So the paper's on-line and\n    """
+1158.439,1160.580,mn017,b'\n      y- I - I think I uh -\n    '
+1161.156,1164.420,mn017,"b""\n      I C_C'ed a message to Meeting Recorder with the U_R_L so you can\n    """
+1164.048,1164.741,me011,b'\n      Yep. '
+1164.172,1164.515,me013,b'\n      Yeah.\n    '
+1164.560,1164.954,mn017,b'\n      get it. '
+1165.470,1166.730,me011,"b""\n      Printed it out, haven't read it yet. """
+1165.470,1168.390,mn017,b'\n      '
+1165.994,1166.389,me013,b'\n      Yeah.\n    '
+1168.935,1173.950,mn017,b'\n      about to send Brian Kingsbury an email saying where he can find the -\n    '
+1172.071,1172.429,me013,b'\n      '
+1173.996,1174.890,mn017,b'\n      the s-\n    '
+1174.669,1177.491,me013,b'\n      '
+1175.040,1179.740,mn017,"b'\n      the m- the material he wanted for the s- for the speech recognition experiment, so - '"
+1180.098,1187.190,mn017,"b""\n      but I haven't sent it out yet because actually my """
+1183.546,1184.251,me011,b'\n      '
+1184.299,1184.898,me013,b'\n      '
+1187.860,1189.970,mn017,b'\n      suggestions you have for that I was just gonna\n    '
+1189.980,1192.690,me018,b'\n      Is it the same directory that you had suggested?\n    '
+1189.980,1191.110,mn017,b'\n      send him the -\n    '
+1191.990,1195.650,mn017,b'\n      '
+1195.339,1195.853,fe008,b'\n      '
+1195.650,1196.710,mn017,b'\n      '
+1195.853,1197.721,fe008,b'\n      He still '
+1197.760,1199.060,mn017,b'\n      '
+1198.580,1198.860,fe008,b'\n      Yeah.\n    '
+1199.667,1202.710,mn017,b'\n      Yeah but - but - but he has to -\n    '
+1199.784,1200.575,fe008,"b""\n      And he - and he's -\n    """
+1202.350,1204.096,fe008,"b""\n      I'd hafta add him to Meeting Recorder, I guess, but - """
+1202.910,1205.740,mn017,b'\n      he prefe- he '
+1205.406,1205.837,fe008,b'\n      O_K.\n    '
+1205.930,1212.230,mn017,"b'\n      and also, um, the '"
+1212.520,1215.610,mn017,"b'\n      you know, the uh - the data we have so far, '"
+1213.341,1213.719,fe008,b'\n      '
+1215.610,1218.512,mn017,b'\n      and so I figured that F_T_P is the best '
+1218.512,1220.590,mn017,b'\n      So what I did is I um -\n    '
+1220.590,1221.322,mn017,b'\n      '
+1221.322,1221.960,mn017,b'\n      '
+1221.960,1223.600,mn017,b'\n      I made a n- new directory\n    '
+1224.140,1226.920,mn017,b'\n      after '
+1227.361,1228.410,mn017,b'\n      a good thing. '
+1228.410,1234.960,mn017,"b'\n      Uh, so it\'s ""F_T_P '"
+1231.470,1233.468,me011,b'\n      Pub real. '
+1234.960,1237.200,mn017,b'\n      M_T_G_C -\n    '
+1237.990,1240.310,mn017,b'\n      What is it again? C_R -\n    '
+1239.005,1243.067,me011,b'\n      '
+1239.520,1241.920,me013,"b'\n      u- R_D_ - R_D_R, yeah.\n    '"
+1240.930,1245.021,mn017,"b'\n      Or - Yeah. Right? The same - the same as the mailing list, and - Yeah. '"
+1244.260,1247.380,me013,"b'\n      Yeah, the - '"
+1245.260,1248.097,mn017,"b'\n      Um, '"
+1248.097,1258.835,mn017,"b'\n      Um actually - Oh and this directory, '"
+1258.835,1264.670,mn017,"b""\n      So that's sort of a g- """
+1259.170,1259.528,me011,b'\n      Right.\n    '
+1263.210,1263.959,me013,b'\n      Mm-hmm. '
+1264.800,1271.270,mn017,"b'\n      uh, and the directory for this I call it I- ""A_S_R zero point one"" because it\'s sort of meant for recognition.\n    '"
+1267.697,1268.202,me013,b'\n      '
+1269.369,1276.315,me013,b'\n      '
+1270.962,1271.529,me011,b'\n      Beta?\n    '
+1271.650,1281.302,mn017,b'\n      And then - then in there I have a file that lists all the other '
+1271.650,1273.966,me018,b'\n      '
+1271.684,1274.982,fe008,b'\n      '
+1272.367,1273.644,me001,b'\n      '
+1273.050,1273.761,me011,b'\n      '
+1275.361,1276.183,fe008,b'\n      '
+1277.634,1278.484,fe008,b'\n      '
+1281.302,1282.430,mn017,b'\n      I mean you can -\n    '
+1281.350,1283.260,me013,b'\n      Is that a '
+1282.930,1284.068,me011,"b""\n      Don't - don't - don't say.\n    """
+1283.070,1283.772,mn017,b'\n      Dash.\n    '
+1284.018,1290.213,fe008,b'\n      '
+1284.068,1290.636,me011,b'\n      '
+1284.129,1285.742,me001,b'\n      '
+1284.340,1285.260,me013,b'\n      '
+1284.510,1286.736,mn017,b'\n      '
+1285.742,1287.291,me001,b'\n      '
+1287.344,1287.946,me001,b'\n      '
+1287.535,1296.040,mn017,b'\n      Anyway. '
+1292.931,1293.547,fe008,b'\n      '
+1293.547,1294.031,fe008,b'\n      '
+1296.040,1297.430,mn017,"b'\n      he cares about, and - '"
+1297.840,1298.530,mn017,"b'\n      um,\n    '"
+1298.153,1300.527,me013,b'\n      '
+1299.270,1300.890,mn017,b'\n      and also - and then the -\n    '
+1299.805,1301.725,me011,b'\n      '
+1300.890,1306.069,mn017,b'\n      the '
+1301.513,1301.852,me013,b'\n      '
+1303.853,1304.297,me013,b'\n      '
+1306.069,1308.490,mn017,b'\n      w- for each meeting I tar them all into one\n    '
+1308.520,1310.971,mn017,b'\n      tar file and G_zip them and stick them there. '
+1310.200,1310.824,me011,b'\n      '
+1310.824,1311.648,me011,"b'\n      I uh,\n    '"
+1311.314,1312.140,mn017,b'\n      And so. '
+1312.034,1316.430,me011,b'\n      put digits in my own '
+1314.808,1315.850,mn017,"b'\n      Oh, O_K. '"
+1316.286,1317.160,mn017,b'\n      O_K.\n    '
+1316.440,1319.610,me018,b'\n      So we could point Mari to this also for her '
+1316.752,1317.010,me001,b'\n      '
+1318.970,1319.700,mn017,b'\n      Yeah.\n    '
+1320.120,1321.260,me018,b'\n      March O_one\n    '
+1322.030,1322.690,me018,b'\n      request?\n    '
+1322.602,1324.310,mn017,b'\n      March O_one. Oh!\n    '
+1323.520,1325.410,me018,b'\n      Or - '
+1324.380,1326.560,mn017,b'\n      Oh she wanted that '
+1325.850,1334.722,me018,b'\n      Well she was saying that it would be nice if we had - '
+1330.479,1330.961,me011,b'\n      '
+1334.450,1338.290,mn017,"b""\n      Right, but they don't have a recognizer even. """
+1336.340,1336.670,me001,b'\n      '
+1336.670,1337.532,me001,b'\n      '
+1336.870,1337.640,me018,b'\n      Yeah.\n    '
+1337.532,1337.867,me001,b'\n      Um -\n    '
+1338.300,1341.940,mn017,b'\n      But '
+1338.334,1338.659,me001,b'\n      I-\n    '
+1340.270,1340.980,me018,b'\n      Yeah.\n    '
+1341.590,1346.296,me018,b'\n      '
+1343.088,1343.775,fe008,b'\n      '
+1343.362,1344.110,mn017,b'\n      Right.\n    '
+1345.928,1348.841,me011,b'\n      We can put it in the same place. Just put in another directory.\n    '
+1347.170,1347.835,me018,"b'\n      Yeah, it-\n    '"
+1347.920,1351.260,mn017,"b""\n      Well, make ano- make another directory. You don't n- m- Yeah.\n    """
+1348.261,1351.570,me018,"b""\n      I'll make another directory. Yeah. Exactly. Yeah.\n    """
+1351.227,1352.683,me001,b'\n      '
+1351.320,1351.715,mn017,b'\n      Yeah. '
+1352.812,1355.249,me001,b'\n      sampled? '
+1355.249,1356.070,me001,b'\n      '
+1355.411,1356.300,mn017,b'\n      They are?\n    '
+1356.070,1357.297,me001,b'\n      I think so. '
+1357.210,1358.150,mn017,b'\n      O_K.\n    '
+1357.695,1364.205,me001,"b'\n      Um, so either we should regenerate the original '"
+1361.870,1362.710,mn017,b'\n      Oh.\n    '
+1362.800,1364.320,mn017,b'\n      '
+1365.080,1368.580,mn017,"b'\n      O_K, because in '"
+1367.110,1367.555,me001,b'\n      '
+1367.555,1372.316,me001,"b""\n      Yeah, that's the first meeting I cut both versions. Just to check which w- if there is a significant difference.\n    """
+1369.490,1370.124,mn017,b'\n      O_K.\n    '
+1370.281,1375.290,mn017,b'\n      '
+1372.615,1373.006,me013,b'\n      '
+1373.990,1375.278,me001,"b""\n      They're all downsampled, yeah.\n    """
+1375.410,1376.611,mn017,"b'\n      Oh, O_K.\n    '"
+1376.925,1379.880,mn017,"b""\n      Oh that's th- important to know, O_K so """
+1378.732,1379.889,me013,b'\n      '
+1379.880,1383.860,mn017,b'\n      we should probably - uh '
+1382.441,1383.276,me001,b'\n      Yeah.\n    '
+1384.087,1385.460,me001,b'\n      So -\n    '
+1385.300,1386.300,mn017,b'\n      O_K.\n    '
+1386.370,1389.880,mn017,"b""\n      Alright, then I'll hold """
+1389.680,1391.103,me001,b'\n      Probably by tomorrow I can -\n    '
+1389.880,1390.600,mn017,b'\n      gen-\n    '
+1390.860,1391.830,mn017,b'\n      O_K. '
+1391.284,1392.179,me001,"b""\n      I'll send you an email.\n    """
+1391.939,1394.360,me011,b'\n      '
+1392.397,1393.440,mn017,b'\n      Alright.\n    '
+1394.590,1398.280,mn017,"b'\n      O_K. Yeah, definitely they should have the full bandwidth version, yeah.\n    '"
+1394.880,1397.380,me011,b'\n      '
+1396.843,1397.497,me001,b'\n      Right.\n    '
+1399.110,1399.789,mn017,b'\n      O_K. '
+1399.140,1405.503,me001,"b'\n      Yeah, because I mean - I- I think Liz decided to go ahead with the '"
+1404.290,1407.194,mn017,"b'\n      Well, it takes - it takes up less disk space, for one thing.\n    '"
+1405.503,1406.476,me001,b'\n      '
+1406.476,1411.502,me001,b'\n      It '
+1407.194,1409.200,mn017,b'\n      '
+1409.200,1409.950,mn017,b'\n      Yeah.\n    '
+1409.950,1411.320,mn017,b'\n      Yeah. Right.\n    '
+1411.614,1412.303,me001,"b'\n      you know, is just,\n    '"
+1412.501,1413.198,me001,b'\n      probably random.\n    '
+1412.520,1414.470,mn017,"b'\n      Yeah, it was a small difference but yeah. '"
+1414.110,1414.379,me001,"b'\n      But,\n    '"
+1414.508,1416.668,me001,b'\n      um '
+1415.843,1417.381,mn017,b'\n      Yeah. O_K. '
+1418.480,1419.701,mn017,"b'\n      O_K, good. Good that -\n    '"
+1419.934,1420.923,mn017,"b""\n      Well, it's a good thing that - """
+1420.390,1421.696,me011,b'\n      '
+1421.932,1424.272,me011,"b'\n      Don and Andreas at three-thirty, right?\n    '"
+1423.328,1424.430,mn017,b'\n      '
+1424.272,1425.480,me011,b'\n      '
+1424.430,1425.210,mn017,b'\n      Yeah.\n    '
+1424.660,1425.472,me001,b'\n      Hey mon hafta booga. '
+1424.970,1425.545,me013,"b'\n      So,\n    '"
+1425.820,1428.611,me013,"b""\n      that's why it was good to have Andreas, say these things but - """
+1428.963,1432.293,me013,"b'\n      So, we should probably talk about the I_B_M transcription process stuff that - '"
+1432.683,1433.199,fe008,b'\n      '
+1433.587,1433.973,fe008,b'\n      '
+1433.682,1434.292,me013,b'\n      Hmm. '
+1433.973,1438.901,fe008,"b'\n      So, um you know that Adam created um, a b- a script to generate the beep file?\n    '"
+1435.548,1435.937,me013,b'\n      '
+1439.044,1439.537,fe008,b'\n      To\n    '
+1439.948,1440.892,fe008,b'\n      then create\n    '
+1441.303,1443.695,fe008,b'\n      something to send to I_B_M. '
+1443.695,1444.489,fe008,b'\n      '
+1444.489,1454.518,fe008,b'\n      you - '
+1454.518,1456.150,fe008,b'\n      '
+1456.150,1457.684,fe008,"b'\n      my understanding was that, um -\n    '"
+1457.211,1457.435,me013,b'\n      '
+1458.206,1465.200,fe008,"b""\n      I haven't - """
+1459.197,1461.750,me013,b'\n      '
+1460.372,1460.916,me011,b'\n      Mm-hmm. '
+1464.070,1466.852,me011,b'\n      '
+1467.118,1471.358,me011,"b""\n      Um, just so that while I'm gone, you can regenerate it if you decide to do it a different way.\n    """
+1471.857,1473.141,fe008,b'\n      Excellent. O_K. '
+1472.099,1473.967,me011,"b'\n      So uh, Chuck and Thilo should,\n    '"
+1474.337,1476.380,me011,"b'\n      now more or less know how to generate the file and,\n    '"
+1476.380,1476.677,me011,b'\n      '
+1476.677,1478.505,me011,"b'\n      the other thing Chuck pointed out is that,\n    '"
+1478.648,1479.367,me011,"b'\n      um,\n    '"
+1479.367,1479.808,me011,b'\n      '
+1479.808,1481.347,me011,b'\n      since this one is '
+1481.347,1481.644,me011,b'\n      '
+1481.644,1483.472,me011,b'\n      there are '
+1483.593,1484.465,fe008,b'\n      Mm-hmm. '
+1483.687,1486.839,me011,"b""\n      Right? So - so when one person is speaking, there's breaks.\n    """
+1486.839,1487.111,me011,b'\n      '
+1487.111,1488.568,me011,b'\n      Whereas '
+1487.835,1488.623,mn014,b'\n      '
+1488.568,1489.195,me011,b'\n      '
+1488.672,1491.140,fe008,"b'\n      Oh! O_K. Ah, interesting. Yeah. Yeah.\n    '"
+1489.195,1491.569,me011,"b""\n      So what - what we're probably gonna do is just write a script,\n    """
+1491.733,1492.936,me011,"b'\n      that if two,\n    '"
+1493.640,1497.424,me011,"b""\n      chunks are very close to each other on the same channel we'll just merge them.\n    """
+1497.410,1498.990,fe008,"b'\n      Oh, sure. Yeah, sure. Makes sense.\n    '"
+1498.923,1501.387,me011,b'\n      '
+1501.551,1501.972,me011,"b'\n      the,\n    '"
+1501.972,1502.510,me011,b'\n      '
+1502.510,1505.783,me011,"b'\n      you know ""one word beep, one word beep, one word beep, one word beep"".\n    '"
+1502.528,1503.293,fe008,b'\n      Yeah.\n    '
+1504.810,1507.920,fe008,b'\n      Ah! '
+1505.344,1511.700,mn014,b'\n      And - And it will be more - more close - close to - to the version they will get afterwards - after '
+1510.500,1511.590,fe008,b'\n      Yeah. Excellent.\n    '
+1510.794,1511.568,me018,b'\n      '
+1511.568,1515.477,me018,"b'\n      Yeah, in fact after our meeting uh, this morning Thilo came in and said that '"
+1512.250,1513.271,fe008,"b""\n      And that's the purpose.\n    """
+1515.477,1516.123,me018,"b'\n      um,\n    '"
+1516.123,1519.020,me018,b'\n      there could be '
+1519.236,1526.645,me018,b'\n      the uh '
+1523.673,1524.408,mn014,b'\n      Yeah.\n    '
+1525.475,1525.948,fe008,b'\n      Yeah.\n    '
+1526.645,1536.080,me018,b'\n      '
+1533.366,1533.736,me013,b'\n      '
+1535.397,1537.285,fe008,b'\n      '
+1536.370,1542.610,me018,"b""\n      and then we're gonna do the beep-ify on """
+1538.904,1539.606,mn017,b'\n      Beep-ify! '
+1541.010,1542.033,mn014,b'\n      Yeah.\n    '
+1541.420,1548.000,fe008,b'\n      '
+1544.296,1546.565,mn014,"b""\n      Yeah, it's the training meeting, but -\n    """
+1547.138,1547.979,mn014,b'\n      Yeah.\n    '
+1548.000,1553.020,me018,"b""\n      Yeah, w- and we know that. Wel- uh we just wanna if - if there're any major differences between """
+1548.287,1549.148,fe008,b'\n      O_K. '
+1548.945,1549.557,me013,b'\n      '
+1550.004,1551.975,mn014,"b'\n      But, yeah -\n    '"
+1550.148,1550.591,fe008,b'\n      Uh-huh.\n    '
+1552.714,1557.258,mn014,"b'\n      I only used the first twenty minutes for training, so we can '"
+1553.280,1554.660,me018,b'\n      doing it on the hand-\n    '
+1555.628,1559.726,fe008,b'\n      '
+1557.258,1560.651,mn014,"b""\n      But it's the same speakers and the same channels """
+1557.698,1558.261,me011,b'\n      Hmm. '
+1561.930,1563.898,mn017,b'\n      So this '
+1562.095,1562.630,fe008,b'\n      Great.\n    '
+1564.180,1565.260,mn017,b'\n      '
+1565.470,1568.640,mn017,b'\n      uh '
+1569.020,1571.350,mn017,"b'\n      you know, accurate '"
+1570.590,1575.300,fe008,b'\n      '
+1574.000,1576.060,mn017,"b'\n      O_K, yeah. '"
+1574.610,1581.080,me018,"b""\n      But the - but there's - yeah, but there is this one issue with them in that there're - """
+1581.131,1583.050,me018,b'\n      occur in the middle of speech.\n    '
+1583.330,1584.340,me018,b'\n      So - '
+1585.020,1587.010,me018,b'\n      Like when we went t- to '
+1587.010,1594.340,me018,b'\n      When I was '
+1592.895,1594.730,me011,b'\n      '
+1595.044,1596.307,me011,"b""\n      That's because of """
+1596.970,1599.020,me018,"b'\n      Well, and - and so the - th-\n    '"
+1598.128,1598.561,fe008,b'\n      Hmm. '
+1599.070,1601.830,me018,b'\n      So there are these chunks that look like uh - '
+1599.165,1599.820,me011,"b""\n      It's - i- """
+1602.730,1604.120,me018,b'\n      that have uh -\n    '
+1603.981,1608.019,me011,b'\n      '
+1609.060,1614.890,me018,"b""\n      Right. So you'll - you'll have a """
+1613.511,1613.825,me013,b'\n      '
+1615.040,1618.510,me018,"b'\n      and then the same channel starting at eleven, ending at fifteen, '"
+1618.845,1626.800,me018,"b""\n      and then again, starting at sixteen, ending at twenty. Right, so that's three chunks where """
+1626.566,1627.144,mn017,b'\n      Mm-hmm. '
+1626.860,1629.410,me018,"b'\n      which is A_, zero, twenty.\n    '"
+1627.779,1628.344,fe008,b'\n      Yeah.\n    '
+1628.910,1629.187,fe008,b'\n      Sure.\n    '
+1629.410,1630.685,me011,"b""\n      That's what I just said, yeah.\n    """
+1629.590,1630.063,fe008,b'\n      Sure.\n    '
+1630.610,1632.480,me018,b'\n      Yeah. So I just wanted to make sure that it was clear.\n    '
+1631.001,1631.960,me011,b'\n      '
+1632.480,1638.220,me018,b'\n      '
+1632.616,1633.917,fe008,"b'\n      Yeah, I thought that was - Yeah.\n    '"
+1636.100,1637.440,mn017,b'\n      Oh! '
+1638.220,1642.820,mn017,"b'\n      Right, I mean w- I mean what I would - I was '"
+1642.820,1647.760,mn017,b'\n      a se- having time marks for the beginnings and ends of speech\n    '
+1647.625,1648.796,me011,b'\n      '
+1647.760,1649.861,mn017,b'\n      by each speaker.\n    '
+1649.010,1649.741,,b'\n      '
+1649.400,1652.210,me011,"b'\n      Well, '"
+1649.861,1653.840,mn017,b'\n      '
+1653.059,1653.259,mn014,b'\n      '
+1653.961,1656.450,mn017,b'\n      process '
+1654.853,1655.119,mn014,b'\n      '
+1654.870,1655.552,me018,b'\n      '
+1655.070,1655.633,me011,b'\n      Battery.\n    '
+1655.848,1657.409,mn014,b'\n      Battery? '
+1656.274,1656.806,me018,b'\n      Mm-hmm.\n    '
+1657.190,1657.848,mn017,b'\n      So -\n    '
+1658.250,1662.240,mn017,"b""\n      uh, it - I don't care that you know, there's actually abutting\n    """
+1661.433,1675.148,,b'\n      '
+1662.409,1663.400,me013,b'\n      '
+1662.511,1667.970,mn017,"b""\n      segments that we have to join together. That's fine. """
+1665.090,1665.840,me018,b'\n      O_K.\n    '
+1667.970,1672.695,mn017,b'\n      the beginnings and '
+1670.496,1671.183,me013,b'\n      '
+1672.695,1675.370,mn017,b'\n      inside of that '
+1674.350,1677.300,me018,"b'\n      Yeah, I think Jane tightened these up by hand.\n    '"
+1675.290,1675.926,mn014,b'\n      '
+1676.170,1676.543,me013,b'\n      '
+1676.590,1679.680,mn017,"b'\n      O_K, so what is the - sort of how tight are they? '"
+1676.724,1677.461,mn014,b'\n      O_K. '
+1676.740,1677.543,fe008,b'\n      Yeah.\n    '
+1677.510,1678.800,me013,"b'\n      Uh, '"
+1678.611,1679.997,mn014,b'\n      Yeah. '
+1679.050,1680.036,fe008,b'\n      '
+1680.036,1681.286,fe008,"b'\n      They were, um,\n    '"
+1680.185,1686.476,me018,b'\n      '
+1681.600,1686.373,fe008,"b""\n      reasonably tight, but not excruciatingly tight. That would've taken more time.\n    """
+1684.552,1686.130,mn017,b'\n      Oh. '
+1686.370,1688.653,mn017,"b""\n      No, no! I don- actually I - I - I - it's f-\n    """
+1686.373,1688.615,fe008,"b'\n      I just wanted to get it so tha- So that if you have like ""yeah"" '"
+1686.757,1688.332,me011,b'\n      '
+1688.096,1688.476,mn014,b'\n      Yeah. '
+1688.615,1691.090,fe008,"b""\n      in a - swimming in a big bin, then it's -\n    """
+1688.653,1691.220,mn017,"b""\n      That's """
+1691.450,1698.940,mn017,"b""\n      th- that's perfectly fine. In fact it's good. You always want to have a little bit of pause or nonspeech around the speech, say for recognition purposes. """
+1699.200,1701.116,mn017,"b'\n      Uh, but just - just u-\n    '"
+1701.598,1704.375,mn017,b'\n      w- you know get an id- I just wanted to have an idea of the - '
+1704.703,1708.620,mn017,b'\n      of how much extra you allowed '
+1706.702,1707.262,me013,b'\n      '
+1708.850,1713.930,mn017,b'\n      so that I can interpret the '
+1714.010,1721.565,fe008,b'\n      '
+1714.448,1715.171,mn017,b'\n      So.\n    '
+1719.371,1719.951,mn017,b'\n      Mm-hmm. '
+1721.565,1728.120,fe008,b'\n      '
+1721.745,1722.252,mn017,b'\n      Mm-hmm. '
+1721.931,1722.598,me011,b'\n      '
+1723.519,1725.490,me013,b'\n      '
+1724.640,1725.380,mn017,b'\n      Right.\n    '
+1728.300,1733.680,mn017,"b""\n      But are we talking about, I don't know, """
+1734.054,1738.610,mn017,b'\n      You know? How - how much - how much extra would you allow at most - '
+1735.630,1737.704,fe008,b'\n      '
+1737.704,1742.320,fe008,b'\n      I wanted it to be able to - l- he- be heard '
+1741.954,1742.476,mn017,b'\n      Mm-hmm. '
+1742.520,1748.091,fe008,b'\n      so that if you - if you play '
+1747.717,1748.454,mn017,b'\n      O_K. '
+1748.091,1751.905,fe008,b'\n      '
+1752.443,1756.030,fe008,"b""\n      i- it sounds normal. It's as if the person could've stopped there.\n    """
+1753.710,1754.276,mn017,b'\n      Mm-hmm. '
+1754.040,1754.563,me013,b'\n      '
+1755.785,1756.542,mn017,b'\n      O_K. '
+1756.190,1758.097,fe008,"b""\n      And it wouldn't have been an awkward place to stop.\n    """
+1756.952,1757.291,me013,b'\n      '
+1758.097,1758.467,fe008,b'\n      '
+1758.467,1763.491,fe008,b'\n      Now '
+1762.395,1762.988,mn017,b'\n      Mm-hmm. '
+1763.491,1769.260,fe008,b'\n      '
+1765.516,1766.120,mn017,b'\n      O_K. '
+1769.260,1776.380,fe008,b'\n      who have very '
+1775.347,1775.874,mn017,b'\n      Mm-hmm. '
+1775.622,1776.261,me011,b'\n      '
+1776.380,1782.875,fe008,"b""\n      But other than that, it's really pretty continuous and this includes things like going from one sentence into the - u- one utterance into the next, one sentence into the next, """
+1782.931,1783.960,fe008,b'\n      '
+1784.466,1786.900,fe008,b'\n      w- without really '
+1787.130,1799.640,fe008,"b'\n      they, i- you know in '"
+1787.700,1788.939,mn017,b'\n      Mm-hmm. '
+1790.490,1791.180,mn017,b'\n      Right. '
+1796.436,1797.206,mn017,b'\n      O_K. '
+1799.660,1803.930,fe008,b'\n      the gap between '
+1804.050,1804.548,fe008,"b'\n      um,\n    '"
+1805.168,1809.210,fe008,b'\n      which of course n- spoken things are not '
+1809.210,1810.949,fe008,b'\n      but it would be a shorter p- shorter\n    '
+1811.390,1818.070,fe008,b'\n      break '
+1812.024,1812.742,mn017,b'\n      Mm-hmm. '
+1818.280,1822.708,fe008,b'\n      so - so crudely '
+1822.932,1824.540,fe008,b'\n      purpose '
+1825.250,1831.837,fe008,"b""\n      it's more - """
+1832.110,1836.154,fe008,b'\n      if you have '
+1835.156,1836.910,mn017,"b""\n      Well, yeah. That's fine. """
+1836.811,1839.304,fe008,b'\n      '
+1839.797,1842.265,fe008,b'\n      amount of time '
+1842.800,1848.028,fe008,"b'\n      is variable depending partly on context, but my general goal '"
+1848.550,1854.770,fe008,"b'\n      space, room, pause '"
+1853.678,1854.377,mn017,b'\n      O_K. '
+1855.367,1863.176,fe008,"b""\n      Which I c- I don't know what it would be quantified as. """
+1863.385,1867.982,fe008,"b'\n      uh, that the - the - what would be a pause might be something like two - two seconds. '"
+1867.735,1868.258,mn017,b'\n      Mmm. '
+1868.729,1871.680,fe008,"b'\n      And um, that would be, you know one speaker.\n    '"
+1872.190,1876.950,fe008,b'\n      The discourse - '
+1874.395,1874.957,mn017,b'\n      Mm-hmm. '
+1877.071,1877.874,fe008,"b'\n      you know um, '"
+1878.845,1884.030,fe008,b'\n      the - you know that '
+1884.220,1885.680,mn017,"b'\n      Well we chose um,\n    '"
+1884.280,1884.984,fe008,b'\n      Yeah. '
+1886.470,1888.560,mn017,"b'\n      you know, half a second because '"
+1889.110,1892.080,mn017,"b'\n      if - if you go much larger, you have a - y-\n    '"
+1892.080,1896.340,mn017,"b'\n      you know, your - your statement about how much '"
+1896.340,1897.400,mn017,"b'\n      um,\n    '"
+1897.758,1903.970,mn017,"b'\n      precise, because you include more of actual '"
+1898.672,1899.493,fe008,b'\n      Mm-hmm. '
+1904.461,1905.564,mn017,"b'\n      Um, so,\n    '"
+1905.970,1911.750,mn017,"b""\n      it's sort of a compromise, and - """
+1907.551,1908.063,mn014,b'\n      '
+1911.750,1913.520,mn017,b'\n      the distribution of\n    '
+1913.747,1915.770,mn017,b'\n      '
+1916.136,1917.083,mn017,b'\n      Switchboard and -\n    '
+1917.318,1917.769,fe008,b'\n      Mm-hmm. '
+1917.368,1918.670,mn017,b'\n      and other corpora. '
+1918.970,1919.680,mn017,b'\n      Um -\n    '
+1920.740,1921.620,mn017,b'\n      So -\n    '
+1921.004,1921.910,mn014,b'\n      '
+1921.910,1929.688,mn014,"b'\n      Yeah, I also used I think something around zero point five seconds for the speech-nonspeech detector - for the minimum silence length.\n    '"
+1927.671,1928.321,mn017,b'\n      Mm-hmm. '
+1929.591,1930.958,mn017,b'\n      I see. Yeah.\n    '
+1929.688,1930.459,mn014,b'\n      '
+1930.459,1930.808,mn014,b'\n      So. '
+1931.882,1932.314,fe008,b'\n      Mm-hmm. '
+1933.100,1933.830,mn017,b'\n      '
+1935.080,1942.600,fe008,"b'\n      In any case, this - this uh, meeting '"
+1939.804,1940.208,mn017,b'\n      Mm-hmm. '
+1940.396,1948.530,mn017,b'\n      '
+1942.778,1945.270,fe008,b'\n      And I sent the '
+1948.950,1951.791,mn017,"b'\n      because you know, what you would '"
+1952.102,1955.400,mn017,b'\n      parameters. And to get an object- You need an objective '
+1955.700,1961.050,mn017,b'\n      measure of how closely you can align the models to the actual speech. '
+1961.190,1962.616,mn017,"b""\n      And that's where your\n    """
+1962.915,1966.618,mn017,b'\n      your data would be '
+1967.774,1968.427,mn017,b'\n      Um - '
+1968.795,1973.023,mn014,b'\n      Yeah and hopefully the new meetings '
+1973.186,1973.950,mn014,b'\n      have\n    '
+1974.433,1976.613,mn014,b'\n      better time boundaries '
+1975.330,1975.967,mn017,b'\n      Mm-hmm. '
+1977.749,1978.215,mn017,b'\n      Right.\n    '
+1977.893,1983.870,fe008,b'\n      '
+1982.549,1982.855,mn014,b'\n      Yeah.\n    '
+1983.880,1986.940,fe008,b'\n      '
+1986.100,1986.316,mn014,b'\n      Yeah.\n    '
+1987.215,1991.843,fe008,b'\n      It makes a lot of sense. '
+1988.230,1988.881,mn017,b'\n      Yeah. '
+1990.921,1991.879,mn017,b'\n      '
+1992.193,1995.760,fe008,"b'\n      with the longer units, not having to fuss with adding these units at this time. '"
+1994.116,1994.501,mn014,b'\n      Yeah.\n    '
+1994.501,1995.042,mn014,b'\n      '
+1994.774,1995.520,mn017,b'\n      Right. '
+1995.042,2001.078,mn014,"b'\n      Whi- which could have one drawback. If there is uh a backchannel in between those three things,\n    '"
+1999.813,2000.341,fe008,b'\n      Mm-hmm. '
+2001.078,2001.597,mn014,b'\n      '
+2001.597,2005.860,mn014,b'\n      the - the '
+2004.308,2005.840,fe008,b'\n      '
+2006.302,2007.308,mn014,b'\n      and in - in the -\n    '
+2007.800,2009.599,mn014,b'\n      in the '
+2009.599,2010.554,mn014,b'\n      which is used '
+2010.554,2010.985,mn014,b'\n      '
+2010.985,2013.767,mn014,"b'\n      there, the backchannel would - would be in-'"
+2013.380,2022.106,fe008,"b'\n      I see. Yeah. Well, '"
+2014.014,2015.492,mn014,b'\n      That would be more natural but -\n    '
+2014.399,2015.304,mn017,b'\n      '
+2018.930,2019.234,mn014,b'\n      Yeah. '
+2022.414,2026.878,fe008,b'\n      w- what to do '
+2027.041,2034.551,fe008,b'\n      '
+2034.775,2038.561,fe008,"b'\n      ha- has now presegmented all of them for us, on a channel by channel basis.\n    '"
+2038.561,2046.300,fe008,b'\n      '
+2046.360,2053.928,fe008,"b""\n      so far I've discussed it with """
+2053.928,2056.840,fe008,b'\n      '
+2057.512,2067.210,fe008,b'\n      that '
+2067.210,2073.370,fe008,b'\n      '
+2073.370,2078.697,fe008,b'\n      '
+2078.697,2081.670,fe008,b'\n      '
+2081.670,2088.380,fe008,b'\n      '
+2088.605,2102.671,fe008,b'\n      the - '
+2102.671,2113.926,fe008,b'\n      '
+2113.926,2120.735,fe008,b'\n      '
+2121.452,2124.787,fe008,"b'\n      patched together when it comes back from I_B_M, we can add the backchannels. '"
+2124.787,2127.271,fe008,b'\n      It seems to me '
+2127.271,2131.843,fe008,"b'\n      um, you know, the backchannels per-'"
+2131.244,2131.836,me013,b'\n      '
+2131.843,2138.850,fe008,"b'\n      uh, marking, and whether the beeps would be '"
+2134.524,2134.991,me013,b'\n      '
+2139.367,2141.179,fe008,b'\n      '
+2141.179,2149.265,fe008,b'\n      '
+2149.265,2152.730,fe008,b'\n      '
+2152.730,2157.776,fe008,"b""\n      I'm having this transcriber go through """
+2157.776,2167.090,fe008,"b'\n      f- for each dominant speaker, endpoi- '"
+2167.392,2173.052,me011,b'\n      '
+2173.216,2178.940,me011,b'\n      '
+2175.479,2176.121,me013,b'\n      '
+2176.890,2179.940,mn017,b'\n      '
+2177.502,2178.016,me018,b'\n      '
+2178.940,2179.587,me011,b'\n      So.\n    '
+2179.277,2188.635,fe008,b'\n      '
+2180.570,2182.302,me011,"b""\n      We'll just have to see. """
+2185.065,2185.779,me013,b'\n      '
+2188.635,2200.799,fe008,b'\n      '
+2192.610,2193.530,me013,b'\n      '
+2201.665,2202.566,fe008,b'\n      And um -\n    '
+2203.026,2203.688,me011,b'\n      '
+2203.099,2214.772,fe008,b'\n      '
+2210.610,2211.560,me013,b'\n      '
+2215.180,2224.450,fe008,"b'\n      w- uh, so you know, so '"
+2224.450,2226.841,fe008,b'\n      '
+2227.160,2231.810,fe008,"b""\n      then she's going to put a s- dash, and I'll go through and it - and um, you know,\n    """
+2232.220,2232.970,fe008,b'\n      with a - '
+2232.970,2236.940,fe008,b'\n      '
+2237.290,2240.460,fe008,"b""\n      the other category. I'll just, you know, recode """
+2240.460,2255.020,fe008,b'\n      '
+2241.226,2241.864,me013,b'\n      '
+2244.955,2245.350,me013,b'\n      '
+2255.790,2260.250,me018,b'\n      Jane? '
+2256.070,2256.546,fe008,b'\n      Yeah? '
+2257.380,2258.310,me013,b'\n      '
+2260.250,2263.030,me018,b'\n      u- what is the -\n    '
+2260.598,2262.580,me011,"b""\n      It's not that different. """
+2263.573,2268.360,me018,"b""\n      So I'm a little confused, because how do we know where to put beeps? Is it - i- d- y- is it -\n    """
+2263.608,2264.378,fe008,b'\n      '
+2266.826,2270.334,fe008,"b'\n      Oh, O_K. '"
+2267.645,2268.764,me011,b'\n      '
+2270.334,2273.340,fe008,"b'\n      uh, the '"
+2273.410,2275.690,fe008,b'\n      only applied to '
+2273.477,2274.077,mn017,b'\n      '
+2275.690,2280.690,fe008,b'\n      a certain '
+2279.730,2283.712,me011,b'\n      '
+2281.810,2282.700,fe008,b'\n      You got it.\n    '
+2283.712,2284.350,me011,b'\n      '
+2284.350,2285.412,me011,b'\n      And '
+2284.410,2286.380,me018,"b""\n      But after we've done """
+2286.020,2286.351,me011,b'\n      No.\n    '
+2286.351,2286.956,me011,b'\n      '
+2286.400,2288.560,fe008,b'\n      Yes! Yes! Oh yeah!\n    '
+2286.956,2289.594,me011,"b'\n      Oh, '"
+2289.814,2290.142,mn014,"b'\n      So,\n    '"
+2290.542,2291.743,mn014,"b""\n      I'm """
+2291.930,2295.280,fe008,b'\n      O_K. '
+2291.990,2292.626,mn014,b'\n      '
+2292.300,2296.330,mn017,b'\n      '
+2293.694,2296.792,mn014,b'\n      '
+2294.190,2295.810,me013,b'\n      '
+2294.320,2295.050,me018,b'\n      '
+2294.338,2295.890,me001,"b'\n      Yeah, I have to go as well. '"
+2295.683,2298.108,me011,b'\n      '
+2297.851,2298.298,me001,b'\n      O_K.\n    '
+2298.298,2298.858,me001,b'\n      '
+2298.858,2299.280,me001,b'\n      Thanks. '
+2302.060,2305.300,fe008,b'\n      '
+2303.527,2307.442,mn014,b'\n      '
+2303.657,2305.299,me011,b'\n      Let me mark you as no digits.\n    '
+2305.494,2306.459,me011,b'\n      '
+2305.590,2306.545,me001,b'\n      '
+2305.954,2306.358,fe008,b'\n      Yeah.\n    '
+2306.988,2317.052,fe008,b'\n      '
+2316.848,2317.242,,b'\n      '
+2317.649,2320.062,fe008,"b'\n      O_K? Instead of doing that, which was our original plan,\n    '"
+2320.183,2320.669,me018,b'\n      Mm-hmm. '
+2321.664,2324.960,fe008,b'\n      '
+2322.210,2325.580,me018,b'\n      They just '
+2324.960,2325.335,fe008,b'\n      Yeah.\n    '
+2325.335,2330.390,fe008,b'\n      '
+2325.580,2326.310,me018,b'\n      O_K.\n    '
+2328.563,2329.007,mn014,b'\n      Yeah?\n    '
+2330.890,2331.689,mn014,b'\n      O_K.\n    '
+2331.580,2335.920,fe008,b'\n      '
+2332.420,2332.954,mn014,b'\n      '
+2332.954,2333.549,mn014,b'\n      And you just -\n    '
+2335.920,2336.916,mn014,b'\n      and you just use the s-\n    '
+2337.430,2338.323,mn014,b'\n      the segments of the\n    '
+2338.528,2342.388,mn014,b'\n      '
+2341.745,2342.681,fe008,b'\n      Yeah. Exactly.\n    '
+2342.520,2348.010,me018,b'\n      '
+2346.943,2347.645,fe008,b'\n      Mm-hmm. '
+2348.284,2351.760,me018,b'\n      have they then also '
+2351.308,2352.460,fe008,b'\n      '
+2352.460,2354.533,me018,b'\n      So how will we know who -\n    '
+2352.541,2353.332,fe008,b'\n      Huh-uh. '
+2353.591,2354.091,mn014,b'\n      Yeah.\n    '
+2353.691,2357.283,fe008,b'\n      '
+2357.641,2370.032,fe008,b'\n      '
+2370.032,2374.179,fe008,b'\n      '
+2371.751,2372.323,me013,b'\n      '
+2374.179,2377.707,fe008,b'\n      '
+2377.707,2384.067,fe008,b'\n      '
+2383.149,2384.930,me018,b'\n      Mm-hmm. O_K.\n    '
+2384.067,2387.630,fe008,b'\n      '
+2384.210,2384.980,me013,b'\n      '
+2385.860,2388.340,me018,b'\n      So she does the adjustments on those guys? '
+2387.861,2394.820,fe008,b'\n      '
+2393.040,2393.741,mn014,b'\n      On that meeting. '
+2394.820,2395.260,me018,b'\n      Mm-hmm.\n    '
+2394.820,2396.996,fe008,b'\n      '
+2396.996,2398.020,fe008,"b""\n      So far we haven't.\n    """
+2398.020,2400.208,fe008,b'\n      '
+2400.208,2402.665,fe008,b'\n      at least - least not in - not on ones that - that really -\n    '
+2400.338,2402.584,me018,b'\n      '
+2402.665,2403.331,fe008,b'\n      Mm-hmm?\n    '
+2402.730,2404.772,me018,b'\n      why not just do '
+2404.772,2407.190,me018,b'\n      Why not just throw all the channels to I_B_M?\n    '
+2405.685,2406.596,me013,b'\n      '
+2406.110,2409.377,fe008,b'\n      '
+2410.900,2416.820,fe008,"b'\n      Well, O_K. '"
+2416.820,2421.193,fe008,b'\n      '
+2420.948,2421.448,me018,b'\n      Mm-hmm.\n    '
+2421.193,2421.637,fe008,b'\n      '
+2421.448,2422.056,me018,b'\n      '
+2421.637,2424.550,fe008,"b'\n      So if it\'s only inserting ""mm-hmm""s here and there,\n    '"
+2424.087,2424.700,me018,b'\n      Right.\n    '
+2424.550,2433.560,fe008,"b""\n      then, wouldn't that be something that would be just as """
+2427.024,2427.235,mn014,b'\n      Yeah. '
+2428.689,2428.979,mn014,b'\n      But - '
+2433.316,2433.579,mn014,b'\n      '
+2433.579,2437.911,mn014,b'\n      But '
+2438.055,2439.892,mn014,b'\n      '
+2439.561,2440.380,me013,b'\n      '
+2440.517,2441.711,me013,b'\n      '
+2440.790,2442.290,me018,b'\n      Without having her check '
+2442.383,2444.650,fe008,b'\n      '
+2442.400,2443.060,me013,b'\n      Right.\n    '
+2442.444,2442.934,mn014,b'\n      Yeah.\n    '
+2444.280,2447.023,me011,b'\n      '
+2444.284,2446.122,mn014,"b""\n      For some meetings, I'm - I'm sure it - i-\n    """
+2446.249,2446.800,me013,b'\n      '
+2446.604,2446.799,mn014,b'\n      n-\n    '
+2446.930,2448.896,fe008,"b""\n      I'm - I'm """
+2447.710,2448.894,me013,"b""\n      Yeah, if it's working """
+2448.894,2452.360,me013,b'\n      that sounds like a good idea since as you say you have to do stuff with the other end anyway.\n    '
+2449.006,2451.429,mn014,b'\n      '
+2452.284,2452.724,mn014,b'\n      Yeah. '
+2452.297,2460.700,fe008,b'\n      '
+2453.140,2455.870,me018,"b'\n      Yeah, I mean we have to '"
+2454.613,2454.956,mn014,b'\n      Yeah.\n    '
+2458.187,2458.492,mn014,b'\n      Yeah.\n    '
+2458.640,2459.410,me013,b'\n      '
+2459.115,2466.534,mn014,b'\n      So we '
+2459.786,2460.167,me013,b'\n      '
+2461.280,2462.840,fe008,b'\n      But E_D_U is great.\n    '
+2462.235,2462.902,me013,b'\n      '
+2466.534,2467.140,mn014,b'\n      '
+2467.140,2469.333,mn014,b'\n      '
+2467.276,2468.245,me011,b'\n      Release to begin with.\n    '
+2468.780,2470.193,fe008,b'\n      How interesting. '
+2469.520,2473.271,me013,"b""\n      What's the problem - the l- I forget. Is the problem the lapel, or - or -\n    """
+2469.528,2470.225,mn014,b'\n      do the other ones.\n    '
+2473.337,2476.977,mn014,"b'\n      Uh, it really depends. '"
+2477.510,2482.128,mn014,"b""\n      my impression is that it's """
+2482.231,2483.805,mn014,"b""\n      and it's better for -\n    """
+2483.805,2484.305,mn014,b'\n      '
+2484.305,2487.582,mn014,b'\n      for meetings where nobody is breathing. '
+2486.475,2487.919,me011,b'\n      '
+2486.480,2487.987,me013,b'\n      '
+2486.660,2488.050,fe008,b'\n      '
+2487.987,2488.838,me013,b'\n      the '
+2488.010,2489.265,mn014,b'\n      '
+2488.838,2491.080,me013,b'\n      '
+2489.200,2491.544,fe008,b'\n      '
+2489.265,2491.139,mn014,"b""\n      That's it. """
+2489.860,2497.030,me018,b'\n      '
+2491.080,2492.356,me011,"b'\n      No, the '"
+2492.455,2493.126,fe008,b'\n      Yeah.\n    '
+2494.634,2495.311,fe008,b'\n      Yeah?\n    '
+2497.030,2501.666,me018,"b""\n      we run Thilo's thing and then we have somebody go and adjust all the time boundaries and we send it to I_B_M. The other one is """
+2499.905,2500.431,fe008,b'\n      Yeah?\n    '
+2500.067,2500.515,mn014,b'\n      Yeah. '
+2501.666,2503.671,me018,b'\n      we just run his thing and send it to I_B_M. '
+2503.671,2508.556,me018,"b""\n      There's a - a- another """
+2503.792,2504.240,mn014,b'\n      Yeah. '
+2504.409,2504.918,me013,b'\n      '
+2507.544,2507.782,mn014,b'\n      Yeah.\n    '
+2508.260,2508.559,mn014,b'\n      Yeah.\n    '
+2508.556,2514.800,me018,b'\n      if we go ahead and we '
+2514.367,2514.770,mn014,b'\n      Yeah.\n    '
+2514.800,2518.820,me018,"b'\n      And they listen to each section and say ""yes, no"" whether that section is\n    '"
+2514.916,2516.360,mn014,b'\n      And erase - Yeah.\n    '
+2518.590,2519.778,fe008,b'\n      Is intelligible. '
+2518.991,2519.540,me018,b'\n      i- i-\n    '
+2519.540,2526.170,me018,b'\n      intelligible or not. '
+2523.091,2523.423,mn014,b'\n      Yeah. '
+2524.420,2525.041,me011,b'\n      Blech.\n    '
+2525.660,2530.140,fe008,b'\n      '
+2526.843,2527.950,me018,b'\n      beep file.\n    '
+2526.870,2527.840,me013,b'\n      '
+2528.936,2529.615,me011,b'\n      '
+2529.615,2531.000,me011,b'\n      Stress test. '
+2529.768,2530.279,me018,b'\n      Mm-hmm. '
+2530.328,2532.390,mn014,b'\n      '
+2530.930,2532.120,fe008,b'\n      How interesting!\n    '
+2531.020,2537.430,me018,b'\n      Yeah. '
+2532.933,2533.471,mn014,b'\n      '
+2534.149,2536.711,fe008,b'\n      '
+2534.623,2536.760,me013,b'\n      '
+2536.926,2540.070,me013,b'\n      It would be - '
+2539.760,2544.050,me018,b'\n      '
+2542.600,2546.390,fe008,"b'\n      Well, '"
+2544.600,2554.176,me013,b'\n      Yeah. '
+2544.820,2545.590,me018,b'\n      Yeah.\n    '
+2546.790,2548.207,me011,b'\n      One and a half times real time. '
+2554.591,2558.002,me013,"b'\n      there\'s something - conventions so that they say ""huh?"" '"
+2555.050,2555.760,me018,b'\n      '
+2557.470,2558.140,me018,b'\n      Right. '
+2558.200,2560.860,me013,b'\n      and then we can flag those later. i- i- It - i-\n    '
+2558.280,2559.510,me018,b'\n      They - they - Yeah.\n    '
+2560.310,2565.100,me018,"b""\n      That's true. We can just catch it at the - catch everything at this side. """
+2561.787,2562.690,me013,b'\n      Yeah.\n    '
+2563.977,2566.560,fe008,b'\n      '
+2564.885,2566.495,me011,b'\n      '
+2566.560,2567.860,mn014,"b'\n      Yeah, u- u- u- '"
+2567.150,2567.618,me011,"b'\n      Sorry, go ahead.\n    '"
+2567.590,2573.290,fe008,"b'\n      So I was gonna say, E_D_U-'"
+2569.096,2569.432,mn014,b'\n      Yeah.\n    '
+2573.251,2576.219,mn014,"b""\n      Yeah there's - I - I think there are some meetings where """
+2576.160,2576.535,me011,b'\n      '
+2576.741,2577.203,me011,"b'\n      I think,\n    '"
+2577.046,2578.291,mn014,"b""\n      It's possible like this.\n    """
+2577.439,2582.489,me011,b'\n      we '
+2579.556,2580.094,mn014,b'\n      Yeah.\n    '
+2580.546,2580.857,mn014,b'\n      Yeah.\n    '
+2580.674,2581.173,me018,b'\n      Yeah.\n    '
+2582.110,2584.627,me018,"b""\n      We won't be able to s- include it with this first thing, """
+2582.433,2582.877,fe008,b'\n      Mm-hmm. '
+2582.859,2583.516,me011,b'\n      '
+2583.389,2583.794,fe008,b'\n      Hmm. '
+2583.516,2583.875,me011,b'\n      If -\n    '
+2584.195,2584.954,fe008,"b'\n      Oh, O_K.\n    '"
+2584.627,2589.520,me018,"b""\n      because there's a part of the process of the beep file which requires knowing the normalization coefficients. """
+2589.300,2590.601,fe008,"b'\n      Oh, I see.\n    '"
+2589.720,2591.320,me018,b'\n      And - '
+2590.510,2591.425,me011,"b""\n      That's not hard to do.\n    """
+2591.519,2592.288,me018,b'\n      '
+2591.589,2594.463,me011,"b'\n      Just - it takes - you know, it just takes five minutes rather than,\n    '"
+2593.768,2594.140,mn014,b'\n      Yeah.\n    '
+2594.566,2595.377,me011,b'\n      taking a second.\n    '
+2595.377,2595.870,me011,b'\n      '
+2595.500,2602.090,me018,"b""\n      Right, except I don't think that - the c- the instructions for """
+2595.870,2597.740,me011,b'\n      So. I just hand - hard-coded it.\n    '
+2601.500,2603.010,me011,"b""\n      No, but it's easy enough to do. """
+2601.651,2602.326,mn014,b'\n      What - '
+2602.090,2603.255,me013,b'\n      But I - but I have a -\n    '
+2602.890,2604.132,mn014,"b""\n      Doing the gain? It's no problem.\n    """
+2604.310,2604.530,me013,b'\n      '
+2604.771,2605.524,me018,b'\n      n- Doing th-\n    '
+2605.090,2605.805,mn014,b'\n      Adjusting the gain?\n    '
+2605.524,2607.593,me018,b'\n      '
+2607.593,2608.437,me018,b'\n      for each channel.\n    '
+2607.638,2608.860,fe008,b'\n      '
+2607.829,2609.172,mn014,b'\n      '
+2609.310,2611.037,me018,b'\n      O_K. So we just run that one -\n    '
+2609.680,2610.347,mn014,b'\n      We can do that.\n    '
+2610.190,2613.735,me011,b'\n      There are '
+2611.960,2612.282,mn014,b'\n      Yeah.\n    '
+2612.591,2613.816,mn014,"b'\n      I - I used it, so.\n    '"
+2613.180,2614.717,me018,b'\n      We just run that J_sound-stat?\n    '
+2614.620,2614.940,me011,b'\n      Yep.\n    '
+2614.936,2615.290,me013,b'\n      Yeah. '
+2614.992,2615.311,mn014,b'\n      Yeah.\n    '
+2615.038,2616.600,me018,b'\n      O_K. O_K.\n    '
+2615.470,2616.071,me013,b'\n      '
+2615.803,2617.097,me011,b'\n      Minus '
+2615.934,2616.267,mn014,b'\n      Yeah.\n    '
+2616.318,2617.230,me013,b'\n      but - but I -\n    '
+2617.230,2619.930,me013,b'\n      I - I have '
+2620.070,2628.190,me013,"b'\n      since, '"
+2628.550,2629.280,me013,"b'\n      um, '"
+2629.630,2632.900,me013,"b""\n      why don't we check through a bunch of things by """
+2633.054,2633.751,me018,b'\n      Mm-hmm.\n    '
+2633.310,2635.210,me013,"b'\n      Right? In other words, rather than,\n    '"
+2635.540,2636.480,me013,"b'\n      um,\n    '"
+2636.520,2639.390,me013,"b""\n      uh, saying we're gonna """
+2638.772,2639.354,me011,b'\n      '
+2639.354,2640.848,me011,b'\n      '
+2640.648,2640.998,me013,b'\n      Yeah.\n    '
+2641.190,2648.910,me013,b'\n      '
+2642.310,2643.831,me011,"b""\n      just see if they're any good. """
+2644.630,2645.330,me018,b'\n      Yeah.\n    '
+2648.377,2649.840,me018,b'\n      Send it to '
+2648.908,2649.297,mn014,b'\n      Yeah. '
+2649.392,2655.220,me013,"b""\n      And, you know, then they'll send us back what we - w- what - what they send back to us, and we'll - we'll fix things up and """
+2650.766,2651.990,fe008,"b""\n      Oh, that'd be great. """
+2655.220,2658.120,me013,b'\n      some meetings will cost more time to fix up than others.\n    '
+2655.240,2655.621,me011,b'\n      We should -\n    '
+2657.047,2657.565,mn014,b'\n      '
+2657.170,2657.438,me011,b'\n      Yeah. '
+2657.842,2662.985,me011,b'\n      And we should just double-check with Brian on a few simple conventions on how they should mark things.\n    '
+2657.892,2658.362,me018,b'\n      '
+2658.033,2658.431,mn014,b'\n      Sure.\n    '
+2663.110,2666.111,me018,"b""\n      When they - when there's either no speech in there, or """
+2664.215,2664.587,mn014,b'\n      Yeah.\n    '
+2665.202,2665.494,mn014,b'\n      Yeah.\n    '
+2666.111,2668.410,me018,"b""\n      something they don't understand, things like that.\n    """
+2666.997,2667.936,fe008,b'\n      Yeah. Mm-hmm.\n    '
+2667.887,2672.057,me011,b'\n      '
+2667.935,2668.374,me013,b'\n      Yeah.\n    '
+2672.277,2676.861,me011,"b""\n      when they can't distinguish between the foreground and background, because I thought """
+2676.861,2677.346,me011,b'\n      '
+2677.002,2677.723,me018,b'\n      Mm-hmm. '
+2677.346,2682.604,me011,b'\n      But if we send them without '
+2679.030,2679.360,mn014,b'\n      '
+2682.600,2683.239,me018,b'\n      Mm-hmm. '
+2682.604,2683.169,me011,b'\n      '
+2682.743,2683.049,mn014,b'\n      Yeah. '
+2683.169,2685.889,me011,"b'\n      and other sorts of, uh, acoustic problems.\n    '"
+2685.510,2690.882,me018,b'\n      '
+2685.920,2686.897,fe008,b'\n      They '
+2687.179,2687.534,fe008,b'\n      Yeah. '
+2688.880,2689.576,me011,b'\n      '
+2689.576,2697.398,me011,b'\n      But what - what we would '
+2693.998,2694.946,mn014,b'\n      Yeah. '
+2695.940,2697.018,mn014,b'\n      Mark it. '
+2697.435,2697.636,mn014,b'\n      Yeah. '
+2697.496,2698.250,me018,b'\n      Mm-hmm. '
+2698.413,2704.303,fe008,b'\n      '
+2701.854,2702.283,me011,b'\n      Mm-hmm. '
+2703.517,2704.398,me013,b'\n      '
+2703.670,2703.967,me011,b'\n      Right.\n    '
+2704.398,2706.750,me013,b'\n      i- Can I maybe have - have an order of - '
+2706.750,2709.938,me013,"b""\n      it's probably in your paper that I haven't looked at lately, but - """
+2710.160,2713.070,me013,"b'\n      Uh, an order of magnitude notion of - of how -\n    '"
+2710.186,2711.150,fe008,b'\n      Certainty. '
+2713.355,2716.790,me013,b'\n      on a '
+2716.960,2722.580,me013,"b'\n      segments that come in the middle of words and so forth, and uh - in a '"
+2721.225,2721.872,mn014,b'\n      '
+2723.127,2725.279,mn014,b'\n      Uh. '
+2724.620,2726.810,fe008,b'\n      '
+2726.440,2734.095,me013,b'\n      '
+2727.579,2728.513,fe008,"b'\n      In a good meeting, '"
+2729.537,2729.968,mn014,b'\n      Yeah.\n    '
+2730.270,2731.010,fe008,b'\n      Yeah.\n    '
+2731.160,2733.000,fe008,"b'\n      Oh I see, the characteristics.\n    '"
+2734.095,2736.634,me013,b'\n      '
+2736.634,2738.931,me013,b'\n      '
+2738.931,2742.797,me013,b'\n      '
+2741.408,2742.106,fe008,b'\n      Uh-huh. '
+2742.797,2748.120,me013,b'\n      So I mean does one of the- does it mean '
+2742.987,2743.389,fe008,b'\n      O_K. '
+2748.123,2748.563,fe008,b'\n      '
+2748.468,2749.510,me013,b'\n      Uh -\n    '
+2749.307,2750.343,mn014,b'\n      So - '
+2749.510,2755.157,me013,"b""\n      Or - Maybe percentage isn't the right word, but """
+2749.877,2750.755,fe008,b'\n      '
+2751.444,2751.748,mn014,b'\n      Yeah th-\n    '
+2753.670,2756.013,mn014,"b'\n      Yeah, the - the problem is that, nnn,\n    '"
+2756.162,2761.710,mn014,b'\n      the numbers '
+2757.815,2758.213,me013,b'\n      '
+2761.710,2762.220,mn014,b'\n      '
+2762.220,2764.543,mn014,b'\n      What will be\n    '
+2762.772,2763.325,me013,b'\n      '
+2764.891,2767.113,mn014,"b'\n      effective for - for the transcribers, is -\n    '"
+2767.113,2767.740,mn014,b'\n      '
+2767.740,2772.457,mn014,"b""\n      They have to - yeah, in- in- they have to insure that that's a real s- spurt or something.\n    """
+2772.457,2773.070,mn014,b'\n      '
+2773.070,2777.419,mn014,"b'\n      And - but, '"
+2776.324,2776.969,fe008,b'\n      Hmm! '
+2777.419,2777.853,mn014,b'\n      '
+2777.853,2778.575,mn014,b'\n      Let me think. '
+2778.575,2779.360,mn014,b'\n      '
+2779.360,2786.513,mn014,b'\n      So the '
+2786.722,2787.983,mn014,b'\n      for a '
+2788.304,2788.748,mn014,b'\n      I th-\n    '
+2788.948,2792.134,mn014,b'\n      is around '
+2792.134,2792.751,mn014,b'\n      '
+2792.751,2794.342,mn014,b'\n      But there '
+2795.275,2798.387,mn014,"b'\n      Yeah. For - yeah, but there can be '"
+2798.890,2800.187,mn014,"b""\n      There's - There's more amount speech -\n    """
+2800.187,2800.491,mn014,b'\n      '
+2800.491,2802.187,mn014,"b'\n      uh, more amount of -\n    '"
+2802.187,2805.084,mn014,"b'\n      Yeah well, the detector says there '"
+2805.084,2805.719,mn014,b'\n      '
+2805.719,2806.971,mn014,b'\n      So that - that can be\n    '
+2808.000,2810.087,mn014,b'\n      a '
+2810.200,2812.937,me013,"b""\n      But I think that's less of a problem. They'll just listen. It's just wasted time.\n    """
+2811.689,2811.983,mn014,b'\n      Yeah.\n    '
+2813.003,2813.383,mn014,b'\n      Yeah.\n    '
+2813.146,2815.190,me013,b'\n      '
+2815.410,2818.340,me013,"b""\n      Now what about in a meeting that you said we've - you've had some more trouble with?\n    """
+2818.406,2819.677,mn014,b'\n      '
+2819.677,2826.151,mn014,b'\n      I '
+2826.151,2826.612,mn014,b'\n      '
+2826.612,2827.446,mn014,"b""\n      That's really -\n    """
+2827.446,2832.739,mn014,b'\n      I - I did '
+2832.739,2833.034,mn014,b'\n      '
+2833.034,2835.434,mn014,"b""\n      it's not - not """
+2835.939,2837.688,mn014,b'\n      '
+2838.201,2839.662,mn014,b'\n      Fff. '
+2840.020,2840.514,mn014,b'\n      Um -\n    '
+2840.985,2846.571,mn014,"b""\n      Yeah, it's perhaps """
+2846.701,2849.075,mn014,"b'\n      speech frames which are - which are missed, but um,\n    '"
+2849.188,2850.597,mn014,"b""\n      I can't - can't really tell.\n    """
+2850.719,2851.200,me013,b'\n      Right. '
+2851.200,2856.840,me013,b'\n      So I - '
+2855.647,2856.068,mn014,b'\n      Yeah.\n    '
+2856.840,2861.000,me013,"b""\n      how many times is there a spurt that's - that's uh, interrupted?\n    """
+2859.793,2860.158,mn014,b'\n      Yeah.\n    '
+2861.410,2861.689,mn014,b'\n      Yeah. '
+2861.456,2863.052,me013,b'\n      Something like that?\n    '
+2862.106,2863.506,mn014,b'\n      '
+2862.581,2866.959,fe008,b'\n      '
+2863.052,2864.137,me013,b'\n      And - '
+2863.506,2863.776,mn014,b'\n      So -\n    '
+2866.959,2870.423,fe008,b'\n      '
+2870.632,2877.530,fe008,b'\n      '
+2875.363,2881.030,me013,b'\n      '
+2879.854,2880.269,fe008,b'\n      O_K. '
+2881.030,2887.900,me013,b'\n      If - if a - if a '
+2886.241,2886.645,fe008,b'\n      '
+2887.690,2888.381,fe008,b'\n      O_K. '
+2888.090,2893.860,me013,b'\n      Whereas if they listen '
+2888.223,2888.423,mn014,b'\n      But - '
+2890.677,2890.930,mn014,b'\n      Yeah.\n    '
+2894.110,2899.229,me013,"b'\n      a factor of three or four in - in, uh, '"
+2894.514,2895.284,fe008,b'\n      '
+2898.230,2900.666,mn014,"b""\n      Yeah, so - but I think that's - n- that really\n    """
+2901.006,2906.771,mn014,"b""\n      doesn't happen very often that - that - that a word is cut in the middle or something. """
+2906.711,2917.870,me013,b'\n      '
+2916.114,2917.318,mn014,b'\n      That is marked as speech. Yeah. '
+2917.579,2917.876,mn014,b'\n      Yeah.\n    '
+2918.120,2920.440,me013,"b'\n      Well then, we '"
+2919.784,2921.204,fe008,b'\n      That would be great. '
+2921.010,2923.300,me013,"b""\n      Right? Because that doesn't do any """
+2923.649,2924.432,mn014,"b""\n      Yeah, it's -\n    """
+2923.840,2928.650,me013,"b'\n      You know, if they - they hear you know, a dog bark and they say what was the '"
+2924.432,2926.832,mn014,b'\n      '
+2926.876,2927.952,fe008,b'\n      '
+2928.690,2929.431,mn014,"b'\n      Yeah, I als- I -\n    '"
+2928.790,2930.700,me013,b'\n      Ruff ruff! '
+2929.535,2933.387,mn014,b'\n      Yeah I also thought of - there - there are really '
+2933.570,2935.413,mn014,"b'\n      um, only bre- '"
+2935.413,2935.700,mn014,b'\n      '
+2935.537,2936.036,me013,b'\n      Yeah?\n    '
+2935.700,2936.778,mn014,b'\n      And to -\n    '
+2936.996,2938.107,mn014,"b""\n      to re-run's\n    """
+2938.107,2945.474,mn014,"b""\n      Eh, um. Yeah. I've got a - a """
+2945.474,2945.970,mn014,b'\n      '
+2945.726,2946.438,me013,b'\n      Uh-huh.\n    '
+2945.970,2949.445,mn014,b'\n      and then to reject everything which - which seems to be breath.\n    '
+2949.445,2949.766,mn014,b'\n      '
+2949.766,2954.357,mn014,"b'\n      So, I could run this on those breathy channels, and perhaps throw out -\n    '"
+2953.550,2954.416,me011,b'\n      '
+2954.390,2955.455,fe008,"b'\n      Wow, '"
+2954.418,2959.980,me013,b'\n      '
+2958.473,2958.697,mn014,b'\n      Yeah.\n    '
+2959.980,2960.820,me018,b'\n      Mm-hmm.\n    '
+2960.272,2960.472,mn014,b'\n      Yeah. '
+2960.390,2964.930,me013,b'\n      '
+2962.086,2963.600,me018,b'\n      Yeah. '
+2963.780,2964.680,fe008,b'\n      Excellent.\n    '
+2964.930,2966.070,me013,b'\n      explicit markings.\n    '
+2965.070,2968.730,fe008,"b""\n      Oh, I'd be """
+2968.050,2973.212,me013,b'\n      '
+2973.212,2981.691,me013,"b'\n      a meeting like this or something, and - '"
+2974.225,2974.473,mn014,b'\n      Yeah.\n    '
+2975.260,2976.690,fe008,"b'\n      Oh yeah, interesting.\n    '"
+2978.880,2979.650,fe008,b'\n      Oh yeah.\n    '
+2980.400,2988.060,fe008,b'\n      '
+2983.627,2984.377,me013,b'\n      Yeah.\n    '
+2987.751,2988.364,me013,b'\n      Uh-huh.\n    '
+2988.679,2989.043,fe008,b'\n      '
+2989.043,2990.699,fe008,b'\n      '
+2989.730,2994.990,me018,b'\n      Well '
+2991.083,2991.715,fe008,b'\n      Yeah. '
+2995.240,2998.050,me018,"b'\n      put the beeps file, send it off to I_B_M. You know? '"
+2997.579,2998.197,fe008,b'\n      Mm-hmm. '
+2998.090,3000.330,me018,b'\n      With very little '
+2998.120,2998.830,mn014,b'\n      Yeah.\n    '
+2999.010,2999.562,mn014,b'\n      '
+2999.562,3002.084,mn014,"b'\n      Process it, '"
+3001.534,3002.771,fe008,b'\n      '
+3002.084,3002.852,mn014,b'\n      I would - '
+3002.200,3002.796,me018,b'\n      Do what?\n    '
+3002.852,3004.721,mn014,"b'\n      Um, '"
+3004.750,3005.670,me011,b'\n      Or at least '
+3004.960,3006.980,me018,"b'\n      Well, sample it. Sample it.\n    '"
+3005.026,3005.530,mn014,b'\n      Yeah.\n    '
+3005.670,3006.356,me011,b'\n      '
+3005.962,3007.973,me013,b'\n      '
+3006.071,3006.298,mn014,b'\n      Yeah.\n    '
+3006.608,3006.952,mn014,b'\n      Yeah.\n    '
+3007.260,3007.620,mn014,b'\n      Yeah. '
+3007.648,3008.149,me018,b'\n      Yeah.\n    '
+3008.300,3015.185,me013,"b'\n      send them three hours of ""bzzz"" '"
+3009.353,3010.652,mn014,b'\n      No.\n    '
+3010.038,3011.089,me018,b'\n      Yeah. Right. '
+3010.652,3013.569,mn014,b'\n      '
+3012.240,3013.894,me018,b'\n      Yeah. Yeah that would be very good.\n    '
+3012.300,3012.925,fe008,b'\n      Yeah. '
+3013.569,3013.857,mn014,b'\n      Yeah. '
+3013.894,3017.660,me018,b'\n      And then we can you know - '
+3015.949,3016.924,fe008,"b'\n      Oh, '"
+3017.292,3017.660,fe008,b'\n      Yeah.\n    '
+3017.950,3018.690,me018,b'\n      '
+3018.880,3023.227,mn014,"b""\n      And there's - there's one point which I """
+3018.920,3019.950,me013,b'\n      Great. '
+3023.227,3023.690,mn014,b'\n      '
+3023.690,3024.935,mn014,"b'\n      yeah, which - which I r-\n    '"
+3026.147,3029.683,mn014,b'\n      '
+3029.683,3032.465,mn014,b'\n      that somebody is playing sound from his laptop.\n    '
+3032.476,3035.253,fe008,b'\n      '
+3032.630,3033.123,me011,b'\n      Uh-huh '
+3033.143,3033.640,mn014,b'\n      And i-\n    '
+3034.126,3034.873,mn014,b'\n      '
+3034.873,3039.952,mn014,"b'\n      the speech-nonspeech detector just assigns randomly the speech to - to one of the channels, so.\n    '"
+3038.022,3038.733,me013,b'\n      '
+3039.952,3040.848,mn014,b'\n      '
+3040.172,3042.121,me013,b'\n      '
+3040.848,3044.400,mn014,"b""\n      Uh- I haven't- I didn't think of - of s- of """
+3041.863,3042.672,me011,b'\n      What can you do?\n    '
+3044.400,3048.189,mn014,"b'\n      this before, but what - what shall we do about s- things like this?\n    '"
+3046.850,3051.100,fe008,b'\n      '
+3050.810,3051.788,me011,b'\n      Yep. Mmm. '
+3053.202,3053.454,mn014,"b'\n      But,\n    '"
+3053.920,3054.849,mn014,b'\n      sometimes the -\n    '
+3054.849,3055.328,mn014,b'\n      '
+3055.328,3058.846,mn014,"b'\n      the - the laptop is in the background and some - somebody is - is talking, and,\n    '"
+3058.846,3059.159,mn014,b'\n      '
+3059.151,3059.367,me011,b'\n      '
+3059.159,3061.011,mn014,"b""\n      that's really a little bit confusing, but -\n    """
+3061.316,3062.860,me013,b'\n      '
+3062.360,3064.672,me011,"b""\n      It's a little bit """
+3062.591,3062.982,mn014,b'\n      Yeah.\n    '
+3063.528,3063.796,mn014,b'\n      Yeah.\n    '
+3063.920,3065.068,mn014,b'\n      '
+3064.672,3064.923,me011,b'\n      '
+3064.900,3065.786,me013,b'\n      Yeah. '
+3064.923,3066.565,me011,b'\n      Even a '
+3065.050,3065.573,fe008,b'\n      Do you - '
+3066.863,3069.501,me011,b'\n      a '
+3068.355,3074.171,mn014,"b""\n      Yeah, that's - that's a """
+3071.290,3072.527,me018,b'\n      '
+3074.500,3075.940,fe008,"b'\n      Would you - would - Yeah, go ahead. '"
+3074.520,3077.483,me013,b'\n      What was the l- what was the laptop sound? I mean was it '
+3077.081,3081.400,mn014,b'\n      Yeah. '
+3078.860,3079.303,me013,b'\n      Great.\n    '
+3079.292,3080.331,fe008,b'\n      '
+3079.303,3081.360,me013,b'\n      '
+3080.331,3085.310,fe008,"b'\n      Well, so - I mean - So '"
+3085.369,3094.754,fe008,"b""\n      then, they don't end up on one of the close-miked """
+3091.139,3091.807,me013,b'\n      Uh-huh. '
+3091.908,3092.150,mn014,b'\n      Yeah. '
+3092.671,3092.989,mn014,b'\n      '
+3092.989,3093.510,mn014,"b'\n      But, '"
+3094.067,3099.675,mn014,"b'\n      when thi- when this is sent to - to the I_M_- eh, I_B_'"
+3096.580,3097.600,fe008,"b""\n      Yeah, that's right.\n    """
+3099.990,3102.778,me011,b'\n      Yeah cuz there will be '
+3101.490,3101.793,mn014,b'\n      Yeah.\n    '
+3102.778,3103.540,me011,b'\n      '
+3102.813,3103.649,mn014,b'\n      Yeah.\n    '
+3103.010,3109.610,fe008,b'\n      '
+3103.540,3104.012,me011,b'\n      Uh -\n    '
+3109.390,3114.459,me011,b'\n      '
+3114.378,3114.762,mn014,b'\n      Yeah. '
+3114.920,3117.540,me011,"b""\n      Right? For it - because in the overlap sections, then they'll-\n    """
+3116.640,3121.440,me018,"b""\n      Well I don't think Jane's saying they're gonna """
+3120.093,3120.475,me011,b'\n      '
+3120.475,3128.133,me011,"b""\n      But that's gonna be all """
+3121.440,3122.150,fe008,b'\n      Yeah.\n    '
+3123.557,3123.775,mn014,b'\n      Yeah.\n    '
+3127.719,3131.640,fe008,b'\n      '
+3131.640,3133.870,me018,b'\n      But '
+3132.000,3132.909,me011,b'\n      How would they '
+3132.392,3132.941,mn014,b'\n      '
+3132.941,3133.469,mn014,b'\n      Yeah.\n    '
+3133.469,3133.779,mn014,b'\n      '
+3133.870,3135.530,fe008,b'\n      Well because '
+3134.017,3134.428,me011,b'\n      '
+3134.428,3136.922,me011,"b""\n      Because otherwise it's gonna be too much work for them to """
+3136.922,3138.883,me011,"b""\n      They'll be marking it all """
+3137.171,3137.318,mn014,b'\n      Yeah.\n    '
+3138.343,3144.173,fe008,b'\n      '
+3142.824,3143.233,me013,b'\n      '
+3142.999,3143.750,me011,b'\n      '
+3143.750,3148.109,me011,b'\n      '
+3144.173,3144.970,fe008,b'\n      And -\n    '
+3147.180,3149.550,fe008,"b'\n      Oh, you can '"
+3147.475,3147.702,mn014,b'\n      Yeah.\n    '
+3149.508,3152.789,mn014,b'\n      '
+3151.280,3152.630,fe008,b'\n      Oh is it? Oh!\n    '
+3151.370,3158.520,me013,b'\n      '
+3158.553,3160.509,mn014,"b'\n      Yeah that would be very important, yeah.\n    '"
+3158.601,3159.672,fe008,b'\n      '
+3159.106,3162.370,me011,b'\n      '
+3162.837,3164.177,me011,b'\n      How can they '
+3165.330,3167.580,me018,b'\n      Well we may just have to do it when it gets back here.\n    '
+3166.930,3169.982,me011,"b""\n      Yes, that's my opinion as """
+3167.668,3167.922,mn014,b'\n      Yeah. '
+3168.247,3169.990,fe008,b'\n      O_K. '
+3168.456,3168.972,me018,b'\n      '
+3169.982,3170.610,me011,b'\n      '
+3170.150,3171.050,fe008,b'\n      That sounds good.\n    '
+3170.300,3170.610,me018,b'\n      Yeah.\n    '
+3170.610,3173.907,me011,"b""\n      And they'll just mark it however they mark it, and we'll correct it when it comes back.\n    """
+3172.190,3172.467,mn014,b'\n      So th-\n    '
+3172.493,3172.974,me013,b'\n      Yeah. '
+3172.762,3173.101,mn014,b'\n      '
+3172.942,3173.621,fe008,b'\n      O_K. '
+3173.101,3174.423,mn014,b'\n      there was a category for\n    '
+3174.423,3175.040,mn014,b'\n      '
+3175.040,3176.623,mn014,b'\n      '
+3175.070,3175.919,me011,"b'\n      Yeah, the default.\n    '"
+3175.450,3176.450,fe008,"b'\n      Yeah, s- a-\n    '"
+3176.207,3176.510,me011,b'\n      '
+3176.510,3177.740,me011,"b'\n      No, '"
+3176.568,3182.425,fe008,"b""\n      Well, as it comes back, we have a uh - when we can use the channelized interface for encoding it, then it'll be easy for us to handle. But -\n    """
+3180.238,3180.470,mn014,b'\n      Yeah.\n    '
+3182.425,3186.903,fe008,b'\n      '
+3186.903,3191.320,fe008,"b'\n      you know, a close-miked speaker or not, '"
+3187.280,3187.678,mn014,b'\n      O_K.\n    '
+3190.560,3190.898,me011,b'\n      Right. '
+3191.631,3191.961,mn014,b'\n      O_K. '
+3192.749,3194.361,fe008,b'\n      '
+3194.361,3196.634,fe008,"b""\n      Either way would be fine with me, I don't really care. """
+3196.746,3197.095,me013,b'\n      Yeah. '
+3197.537,3198.403,me013,b'\n      '
+3198.403,3201.280,me013,"b'\n      So. Shall we uh, do digits and get out of here?\n    '"
+3201.050,3209.813,fe008,b'\n      '
+3201.227,3201.535,me011,b'\n      Yep.\n    '
+3202.144,3203.415,me013,b'\n      '
+3209.813,3214.290,fe008,b'\n      leave the '
+3214.700,3221.650,fe008,"b'\n      uh, beep file that we send to I_B_M for that one, or should we '"
+3221.649,3222.567,me013,b'\n      '
+3221.770,3225.790,fe008,b'\n      in what we send. '
+3222.816,3223.306,mn014,b'\n      With - '
+3224.827,3225.862,mn014,"b'\n      with the laptop sound, or - ? '"
+3228.239,3235.540,fe008,"b'\n      w- If we have speech from the laptop should we just uh, excise that from what we send to I_B_M, or should we '"
+3228.401,3228.707,mn014,b'\n      just -\n    '
+3234.130,3237.180,me018,"b""\n      I think we should just - it - it's gonna be too much work if we hafta """
+3237.120,3239.656,fe008,"b'\n      O_K, '"
+3237.510,3241.860,me018,"b'\n      worry about that I think. Yeah, I think if we just - m- send it '"
+3241.880,3242.630,me018,b'\n      you know.\n    '
+3242.882,3244.397,me011,b'\n      '
+3242.959,3244.815,fe008,b'\n      Good. And see how well they do.\n    '
+3243.270,3245.570,me018,"b'\n      Let - Yeah, worry about it when we get back in.\n    '"
+3245.420,3246.080,me013,b'\n      Yeah. '
+3245.570,3250.290,fe008,b'\n      And give them freedom to - '
+3248.106,3248.990,me018,b'\n      Yeah.\n    '
+3248.620,3254.403,me013,"b""\n      Yeah. Cuz, I wouldn't - don't think we would """
+3252.492,3253.110,me011,b'\n      '
+3253.390,3254.680,fe008,"b'\n      Yeah, yeah.\n    '"
+3253.500,3256.385,me011,"b""\n      As I say, we'll just have to listen to it and see how horrible it is.\n    """
+3253.500,3254.630,me018,"b'\n      Yeah, e-\n    '"
+3255.480,3255.881,mn014,b'\n      Yeah.\n    '
+3256.350,3257.950,fe008,b'\n      O_K. Alright.\n    '
+3256.683,3257.637,me011,"b'\n      Sample it, rather.\n    '"
+3257.670,3258.030,me018,b'\n      Yeah.\n    '
+3258.030,3264.761,mn014,b'\n      I think that - that will be a '
+3258.307,3259.156,fe008,"b""\n      That's great.\n    """
+3263.930,3268.008,me011,"b""\n      Mm-hmm, and - and they're very - it's very audible? on the close-talking channels?\n    """
+3267.891,3268.361,mn014,b'\n      Yeah.\n    '
+3270.564,3271.036,me011,b'\n      Oh well.\n    '
+3271.537,3272.370,me013,b'\n      Yeah.\n    '
+3271.750,3273.530,me011,"b""\n      I mean, it's the same problem as the lapel mike. """
+3273.819,3274.019,mn014,b'\n      Yeah.\n    '
+3274.360,3274.649,me011,b'\n      But - '
+3274.370,3275.731,fe008,"b'\n      Oh, interesting. '"
+3274.937,3275.768,mn014,"b'\n      Comparable, yeah.\n    '"
+3276.285,3276.600,me013,b'\n      Yeah. '
+3276.922,3277.777,fe008,"b'\n      O_K, alright.\n    '"
+3277.081,3277.838,me013,b'\n      '
+3277.240,3277.614,mn014,b'\n      '
+3277.838,3280.124,me013,"b""\n      Let's do digits. """
+3278.496,3280.604,me011,b'\n      '
+3278.564,3279.207,fe008,b'\n      Digits. '
+3280.140,3282.570,fe008,"b'\n      O_K, so we read the transcript number first, right? '"
+3282.127,3284.620,mn014,b'\n      '
+3282.423,3284.855,me011,b'\n      '
+3284.620,3285.926,mn014,b'\n      What time is it? '
+3285.590,3289.050,me013,"b'\n      Uh, '"
+3285.926,3287.108,mn014,b'\n      '
+3286.291,3287.587,fe008,"b'\n      Uh, quarter to four. '"
+3287.108,3288.613,mn014,"b'\n      Oh, O_K. '"
+3289.273,3289.848,fe008,b'\n      Mm-hmm. '
+3290.491,3291.467,me013,b'\n      '
+3291.551,3294.001,me013,"b'\n      One, two, three, go!\n    '"
+3294.180,3296.179,me018,b'\n      Transcript L_ six three. '
+3294.220,3296.065,me011,b'\n      Transcript L_ five nine. '
+3294.428,3296.517,me013,b'\n      Transcript L_ five seven. '
+3294.670,3296.640,mn014,b'\n      Transcript L_ fifty-eight. '
+3294.786,3296.576,fe008,b'\n      Transcript L_ six one. '
+3297.133,3301.640,me018,"b'\n      Five zero, three seven, eight zero, nine eight, four seven. '"
+3297.252,3302.896,me011,"b'\n      zero nine, seven five, one three four six, nine two '"
+3297.283,3300.804,me013,"b'\n      Eight nine two, five one six, four seven '"
+3297.297,3302.457,mn014,"b'\n      Four six, four three, three seven, three one, nine eight, one nine. '"
+3297.317,3301.060,fe008,"b'\n      Nine nine seven, O_ four three, nine eight two. '"
+3301.537,3305.457,me013,"b'\n      Eight eight six eight, zero four four one, three five six four. '"
+3301.640,3305.016,fe008,"b'\n      Four six one, zero two seven, zero three eight. '"
+3302.420,3306.330,me018,"b'\n      One two eight, nine two two, eight three five two. '"
+3303.275,3309.470,mn014,"b'\n      Four nine, zero four, one eight, nine one, nine six five eight. '"
+3303.339,3307.013,me011,b'\n      '
+3305.593,3309.392,fe008,"b'\n      Six one, nine seven, seven four, eight zero, eight six. '"
+3306.196,3309.452,me013,"b'\n      Six five one, six nine seven, three eight eight one. '"
+3306.690,3311.150,me018,"b'\n      Seven three, five two, four three, zero six, six one. '"
+3307.553,3310.376,me011,"b'\n      one zero, nine one, six six, nine five, four eight '"
+3309.766,3312.595,fe008,"b'\n      Five eight eight, eight four, one nine nine five. '"
+3309.792,3313.486,mn014,"b'\n      Nine six, two zero, zero seven, nine seven, nine O_. '"
+3310.357,3313.692,me013,"b'\n      Three six, four zero, six six, zero seven, nine three. '"
+3310.633,3311.259,me011,b'\n      '
+3311.259,3315.027,me011,"b'\n      four seven O_, '"
+3311.800,3316.430,me018,"b'\n      Two two four five, three four seven five, six eight four four. '"
+3312.817,3317.040,fe008,"b'\n      Six one one zero, seven eight O_ eight, nine five O_ four. '"
+3313.486,3313.903,mn014,b'\n      '
+3313.903,3317.539,mn014,"b'\n      One six two, four O_ nine, nine seven nine eight. '"
+3314.611,3318.268,me013,"b'\n      Three two one nine, eight seven four eight, nine zero four two. '"
+3316.601,3320.086,me011,"b'\n      Four nine five, four nine, six O_, one four. '"
+3316.860,3320.450,me018,"b'\n      Six four six, six six three, eight one zero. '"
+3317.320,3322.304,fe008,"b'\n      Two, three five two, seven zero, seven six one, six. '"
+3317.539,3317.818,mn014,b'\n      '
+3317.818,3320.939,mn014,"b'\n      Three eight zero zero, eight, five six three. '"
+3318.747,3322.353,me013,"b'\n      Four nine six four, two four eight nine, seven one four six. '"
+3320.980,3325.540,me018,"b'\n      One two, one three, zero seven, two zero, five five. '"
+3321.200,3322.082,me011,b'\n      '
+3321.390,3324.311,mn014,"b'\n      One nine nine, two seven zero, one two six, '"
+3322.082,3326.433,me011,"b'\n      five O_, nine two, nine one three nine, three five three eight '"
+3322.906,3326.529,fe008,"b'\n      Six two five five, four one O_ one, three one nine one, '"
+3322.941,3326.717,me013,"b'\n      Zero nine four six, six one nine zero, three six nine nine. '"
+3324.937,3328.817,mn014,"b'\n      nine eight zero five, five one one six, five eight five six. '"
+3325.990,3329.064,me018,"b'\n      Three nine two, nine three, four one eight three. '"
+3326.640,3329.276,me011,"b'\n      one six one, seven five, five two two three '"
+3326.951,3330.430,fe008,"b'\n      eight nine six, six three one, five one two. '"
+3327.425,3331.001,me013,"b'\n      Five six seven, eight three zero, two five four two. '"
+3329.137,3333.194,mn014,"b'\n      Six, three two four, one seven, five O_ seven, one. '"
+3329.535,3333.303,me011,"b'\n      seven six, one two, nine two, eight five, '"
+3329.733,3333.230,me018,"b'\n      One six three, one two O_, two O_ two four. '"
+3333.719,3338.440,fe008,b'\n      '
+3336.161,3337.937,me011,"b'\n      Nnn, yeah, I think there probably '"
+3336.241,3339.087,me013,b'\n      '
+3337.959,3338.872,mn014,b'\n      Yeah. '
+3338.440,3340.240,me018,b'\n      Do you guys plug your ears when you do it?\n    '
+3339.710,3340.752,me011,b'\n      I do. '
+3339.750,3341.790,fe008,b'\n      '
+3339.820,3340.281,mn014,b'\n      No.\n    '
+3340.440,3341.240,me018,b'\n      I do.\n    '
+3341.029,3342.629,mn014,b'\n      '
+3341.704,3343.360,me013,b'\n      '
+3341.790,3344.330,me018,b'\n      You '
+3343.490,3346.930,me013,b'\n      '
+3343.554,3346.118,me011,b'\n      '
+3344.050,3347.561,fe008,b'\n      '
+3344.330,3344.580,mn014,b'\n      '
+3344.580,3347.561,mn014,b'\n      Perhaps there are '
+3345.045,3346.631,me018,b'\n      '
+3346.118,3347.561,me011,b'\n      '
+3347.120,3347.561,me018,b'\n      I - I\n    '
+3347.559,3349.786,me013,b'\n      '
+3347.559,3349.786,me001,b'\n      '
+3347.561,3349.786,me011,b'\n      '
+3347.561,3349.786,fe008,b'\n      '
+3347.561,3349.786,me018,b'\n      '
+3347.561,3349.786,mn017,b'\n      '
+3347.561,3349.786,,b'\n      '
+3347.561,3349.786,mn014,b'\n      '
+3349.786,3350.870,mn014,"b'\n      closed, so.\n    '"
+3349.786,3352.081,me011,b'\n      Total concentration. Are you guys ready?\n    '
+3350.870,3353.302,me018,b'\n      You hate to have your ears plugged? '
+3351.674,3352.560,me013,b'\n      '

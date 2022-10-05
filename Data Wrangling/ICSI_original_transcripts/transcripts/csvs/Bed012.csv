@@ -1,0 +1,1210 @@
+start,end,participant,text
+81.796,86.020,mn015,b'\n      So I guess this is '
+82.000,82.560,fn050,b'\n      '
+82.000,82.562,,b'\n      '
+82.000,82.554,me012,b'\n      '
+82.000,82.560,me003,b'\n      '
+86.579,87.480,me003,b'\n      '
+86.830,88.680,mn015,"b'\n      This is what, uh,\n    '"
+89.295,90.680,me003,b'\n      '
+90.960,92.607,mn015,"b'\n      um,\n    '"
+92.607,93.542,mn015,"b'\n      Eva,\n    '"
+95.521,97.160,mn015,"b'\n      Bhaskara, and I did.\n    '"
+97.404,99.292,fn050,b'\n      Did you add more stuff to it? '
+98.862,99.204,mn015,b'\n      '
+99.540,101.060,mn015,b'\n      Um. Why?\n    '
+100.992,101.909,fn050,b'\n      Um.\n    '
+101.453,105.940,me003,b'\n      '
+101.909,102.402,fn050,b'\n      '
+102.402,104.457,fn050,"b'\n      There were, like, the - you know, '"
+104.457,106.645,fn050,b'\n      I thought you - you said you were adding stuff but '
+105.940,154.605,me003,b'\n      '
+106.101,108.221,mn015,"b'\n      Uh, no. This is -\n    '"
+108.483,109.097,fn050,b'\n      '
+109.962,110.880,mn015,"b'\n      Um,\n    '"
+112.412,112.875,mn015,b'\n      Ha! '
+113.483,114.029,mn015,b'\n      Very nice.\n    '
+115.370,117.360,mn015,"b'\n      Um, so we thought that,\n    '"
+118.165,118.360,mn015,b'\n      '
+118.360,119.800,mn015,b'\n      We can write up\n    '
+119.810,120.542,mn015,"b'\n      uh,\n    '"
+122.231,123.400,mn015,"b'\n      an element,\n    '"
+124.724,127.110,mn015,b'\n      and - for each of the situation\n    '
+128.453,130.610,mn015,b'\n      nodes that we observed in the Bayes-net?\n    '
+132.239,133.420,mn015,b'\n      So.\n    '
+134.560,139.567,mn015,"b""\n      What's the """
+139.567,140.621,mn015,b'\n      Or is it\n    '
+140.927,144.030,mn015,b'\n      on fire or something '
+144.260,146.020,mn015,"b'\n      and so forth, going all the way\n    '"
+146.535,147.620,mn015,"b'\n      um,\n    '"
+147.740,148.150,mn015,b'\n      f-\n    '
+148.150,149.531,mn015,"b'\n      through Parking,\n    '"
+149.531,152.050,mn015,"b'\n      Location, Hotel, Car, Restroom,\n    '"
+152.575,152.835,mn015,b'\n      '
+153.120,156.190,mn015,"b'\n      Riots, Fairs, Strikes, or\n    '"
+156.347,158.390,mn015,b'\n      Disasters.\n    '
+157.130,160.790,me003,b'\n      So is - This is - A situation are - is all the things which can be happening right '
+161.450,163.340,me003,"b'\n      Or, '"
+163.750,164.430,me003,b'\n      type?\n    '
+165.729,171.273,mn015,"b""\n      That's basically """
+171.980,174.600,me003,"b'\n      Oh, '"
+174.757,175.671,mn015,b'\n      Um.\n    '
+175.983,180.000,mn015,b'\n      Just because it forces us to be specific about the values '
+180.000,180.770,mn015,b'\n      here?\n    '
+181.719,182.403,me003,b'\n      O_K.\n    '
+182.640,186.806,mn015,"b'\n      And, also, I mean, this is a - what the input is going to be. Right?\n    '"
+186.990,188.140,mn015,"b'\n      So, we will, uh - '"
+188.140,189.523,mn015,b'\n      This is a '
+189.570,194.230,me003,"b""\n      Well, yeah. I just don't know if this is th- l- what the - Does - This is what Java Bayes takes? as a\n    """
+194.054,196.319,mn015,"b'\n      No, because I mean if we -\n    '"
+194.560,195.268,me003,b'\n      Bayes-net spec?\n    '
+196.319,198.327,mn015,"b""\n      I mean we're """
+198.327,201.240,mn015,"b""\n      We're gonna get an X_M_L document from """
+201.570,203.614,mn015,b'\n      Right? And that X_M_L document will say\n    '
+204.190,207.747,mn015,"b'\n      ""We '"
+208.420,211.790,mn015,"b'\n      um, '"
+212.660,214.070,mn015,"b""\n      So that's gonna be - """
+215.315,216.210,mn015,b'\n      Um.\n    '
+216.320,221.510,me003,"b'\n      So this is the situational context, everything in it. Is that what Situation is short for, shi- situational context?\n    '"
+221.588,221.860,mn015,b'\n      Yep.\n    '
+222.080,222.840,me003,b'\n      O_K.\n    '
+224.000,224.830,mn015,"b'\n      So this is just,\n    '"
+225.740,230.830,mn015,"b'\n      again, a- an X_M_L schemata which defines a set of possible, uh, permissible X_M_L\n    '"
+226.297,229.124,me003,b'\n      '
+230.958,231.866,mn015,"b'\n      structures,\n    '"
+232.259,234.931,mn015,b'\n      which we view as input into the Bayes-net.\n    '
+238.062,238.947,mn015,b'\n      Right?\n    '
+238.750,240.440,me003,b'\n      And then we can r- '
+240.896,242.880,me003,b'\n      possibly run one of them uh\n    '
+243.203,244.355,me003,b'\n      transformations?\n    '
+244.355,247.920,me003,b'\n      That put it into the format that the Bayes n- or Java Bayes or whatever wants?\n    '
+247.862,252.030,mn015,b'\n      Yea- Are you talking - are you talking about the - the '
+252.630,253.330,me003,b'\n      Well it -\n    '
+253.330,255.670,mn015,b'\n      I mean when you '
+254.420,255.461,me003,b'\n      When you - when you say '
+255.461,257.408,me003,b'\n      the input to the '
+258.048,258.654,mn015,b'\n      Um-hmm.\n    '
+258.100,259.870,me003,"b'\n      it takes a certain format, right?\n    '"
+260.160,261.815,me003,"b""\n      Which I don't think is """
+261.815,263.000,me003,"b""\n      Although I don't know.\n    """
+263.190,264.372,mn015,"b""\n      No, it's """
+264.372,264.810,mn015,b'\n      Nuh. '
+265.260,267.390,me003,"b""\n      So you could just - Couldn't you just run a -\n    """
+267.080,268.530,mn015,b'\n      '
+268.520,269.131,me003,b'\n      Yeah. '
+269.478,271.930,me003,b'\n      To convert it into the Java Bayes for- format?\n    '
+271.500,271.940,mn015,b'\n      Yep.\n    '
+272.516,272.959,me003,b'\n      O_K.\n    '
+273.500,274.132,mn015,"b""\n      That's -\n    """
+274.822,276.177,mn015,"b""\n      That's no problem, but\n    """
+276.702,278.850,mn015,"b'\n      I even think that, um -\n    '"
+279.461,283.330,mn015,"b'\n      I mean, '"
+283.420,284.782,mn015,b'\n      Right? What you '
+285.267,291.440,mn015,"b'\n      You wanna say, ""O_K, give me the posterior probabilities of the Go-there '"
+291.680,293.220,mn015,b'\n      when '
+293.250,298.830,mn015,b'\n      Right? When the person said '
+299.340,303.755,mn015,b'\n      And with '
+304.380,305.530,mn015,b'\n      with the '
+305.710,306.604,mn015,b'\n      So we get -\n    '
+307.240,310.670,mn015,"b'\n      After we are done, through the Situation we get the User Vector.\n    '"
+312.450,314.180,mn015,"b'\n      So, this is a -\n    '"
+314.569,317.218,me003,b'\n      So this is just a specification of all the possible inputs?\n    '
+317.161,317.595,mn015,b'\n      Yep.\n    '
+318.770,319.660,mn015,b'\n      '
+320.940,322.690,mn015,b'\n      all the possible '
+323.350,323.780,me003,b'\n      '
+323.842,325.750,mn015,"b'\n      So, we have, um,\n    '"
+326.411,330.240,mn015,"b'\n      for example, the, uh, Go-there decision node\n    '"
+330.540,332.200,mn015,b'\n      which has two\n    '
+332.320,334.570,mn015,"b'\n      elements, going-there\n    '"
+334.920,337.120,mn015,"b'\n      and its posterior probability,\n    '"
+337.200,340.520,mn015,b'\n      and '
+342.600,344.520,mn015,b'\n      because the output is always gonna be\n    '
+345.100,350.270,mn015,b'\n      all the decision nodes and all the - the - a- all the posterior probabilities for all the values.\n    '
+351.552,357.294,me003,"b""\n      And then we would just look at the, eh, Struct that we wanna look at in terms of if - if we're only asking about one of the -\n    """
+358.550,361.090,me003,"b""\n      So like, if I'm just interested in the going-there node,\n    """
+361.780,364.188,me003,b'\n      I would just pull that information out of the Struct\n    '
+364.800,367.720,me003,b'\n      that gets return- that would - that Java Bayes would output?\n    '
+369.690,370.341,mn015,"b'\n      Um,\n    '"
+371.010,372.390,mn015,"b'\n      pretty much, yes, but\n    '"
+371.779,375.923,me003,b'\n      '
+372.390,375.490,mn015,"b""\n      I think it's a little bit more complex.\n    """
+377.180,384.570,mn015,"b'\n      As, if I understand it correctly, it '"
+385.070,385.880,mn015,"b'\n      So, when we\n    '"
+387.610,389.060,mn015,b'\n      '
+390.850,394.349,mn015,"b'\n      we always get the, uh, posterior probabilities for all of these. Right?\n    '"
+394.400,394.885,me003,b'\n      O_K.\n    '
+395.540,397.690,mn015,b'\n      So there is no way of telling it t-\n    '
+397.840,400.660,mn015,b'\n      '
+400.477,403.390,me003,"b'\n      Yeah, '"
+403.820,405.900,mn015,b'\n      So - so we get this whole\n    '
+406.810,409.300,mn015,b'\n      '
+410.582,412.688,mn015,"b'\n      things, and the question is\n    '"
+413.530,414.820,mn015,b'\n      what to '
+415.590,416.740,mn015,"b'\n      what to hand on,\n    '"
+416.840,418.290,mn015,b'\n      how to '
+418.430,419.159,mn015,b'\n      in a sense.\n    '
+420.110,425.452,mn015,"b'\n      So y- you said if you - ""I\'m only interested in whether he wants to '"
+426.224,426.871,mn015,b'\n      look which one -\n    '
+426.362,428.600,me003,"b'\n      Look at that Struct in the output, right?\n    '"
+428.182,428.449,mn015,b'\n      Yep.\n    '
+429.595,432.190,mn015,"b'\n      Look at that Struct in the - the output, even though\n    '"
+432.360,434.230,mn015,"b'\n      I wouldn\'t call it a ""Struct"". But.\n    '"
+434.427,437.640,me003,"b""\n      Well i- well, it's an X_M_L Structure that's being res- returned, right?\n    """
+436.731,437.909,mn015,b'\n      Oh. Mm-hmm.\n    '
+438.910,441.390,mn015,"b'\n      So every part of a structure is a ""Struct"".\n    '"
+441.390,441.987,mn015,b'\n      Yeah.\n    '
+442.040,443.607,me003,"b'\n      Yeah, I just uh - I just was - abbreviated it\n    '"
+444.030,445.689,me003,"b'\n      to Struct in my head, and\n    '"
+444.979,446.176,fn050,b'\n      '
+446.190,447.520,me003,b'\n      started going with that.\n    '
+448.910,450.134,mn015,b'\n      '
+450.134,450.864,mn015,b'\n      I would say.\n    '
+450.160,453.040,me003,"b""\n      Not a C_Struct. That's not what I was trying to k- """
+451.470,451.843,mn015,b'\n      Yeah.\n    '
+453.980,454.554,mn015,b'\n      O_K.\n    '
+454.820,456.930,mn015,"b'\n      And, um,\n    '"
+457.901,458.843,mn015,b'\n      the reason is -\n    '
+459.350,467.320,mn015,"b""\n      why I think it's a little bit more complex or why - why we can even think about it as an interesting problem in and of itself is -\n    """
+467.770,468.660,mn015,b'\n      Um.\n    '
+470.423,471.056,mn015,b'\n      So.\n    '
+471.505,472.556,mn015,"b'\n      The, uh -\n    '"
+474.640,476.320,mn015,"b""\n      Let's look at an """
+477.640,480.657,me003,"b""\n      Well, w- wouldn't we just take the structure that's outputted\n    """
+481.310,485.004,me003,"b'\n      and then run another transformation on it, that would just dump the one that we wanted out?\n    '"
+485.433,487.740,fn050,b'\n      '
+489.200,490.980,mn015,"b""\n      Yeah. w- We'd need to """
+491.664,492.210,mn015,b'\n      Right?\n    '
+492.579,493.214,fn050,b'\n      '
+493.367,494.353,mn015,b'\n      Throw things away.\n    '
+495.581,498.560,me003,"b""\n      Well, actually, you don't even need to """
+497.173,497.729,mn015,b'\n      '
+498.357,498.560,mn015,b'\n      '
+498.560,500.200,mn015,"b'\n      Yeah, '"
+500.540,501.540,mn015,b'\n      '
+502.063,504.976,mn015,"b'\n      allows you to say, u- ""Just give me the value of that, and that, and that.""\n    '"
+506.690,512.781,mn015,"b""\n      But, we don't really """
+513.189,514.276,mn015,"b'\n      So the person said,\n    '"
+515.000,516.050,mn015,"b'\n      um,\n    '"
+516.980,519.550,mn015,"b'\n      ""Where is X_?"" and so,\n    '"
+519.904,520.100,mn015,b'\n      '
+520.100,521.490,mn015,b'\n      '
+521.590,522.520,mn015,"b'\n      um,\n    '"
+522.870,524.890,mn015,b'\n      is - Does he want\n    '
+526.167,527.298,mn015,b'\n      info?\n    '
+527.298,531.250,mn015,b'\n      o- on this? or know the '
+531.680,533.290,mn015,b'\n      Or does he want to '
+535.840,538.251,mn015,"b""\n      Let's assume this is our - our question.\n    """
+537.210,538.220,me003,b'\n      Sure.\n    '
+538.430,538.737,mn015,b'\n      Nuh? '
+539.450,539.965,mn015,b'\n      So.\n    '
+542.780,543.364,mn015,b'\n      Um.\n    '
+543.631,544.442,mn015,b'\n      '
+546.228,547.647,mn015,b'\n      Do this in Perl. '
+562.780,566.323,me003,b'\n      '
+564.659,566.320,mn015,b'\n      So we get -\n    '
+573.984,601.750,mn015,b'\n      '
+601.750,602.500,mn015,b'\n      '
+617.230,619.190,mn015,"b""\n      Let's assume this is the output.\n    """
+621.722,622.740,mn015,b'\n      '
+623.060,625.690,mn015,b'\n      We should con- be able to conclude from that that -\n    '
+626.210,628.710,mn015,"b""\n      I mean. It's """
+628.999,633.380,mn015,b'\n      how likely we think i- it is that he '
+634.160,636.500,mn015,b'\n      or how likely it is that he '
+636.588,637.485,mn015,b'\n      get '
+637.980,642.570,mn015,"b'\n      But, maybe w- we should just '"
+644.035,646.840,mn015,"b'\n      So, does he wanna know where it '"
+653.870,655.028,me003,b'\n      He wants to know where it is.\n    '
+656.500,658.626,me003,b'\n      '
+659.200,659.555,mn015,b'\n      Right.\n    '
+660.470,662.830,mn015,"b""\n      I - I - I tend to agree. And if it's -\n    """
+662.830,663.224,mn015,b'\n      If -\n    '
+662.830,664.770,me003,"b'\n      Well now, y- I mean, you could -\n    '"
+664.050,666.870,mn015,"b""\n      And i- if there's sort of a clear winner """
+667.610,669.030,mn015,"b'\n      and, um -\n    '"
+669.514,671.004,mn015,"b'\n      and this is pretty, uh -\n    '"
+673.524,674.800,mn015,"b'\n      indifferent,\n    '"
+679.604,680.547,mn015,b'\n      '
+680.529,682.243,mn015,b'\n      '
+680.547,682.275,mn015,b'\n      '
+682.275,683.576,mn015,b'\n      '
+683.920,686.800,mn015,b'\n      then we - then we might conclude that he actually wants to\n    '
+686.970,690.220,mn015,"b'\n      just know where, uh t- uh, he '"
+691.070,694.140,me003,"b""\n      Uh, out of curiosity, is there a reason why we wouldn't\n    """
+694.840,696.190,me003,b'\n      combine\n    '
+697.264,698.637,me003,b'\n      these three nodes?\n    '
+699.000,700.526,me003,b'\n      into one smaller subnet? '
+701.260,701.848,me003,b'\n      that would just\n    '
+702.700,703.824,me003,b'\n      basically be '
+704.610,709.540,me003,"b'\n      the question for - We have ""where is X_?"" is the question, right? That would just be Info-on or Location?\n    '"
+709.990,710.888,me003,b'\n      Based upon -\n    '
+712.670,716.530,mn015,"b'\n      Or Go-there. A lot of people ask that, if they actually just wanna '"
+717.710,719.944,mn015,"b'\n      People come up to you on campus and say, ""Where\'s the library?""\n    '"
+719.944,722.506,mn015,"b'\n      You\'re gonna say - y- you\'re gonna say, g- ""Go down '"
+722.506,726.850,mn015,"b'\n      You\'re not gonna say ""It\'s - It\'s five hundred yards away from you"" or ""It\'s north of you"", or -\n    '"
+726.850,727.756,mn015,"b'\n      ""it\'s located -""\n    '"
+726.950,729.589,me003,"b""\n      Well, I mean - But the - there's - So you just have three\n    """
+730.010,735.410,me003,"b'\n      decisions for the final node, that would link thes- these three nodes in the net together.\n    '"
+735.700,737.325,mn015,b'\n      Um.\n    '
+738.840,742.046,mn015,"b""\n      I don't know whether I """
+742.850,747.190,mn015,"b'\n      Given this input, we, also in some situations, may wanna\n    '"
+747.788,749.430,mn015,b'\n      postulate an opinion whether\n    '
+749.510,751.560,mn015,b'\n      that person wants to go there '
+751.680,754.810,mn015,b'\n      the '
+755.900,761.260,mn015,b'\n      wants to know it - wants to know where it is because he wants something '
+761.570,763.929,mn015,b'\n      visit t- it or whatever.\n    '
+764.520,766.414,mn015,"b'\n      So, it - n- I mean - a- '"
+767.330,770.350,mn015,b'\n      whatever our input '
+770.680,771.620,mn015,b'\n      output.\n    '
+772.310,774.280,mn015,b'\n      And some -\n    '
+774.850,776.170,mn015,b'\n      '
+776.650,778.310,mn015,b'\n      will always be sort of\n    '
+779.180,781.700,mn015,b'\n      too - not significant enough.\n    '
+779.392,779.681,me003,b'\n      Wha-\n    '
+781.702,786.256,me003,"b""\n      Or i- or i- it'll be tight. You won't - it'll be hard to decide. But I mean, I guess - I guess the thing is,\n    """
+783.481,784.031,mn015,b'\n      Yep.\n    '
+787.029,787.622,me003,"b'\n      uh,\n    '"
+788.123,792.812,me003,"b'\n      this is another, smaller, case of reasoning in the case of an '"
+793.368,794.392,me003,b'\n      the way to '
+795.118,797.526,me003,"b'\n      these things. So if you had - If for every construction, right?\n    '"
+797.508,797.907,mn015,b'\n      Oh!\n    '
+798.130,800.473,me003,"b'\n      you could say, ""Well, there - Here\'s the Where-Is construction.""\n    '"
+800.798,803.749,me003,"b'\n      And for the Where-Is construction, we know we need to l- look at this node,\n    '"
+801.498,801.954,fn050,b'\n      '
+803.749,805.935,me003,b'\n      that merges these three things together\n    '
+805.856,806.480,mn015,b'\n      Mm-hmm.\n    '
+806.500,812.259,me003,"b'\n      as for th- to decide the response. And since we have a finite number of constructions that we can deal with, we could have a finite number of nodes.\n    '"
+812.838,813.356,mn015,b'\n      O_K.\n    '
+814.251,817.998,me003,"b""\n      Say, if we had to y- deal with arbitrary language, it wouldn't make any sense to do that, because\n    """
+814.718,815.280,mn015,b'\n      Mm-hmm.\n    '
+817.998,821.194,me003,"b""\n      there'd be no way to generate the nodes for every possible sentence.\n    """
+821.283,821.614,mn015,b'\n      Mm-hmm.\n    '
+821.650,823.667,me003,b'\n      But since we can only deal with a finite amount of stuff - '
+824.630,826.621,mn015,"b'\n      So, basically, the idea is to f-\n    '"
+827.127,828.339,mn015,b'\n      to feed the output of that\n    '
+828.293,828.725,fn050,b'\n      '
+828.930,830.750,mn015,b'\n      belief-net into another belief-net.\n    '
+830.750,833.844,me003,"b'\n      Yeah, so basically take these three things and then put '"
+833.870,836.846,mn015,"b'\n      But, why - why - why only those '"
+836.153,838.078,me003,"b'\n      Well, I mean, d- For the Where-Is question.\n    '"
+838.078,840.260,me003,"b""\n      So we'd have a node for the Where-Is question.\n    """
+842.610,847.384,mn015,"b'\n      Yeah. But we believe that all the decision nodes are - can be relevant for the Where-Is,\n    '"
+847.384,851.780,mn015,b'\n      and the Where - How-do-I-get-to or the Tell-me-something-about.\n    '
+852.781,858.345,,b'\n      '
+852.781,858.345,me012,b'\n      Is food not allowed in here? '
+856.390,857.223,me003,b'\n      You can come in if you want.\n    '
+859.140,860.110,mn015,"b'\n      Yes, it '"
+860.056,860.679,fn050,b'\n      '
+860.307,862.961,me003,"b""\n      As long as y- you're not wearing your h- your h- """
+863.833,865.233,me012,"b""\n      Alright. Just a second. I'll be back.\n    """
+865.425,866.624,fn050,b'\n      '
+865.530,866.463,me003,b'\n      '
+866.994,868.137,,b'\n      '
+869.409,871.146,mn015,b'\n      '
+869.650,873.382,me003,"b""\n      Well, I do- I - See, I don't know if this is a """
+871.000,873.210,mn015,b'\n      '
+871.146,873.667,mn015,b'\n      '
+873.667,879.530,mn015,b'\n      '
+874.975,880.349,me003,"b'\n      But uh, it seems like we could have - I mea- or uh we could put all of the- all of the r- information that could also be relevant '"
+880.349,882.924,me003,b'\n      into the Where-Is node answer\n    '
+880.442,880.885,mn015,b'\n      Mm-hmm.\n    '
+884.051,884.414,mn015,b'\n      Yep.\n    '
+885.130,885.717,me003,b'\n      node\n    '
+885.951,886.495,me003,b'\n      thing\n    '
+886.973,887.950,me003,b'\n      stuff.\n    '
+887.950,888.884,me003,b'\n      And uh -\n    '
+887.985,889.457,,b'\n      '
+889.679,891.374,fn050,b'\n      '
+893.210,893.920,mn015,b'\n      I mean -\n    '
+894.000,894.600,,b'\n      '
+894.095,902.320,mn015,"b""\n      Let's not forget we're gonna get some very strong """
+896.866,897.379,me003,b'\n      '
+900.061,900.908,me003,b'\n      '
+902.429,903.450,mn015,b'\n      So.\n    '
+903.530,905.930,mn015,"b'\n      ""Tell me the location of X_.""\n    '"
+904.339,904.711,me003,b'\n      '
+905.084,905.687,me003,b'\n      '
+906.570,907.270,mn015,b'\n      '
+907.350,909.180,mn015,"b'\n      Or ""Where is X_ located\n    '"
+908.323,909.111,fn050,b'\n      '
+909.482,910.185,me003,b'\n      We u-\n    '
+909.580,910.890,mn015,"b'\n      at?"" Nuh? '"
+910.660,913.660,me003,"b'\n      Yeah, I know, but the Bayes-net would be able to - The weights on the -\n    '"
+913.930,916.210,me003,"b""\n      on the nodes in the Bayes-net would be able to do all that, wouldn't it?\n    """
+915.609,916.139,mn015,b'\n      Mm-hmm.\n    '
+917.532,918.186,me003,"b""\n      Here's a k-\n    """
+918.989,919.203,me003,b'\n      '
+919.586,919.870,me003,b'\n      Oh! '
+920.168,921.827,me003,"b""\n      Oh, I'll wait until you're """
+922.680,923.978,me003,"b'\n      Oh, '"
+924.501,926.325,me003,"b""\n      You know how you don't like """
+926.585,927.442,me012,b'\n      '
+927.509,928.680,me003,b'\n      '
+929.064,932.222,me003,"b""\n      That's the one that's painful. That hurts. It hurts """
+930.178,930.842,fn050,b'\n      '
+931.299,931.876,fn050,b'\n      '
+932.966,933.671,fn050,b'\n      '
+935.820,937.800,me003,"b""\n      I'm h- I'm happy that they're recording that.\n    """
+938.260,944.723,me003,b'\n      That headphone. The headphone '
+939.347,941.009,fn050,b'\n      '
+945.216,947.081,me003,"b""\n      It's a painful, painful microphone.\n    """
+949.960,951.830,mn015,"b'\n      I think it\'s th- called ""the Crown"". '"
+950.437,951.407,fn050,b'\n      '
+951.830,954.286,me003,b'\n      '
+952.341,953.044,fn050,b'\n      What?\n    '
+953.075,954.800,mn015,"b'\n      Yeah, versus ""the Sony"".\n    '"
+954.800,955.493,me003,b'\n      '
+956.568,957.500,me012,b'\n      The Crown?\n    '
+957.597,958.890,me012,b'\n      Is that the actual name?\n    '
+959.038,959.476,mn015,b'\n      Mm-hmm.\n    '
+959.394,959.742,me012,b'\n      O_K.\n    '
+960.510,961.345,mn015,b'\n      The manufacturer.\n    '
+962.440,964.070,me003,"b""\n      I don't see a manufacturer on it.\n    """
+964.871,965.422,mn015,b'\n      You w-\n    '
+964.930,966.334,me003,"b'\n      Oh, wait, here it is. h- '"
+967.300,968.584,me003,"b'\n      Yeah, it\'s ""The Crown"".\n    '"
+969.070,970.613,me003,b'\n      The crown of pain!\n    '
+969.916,971.075,me012,b'\n      '
+970.799,972.051,fn050,b'\n      '
+971.075,971.693,me012,b'\n      Yes.\n    '
+972.198,973.400,mn015,"b""\n      You're on-line?\n    """
+973.570,975.999,me003,b'\n      Are you - are your mike o- Is your mike on? O_K.\n    '
+974.295,975.116,me012,b'\n      Indeed.\n    '
+976.680,979.583,me003,"b""\n      So you've been working with these guys? You know what's going on?\n    """
+979.005,980.499,me012,"b'\n      Yes, I have.\n    '"
+980.638,983.140,me003,b'\n      '
+980.924,982.170,me012,"b'\n      And, I do.\n    '"
+982.992,984.970,me012,"b'\n      Yeah, alright. s- So where are we?\n    '"
+983.140,984.744,me003,b'\n      Excellent! '
+985.430,986.489,mn015,"b""\n      We're """
+986.570,988.191,me012,"b""\n      I don't think it can handle French, but anyway.\n    """
+988.290,989.821,me003,b'\n      '
+988.534,989.553,me012,b'\n      '
+990.975,991.521,mn015,b'\n      So.\n    '
+992.380,1001.180,mn015,b'\n      Assume we have '
+992.542,997.016,me003,b'\n      '
+993.555,999.200,me012,b'\n      '
+999.200,1002.561,me012,b'\n      '
+1001.509,1002.752,me003,b'\n      '
+1001.540,1004.130,mn015,b'\n      An- an- and - and our - and our -\n    '
+1002.752,1005.982,me003,b'\n      Did you just sti- Did you just stick the m- the - the - the '
+1004.813,1006.027,fn050,b'\n      '
+1004.983,1005.795,me012,b'\n      '
+1005.795,1008.322,me012,b'\n      No. '
+1005.982,1008.488,me003,b'\n      '
+1006.659,1007.878,fn050,b'\n      '
+1008.500,1009.530,mn015,"b'\n      And, um,\n    '"
+1008.507,1009.572,fn050,b'\n      '
+1009.475,1011.098,me012,"b""\n      I'm not drinking tea. What are you talking about?\n    """
+1011.775,1012.746,me003,"b'\n      Oh, yeah. Sorry.\n    '"
+1013.580,1017.780,mn015,"b""\n      let's just assume our Bayes-net just has """
+1017.790,1022.190,mn015,"b'\n      These three, he wants to know something '"
+1021.190,1021.740,me012,b'\n      '
+1022.204,1025.900,me003,"b'\n      In terms of, these would be wha- how we would answer the question Where-Is, right?\n    '"
+1026.434,1027.059,me003,b'\n      We u-\n    '
+1026.730,1027.591,me012,b'\n      '
+1028.301,1031.227,me003,"b""\n      This is - i- That's what you s- it """
+1031.227,1034.248,me003,"b'\n      We - we\'re - we wanna know how to answer the question ""Where is X_?""\n    '"
+1031.380,1033.174,mn015,"b'\n      Yeah, but, mmm.\n    '"
+1031.545,1035.396,me012,b'\n      '
+1033.174,1034.220,mn015,b'\n      Yeah. '
+1034.220,1037.795,mn015,"b'\n      No, I can - I can do the Timing node in here, '"
+1037.013,1041.274,me003,"b""\n      Well, yeah, but in the s- uh, let's just deal with the s- the """
+1041.274,1043.738,me003,"b'\n      We just want to know how we should answer ""Where is X_?""\n    '"
+1043.326,1043.817,fn050,b'\n      '
+1043.680,1044.090,mn015,b'\n      O_K.\n    '
+1045.220,1046.103,mn015,"b'\n      And, um,\n    '"
+1046.980,1048.399,mn015,"b'\n      O_K, and,\n    '"
+1050.720,1057.130,mn015,"b'\n      Go-there has two values, right?, Go-there and '"
+1056.463,1056.964,me012,b'\n      Mm-hmm.\n    '
+1057.150,1064.502,mn015,"b'\n      Info-on has True or False and Location. So, he wants to know something about it, and he wants to know something - he wants to know Where-it-is,\n    '"
+1062.709,1063.450,me012,b'\n      '
+1063.450,1064.582,me012,b'\n      Excuse me. '
+1064.502,1067.048,mn015,b'\n      has '
+1067.182,1067.713,me012,b'\n      '
+1068.060,1069.440,mn015,"b'\n      And, um,\n    '"
+1069.272,1071.657,me003,"b'\n      Oh, '"
+1071.670,1076.030,mn015,"b'\n      And, um, in '"
+1076.129,1079.576,me012,b'\n      '
+1076.599,1083.330,mn015,b'\n      he '
+1079.576,1080.297,me012,b'\n      Yeah. '
+1080.297,1080.907,me012,b'\n      Mm-hmm.\n    '
+1080.907,1082.938,me012,b'\n      '
+1084.229,1086.520,me012,b'\n      '
+1084.840,1086.080,mn015,"b'\n      this here,\n    '"
+1086.484,1087.590,mn015,b'\n      and\n    '
+1091.076,1094.250,mn015,b'\n      this like '
+1094.865,1095.577,me012,b'\n      You should probably '
+1096.739,1097.790,me012,b'\n      make them out of - '
+1097.835,1099.715,me003,"b'\n      Well, it-\n    '"
+1098.830,1099.669,mn015,b'\n      something like '
+1100.210,1103.760,mn015,"b'\n      then we would guess, ""Aha! He, '"
+1101.180,1101.488,fn050,b'\n      '
+1104.001,1109.120,mn015,"b'\n      has s- stronger beliefs that he wants to know where it is, than actually wants to go '"
+1106.029,1106.570,me012,b'\n      '
+1106.504,1106.939,fn050,b'\n      '
+1110.160,1110.880,mn015,b'\n      Right?\n    '
+1111.095,1113.587,me003,"b""\n      That it - Doesn't this assume, though, that they're evenly weighted?\n    """
+1111.580,1112.341,fn050,b'\n      True.\n    '
+1114.047,1114.700,me003,b'\n      Like -\n    '
+1116.090,1117.680,me003,b'\n      I guess they '
+1117.854,1119.585,me012,"b'\n      The different decision nodes, you mean?\n    '"
+1119.481,1121.839,me003,"b'\n      Yeah, the Go-there, the Info-on, and the Location?\n    '"
+1121.491,1123.142,me012,"b'\n      Well, d- '"
+1125.387,1125.997,me012,b'\n      Yes.\n    '
+1127.011,1127.584,me003,b'\n      Like -\n    '
+1127.080,1130.430,mn015,b'\n      What do you '
+1130.395,1131.511,me003,b'\n      Or I jus-\n    '
+1130.680,1131.902,me012,"b'\n      But I mean, why do we -\n    '"
+1132.402,1132.660,me012,b'\n      '
+1132.642,1133.320,me003,b'\n      Le-\n    '
+1132.660,1138.470,me012,b'\n      If we trusted the Go-there node more th- much more than we trusted the '
+1139.750,1141.925,me012,"b'\n      So, in that sense, we weight them equally\n    '"
+1142.560,1144.210,mn015,b'\n      O_K. Makes sense. Yeah.\n    '
+1142.805,1143.586,me012,b'\n      right now.\n    '
+1146.476,1148.427,me003,b'\n      So the- But I guess the- k- the question -\n    '
+1146.555,1146.932,mn015,b'\n      But -\n    '
+1148.958,1152.265,me003,b'\n      that I was as- er- wondering or maybe Robert was proposing to me\n    '
+1152.607,1153.025,me003,b'\n      is -\n    '
+1153.025,1156.655,me003,b'\n      How do we d- make the decision on - as to - which one to listen to?\n    '
+1157.866,1163.400,me012,"b""\n      Yeah, so, the final d- decision is the combination of these three. So again, it's - it's some kind of, uh -\n    """
+1163.290,1164.093,me003,b'\n      Bayes-net. '
+1164.350,1165.202,me012,"b'\n      Yeah, sure.\n    '"
+1164.608,1165.687,fn050,b'\n      '
+1165.946,1169.938,me003,"b'\n      O_K so, then, the question i- So then my question is t- to you then, would be -\n    '"
+1169.152,1169.631,me012,b'\n      '
+1171.750,1177.258,me003,b'\n      So is the only r- reason we can '
+1177.258,1182.714,me003,"b""\n      Cuz oth- If we're just taking arbitrary language in, we couldn't have a node for every possible question, you know?\n    """
+1181.162,1183.492,mn015,b'\n      '
+1182.534,1183.646,mn015,b'\n      '
+1185.000,1186.491,mn015,b'\n      '
+1185.157,1186.570,mn015,b'\n      '
+1186.302,1188.517,me012,"b'\n      A decision node for every possible question, you mean?\n    '"
+1186.427,1187.151,fn050,b'\n      '
+1186.570,1195.155,mn015,b'\n      '
+1188.606,1190.404,me003,"b'\n      Well, I - like, in the case of - Yeah.\n    '"
+1190.404,1195.356,me003,"b""\n      In the ca- Any piece of language, we wouldn't be able to answer it with this system, b- if we just h-\n    """
+1195.356,1200.140,me003,"b""\n      Cuz we wouldn't have the correct node. Basically, w- what you're s- proposing is a n- Where-Is node, right?\n    """
+1200.099,1200.589,me012,b'\n      Yeah.\n    '
+1200.590,1205.000,me003,"b'\n      And - and if we - And if someone - says, you know, uh, something in Mandarin\n    '"
+1202.309,1202.728,me012,b'\n      So is -\n    '
+1204.219,1206.623,fn050,b'\n      '
+1205.184,1205.471,me012,b'\n      Yeah.\n    '
+1205.376,1209.530,me003,"b""\n      to the system, we'd- wouldn't know which node to look at to answer that question, right?\n    """
+1206.623,1207.632,fn050,b'\n      '
+1207.632,1270.457,fn050,b'\n      '
+1209.397,1210.480,mn015,b'\n      '
+1209.453,1210.030,me012,b'\n      Yeah.\n    '
+1210.480,1210.731,mn015,b'\n      Mmm?\n    '
+1210.510,1212.606,me003,"b'\n      So, but - but if we have a finite - What?\n    '"
+1212.250,1216.380,mn015,"b""\n      I don't see your point. What - what - what """
+1216.380,1218.860,mn015,"b""\n      we're about to propose here is\n    """
+1219.420,1222.190,mn015,"b""\n      we're always gonna get the whole list of\n    """
+1222.420,1224.764,mn015,b'\n      values and their posterior probabilities.\n    '
+1225.111,1229.520,mn015,b'\n      And now we need an expert system or belief-net or something that '
+1229.860,1231.010,mn015,b'\n      that looks at all the\n    '
+1231.450,1232.720,mn015,"b'\n      values and says,\n    '"
+1232.920,1234.590,mn015,"b'\n      ""The winner is\n    '"
+1235.960,1237.600,mn015,"b'\n      Timing. Now, go there.""\n    '"
+1236.259,1237.130,me012,b'\n      '
+1237.770,1239.600,mn015,"b'\n      ""Uh, go there, Timing, now.""\n    '"
+1237.996,1240.871,me012,b'\n      '
+1239.770,1242.290,mn015,"b'\n      Or, ""The winner is Info-on,\n    '"
+1242.363,1243.630,mn015,"b'\n      Function-Off.""\n    '"
+1244.039,1248.090,mn015,"b'\n      So, he wants to know '"
+1248.340,1248.559,mn015,b'\n      '
+1250.827,1254.750,mn015,"b'\n      Uh, regardless of - of - of the input. Wh- Regardle-\n    '"
+1252.058,1253.010,me003,"b'\n      Yeah, but-\n    '"
+1253.010,1255.664,me003,b'\n      But how does the expert - but how does the expert system\n    '
+1256.024,1262.390,me003,"b""\n      know - how- who- which one to declare the winner, if it doesn't know the question it is, and how that question should be answered?\n    """
+1265.820,1274.753,mn015,b'\n      Based on the k- what the '
+1274.650,1276.979,me003,b'\n      Yeah I know. But how do we weight what we get out?\n    '
+1279.010,1280.777,me003,"b'\n      As, which one i- Which ones are important?\n    '"
+1285.965,1289.364,me003,"b""\n      So my i- So, if we were to it with a Bayes-net, we'd have to have a node -\n    """
+1289.577,1292.052,me012,b'\n      '
+1289.830,1291.862,me003,"b'\n      for every question that we knew how to deal with,\n    '"
+1292.490,1295.745,me003,b'\n      that would take '
+1296.496,1296.920,mn015,b'\n      Mm-hmm.\n    '
+1298.295,1299.257,me003,b'\n      Does that make sense?\n    '
+1300.063,1300.959,me003,"b'\n      Yay, nay?\n    '"
+1301.227,1306.329,me012,"b'\n      Um, I mean, are you saying that, what happens if you try to scale this up to the situation, or are we just dealing with arbitrary language?\n    '"
+1301.330,1301.758,me003,b'\n      We -\n    '
+1307.899,1308.979,me012,b'\n      Is that your point?\n    '
+1309.330,1310.914,me003,"b'\n      Well, no. I - I guess my question is,\n    '"
+1311.340,1314.552,me003,"b'\n      Is the reason that we can make a node f- or - O_K. So, lemme\n    '"
+1314.552,1318.610,me003,"b""\n      see if I'm confused. Are we going to make a node for every question? Does that make sense? - Or not. """
+1318.416,1320.025,me012,b'\n      For every question? Like -\n    '
+1319.882,1321.050,me003,b'\n      Every construction.\n    '
+1323.158,1324.279,me012,b'\n      Hmm. '
+1325.730,1336.522,me012,"b""\n      I don't - Not """
+1332.813,1333.647,me003,b'\n      Wel-\n    '
+1335.062,1336.107,me003,b'\n      W- O_K.\n    '
+1336.530,1338.216,me003,"b'\n      So, someone asked a question.\n    '"
+1338.505,1338.778,me012,b'\n      Yeah.\n    '
+1338.918,1340.133,me003,b'\n      How do we decide\n    '
+1340.331,1341.564,me003,b'\n      how to answer it?\n    '
+1342.948,1343.714,me012,b'\n      '
+1343.714,1344.398,me012,b'\n      '
+1343.900,1345.020,mn015,"b'\n      Well, look at -\n    '"
+1344.398,1380.992,me012,b'\n      '
+1345.020,1346.410,mn015,b'\n      look -\n    '
+1346.410,1349.840,mn015,b'\n      Face yourself with this pr- question. You get this -\n    '
+1350.498,1352.560,mn015,"b""\n      You'll have - y- This is what you get.\n    """
+1352.580,1355.350,mn015,b'\n      And now you have to make a decision. What do we think?\n    '
+1355.350,1356.559,mn015,b'\n      What does this tell us?\n    '
+1357.146,1357.940,mn015,b'\n      '
+1357.940,1368.300,mn015,b'\n      And '
+1368.300,1369.782,mn015,b'\n      posterior probabilities.\n    '
+1371.137,1371.994,me003,b'\n      Yeah. '
+1371.300,1373.756,mn015,"b'\n      What - what we need is a - just a mechanism that says,\n    '"
+1374.890,1375.285,mn015,"b'\n      ""Aha!\n    '"
+1375.713,1377.110,mn015,"b'\n      There is -""\n    '"
+1377.031,1380.644,me003,"b'\n      I just don\'t think a ""winner-take-all"" type of thing is the -\n    '"
+1380.992,1386.326,me012,"b""\n      I mean, in general, like, we won't just have those three, right? We'll have, uh, like, many, many nodes.\n    """
+1386.124,1386.492,mn015,b'\n      Yep.\n    '
+1386.326,1392.576,me012,"b""\n      So we have to, like - So that it's no longer possible to just look at the nodes themselves and figure out what the person is trying to say.\n    """
+1392.060,1393.810,mn015,b'\n      Because there are '
+1394.166,1394.859,mn015,b'\n      The uh -\n    '
+1397.130,1398.890,mn015,"b'\n      Uh, no. So if - if\n    '"
+1399.162,1404.210,mn015,"b'\n      for example, the '"
+1404.990,1408.494,mn015,"b""\n      uh, w- if it's - if it has reached - """
+1405.118,1408.051,me012,b'\n      '
+1406.351,1408.388,me003,b'\n      '
+1408.494,1414.506,mn015,b'\n      all of this becomes irrelevant. So. If - even if - if the function or the history or something is\n    '
+1415.250,1418.930,mn015,b'\n      scoring pretty good on the '
+1418.465,1419.252,me003,b'\n      Wel-\n    '
+1418.873,1437.718,me012,b'\n      '
+1419.706,1422.986,me003,"b""\n      I don't know about that, cuz that would suggest that - I mean -\n    """
+1423.430,1426.215,mn015,b'\n      He wants to go there '
+1423.466,1424.813,me003,b'\n      Do they have to be mutual-\n    '
+1425.092,1427.437,me003,b'\n      Yeah. Do they have to be mutually exclusive?\n    '
+1427.924,1430.582,mn015,b'\n      I think to '
+1432.686,1434.300,mn015,"b""\n      Or maybe they're """
+1434.688,1440.075,me003,"b""\n      Cuz I, uh - The way you describe what they meant, they weren't mutu- uh, they didn't seem mutually exclusive to me.\n    """
+1441.140,1443.070,mn015,"b'\n      Well, if he '"
+1443.346,1445.419,mn015,b'\n      even if the '
+1445.898,1447.141,mn015,b'\n      posterior proba- So.\n    '
+1447.464,1448.269,me003,b'\n      Wel- '
+1448.350,1449.436,mn015,b'\n      Go-there is No.\n    '
+1450.090,1452.846,mn015,b'\n      '
+1452.103,1454.691,me003,"b'\n      Well, yeah, just out of the other three, though, that you had in the -\n    '"
+1454.474,1454.774,mn015,b'\n      Hmm?\n    '
+1454.691,1457.709,me003,"b""\n      those three nodes. The- d- They didn't seem like they were mutually exclusive.\n    """
+1456.767,1458.018,mn015,"b""\n      No, there's - No. But -\n    """
+1459.316,1459.952,mn015,"b""\n      It's through the -\n    """
+1459.471,1463.250,me003,"b'\n      So th- s- so, yeah, but some - So, some things would drop out, and some things would still be important.\n    '"
+1460.551,1462.678,me012,b'\n      '
+1463.134,1463.530,mn015,b'\n      Mm-hmm.\n    '
+1471.532,1476.810,me003,"b""\n      But I guess what's confusing me is, if we have a Bayes-net to deal w- another Bayes-net to deal with this stuff,\n    """
+1476.178,1479.576,mn015,b'\n      '
+1477.347,1478.972,mn015,b'\n      '
+1477.658,1478.085,me012,b'\n      Mm-hmm.\n    '
+1478.599,1479.428,me003,"b'\n      you know,\n    '"
+1479.576,1485.728,mn015,b'\n      '
+1479.979,1480.830,me003,"b'\n      uh,\n    '"
+1481.543,1483.320,me003,"b'\n      is the only reason - O_K, so,\n    '"
+1483.320,1484.018,me003,"b'\n      I guess,\n    '"
+1484.018,1487.350,me003,"b'\n      if we have a Ba- another Bayes-net to deal with this stuff, the only r- reason '"
+1488.030,1490.104,me003,b'\n      we can design it is cuz we know\n    '
+1490.830,1492.484,me003,b'\n      what each question is asking?\n    '
+1493.030,1493.415,me012,b'\n      Yeah.\n    '
+1494.072,1494.941,me012,"b""\n      I think that's true.\n    """
+1496.600,1504.506,me003,"b""\n      And then, so, the only reason - way we would know what question he's asking is based upon - Oh, so if - Let's say I had a construction parser, and I plug this in, I would know what each construction - the communicative\n    """
+1504.506,1506.162,me003,b'\n      intent of the construction was\n    '
+1506.002,1506.458,me012,b'\n      Mm-hmm.\n    '
+1506.162,1509.446,me003,"b'\n      and so then I would know how to weight the nodes appropriately, in response.\n    '"
+1511.580,1515.034,me003,"b'\n      So no matter what they said, if I could map it onto a Where-Is construction,\n    '"
+1512.540,1512.783,me012,b'\n      Ge-\n    '
+1514.599,1515.000,me012,b'\n      Mm-hmm.\n    '
+1515.034,1516.016,me003,"b'\n      I could say, ""ah!\n    '"
+1516.016,1518.041,me003,"b'\n      well the- the intent, here, was Where-Is"",\n    '"
+1517.946,1518.533,me012,"b'\n      O_K, right.\n    '"
+1518.041,1519.682,me003,b'\n      and I could look at those.\n    '
+1520.349,1520.764,me012,b'\n      Yeah.\n    '
+1522.122,1528.862,me012,"b'\n      Yes, I mean. Sure. You '"
+1531.178,1531.481,mn015,b'\n      Hmm.\n    '
+1531.850,1534.030,mn015,"b""\n      Yeah, I'm also agreeing that """
+1535.178,1535.496,mn015,b'\n      pru- '
+1535.496,1537.480,mn015,b'\n      Take the ones where we '
+1538.927,1540.982,mn015,"b""\n      Forget about the ones where it's all sort of\n    """
+1541.738,1542.693,mn015,b'\n      middle ground.\n    '
+1543.159,1546.590,mn015,b'\n      Prune those out and just hand over the ones where we have a '
+1547.420,1549.298,mn015,"b'\n      Yeah, because that would be the '"
+1549.298,1553.489,mn015,b'\n      We just compose as an output an X_M_L mes- '
+1554.065,1555.804,mn015,"b'\n      ""Go there '"
+1556.940,1557.670,mn015,"b'\n      ""Enter\n    '"
+1560.391,1561.624,mn015,"b'\n      historical information.""\n    '"
+1562.650,1565.270,mn015,"b""\n      And not care whether that's consistent with anything.\n    """
+1565.391,1565.687,mn015,b'\n      Right?\n    '
+1566.302,1567.189,me012,b'\n      '
+1566.330,1570.990,mn015,b'\n      But in '
+1571.620,1572.890,mn015,b'\n      '
+1574.200,1576.240,mn015,"b'\n      or let\'s call this - this ""Look-At-H-"" '"
+1576.240,1579.200,mn015,"b'\n      He wants to know something about the history of. So he said,\n    '"
+1579.230,1580.949,mn015,"b'\n      ""Tell me something about the history of that.""\n    '"
+1581.860,1586.015,mn015,"b'\n      Now, the e- But for some reason the Endpoint-Approach\n    '"
+1587.250,1589.156,mn015,"b'\n      gets a really high score, '"
+1590.020,1592.640,mn015,"b""\n      We can't expect this to be sort of at O_ point """
+1593.095,1596.172,mn015,"b'\n      three, three, three, O_ point, three, three, three, O_ point, three, three, three. Right? '"
+1598.130,1600.950,mn015,b'\n      Somebody needs to '
+1601.900,1602.209,mn015,b'\n      You know?\n    '
+1602.209,1602.606,mn015,b'\n      Or\n    '
+1603.053,1603.980,mn015,b'\n      know -\n    '
+1603.980,1605.780,mn015,b'\n      There needs to be '
+1606.637,1607.140,me003,b'\n      We -\n    '
+1607.140,1609.443,me003,"b'\n      Yeah, but, the Bayes-net that would merge -\n    '"
+1608.741,1611.684,mn015,b'\n      '
+1609.780,1611.718,mn015,b'\n      '
+1611.021,1615.001,me003,b'\n      I '
+1613.742,1614.809,fn050,b'\n      '
+1614.701,1618.587,mn015,b'\n      '
+1615.001,1616.025,me003,b'\n      '
+1616.310,1617.942,me003,b'\n      the Bayes-net that would merge\n    '
+1617.942,1621.652,me003,"b'\n      there, that would make the decision between Go-there, Info-on, and Location,\n    '"
+1621.920,1627.288,me003,"b'\n      would have a node to tell you which one of those three you wanted, and based upon that node, then you would '"
+1626.173,1627.228,me012,b'\n      '
+1626.856,1627.182,mn015,b'\n      Yep.\n    '
+1629.000,1630.400,me003,"b'\n      I mean, it- i-\n    '"
+1629.050,1629.336,mn015,b'\n      Yep.\n    '
+1630.799,1632.224,me003,b'\n      Does '
+1631.890,1635.500,mn015,"b""\n      Yep. It's sort of one of those, that's - It's more like a decision tree,\n    """
+1635.847,1636.925,mn015,b'\n      if - if you want.\n    '
+1636.925,1639.784,mn015,b'\n      You first look o- at the '
+1638.342,1639.336,me003,"b'\n      Yeah, i-\n    '"
+1640.198,1642.638,me003,"b""\n      Yeah, I didn't intend to say that every possible - O_K.\n    """
+1642.638,1647.764,me003,b'\n      There was '
+1647.764,1649.420,me003,b'\n      for a specific question.\n    '
+1650.846,1659.546,me012,b'\n      '
+1651.504,1653.026,me003,b'\n      Like the '
+1653.026,1658.129,me003,b'\n      is not necessarily relevant in the Bayes-net for '
+1657.941,1658.301,mn015,b'\n      Mm-hmm.\n    '
+1659.546,1660.119,me012,b'\n      Right.\n    '
+1662.308,1663.911,me012,b'\n      '
+1663.810,1665.182,me003,"b'\n      Show us the way, Bhaskara.\n    '"
+1665.586,1669.356,me012,"b""\n      I guess the other thing is that um, yeah. I mean, when you're asked a specific question and you don't even -\n    """
+1670.091,1676.764,me012,"b""\n      Like, if you're asked a Where-Is question, you may not even look - like, """
+1676.764,1682.249,me012,"b""\n      Cuz, that's what - I mean, in the Bayes-net you always ask for the posterior probability of a specific node. So, I mean,\n    """
+1682.249,1685.133,me012,"b""\n      you may not even bother to compute things you don't need.\n    """
+1682.770,1683.321,mn015,b'\n      Um.\n    '
+1685.960,1687.173,mn015,"b""\n      Aren't we """
+1687.429,1688.165,me012,b'\n      No.\n    '
+1688.663,1692.322,me012,"b'\n      You can compute, uh, the posterior probability of one subset of the nodes, given\n    '"
+1692.322,1693.881,me012,"b'\n      some other nodes, but\n    '"
+1693.881,1695.738,me012,"b'\n      totally ignore some other nodes, also.\n    '"
+1695.738,1698.610,me012,"b'\n      Basically, things you ignore get marginalized over.\n    '"
+1698.610,1701.090,mn015,"b""\n      Yeah, but that's - that's just shifting the problem.\n    """
+1701.130,1704.760,mn015,"b'\n      Then you would have to make a decision, ""O_K, if it\'s a Where-Is question, which\n    '"
+1702.550,1703.432,me012,b'\n      Yeah. So you have to make -\n    '
+1704.762,1705.447,me012,b'\n      Yeah.\n    '
+1704.890,1706.243,mn015,"b'\n      decision nodes do I query?""\n    '"
+1706.472,1707.196,me012,b'\n      Yes.\n    '
+1708.158,1708.864,mn015,b'\n      '
+1708.330,1710.749,me012,"b""\n      But I would think that's what you want to do. Right?\n    """
+1711.510,1713.178,mn015,b'\n      Mmm. '
+1712.545,1716.972,fn050,"b""\n      Well, eventually, you still have to pick out which ones you look at. So it's pretty much the same problem, isn't it?\n    """
+1714.810,1715.040,mn015,b'\n      Yeah.\n    '
+1716.280,1719.040,mn015,"b""\n      Yeah - it's - it's - it's apples and oranges. Nuh?\n    """
+1718.198,1718.968,me012,b'\n      '
+1720.570,1723.940,mn015,"b'\n      I mean, maybe it does make a difference in terms of performance,\n    '"
+1724.010,1725.402,mn015,b'\n      '
+1724.934,1725.589,me012,b'\n      Mm-hmm.\n    '
+1725.755,1730.500,mn015,b'\n      always have it compute '
+1730.518,1730.947,me012,b'\n      Mmm.\n    '
+1731.030,1732.610,mn015,b'\n      the ones you think that are\n    '
+1732.990,1734.110,mn015,"b'\n      irrelevant,\n    '"
+1734.920,1736.327,mn015,b'\n      or you just make a p-\n    '
+1736.327,1737.380,mn015,b'\n      '
+1737.380,1738.770,mn015,b'\n      a '
+1738.930,1741.751,mn015,b'\n      estimate of what you think might be relevant and query those.\n    '
+1742.862,1743.477,me012,b'\n      Yeah.\n    '
+1746.467,1748.514,me012,b'\n      '
+1749.157,1749.789,me003,b'\n      '
+1760.141,1763.820,me003,"b""\n      So basically, you'd have a decision tree """
+1763.190,1763.963,me012,b'\n      '
+1763.820,1768.966,me003,"b""\n      If k- if that's false, query this one. If that's true, query that one. And just basically do a binary search through the - ? """
+1769.702,1773.016,me012,"b""\n      I don't know if it would necessarily be that, uh, complicated. But, uh -\n    """
+1775.067,1776.967,me012,"b'\n      I mean, it w- '"
+1775.349,1780.660,me003,"b'\n      Well, in the case of Go-there, it '"
+1780.660,1782.573,me003,b'\n      was. And if it was '
+1782.573,1785.261,me003,b'\n      either Lo- '
+1786.171,1786.737,me012,b'\n      Yeah.\n    '
+1788.111,1791.520,me012,"b""\n      That's true, I guess. Yeah, """
+1799.787,1803.066,me003,"b""\n      Also, I'm somewhat boggled by that Hugin software.\n    """
+1803.125,1804.217,me012,"b""\n      O_K, why's that?\n    """
+1804.281,1806.215,me003,"b""\n      I can't figure out how to get the\n    """
+1806.959,1808.469,me003,b'\n      probabilities into it.\n    '
+1808.469,1809.740,me003,"b""\n      Like, I'd look at -\n    """
+1810.550,1810.908,me012,b'\n      Mm-hmm.\n    '
+1810.587,1812.441,me003,"b""\n      It's somewha- It's boggling me.\n    """
+1812.395,1812.768,me012,b'\n      O_K.\n    '
+1814.012,1814.740,me012,b'\n      Alright.\n    '
+1815.227,1817.016,me012,"b""\n      Well, hopefully it's """
+1816.587,1816.777,me003,b'\n      Ju-\n    '
+1816.900,1823.309,mn015,b'\n      '
+1817.415,1819.129,me003,"b""\n      Oh yeah, yeah. I d- I just think I haven't\n    """
+1817.416,1818.319,me012,b'\n      '
+1817.711,1818.815,mn015,b'\n      '
+1819.627,1824.417,me003,"b'\n      figured out what - the terms in Hugin mean, versus what Java Bayes terms are.\n    '"
+1820.328,1821.682,mn015,b'\n      '
+1823.757,1824.350,me012,b'\n      O_K.\n    '
+1824.602,1826.090,mn015,b'\n      '
+1826.090,1830.270,mn015,"b'\n      Um, by the way, are - Do we know whether Jerry and Nancy '"
+1826.568,1827.799,me012,b'\n      So we can figure this out.\n    '
+1830.163,1833.528,me012,"b""\n      They should come when they're """
+1834.202,1834.855,me012,b'\n      So.\n    '
+1834.487,1836.205,me003,b'\n      What d- what do they need to do left? '
+1837.395,1837.985,me012,"b'\n      Um,\n    '"
+1838.867,1839.441,me012,"b'\n      I guess,\n    '"
+1839.441,1842.482,me012,"b'\n      Jerry needs to enter marks, '"
+1842.482,1846.179,me012,"b""\n      But, uh, if he's gonna enter marks, it's gonna take him awhile, I guess, and he won't be here.\n    """
+1846.668,1847.787,me003,"b""\n      And what's Nancy doing?\n    """
+1847.994,1851.137,me012,"b'\n      Nancy? Um, she was sorta finishing up the, uh,\n    '"
+1851.137,1854.576,me012,"b""\n      calculation of marks and assigning of grades, but I don't know if she should be here.\n    """
+1856.264,1858.153,me012,"b'\n      Well - or, she should be free after that, so -\n    '"
+1859.006,1860.392,me012,"b""\n      assuming she's coming to this meeting.\n    """
+1862.167,1863.483,me012,"b""\n      I don't know if she knows about it.\n    """
+1865.906,1867.638,me003,"b""\n      She's on the """
+1867.477,1868.475,me012,b'\n      Is she? O_K.\n    '
+1867.889,1868.297,mn015,b'\n      Mm-hmm. '
+1871.373,1871.950,mn015,b'\n      O_K.\n    '
+1872.532,1874.025,mn015,b'\n      Because '
+1872.828,1873.511,me012,b'\n      '
+1876.430,1877.181,mn015,"b'\n      basically, what -\n    '"
+1877.800,1880.165,mn015,b'\n      where we '
+1881.170,1882.850,mn015,b'\n      this meeting is that\n    '
+1882.990,1886.720,mn015,b'\n      we would have a '
+1883.334,1884.432,me003,b'\n      '
+1884.432,1887.387,me003,b'\n      '
+1885.389,1886.348,me012,b'\n      '
+1886.603,1887.164,fn050,b'\n      O_K.\n    '
+1887.558,1889.860,mn015,b'\n      sometime '
+1887.647,1888.635,me012,b'\n      '
+1888.375,1890.328,me003,b'\n      '
+1889.639,1890.437,me012,b'\n      O_K.\n    '
+1890.580,1892.879,mn015,"b'\n      and finish up the, uh, values\n    '"
+1893.690,1894.490,mn015,b'\n      of\n    '
+1895.555,1896.116,mn015,b'\n      this.\n    '
+1896.116,1897.290,mn015,"b'\n      So we have,\n    '"
+1898.314,1906.771,me012,b'\n      '
+1898.570,1899.510,mn015,b'\n      uh -\n    '
+1900.460,1902.980,mn015,"b'\n      Believe it or not, we have '"
+1903.390,1903.720,me003,b'\n      '
+1903.940,1904.908,me003,"b'\n      Well, I -\n    '"
+1904.583,1906.563,fn050,b'\n      You added a bunch of '
+1906.480,1906.770,mn015,b'\n      Yep.\n    '
+1907.670,1908.080,fn050,b'\n      O_K.\n    '
+1907.707,1910.780,mn015,b'\n      We - we - we have - Actually what we have is '
+1910.323,1915.417,me012,b'\n      '
+1912.075,1914.021,me003,"b'\n      Uh, what do the, uh,\n    '"
+1912.220,1912.650,mn015,b'\n      Right?\n    '
+1914.021,1914.974,me003,b'\n      structures\n    '
+1915.412,1915.858,mn015,b'\n      Hmm?\n    '
+1915.510,1916.871,me003,b'\n      do? So the - the - the -\n    '
+1916.871,1918.868,me003,"b""\n      For instance, this Location node's got two inputs,\n    """
+1918.868,1919.467,me003,b'\n      that one you -\n    '
+1918.996,1919.781,me012,b'\n      '
+1919.011,1919.360,mn015,b'\n      Hmm.\n    '
+1919.930,1920.660,mn015,b'\n      Four. '
+1920.443,1922.604,me012,"b'\n      Those are - The bottom things are inputs, also.\n    '"
+1922.198,1923.766,me003,b'\n      '
+1923.434,1923.892,me012,b'\n      Yeah.\n    '
+1923.892,1926.351,me012,b'\n      '
+1925.780,1926.255,me003,"b'\n      O_K, that was-\n    '"
+1926.255,1926.747,me003,b'\n      O_K.\n    '
+1926.351,1927.335,me012,b'\n      '
+1926.747,1928.364,me003,b'\n      That makes a lot more sense to me now.\n    '
+1928.423,1928.928,mn015,b'\n      Yep. '
+1928.656,1930.125,me003,"b'\n      Cuz I thought it was like, that\n    '"
+1930.125,1931.113,me003,b'\n      one in\n    '
+1931.784,1932.911,me003,"b""\n      Stuart's book about,\n    """
+1933.162,1934.235,me003,"b'\n      you know, the -\n    '"
+1933.850,1935.338,me012,b'\n      Alarm in the dog?\n    '
+1935.137,1935.977,me003,b'\n      U- Yeah.\n    '
+1935.753,1936.176,me012,b'\n      Yeah. '
+1935.977,1937.479,me003,b'\n      Or the earthquake and the alarm.\n    '
+1937.432,1938.773,fn050,b'\n      '
+1937.598,1940.446,me012,"b""\n      Sorry. Yeah, I'm confusing """
+1939.220,1941.798,me003,"b""\n      Yeah, there's a dog one, too, but that's in Java Bayes, isn't it?\n    """
+1941.303,1942.029,me012,b'\n      Right.\n    '
+1942.029,1942.519,me012,b'\n      Maybe.\n    '
+1942.780,1943.754,me003,"b""\n      But there's something about\n    """
+1943.754,1945.779,me003,b'\n      bowel problems or something with the dog.\n    '
+1945.138,1945.866,me012,b'\n      '
+1946.868,1947.126,me012,b'\n      Yeah. '
+1947.560,1950.700,mn015,b'\n      And we have all the\n    '
+1949.973,1950.603,me012,b'\n      '
+1951.185,1952.392,mn015,"b'\n      top ones,\n    '"
+1952.800,1955.360,mn015,b'\n      all the ones to which '
+1956.150,1958.340,mn015,"b""\n      What we're missing are the -\n    """
+1958.757,1962.250,mn015,"b""\n      these, where arrows are pointing, where we're combining\n    """
+1963.366,1964.660,mn015,b'\n      top ones.\n    '
+1966.170,1968.840,mn015,"b'\n      So, we have to come up with values for this, and\n    '"
+1969.158,1971.830,mn015,"b'\n      this, this, this, and so forth. '"
+1973.429,1974.420,mn015,b'\n      And maybe\n    '
+1974.864,1977.450,mn015,b'\n      just fiddle around with it a little bit more. '
+1980.703,1982.150,mn015,"b'\n      And, um.\n    '"
+1982.700,1984.420,mn015,"b""\n      And then it's just, uh,\n    """
+1984.551,1985.660,mn015,"b'\n      edges,\n    '"
+1986.796,1987.760,mn015,b'\n      many of\n    '
+1989.387,1990.371,mn015,b'\n      edges. '
+1991.700,1996.837,mn015,"b'\n      And, um, we '"
+1997.254,1998.280,mn015,b'\n      So.\n    '
+1998.054,1999.584,me003,b'\n      Cuz of Memorial Day?\n    '
+2000.060,2000.502,mn015,b'\n      Yep.\n    '
+2000.243,2001.837,me012,"b""\n      We'll meet next Tuesday, I guess.\n    """
+2002.139,2002.581,mn015,b'\n      Yeah.\n    '
+2002.843,2004.065,me003,"b""\n      When's Jerry leaving for -\n    """
+2004.295,2005.093,me003,b'\n      Italia? '
+2004.414,2005.990,mn015,b'\n      On - on '
+2005.980,2006.796,me012,b'\n      Which Friday?\n    '
+2006.196,2007.162,mn015,b'\n      This - '
+2007.454,2008.127,me012,b'\n      O_K.\n    '
+2007.766,2009.109,fn050,b'\n      Oh. '
+2008.497,2008.912,me003,b'\n      Ugh. '
+2009.134,2010.090,mn015,b'\n      '
+2009.199,2010.604,me003,"b'\n      As in, four days?\n    '"
+2010.489,2010.995,mn015,b'\n      Yep.\n    '
+2011.758,2012.680,me003,"b'\n      Or, three days?\n    '"
+2012.447,2014.565,me012,b'\n      Is he - How long is he gone for?\n    '
+2014.000,2015.080,mn015,b'\n      Two weeks.\n    '
+2017.610,2018.512,me012,"b'\n      Italy, huh? '"
+2019.699,2021.445,me012,"b""\n      What's, uh - what's there?\n    """
+2022.662,2024.265,me003,b'\n      '
+2022.963,2023.986,fn050,b'\n      '
+2024.016,2024.660,mn015,b'\n      '
+2024.660,2025.840,mn015,"b""\n      Well, it's a country.\n    """
+2026.130,2027.170,mn015,b'\n      Buildings.\n    '
+2027.170,2027.822,mn015,b'\n      People.\n    '
+2027.995,2030.218,me003,"b""\n      But it's not a conference or anything. He's just visiting.\n    """
+2028.500,2029.142,me012,b'\n      Pasta.\n    '
+2029.410,2030.130,mn015,b'\n      Hmm?\n    '
+2030.387,2031.074,me012,b'\n      Right.\n    '
+2031.074,2031.890,me012,b'\n      Just visiting.\n    '
+2032.505,2033.490,mn015,b'\n      Vacation.\n    '
+2036.423,2038.914,,b'\n      '
+2036.429,2038.516,me003,b'\n      '
+2037.054,2038.227,me012,"b""\n      It's a pretty nice place,\n    """
+2038.905,2040.003,me003,b'\n      '
+2038.955,2041.388,me012,"b'\n      in my brief, uh, encounter with it.\n    '"
+2041.675,2048.480,mn015,"b'\n      Do you guys - Oh, yeah. So. '"
+2048.760,2050.150,mn015,"b'\n      Um, so -\n    '"
+2049.069,2050.810,me003,"b'\n      Oh, I think we should disappoint him.\n    '"
+2050.705,2056.620,mn015,b'\n      Yeah? You - or have a finished '
+2050.784,2052.350,fn050,b'\n      '
+2051.422,2052.653,me012,b'\n      '
+2056.671,2058.304,me003,b'\n      '
+2058.304,2060.588,me003,b'\n      I think w- we should do absolutely no work\n    '
+2058.575,2059.720,me012,b'\n      '
+2060.588,2062.782,me003,"b""\n      for the two weeks that he's gone.\n    """
+2062.190,2069.240,mn015,"b""\n      Well, that's actually what """
+2063.770,2065.100,me003,b'\n      '
+2069.743,2071.700,mn015,"b'\n      And then, I sort of -\n    '"
+2070.510,2071.884,me003,"b'\n      Oh, yeah, that sounds good, too.\n    '"
+2072.375,2074.900,mn015,b'\n      sort of bask in - in your glory.\n    '
+2073.120,2074.404,me012,b'\n      '
+2079.220,2083.500,mn015,"b'\n      But, uh, i- do you guys have any vacation plans, because I '"
+2083.686,2084.800,mn015,"b'\n      um,\n    '"
+2085.236,2086.050,mn015,"b'\n      gone, but\n    '"
+2086.150,2090.456,mn015,b'\n      this is actually '
+2090.100,2092.009,me003,"b""\n      Yeah, I'm wanna be this - gone this weekend, too. """
+2091.907,2092.454,mn015,b'\n      Ah. '
+2093.240,2095.630,mn015,"b""\n      But we're """
+2096.532,2097.650,mn015,b'\n      Looks like it?\n    '
+2096.587,2096.917,fn050,b'\n      Yeah.\n    '
+2098.390,2100.940,mn015,"b""\n      O_K, then. Let's meet - meet again next Tuesday.\n    """
+2101.328,2102.560,mn015,"b'\n      And, um,\n    '"
+2102.263,2109.275,me003,b'\n      '
+2102.281,2109.832,,b'\n      '
+2102.560,2104.391,mn015,b'\n      finish up this Bayes-net.\n    '
+2104.850,2106.371,mn015,b'\n      And once we have '
+2106.976,2108.760,mn015,"b'\n      I guess we can,\n    '"
+2108.760,2109.830,mn015,b'\n      um -\n    '
+2110.903,2113.176,mn015,"b""\n      and that's going to be more just you and """
+2114.164,2116.870,mn015,"b'\n      because Bhaskara is doing probabilistic,\n    '"
+2116.980,2118.670,mn015,"b'\n      recursive,\n    '"
+2118.670,2120.059,mn015,"b'\n      structured,\n    '"
+2120.059,2121.308,mn015,"b'\n      object-oriented,\n    '"
+2121.702,2122.731,me003,b'\n      '
+2122.272,2123.319,mn015,"b'\n      uh,\n    '"
+2122.731,2124.284,me003,b'\n      Killing machines! '
+2123.082,2123.529,fn050,b'\n      '
+2123.751,2125.034,mn015,b'\n      '
+2123.916,2126.349,me012,b'\n      '
+2124.750,2125.317,fn050,b'\n      '
+2125.890,2126.884,mn015,b'\n      '
+2126.921,2127.508,me012,b'\n      Yes.\n    '
+2127.623,2128.893,mn015,"b'\n      And, um -\n    '"
+2128.458,2131.030,me003,"b""\n      Killing, reasoning. What's the difference?\n    """
+2130.307,2134.210,fn050,"b""\n      Wait. So you're saying, next Tuesday, is it the whole group meeting, or just\n    """
+2134.246,2134.624,mn015,b'\n      Uh.\n    '
+2134.300,2136.633,fn050,"b'\n      us three working on it, or - or - ? '"
+2135.739,2136.751,mn015,b'\n      The whole group.\n    '
+2136.960,2138.247,mn015,"b'\n      And we present our results,\n    '"
+2138.640,2139.800,mn015,b'\n      our '
+2139.930,2140.830,fn050,b'\n      O_K.\n    '
+2140.482,2141.210,mn015,b'\n      '
+2141.195,2144.120,fn050,"b'\n      So, when you were saying we '"
+2142.734,2144.268,me003,b'\n      '
+2144.320,2145.542,fn050,"b'\n      of, like -\n    '"
+2144.801,2146.136,me003,b'\n      '
+2144.901,2146.046,me012,b'\n      h- What?\n    '
+2146.532,2148.850,fn050,"b'\n      What - Like, just working out the rest of the - '"
+2146.943,2147.450,mn015,b'\n      '
+2148.370,2151.029,mn015,b'\n      Yeah. We should do this th- the upcoming days.\n    '
+2150.185,2150.895,fn050,b'\n      '
+2151.029,2151.910,mn015,"b'\n      So, '"
+2151.789,2152.346,fn050,b'\n      O_K.\n    '
+2151.807,2154.010,me003,"b'\n      When you say, ""the whole group"", you mean '"
+2154.315,2156.220,me003,"b'\n      the four of us, and Keith?\n    '"
+2155.042,2157.045,me012,b'\n      '
+2156.220,2157.590,mn015,"b'\n      And, '"
+2157.593,2160.930,me003,"b""\n      Ami might be here, and it's possible that Nancy'll be here?\n    """
+2160.343,2160.782,mn015,b'\n      Yep.\n    '
+2166.825,2167.843,me003,"b'\n      So,\n    '"
+2168.129,2168.847,me003,b'\n      yeah.\n    '
+2170.613,2171.461,mn015,"b'\n      Because, th- you know,\n    '"
+2171.461,2173.110,mn015,b'\n      once we have the belief-net done -\n    '
+2172.317,2173.117,me003,"b""\n      You're just gonna have to\n    """
+2173.117,2176.000,me003,"b""\n      explain it to me, then, on Tuesday, how it's all gonna work out.\n    """
+2176.530,2177.280,me003,b'\n      '
+2179.830,2181.928,me003,b'\n      '
+2179.981,2183.072,me012,b'\n      '
+2181.575,2182.670,mn015,b'\n      '
+2182.670,2186.880,mn015,"b'\n      O_K. Because then, once we have it sort of up and running, then we can '"
+2187.410,2191.530,mn015,"b'\n      defining the interfaces and then feed stuff into it and get stuff out of it, and then\n    '"
+2191.590,2193.160,mn015,b'\n      hook it up to some\n    '
+2193.160,2194.950,mn015,b'\n      fake construction\n    '
+2194.960,2196.300,mn015,b'\n      parser and -\n    '
+2195.990,2197.611,me003,b'\n      That you will have in about\n    '
+2197.611,2199.500,me003,b'\n      nine months or so. Yeah.\n    '
+2198.870,2199.570,mn015,b'\n      Yeah.\n    '
+2199.195,2200.240,me012,b'\n      '
+2200.239,2201.324,mn015,"b'\n      And, um,\n    '"
+2201.190,2203.670,me003,"b""\n      The first bad version'll be done in nine months.\n    """
+2204.190,2214.410,mn015,"b'\n      Yeah, I can worry about the ontology interface and you can - Keith can worry about the discourse. I mean, this is pretty - Um, I mean, I - I - I hope everybody uh '"
+2214.410,2217.707,mn015,b'\n      these are just going to be uh '
+2217.671,2218.358,me012,b'\n      Which - '
+2217.707,2218.750,mn015,b'\n      where the -\n    '
+2219.487,2220.431,me012,b'\n      Which ones?\n    '
+2219.566,2226.830,mn015,b'\n      S- so - so if the '
+2227.120,2227.473,mn015,b'\n      Right?\n    '
+2228.307,2231.642,me012,"b'\n      Um, what do you mean? '"
+2229.167,2230.275,fn050,"b""\n      I don't get it.\n    """
+2231.642,2232.822,me012,"b""\n      I don't u- understand.\n    """
+2235.910,2236.426,mn015,b'\n      Um.\n    '
+2236.528,2239.088,me012,"b'\n      Like, the Go-there depends on all those four things.\n    '"
+2238.953,2239.343,mn015,b'\n      Yep.\n    '
+2239.633,2240.249,me012,b'\n      Yeah.\n    '
+2239.780,2242.630,mn015,"b'\n      But, what are the values of the Go-there-'"
+2242.604,2245.752,me012,"b'\n      Well, it depends on the situation. If the discourse is '"
+2245.730,2248.120,mn015,"b'\n      Yeah, but, uh, we '"
+2247.969,2253.979,me012,"b'\n      Oh, '"
+2253.640,2255.068,fn050,"b'\n      So, so far we have -\n    '"
+2255.790,2257.590,fn050,b'\n      Is that what the '
+2256.283,2257.328,me012,b'\n      '
+2256.979,2257.462,mn015,b'\n      Yep.\n    '
+2257.636,2260.596,fn050,"b""\n      O_K. And you're taking it out? """
+2260.130,2261.700,mn015,"b'\n      Well, this is\n    '"
+2261.790,2262.670,mn015,b'\n      D_ -\n    '
+2262.680,2265.370,mn015,"b'\n      O_K, this, I can - I can get it in here.\n    '"
+2263.709,2264.948,fn050,b'\n      All the '
+2265.480,2268.590,mn015,"b'\n      I can get it in here, so th- We have the, uh,\n    '"
+2268.839,2270.010,mn015,"b'\n      um,\n    '"
+2269.459,2271.342,fn050,b'\n      '
+2270.625,2272.128,me012,b'\n      '
+2271.172,2273.730,mn015,b'\n      '
+2273.965,2275.130,fn050,b'\n      '
+2274.070,2275.130,me003,b'\n      '
+2277.254,2278.280,mn015,"b'\n      node"".\n    '"
+2277.335,2278.517,me012,b'\n      Johno? '
+2278.520,2279.460,mn015,b'\n      There is\n    '
+2279.594,2280.476,mn015,b'\n      an H_ '
+2280.476,2281.560,mn015,b'\n      somewhere '
+2281.150,2282.170,me003,b'\n      '
+2282.157,2284.418,me012,b'\n      Yeah. People have the same problem with my name.\n    '
+2284.871,2285.730,mn015,b'\n      Yeah. '
+2286.253,2286.676,me012,b'\n      Oops. '
+2286.300,2287.407,fn050,b'\n      '
+2286.370,2287.970,mn015,"b'\n      And, um,\n    '"
+2287.995,2289.026,me012,b'\n      '
+2288.289,2291.360,me003,b'\n      Does th- th- does the H_ go b- '
+2291.685,2293.416,me012,b'\n      '
+2292.554,2293.256,me003,b'\n      Yeah.\n    '
+2293.920,2295.249,me003,"b'\n      O_K, '"
+2295.249,2299.350,me003,b'\n      Cuz you kn- When you said people have the same '
+2298.267,2300.043,me012,b'\n      People have the inverse problem with my name.\n    '
+2299.631,2300.311,me003,b'\n      O_K.\n    '
+2301.323,2302.305,me003,b'\n      I always have to '
+2302.305,2303.861,me003,"b'\n      every time y- I send you an email, '"
+2303.861,2306.747,me003,b'\n      a past email of '
+2306.668,2308.100,fn050,b'\n      '
+2307.168,2307.640,me012,b'\n      Yeah. '
+2308.012,2308.797,me012,"b""\n      That's good.\n    """
+2309.346,2310.475,me003,b'\n      I '
+2310.316,2311.545,me012,b'\n      '
+2311.545,2312.452,me012,b'\n      I appreciate that.\n    '
+2312.414,2314.436,me003,b'\n      '
+2312.429,2313.569,fn050,b'\n      '
+2312.452,2313.901,me012,b'\n      '
+2313.979,2318.728,mn015,"b'\n      But, when you '"
+2314.383,2315.401,fn050,b'\n      '
+2318.450,2323.028,me012,"b'\n      ""Basman""? '"
+2322.847,2323.554,mn015,b'\n      O_K.\n    '
+2323.208,2325.378,me003,b'\n      '
+2323.368,2324.860,fn050,b'\n      '
+2325.378,2326.465,me003,b'\n      '
+2326.465,2327.704,me003,b'\n      '
+2327.704,2329.720,me003,b'\n      '
+2327.922,2329.238,mn015,b'\n      '
+2328.286,2329.158,me012,b'\n      '
+2328.549,2329.172,fn050,b'\n      '
+2330.293,2331.177,me003,b'\n      How do you pronou-\n    '
+2330.508,2330.957,mn015,b'\n      O_K.\n    '
+2331.177,2332.284,me003,b'\n      How do you pronounce '
+2332.265,2332.696,fn050,b'\n      '
+2332.970,2333.650,me003,b'\n      Eva? '
+2333.650,2334.018,fn050,b'\n      Yeah.\n    '
+2333.910,2334.551,me012,b'\n      Not '
+2334.950,2336.925,me003,b'\n      What if I were - What if I were to call you '
+2337.860,2339.650,fn050,"b""\n      I'd """
+2339.621,2340.621,me003,b'\n      '
+2339.650,2342.136,fn050,"b""\n      I've had people call me """
+2342.559,2345.238,me003,"b'\n      No, not just '"
+2345.221,2345.636,fn050,b'\n      '
+2345.238,2348.570,me003,b'\n      take the '
+2349.642,2350.700,mn015,b'\n      Which is F_.\n    '
+2350.619,2351.522,me003,b'\n      Yeah.\n    '
+2351.910,2353.723,fn050,"b'\n      Um, no '"
+2353.380,2354.360,mn015,b'\n      Voiced.\n    '
+2355.840,2356.101,fn050,b'\n      What?\n    '
+2356.641,2359.823,me003,"b""\n      It sounds like an F_. There's also an F_ in German, which is why I -\n    """
+2357.020,2357.443,fn050,b'\n      I -\n    '
+2358.234,2358.802,fn050,b'\n      O_K.\n    '
+2359.304,2361.370,mn015,"b""\n      Well, it's just the difference between voiced and unvoiced.\n    """
+2361.242,2361.893,fn050,b'\n      O_K.\n    '
+2361.252,2361.933,me003,b'\n      Yeah.\n    '
+2365.383,2366.600,fn050,b'\n      '
+2368.636,2373.353,me003,b'\n      As '
+2368.670,2369.710,fn050,b'\n      Um.\n    '
+2371.812,2373.429,fn050,"b""\n      That's """
+2374.190,2378.070,me012,"b'\n      Yeah. It doesn\'t matter what those nodes are, anyway, because we\'ll just make the weights ""zero"" for now.\n    '"
+2378.199,2378.657,mn015,b'\n      Yep.\n    '
+2379.580,2381.040,mn015,"b""\n      We'll make them zero for now,\n    """
+2379.964,2387.235,me003,b'\n      '
+2380.000,2387.222,,b'\n      '
+2381.200,2384.270,mn015,"b'\n      because it - who - who knows what they come up with,\n    '"
+2384.880,2386.170,mn015,"b""\n      what's gonna come in there.\n    """
+2386.990,2387.810,mn015,b'\n      O_K.\n    '
+2388.696,2390.420,mn015,"b'\n      And, um,\n    '"
+2393.265,2394.240,mn015,b'\n      then\n    '
+2398.221,2401.945,mn015,b'\n      should we start on Thursday?\n    '
+2402.805,2403.377,me012,b'\n      O_K.\n    '
+2402.860,2404.860,mn015,b'\n      And not meet tomorrow?\n    '
+2404.994,2405.413,me012,b'\n      Sure.\n    '
+2411.975,2412.606,mn015,b'\n      O_K.\n    '
+2414.160,2415.494,mn015,"b""\n      I'll send an email,\n    """
+2416.003,2417.660,mn015,b'\n      make a time suggestion.\n    '
+2417.456,2418.974,me003,"b""\n      Wait, maybe it's O_K, so that -\n    """
+2418.974,2421.782,me003,b'\n      that - that we can - that we have one node per construction.\n    '
+2421.782,2426.772,me003,b'\n      Cuz even in '
+2428.733,2432.570,mn015,"b'\n      Yeah, they would still c- sort of get the closest, best fit.\n    '"
+2432.570,2437.225,me003,"b""\n      Well, yeah, but I mean, the - uh, I mean, that's what the construction parser would do. Uh, I mean, if you said something completely arbitrary, it would f- find the\n    """
+2435.130,2435.880,mn015,b'\n      Mm-hmm.\n    '
+2437.225,2442.052,me003,"b'\n      closest construction, right? But if you said something that was completel- er - h- theoretically the construction parser would do that -\n    '"
+2438.219,2438.865,mn015,b'\n      O_K.\n    '
+2442.052,2445.001,me003,"b'\n      But if you said something for which there was no construction whatsoever,\n    '"
+2445.550,2447.966,me003,"b""\n      n- people wouldn't have any idea what you were talking about.\n    """
+2447.660,2448.131,mn015,b'\n      Mm-hmm.\n    '
+2448.880,2450.938,me003,"b'\n      Like ""Bus dog fried egg."" I mean.\n    '"
+2451.551,2452.849,me003,b'\n      You know.\n    '
+2452.460,2455.201,mn015,"b'\n      Or, if '"
+2454.533,2454.982,fn050,b'\n      '
+2454.636,2456.050,me003,"b'\n      Or, something in Mandarin, yeah.\n    '"
+2456.822,2458.974,me003,"b'\n      Or Cantonese, as the case may be.\n    '"
+2462.210,2463.575,me003,b'\n      What do you think about '
+2463.575,2466.270,me003,b'\n      '
+2464.057,2465.049,me012,b'\n      I mean -\n    '
+2465.049,2465.995,me012,b'\n      Well -\n    '
+2467.293,2469.472,me012,b'\n      But how many constructions do - could we possibly have '
+2470.258,2471.110,me012,b'\n      nodes for?\n    '
+2473.100,2474.644,me003,b'\n      In '
+2474.694,2476.893,me012,"b'\n      No, '"
+2476.340,2478.469,me003,"b'\n      Oh, when p- How many constructions do '"
+2478.380,2478.753,me012,b'\n      Yeah.\n    '
+2478.783,2480.930,me003,b'\n      I have not '
+2480.846,2485.105,me012,"b'\n      Is it considered to be like in - are they considered to be like very, uh, sort of s- abstract things?\n    '"
+2483.804,2485.357,me003,b'\n      Every noun is a construction.\n    '
+2485.320,2487.859,me012,"b""\n      O_K, so it's like in the """
+2486.360,2487.320,me003,b'\n      The - Yeah. '
+2487.810,2490.793,me003,b'\n      Any - any form-'
+2490.856,2491.300,me012,b'\n      O_K.\n    '
+2491.209,2491.709,mn015,b'\n      So.\n    '
+2491.614,2496.423,me003,"b'\n      And form u- starts at the level of noun - Or actually, maybe even '"
+2494.950,2496.360,mn015,b'\n      '
+2496.806,2498.021,me003,b'\n      And goes upwards\n    '
+2499.043,2499.833,me003,b'\n      until you get\n    '
+2499.833,2501.749,me003,b'\n      the '
+2501.749,2503.784,me003,"b'\n      And then, of course, the c- I guess, maybe there can be the -\n    '"
+2501.939,2502.311,me012,b'\n      S-\n    '
+2503.784,2505.462,me003,b'\n      Can there be combinations of the dit-\n    '
+2504.427,2505.463,me012,b'\n      Discourse-level '
+2505.462,2507.185,me003,b'\n      Yeah. '
+2505.463,2506.512,me012,b'\n      constructions.\n    '
+2507.185,2509.392,me003,"b'\n      The ""giving a speech"" construction,\n    '"
+2509.830,2511.740,mn015,b'\n      Rhetorical constructions. Yeah.\n    '
+2511.291,2511.992,me012,b'\n      Yes.\n    '
+2513.341,2517.820,mn015,b'\n      '
+2515.403,2517.775,mn015,b'\n      '
+2518.760,2519.660,mn015,"b'\n      But, I mean,\n    '"
+2520.390,2522.109,mn015,"b'\n      you know, you can '"
+2522.386,2523.610,mn015,b'\n      count the ways.\n    '
+2523.610,2524.403,mn015,b'\n      I mean.\n    '
+2523.621,2525.800,me003,"b""\n      It's probab- Yeah, I would s- definitely say it's finite.\n    """
+2525.410,2525.878,mn015,b'\n      Yeah.\n    '
+2525.800,2530.380,me003,"b""\n      And at least in compilers, that's all that really matters, as long as your analysis is finite.\n    """
+2526.231,2526.868,fn050,b'\n      '
+2530.046,2530.777,me012,b'\n      '
+2530.355,2532.409,mn015,b'\n      '
+2531.523,2533.386,me012,"b""\n      How's that? """
+2533.386,2536.292,me012,b'\n      '
+2534.379,2536.407,me003,"b""\n      Nah, I can't think of a way it would be """
+2536.292,2537.416,me012,b'\n      '
+2536.407,2538.270,me003,b'\n      '
+2537.267,2539.354,mn015,"b'\n      Well, you can come up with '"
+2539.627,2540.772,me003,b'\n      Yeah. '
+2540.772,2543.137,me003,"b'\n      If the - if your - if your brain was totally non-deterministic,\n    '"
+2541.767,2550.218,me012,b'\n      '
+2543.279,2544.036,fn050,b'\n      '
+2544.140,2546.333,me003,"b""\n      then perhaps there's a way to get, uh,\n    """
+2546.740,2549.187,me003,"b""\n      infin- an infinite number of constructions that you'd have to worry about.\n    """
+2550.218,2552.213,me012,"b'\n      But, I mean, in the '"
+2552.750,2554.790,me003,b'\n      Right. Cuz if we have a fixed number of neurons - ? '
+2554.699,2555.186,me012,b'\n      Yeah.\n    '
+2555.156,2557.140,fn050,b'\n      '
+2555.290,2556.530,me003,b'\n      '
+2558.990,2564.544,me003,"b'\n      So the best-case scenario would be the number of constructions - or, the '"
+2564.006,2565.684,me012,"b'\n      Well, two to the power of the number of neurons.\n    '"
+2565.720,2566.490,me003,b'\n      Right.\n    '
+2567.280,2567.943,me003,b'\n      But '
+2568.113,2568.769,me003,b'\n      '
+2568.848,2569.437,fn050,b'\n      '
+2569.898,2588.913,me012,b'\n      '
+2576.036,2576.685,mn015,b'\n      O_K.\n    '
+2577.172,2578.467,me003,"b'\n      No, wait. Not '"
+2578.467,2579.918,me003,b'\n      We can end the '
+2580.130,2583.157,me003,b'\n      '
+2583.157,2584.301,me003,"b'\n      across, uh -\n    '"
+2584.276,2584.767,mn015,b'\n      Mm-hmm.\n    '
+2585.261,2588.184,me003,"b'\n      lots of different neurons, to specify different values?\n    '"
+2588.035,2592.207,mn015,b'\n      '
+2588.913,2593.262,me012,"b""\n      Um, yeah, but there's, like, a certain level of -\n    """
+2590.207,2591.817,mn015,b'\n      '
+2593.060,2595.244,me003,"b""\n      There's a bandwidth issue, right? Yeah.\n    """
+2594.100,2596.385,me012,"b""\n      Bandw- Yeah, so you can't do better than something.\n    """
+2595.541,2598.980,mn015,b'\n      Turn off the mikes. Otherwise it gets really tough for the tr- '
+2598.980,2600.850,mn015,b'\n      '
+2600.150,2600.611,me003,b'\n      '
+2602.000,2603.122,,b'\n      '
+2602.236,2602.911,fn050,b'\n      '
+2602.299,2602.480,me012,b'\n      '
+2602.480,2603.571,me012,b'\n      '

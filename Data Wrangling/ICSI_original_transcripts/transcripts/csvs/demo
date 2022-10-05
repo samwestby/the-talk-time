@@ -1,0 +1,30 @@
+start,end,participant,text
+0.000,3.956,me018,b'\n      '
+0.056,1.861,me011,"b'\n      Yeah, we had a long discussion about\n    '"
+2.674,6.315,me011,b'\n      how much w- how easy we want to make it for people to bleep things out. So -\n    '
+5.100,7.881,me018,b'\n      '
+6.260,6.864,fe016,b'\n      Right.\n    '
+6.315,7.061,me011,b'\n      '
+7.516,8.757,fe016,b'\n      O_K. So this is -\n    '
+8.169,11.100,me011,b'\n      Morgan wants to make it hard. '
+8.320,13.210,me018,b'\n      '
+9.751,13.549,fe016,"b'\n      The, uh, counter is not '"
+9.798,11.268,mn017,b'\n      '
+13.210,14.476,me018,"b""\n      It - it doesn't -\n    """
+14.457,15.844,fe016,"b""\n      It doesn't like me, but -\n    """
+14.476,17.937,me018,b'\n      '
+16.383,19.490,me011,"b""\n      Did - did - did it - ? I didn't even """
+17.937,20.021,me018,"b""\n      It didn't move yesterday either when I started it.\n    """
+19.536,20.461,fe016,"b""\n      Oh, it didn't? O_K.\n    """
+20.260,20.738,me011,b'\n      So.\n    '
+20.480,21.926,me018,"b""\n      So I don't know if it doesn't like both of us -\n    """
+20.716,25.543,fe016,"b""\n      It didn't move on me on one other meeting and it did on one and both recorded the same """
+21.356,21.992,me011,b'\n      Channel three?\n    '
+21.926,25.840,me018,b'\n      '
+22.525,23.410,me011,b'\n      Channel three?\n    '
+23.823,28.189,me011,b'\n      '
+25.840,29.211,me018,"b'\n      You know, I discovered something yesterday on these, um, wireless ones. '"
+26.353,30.527,fe016,b'\n      '
+27.563,28.333,me001,b'\n      '
+28.333,30.496,me001,b'\n      Channel two. '
+28.859,29.472,me011,b'\n      Mm-hmm?\n    '

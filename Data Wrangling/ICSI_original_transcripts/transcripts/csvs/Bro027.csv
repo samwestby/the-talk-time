@@ -1,0 +1,1881 @@
+start,end,participant,text
+0.000,11.904,me013,b'\n      '
+1.820,11.520,mn007,b'\n      '
+3.132,4.014,me018,"b""\n      O_K, we're """
+4.612,6.742,mn052,b'\n      This is three.\n    '
+6.742,8.811,mn052,b'\n      Yep. Yep.\n    '
+8.120,9.657,,b'\n      '
+9.657,58.184,,b'\n      '
+11.904,13.056,me013,b'\n      '
+13.879,15.120,me013,b'\n      Test.\n    '
+16.920,20.420,me013,b'\n      '
+19.850,20.820,me018,b'\n      '
+20.420,22.790,me013,b'\n      '
+22.950,25.263,me013,"b""\n      Test? O_K, I guess it's alright.\n    """
+29.500,31.516,me013,"b""\n      So, let's see.\n    """
+31.516,35.890,me013,"b""\n      Yeah, Barry's not here and Dave's not here. Um, I can say about -\n    """
+37.020,41.730,me013,"b'\n      just q- just quickly to get through it, that Dave and I submitted this A_S_R_U.\n    '"
+39.790,42.020,me018,b'\n      This is for A_S_R_U.\n    '
+41.730,43.015,me013,b'\n      Yeah. So.\n    '
+43.015,44.260,me013,b'\n      Um.\n    '
+45.210,52.085,mn007,b'\n      '
+47.150,48.453,me013,"b""\n      Yeah, it's -\n    """
+48.453,52.173,me013,"b""\n      it's interesting. I mean, basically we're dealing with rever- reverberation,\n    """
+52.173,57.052,me013,"b""\n      and, um, when we deal with pure reverberation, the technique he's using works really, really well.\n    """
+57.052,63.560,me013,"b'\n      Uh, and when they had the reverberation '"
+63.560,67.001,me013,b'\n      '
+64.750,65.490,mn052,b'\n      Hmm.\n    '
+67.001,68.320,me013,b'\n      a fair amount of -\n    '
+67.490,71.230,me018,"b'\n      You mean, from the actual, uh, recordings?\n    '"
+68.467,71.132,mn052,b'\n      k- '
+70.930,71.716,me013,b'\n      Yeah.\n    '
+71.250,72.310,me018,"b""\n      It's nine D_B?\n    """
+71.716,74.293,me013,b'\n      Yeah. Um -\n    '
+74.293,78.366,me013,b'\n      And actually it brought up a question which may be relevant to the Aurora stuff too.\n    '
+78.366,84.139,me013,"b'\n      Um, I know that when you figured out the '"
+84.139,89.596,me013,"b'\n      there was some experimentation that went on at - at, uh - at O_G_I.\n    '"
+89.596,90.355,me013,"b'\n      Um,\n    '"
+91.363,99.001,me013,"b'\n      but one of the differences that we found between the two systems that we were using, '"
+99.001,104.563,me013,"b'\n      and the system that we were - the - the uh, '"
+104.563,108.907,me013,"b'\n      was that the S_R_I system had maybe a, um, hundred hertz high-pass.\n    '"
+109.228,109.778,mn052,b'\n      Yep.\n    '
+109.648,112.970,me013,"b'\n      And the, uh, Aurora H_T_K, it was like twenty.\n    '"
+111.535,113.214,mn052,b'\n      S- sixty-four.\n    '
+113.110,114.190,me013,b'\n      Uh.\n    '
+113.214,114.500,mn052,b'\n      S- sixty-four.\n    '
+114.330,116.350,me013,b'\n      Sixty-four? Uh.\n    '
+115.160,117.380,mn052,"b""\n      Yeah, if you're using the baseline.\n    """
+116.780,118.730,me013,b'\n      Is that the ba- band center?\n    '
+118.930,120.631,mn052,"b'\n      No, the edge.\n    '"
+120.260,123.140,me013,"b'\n      The edge is really, uh, sixty-four? For some reason, uh,\n    '"
+120.631,122.717,mn052,b'\n      '
+123.800,126.520,mn052,"b'\n      So the, uh, center would be somewhere around\n    '"
+123.823,125.740,me013,b'\n      Dave thought it was '
+126.520,127.617,mn052,b'\n      like hundred and -\n    '
+128.352,132.440,mn052,"b""\n      hundred and - hundred - hundred and - maybe - it's like - fi- hundred hertz.\n    """
+132.850,137.810,me013,"b'\n      But do you know, for instance, h- how far down it would be at twenty hertz?\n    '"
+138.930,141.920,me013,"b""\n      What the - how much rejection would there be at twenty hertz, let's say?\n    """
+140.966,142.410,mn052,b'\n      At twenty hertz.\n    '
+142.560,145.220,me013,"b'\n      Yeah, any idea what the curve looks like?\n    '"
+145.740,147.700,mn052,b'\n      Twenty hertz frequency -\n    '
+150.450,153.400,mn052,"b""\n      Oh, it's - it's """
+153.870,157.850,mn007,"b'\n      Yea- actually, the left edge of the first filter is at sixty-four. So -\n    '"
+156.240,159.730,mn052,b'\n      Sixt- s- sixty-four. So anything less than sixty-four is zero.\n    '
+157.850,158.427,mn007,b'\n      '
+158.840,160.400,mn007,b'\n      Mmm.\n    '
+159.470,161.510,me013,"b""\n      It's actually set to zero?\n    """
+161.052,161.800,mn052,b'\n      Yeah.\n    '
+161.510,162.854,me013,b'\n      What kind of filter is '
+161.520,162.270,mn007,b'\n      Yeah.\n    '
+162.854,164.910,me013,"b'\n      Is this - oh, from the - from -\n    '"
+163.403,163.690,mn007,b'\n      It -\n    '
+164.098,165.600,mn007,b'\n      This is the filter bank\n    '
+165.600,168.440,mn007,b'\n      in the frequency domain that starts at sixty-four. Yeah.\n    '
+165.690,169.070,me013,"b'\n      Oh, so you, uh - so you really set it to zero, the F_F_T?\n    '"
+166.839,170.974,mn052,"b""\n      Yeah, yeah. So it's - it's a weight on the """
+170.974,172.330,mn052,b'\n      Triangular weighting.\n    '
+172.400,173.800,me013,b'\n      Right. O_K.\n    '
+174.900,175.711,me013,b'\n      Um -\n    '
+175.711,180.916,me013,"b""\n      O_K. So that's - that's a little different than Dave thought, I think. But - but, um,\n    """
+180.916,185.035,me013,b'\n      '
+185.035,188.187,me013,"b'\n      So I wonder, is it - '"
+188.187,192.610,me013,"b'\n      with, uh, say, throwing away that filter or something? And, uh -\n    '"
+193.003,195.110,mn052,"b'\n      Uh, throwing away the first?\n    '"
+195.080,196.090,me013,b'\n      Yeah.\n    '
+196.330,200.925,mn052,"b""\n      Um, yeah, we - we've tried including the full - """
+200.925,202.850,mn052,b'\n      Right? From zero to four K_.\n    '
+203.473,208.330,mn052,b'\n      '
+203.530,204.340,mn007,b'\n      Mm-hmm.\n    '
+206.910,207.650,mn007,b'\n      '
+208.320,213.346,me013,"b'\n      Right, but the question is, whether sixty-four hertz is - is, uh, too,\n    '"
+213.346,214.830,me013,"b'\n      uh, '"
+215.660,217.805,mn052,"b'\n      Yeah, I mean, make it a '"
+217.630,218.390,me013,b'\n      Yeah.\n    '
+217.805,221.624,mn052,"b""\n      I t- I think I've tried a hundred and it was\n    """
+221.624,223.900,mn052,"b'\n      more or less the same, or slightly worse.\n    '"
+223.650,225.010,me013,b'\n      On what test set?\n    '
+224.163,227.470,mn052,"b'\n      On the same, uh, SpeechDat-Car, Aurora.\n    '"
+228.880,231.260,me013,"b'\n      Um, it '"
+230.454,232.183,mn052,b'\n      Yeah.\n    '
+232.183,235.780,mn052,b'\n      So I tried a hundred to four K_. Yeah.\n    '
+235.634,252.299,,b'\n      '
+237.430,239.010,me013,"b'\n      Um,\n    '"
+238.315,241.764,mn052,b'\n      So it was -\n    '
+239.600,242.790,me013,"b'\n      and on - and on the, um, um,\n    '"
+243.480,245.270,me013,b'\n      '
+245.140,249.190,mn052,b'\n      '
+248.577,252.572,me013,"b""\n      Mmm. That'd be something to look at sometime because what,\n    """
+252.572,254.175,me013,"b'\n      um,\n    '"
+254.175,260.116,me013,"b'\n      eh, he was looking at was performance in '"
+254.264,254.883,mn052,b'\n      Mm-hmm.\n    '
+260.116,262.682,me013,b'\n      Would that be more like -\n    '
+262.682,267.001,me013,"b""\n      Well, you'd """
+267.001,270.055,me013,"b'\n      The SpeechDat-Car is more, uh, sort of\n    '"
+270.055,272.862,me013,"b'\n      roughly stationary, a lot of it. And -\n    '"
+271.563,272.630,mn052,b'\n      Yeah.\n    '
+272.862,276.089,me013,b'\n      and T_I-digits maybe is not so much as - Yeah.\n    '
+273.142,273.566,mn007,b'\n      Mm-hmm.\n    '
+275.168,275.592,mn052,b'\n      Yeah.\n    '
+276.414,277.005,me013,b'\n      Mm-hmm.\n    '
+277.330,279.589,me013,"b""\n      O_K. Well, maybe it's not a big deal.\n    """
+279.589,281.270,me013,"b'\n      But, um -\n    '"
+281.270,283.394,me013,"b'\n      Anyway, that was just something we wondered about.\n    '"
+283.394,286.926,me013,"b'\n      But, um, uh, certainly a lot of the noise,\n    '"
+286.926,290.709,me013,"b'\n      uh, is, uh, below a hundred hertz. Uh, the\n    '"
+290.403,290.885,mn052,b'\n      Yeah.\n    '
+290.709,296.322,me013,"b'\n      signal-to-noise ratio, you know, looks a fair amount better if you - if you high-pass filter it from this room.\n    '"
+296.322,303.312,me013,"b""\n      But, um - but it's """
+301.031,301.581,mn007,b'\n      Mm-hmm.\n    '
+303.312,305.060,me013,b'\n      is actually still pretty bad.\n    '
+305.682,310.320,me013,b'\n      '
+305.701,306.172,me018,b'\n      Hmm.\n    '
+309.320,312.480,me018,"b""\n      So that's on th- that's on the f- the """
+311.890,314.389,me013,"b""\n      Yeah, that's on the far field. Yeah, the near field's pretty good.\n    """
+314.389,317.820,me013,b'\n      '
+314.540,317.740,me018,"b""\n      So wha- what is, uh - what's """
+317.820,321.134,me013,"b'\n      Well, we got a - a video projector in here,\n    '"
+321.134,326.809,me013,"b'\n      uh, and, uh - which we keep on during every - every session we record, which, you know, I - I -\n    '"
+324.670,325.380,me018,b'\n      Yeah.\n    '
+326.809,330.635,me013,"b""\n      w- we were aware of but - but we thought it wasn't a bad thing. I mean, that's a\n    """
+327.876,328.507,me018,b'\n      Uh-huh.\n    '
+330.060,330.770,me018,b'\n      Yeah.\n    '
+330.635,335.910,me013,"b""\n      nice noise source. Uh, and there's also the, uh - uh, air conditioning.\n    """
+335.697,336.214,me018,b'\n      Hmm.\n    '
+336.800,338.898,me013,"b'\n      Which, uh, you know,\n    '"
+338.898,342.505,me013,"b'\n      is a pretty low frequency kind of thing. But - but, uh -\n    '"
+340.504,341.181,me018,b'\n      Mm-hmm.\n    '
+342.505,345.412,me013,"b'\n      So, those are - those are major components, I think,\n    '"
+344.785,345.278,me018,b'\n      I see.\n    '
+345.412,347.910,me013,"b'\n      uh, for the stationary kind of stuff.\n    '"
+347.640,348.310,me018,b'\n      Mmm.\n    '
+348.000,349.871,me013,"b'\n      Um,\n    '"
+349.871,357.403,me013,"b'\n      but, um, it, uh - I guess, I - maybe I said this last week too but it - it - it really became apparent to us that we need to - to take account of noise.\n    '"
+357.403,363.246,me013,"b'\n      And, uh, so I think when - when he gets done with his prelim study I think '"
+363.246,367.818,me013,"b'\n      take this, uh - uh, noise, uh, processing stuff and - and,\n    '"
+367.818,371.740,me013,"b'\n      uh - uh, synthesize some speech from it. And then -\n    '"
+371.060,372.420,me018,b'\n      When are his prelims?\n    '
+372.300,375.774,me013,"b'\n      Um, I think in about, um,\n    '"
+375.774,377.644,me013,b'\n      a little less than two weeks.\n    '
+377.283,377.592,me018,b'\n      Oh.\n    '
+378.180,378.990,me018,b'\n      Wow.\n    '
+379.327,379.729,me013,b'\n      Yeah.\n    '
+381.415,384.803,me013,b'\n      Yeah. So. '
+384.803,389.484,me013,"b""\n      Uh, it might even be sooner. Uh, let's see, this is the sixteenth, seventeenth?\n    """
+389.484,392.208,me013,"b""\n      Yeah, I don't know if he's before - It might even be in a week.\n    """
+392.208,394.590,me013,"b'\n      A week, week and a half.\n    '"
+392.450,398.120,me018,"b""\n      So, I- Huh. I - I guessed that they were gonna do it some time during the semester but they'll do it any time, huh?\n    """
+396.860,400.350,me013,"b'\n      They seem to be - Well, the semester actually is starting up.\n    '"
+400.410,401.530,me018,b'\n      Is it already?\n    '
+401.030,403.780,me013,"b""\n      Yeah, the semester's late - late August they start here.\n    """
+404.010,404.980,me018,b'\n      Yikes.\n    '
+404.960,407.440,me013,b'\n      So they do it right at the beginning of the semester.\n    '
+406.942,407.309,me018,b'\n      Yeah.\n    '
+408.817,409.207,me013,b'\n      Yeah.\n    '
+410.280,413.633,me013,"b'\n      So, uh - Yep. I mean, that - that was sort of one - I mean,\n    '"
+413.633,418.520,me013,"b'\n      the overall results seemed to be first place in - in - in the case of either,\n    '"
+418.520,421.411,me013,"b'\n      um, artificial reverberation\n    '"
+421.396,423.013,,b'\n      '
+421.411,424.285,me013,b'\n      or a modest sized training set.\n    '
+424.285,425.929,me013,"b'\n      Uh, either way,\n    '"
+425.929,429.092,me013,"b'\n      uh, i- uh, it helped a lot.\n    '"
+429.092,432.507,me013,"b'\n      And - But if you had a - a really big training set,\n    '"
+432.507,438.524,me013,"b'\n      a recognizer, uh, system that was capable of taking '"
+438.524,443.368,me013,b'\n      '
+443.368,447.279,me013,"b'\n      is w- s- is - being bound by the terms of Aurora, we have\n    '"
+447.279,451.290,me013,b'\n      all those parameters just set as they '
+451.290,453.229,me013,"b'\n      go out to, you know,\n    '"
+453.229,456.621,me013,"b'\n      ten or t- or a hundred times as many Gaussians or anything. So,\n    '"
+456.621,462.089,me013,"b""\n      um, it's kind of hard to take advantage of - of - of big chunks of data.\n    """
+461.791,462.824,mn052,"b'\n      Mmm, yeah.\n    '"
+461.874,462.604,mn007,b'\n      Mm-hmm.\n    '
+462.089,467.546,me013,"b'\n      Uh, whereas the other one does sort of expand as you have more training data. It does it automatically, actually.\n    '"
+467.546,469.480,me013,"b'\n      And so, um,\n    '"
+469.480,470.655,me013,"b'\n      uh,\n    '"
+470.655,476.889,me013,"b'\n      that one really benefited from the larger set. And it was also a diverse set with different noises and so forth. Uh,\n    '"
+476.889,478.408,me013,"b'\n      so, um,\n    '"
+479.015,482.309,me013,b'\n      '
+482.309,485.741,me013,b'\n      that '
+485.741,487.602,me013,"b'\n      can build up more parameters,\n    '"
+487.602,494.334,me013,"b'\n      and if you, um, have the natural room, which in this case has a p- a pretty bad signal-to-noise ratio,\n    '"
+494.334,499.785,me013,"b'\n      then in that case, um, the right thing to do is just do - u- use speaker adaptation.\n    '"
+499.785,502.315,me013,b'\n      And - and not bother with - with\n    '
+502.315,505.983,me013,"b'\n      this acoustic, uh, processing. But I think that that would\n    '"
+505.983,511.384,me013,"b'\n      not be true if we did some explicit noise-processing as well as, uh,\n    '"
+510.794,511.218,mn007,b'\n      Mm-hmm.\n    '
+511.384,513.916,me013,b'\n      the convolutional kind of things we were doing.\n    '
+513.916,515.190,me013,b'\n      So.\n    '
+515.190,516.782,me013,"b""\n      That's sort of what we found.\n    """
+515.616,516.121,mn052,b'\n      Hmm.\n    '
+522.775,523.130,mn007,b'\n      '
+524.250,525.210,me018,"b'\n      I, um -\n    '"
+526.103,528.660,me018,b'\n      '
+528.409,531.512,,b'\n      '
+528.760,529.787,me018,b'\n      uh -\n    '
+529.787,531.380,me018,b'\n      Mississippi State\n    '
+531.512,532.791,,b'\n      '
+531.690,532.773,me018,b'\n      recognizer.\n    '
+532.537,534.136,mn052,"b'\n      Oh, O_K. '"
+532.773,535.323,me018,"b'\n      So, I got in touch with Joe and -\n    '"
+535.323,538.494,me018,"b'\n      and, uh, from your email and things like that. And,\n    '"
+538.494,540.345,me018,"b'\n      uh, they added me to the list -\n    '"
+540.345,543.233,me018,"b'\n      uh, the mailing list. And he gave me all of the\n    '"
+540.460,541.450,mn052,"b'\n      O_K, great.\n    '"
+543.233,546.959,me018,"b'\n      pointers and everything that I needed. And so I downloaded the, um -\n    '"
+546.959,548.457,me018,"b'\n      There were two things,\n    '"
+548.457,550.330,me018,"b'\n      uh, that they had to download.\n    '"
+550.460,553.635,me018,"b'\n      One was the, uh, I guess the software.\n    '"
+553.635,556.220,me018,b'\n      And another '
+556.260,558.534,me018,b'\n      sort of like a sample - a sample run.\n    '
+558.534,562.580,me018,b'\n      So I downloaded the software and compiled all of that. And it\n    '
+560.310,561.140,me013,b'\n      '
+561.596,562.364,mn052,b'\n      '
+562.580,564.383,me018,b'\n      compiled fine. No problems.\n    '
+563.155,564.310,mn052,"b'\n      Oh, eh, great.\n    '"
+564.383,568.410,me018,"b""\n      And, um, I grabbed the sample stuff but I haven't, uh,\n    """
+568.030,571.700,mn052,"b'\n      That sample was released only yesterday or the day before, right?\n    '"
+568.595,568.985,me018,b'\n      compiled it. '
+570.320,573.450,me018,"b""\n      No - Well, I haven't grabbed """
+572.640,576.330,mn052,"b'\n      Oh, there is '"
+574.290,579.209,me018,b'\n      There was '
+577.445,579.900,mn052,"b'\n      Oh, O_K. F- Yeah, O_K.\n    '"
+579.209,579.512,me018,b'\n      So.\n    '
+580.234,583.329,me018,"b'\n      Um, but, the software seemed to compile fine and everything, so.\n    '"
+583.329,584.850,me018,"b'\n      And, um, '"
+584.972,585.649,me018,b'\n      So.\n    '
+585.940,591.160,me013,"b'\n      Is there any word yet about the issues about, um, adjustments for different feature sets or anything?\n    '"
+592.230,594.012,me018,"b'\n      No, I - I d-\n    '"
+594.012,597.470,me018,b'\n      You asked me to write to him and I think I forgot to ask him about that.\n    '
+598.140,599.260,me013,b'\n      Yeah.\n    '
+598.590,602.171,me018,b'\n      Or if I '
+602.171,605.570,me018,"b""\n      Uh, I'll - I'll d- I'll double check that and ask him again.\n    """
+604.420,605.200,me013,b'\n      Yeah.\n    '
+607.880,612.274,me013,"b""\n      Yeah, it's like that - that could r- turn out to be an important issue for us. Yeah.\n    """
+608.044,609.313,mn052,b'\n      Hmm. Mmm.\n    '
+611.355,612.560,me018,b'\n      Yeah. Yeah.\n    '
+613.602,615.923,mn052,b'\n      '
+614.420,616.255,me018,"b""\n      Maybe I'll send it to the list.\n    """
+616.255,616.784,me018,b'\n      Yeah.\n    '
+617.187,626.189,mn052,"b'\n      Cuz they have, uh, already frozen those in i- insertion penalties and all '"
+626.080,626.870,me018,b'\n      Uh-huh.\n    '
+626.189,628.642,mn052,b'\n      explaining the recognizer.\n    '
+628.130,629.981,mn007,b'\n      '
+628.642,630.769,mn052,"b'\n      And they have these tables with,\n    '"
+630.769,634.450,mn052,"b'\n      uh, various language model weights, insertion penalties.\n    '"
+634.828,635.605,mn052,b'\n      u-\n    '
+634.970,636.720,me018,"b""\n      O_K, I haven't seen that one yet.\n    """
+636.450,642.764,mn052,"b""\n      Uh, it's th- it's there on that web. And, uh, on """
+636.843,637.700,me018,b'\n      So.\n    '
+638.007,638.443,me018,b'\n      O_K.\n    '
+642.764,645.400,mn052,b'\n      insertion penalties and all those -\n    '
+642.800,643.600,mn007,b'\n      '
+644.493,645.640,me018,"b""\n      And so they've picked -\n    """
+645.400,648.650,mn052,"b'\n      Yeah, I think they pi- p- yeah, they picked the values from -\n    '"
+645.940,647.969,me018,"b'\n      the values. Oh, O_K. O_K.\n    '"
+647.458,650.310,me013,b'\n      For r- w- what test set?\n    '
+650.690,657.500,mn052,"b'\n      Uh, p- the one that they have reported is a NIST evaluation, Wall Street Journal.\n    '"
+657.203,660.300,me013,"b""\n      But that has nothing to do with what we're """
+658.740,661.808,mn052,"b""\n      You know. No. So they're, like - um -\n    """
+659.154,659.554,mn007,b'\n      Mm-hmm.\n    '
+661.808,664.590,mn052,"b'\n      So they are actually trying to, uh,\n    '"
+664.590,668.048,mn052,"b'\n      fix that - those values using the clean,\n    '"
+668.727,673.311,mn052,"b'\n      uh, training part of the Wall Street Journal. Which is - I mean, the '"
+673.311,678.590,mn052,"b""\n      Aurora has a clean subset. I mean, they want to train it and then this - they're going to run some evaluations.\n    """
+675.110,675.920,me013,b'\n      Right.\n    '
+677.621,680.310,me013,"b""\n      So they're set- they're setting it based on that?\n    """
+679.990,681.300,mn052,b'\n      Yeah.\n    '
+680.950,683.892,me013,b'\n      O_K. So '
+684.456,688.851,me013,b'\n      we may be looking for a modification of the features to account for the fact\n    '
+689.324,692.832,me013,"b""\n      that we can't modify these parameters. But, um,\n    """
+689.350,690.020,me018,b'\n      Yeah.\n    '
+691.259,692.028,mn052,b'\n      Yeah.\n    '
+692.832,698.950,me013,"b""\n      uh - but it's still worth, I think, just - since - you know, just chatting with Joe about the issue.\n    """
+698.620,705.700,me018,"b""\n      Yeah, O_K. Do you think that's something I should just send to """
+699.663,700.370,me013,b'\n      Um -\n    '
+703.296,703.809,me013,b'\n      '
+704.648,710.484,me013,"b""\n      Well, it's not a """
+711.212,715.112,me013,"b""\n      um, it's probably best to start talking with him just to -\n    """
+715.112,715.850,me018,b'\n      O_K.\n    '
+715.660,723.142,me013,b'\n      Uh '
+719.920,720.590,me018,b'\n      Yeah.\n    '
+722.460,722.953,me018,b'\n      O_K.\n    '
+723.142,728.720,me013,"b""\n      if you get ten people in - involved in it there'll be a lot of perspectives based on, you know, how -\n    """
+727.700,728.510,me018,b'\n      Yeah.\n    '
+728.720,733.438,me013,"b'\n      you know. Uh - But, I mean, I think it all '"
+729.290,730.040,me018,b'\n      Right.\n    '
+732.312,732.782,me018,b'\n      O_K.\n    '
+733.438,740.068,me013,"b'\n      if there is any, uh, uh, way to move in - a way that would - that would, you know, be more open to different kinds of\n    '"
+740.068,746.441,me013,b'\n      '
+746.441,750.250,me013,b'\n      worthwhile bringing it into a larger forum where - where political issues will come in.\n    '
+748.300,748.970,me018,b'\n      Yeah.\n    '
+750.075,750.912,me018,b'\n      O_K.\n    '
+752.023,756.263,mn052,b'\n      Oh. '
+755.888,756.221,me018,b'\n      Yeah.\n    '
+756.263,761.630,mn052,"b""\n      Yeah, O_K. Because he - there was some mail r- saying that it's - may not be stable for Linux and all those.\n    """
+756.875,757.265,me018,b'\n      Yep.\n    '
+759.261,760.080,me018,b'\n      Yeah.\n    '
+760.565,763.340,me018,"b'\n      Yeah, i- that was a particular '"
+762.887,764.715,mn052,b'\n      '
+763.570,768.332,me018,"b'\n      Yeah, '"
+764.715,766.240,mn052,"b'\n      Yeah, yeah.\n    '"
+766.240,767.383,mn052,"b'\n      Yeah, O_K.\n    '"
+767.900,770.136,mn052,"b""\n      O_K, that's fine. Yeah.\n    """
+768.332,773.063,me018,b'\n      '
+773.348,774.025,mn052,b'\n      '
+773.810,776.286,me013,"b'\n      Uh, this is slightly off topic but, uh,\n    '"
+776.286,780.368,me013,"b'\n      I noticed, just glancing at the, uh, Hopkins\n    '"
+780.368,782.907,me013,"b'\n      workshop, uh, web site that, uh,\n    '"
+783.467,784.716,me013,b'\n      um -\n    '
+784.716,790.077,me013,"b""\n      one of the thing- I don't know - Well, we'll see how much they """
+790.077,794.185,me013,"b'\n      graphical models thing was to put together a - a, uh, tool kit\n    '"
+794.614,797.714,me013,"b'\n      for doing, uh r- um, arbitrary\n    '"
+797.714,801.408,me013,"b'\n      graphical models for, uh, speech recognition.\n    '"
+800.337,800.750,me018,b'\n      '
+801.408,804.560,me013,"b'\n      So - And Jeff, uh - the two Jeffs were\n    '"
+804.569,805.840,me018,"b""\n      Who's the second Jeff?\n    """
+805.602,808.430,me013,"b'\n      Uh - Oh, uh, do you know Geoff Zweig?\n    '"
+808.370,809.080,me018,b'\n      No.\n    '
+809.220,815.441,me013,"b'\n      Oh. Uh, he - he, uh - he was here for a couple years and he, uh - got his P_H_D. He -\n    '"
+812.320,813.520,me018,"b'\n      Oh, O_K.\n    '"
+816.671,820.810,me013,"b""\n      And he's, uh, been at I_B_M for the last couple years.\n    """
+820.269,820.750,me018,"b'\n      Oh, O_K.\n    '"
+821.540,826.453,me013,"b'\n      So. Uh, so he did - he did his P_H_D on dynamic Bayes-nets, uh,\n    '"
+822.070,823.430,me018,b'\n      '
+826.453,832.028,me013,"b'\n      for - for speech recognition. He had some continuity built into the model,\n    '"
+832.028,834.590,me013,"b'\n      presumably to handle some, um,\n    '"
+835.171,838.990,me013,"b'\n      inertia in the - in the production system, and,\n    '"
+839.747,840.959,me013,b'\n      um -\n    '
+840.916,841.295,me018,b'\n      Hmm.\n    '
+840.959,842.038,me013,b'\n      So.\n    '
+844.981,846.080,mn052,b'\n      '
+845.942,850.839,mn007,"b""\n      Um, I've been playing with, first, the, um, V_A_D.\n    """
+851.640,855.314,mn007,"b'\n      Um, '"
+856.228,863.650,mn007,"b'\n      the features that the V_A_D neural network use are, uh, M_F_C_C after noise compensation.\n    '"
+864.280,866.830,mn007,"b'\n      Oh, I think I have the results.\n    '"
+864.331,872.142,,b'\n      '
+866.746,868.720,me013,b'\n      What was it using before?\n    '
+868.960,870.850,mn007,b'\n      Before it was just\n    '
+869.203,871.090,mn052,b'\n      '
+871.260,872.950,mn007,b'\n      P_L_Ps. So.\n    '
+872.142,874.622,,b'\n      '
+874.622,884.758,,b'\n      '
+874.770,882.630,mn052,"b'\n      Yeah, it '"
+879.340,882.747,mn007,"b'\n      Yeah, noisy - noisy features.\n    '"
+882.747,884.110,mn007,b'\n      Um -\n    '
+885.460,887.720,mn007,b'\n      This is what we get after -\n    '
+889.490,896.865,,b'\n      '
+890.840,896.111,me013,b'\n      '
+891.037,896.293,mn007,"b'\n      This - So, actually, we, '"
+896.698,900.890,mn007,"b""\n      Um, and then it's a pretty small neural network which use,\n    """
+896.916,897.900,me013,b'\n      '
+901.630,904.806,mn007,"b'\n      um, '"
+904.806,910.025,mn007,"b'\n      of six features from C_zero to C_fives, plus the first derivatives.\n    '"
+910.444,913.010,mn007,b'\n      And it has one hundred hidden units.\n    '
+912.740,916.580,me018,"b'\n      Is that nine frames u- s- uh, centered around the current frame? Or - '"
+915.910,916.680,mn007,b'\n      Yeah. Mm-hmm.\n    '
+916.890,920.690,me013,"b""\n      S- so, I'm - I'm sorry, there's - there's - there's how many - how many inputs?\n    """
+917.379,918.493,mn007,b'\n      '
+920.900,924.050,mn007,"b""\n      So it's twelve times nine.\n    """
+923.446,927.620,me013,"b'\n      Twelve times nine inputs, and a hundred, uh, hidden.\n    '"
+926.997,928.610,mn007,b'\n      Hidden and\n    '
+928.517,930.759,,b'\n      '
+928.520,929.396,mn052,b'\n      Two outputs.\n    '
+929.150,929.988,mn007,b'\n      two outputs.\n    '
+929.660,930.770,me013,b'\n      Two outputs.\n    '
+931.406,933.438,me013,b'\n      O_K. So I guess about eleven thousand\n    '
+931.730,932.390,mn052,b'\n      '
+933.438,934.883,me013,"b'\n      parameters,\n    '"
+934.493,934.873,mn007,b'\n      Mm-hmm.\n    '
+934.883,940.492,me013,"b""\n      which - actually shouldn't be a problem, even in - in small phones. Yeah. """
+938.740,942.030,me018,"b""\n      So, I'm - I'm - s- so what is different between this and -\n    """
+939.040,940.180,mn007,b'\n      It should be O_K.\n    '
+942.100,948.931,mn007,b'\n      So the previous syst- '
+942.226,943.060,me018,b'\n      and what you -\n    '
+948.931,951.255,mn007,"b""\n      It's the same system. The only\n    """
+951.255,953.330,mn007,b'\n      thing that changed is the n-\n    '
+953.630,957.380,mn007,b'\n      a p- eh - a es- the estimation of the silence probabilities.\n    '
+957.210,958.430,me018,b'\n      Ah. O_K.\n    '
+957.940,961.330,mn007,"b'\n      Which now is based on, uh, cleaned features.\n    '"
+960.125,961.635,me013,b'\n      '
+961.740,962.500,me018,b'\n      Wow.\n    '
+961.970,963.570,mn007,b'\n      Yeah. Um -\n    '
+962.442,963.630,me013,"b""\n      That's """
+963.930,971.562,mn007,"b""\n      So it's - it's not """
+971.230,972.370,me013,"b""\n      What's the latency?\n    """
+971.562,972.580,mn007,b'\n      Because -\n    '
+972.890,974.283,mn007,b'\n      um -\n    '
+974.283,979.274,mn007,b'\n      the - the latency of the V_A_D is two hundred and twenty milliseconds.\n    '
+979.943,983.050,mn007,"b'\n      And, uh, the V_A_D is used\n    '"
+983.220,986.248,mn007,"b'\n      uh, i- for on-line normalization,\n    '"
+986.248,988.648,mn007,"b""\n      and it's used before the delta computation.\n    """
+988.648,990.131,mn007,b'\n      So if you add\n    '
+990.131,995.360,mn007,"b'\n      these components it goes t- to a hundred and seventy, right?\n    '"
+995.169,999.090,me013,"b""\n      I - I'm confused. You started off with two-twenty and you ended up with one-seventy?\n    """
+999.109,1001.125,mn007,b'\n      With two an- two hundred and seventy.\n    '
+1001.125,1006.960,mn007,"b'\n      If - Yeah, if you add the c- delta comp- delta computation which is done afterwards.\n    '"
+1001.180,1002.260,me013,b'\n      '
+1002.500,1003.255,me013,b'\n      Oh.\n    '
+1007.330,1008.440,mn007,b'\n      Um -\n    '
+1008.381,1013.537,me013,"b""\n      So it's two-twenty. I- the- is this - are these twenty-millisecond\n    """
+1013.537,1017.220,me013,b'\n      frames? Is that why? Is it after downsampling? or -\n    '
+1015.339,1023.100,mn007,b'\n      '
+1023.100,1023.610,mn007,"b'\n      uh,\n    '"
+1023.610,1025.050,mn007,b'\n      cleaning of the speech.\n    '
+1027.140,1032.690,mn007,"b'\n      Um - then there is, um, the neural network which use\n    '"
+1032.850,1035.980,mn007,b'\n      nine frames. So it adds forty milliseconds.\n    '
+1034.004,1034.596,me013,b'\n      a-\n    '
+1035.840,1036.610,me013,b'\n      O_K.\n    '
+1037.560,1046.173,mn007,"b'\n      Um, after that, um, you have the um, filtering of the silence probabilities.\n    '"
+1046.731,1048.148,mn007,b'\n      Which is a million '
+1048.148,1051.469,mn007,b'\n      and it creates a one hundred milliseconds delay.\n    '
+1052.240,1053.590,mn007,"b'\n      So, um -\n    '"
+1054.027,1057.522,me013,b'\n      '
+1054.127,1056.630,mn052,b'\n      Plus there is a delta at the input.\n    '
+1056.660,1058.782,mn007,"b'\n      Yeah, and there is the delta at the input which is,\n    '"
+1059.380,1060.151,me013,b'\n      One hundred\n    '
+1059.610,1060.880,mn007,b'\n      um -\n    '
+1060.860,1063.320,me013,b'\n      milliseconds for smoothing.\n    '
+1063.239,1063.919,mn007,"b""\n      So it's -\n    """
+1064.550,1066.260,me013,"b'\n      Uh, median.\n    '"
+1064.919,1065.217,mn007,b'\n      '
+1064.999,1068.480,mn052,"b""\n      It's like forty plus - forty - plus -\n    """
+1066.389,1068.150,mn007,b'\n      Mmm. Forty -\n    '
+1067.100,1068.640,me013,b'\n      And then forty -\n    '
+1068.480,1071.222,mn007,"b'\n      This forty plus twenty, plus one hundred.\n    '"
+1069.670,1070.550,me013,b'\n      forty p-\n    '
+1070.905,1072.045,me013,b'\n      '
+1072.230,1074.230,mn052,"b""\n      So it's two hundred actually.\n    """
+1072.343,1073.620,mn007,b'\n      Uh -\n    '
+1074.840,1078.199,mn007,"b'\n      Yeah, there are twenty that comes from -\n    '"
+1078.199,1081.995,mn007,b'\n      There is ten that comes from the L_D_A filters also. Right?\n    '
+1080.761,1081.780,mn052,"b'\n      Oh, O_K.\n    '"
+1081.995,1083.540,mn007,"b""\n      Uh, so it's\n    """
+1083.610,1085.740,mn007,"b'\n      two hundred and ten, yeah.\n    '"
+1085.750,1086.846,mn052,b'\n      If you are using -\n    '
+1086.751,1087.380,me013,b'\n      Uh -\n    '
+1086.790,1089.150,mn007,"b""\n      Plus the frame, so it's two-twenty.\n    """
+1087.016,1092.510,mn052,b'\n      t- If you are using '
+1092.320,1094.710,mn007,"b""\n      Yeah, I think it's - it's """
+1093.928,1095.260,mn052,b'\n      So '
+1095.260,1097.210,mn052,"b""\n      O_K, so it's who un- """
+1097.910,1106.850,me013,"b""\n      Uh, p- Wait a minute. It's forty - """
+1100.919,1102.730,mn007,b'\n      So. Forty cleaning.\n    '
+1105.620,1106.360,mn007,b'\n      Yeah.\n    '
+1106.940,1108.090,me013,b'\n      '
+1107.330,1108.364,mn007,b'\n      Twenty for the delta.\n    '
+1108.471,1112.430,mn052,b'\n      At th- '
+1108.540,1110.140,me013,b'\n      Twenty for delta.\n    '
+1111.880,1112.650,mn007,b'\n      Yeah.\n    '
+1112.430,1114.510,mn052,b'\n      And there i-\n    '
+1112.870,1114.640,me013,b'\n      Delta at input to net?\n    '
+1114.955,1115.353,mn007,b'\n      Yeah.\n    '
+1115.050,1115.391,mn052,b'\n      Yeah.\n    '
+1115.391,1121.354,mn052,"b""\n      So it's like s- five, six cepstrum plus delta at nine - nine frames of -\n    """
+1122.107,1124.730,me013,b'\n      And then ten milliseconds for -\n    '
+1123.816,1126.140,mn052,"b""\n      Fi- There's an L_D_A filter.\n    """
+1126.050,1128.360,me013,"b'\n      ten milliseconds for L_D_A filter,\n    '"
+1128.360,1132.470,me013,b'\n      and t- and ten - '
+1131.750,1134.820,mn007,"b""\n      For the frame I guess. I computed two-twenty - Yeah, well, it's -\n    """
+1135.387,1137.100,mn007,"b""\n      I guess it's for the fr - the -\n    """
+1137.996,1140.950,me013,"b""\n      O_K. And then there's delta """
+1140.760,1141.467,mn007,b'\n      '
+1141.467,1144.327,mn007,b'\n      So this is the features that are used by our network and\n    '
+1144.327,1145.521,mn007,b'\n      then\n    '
+1145.521,1146.944,mn007,"b'\n      afterwards,\n    '"
+1146.944,1151.128,mn007,"b'\n      you have to compute the delta on the, uh, main feature stream, which is\n    '"
+1150.011,1151.040,me013,b'\n      O_K.\n    '
+1151.128,1155.640,mn007,"b'\n      um, delta and double-deltas, which is fifty milliseconds.\n    '"
+1155.660,1161.810,me013,"b'\n      Yeah. No, I mean, the - after the noise part, the forty - the - the other hundred and eighty -\n    '"
+1162.320,1163.660,me013,"b'\n      Well, I mean,\n    '"
+1163.660,1164.318,me013,"b'\n      hhh, '"
+1165.007,1169.290,me013,b'\n      Wait a minute. '
+1168.910,1170.083,mn007,b'\n      '
+1169.640,1173.100,me013,"b'\n      Oh, you have the L_D_A as part of the V_D_- uh, V_A_D? Or -\n    '"
+1173.400,1177.450,mn007,b'\n      '
+1177.400,1178.400,me013,"b'\n      Oh, it '"
+1178.390,1178.750,mn007,b'\n      Mm-hmm.\n    '
+1180.110,1181.357,me013,b'\n      Ah.\n    '
+1181.959,1184.794,me013,"b""\n      So in that case there isn't too much """
+1185.625,1187.040,me013,b'\n      Uh -\n    '
+1187.411,1189.402,mn007,"b'\n      No. There is,\n    '"
+1189.402,1191.680,mn007,"b'\n      um,\n    '"
+1194.270,1196.680,mn007,"b'\n      just downsampling, upsampling,\n    '"
+1197.001,1199.320,mn007,b'\n      and the L_D_A.\n    '
+1200.150,1203.560,me013,"b'\n      Um, so the delta at the '"
+1203.651,1204.631,mn052,"b""\n      It's -\n    """
+1203.900,1205.050,mn007,"b""\n      It's fifty.\n    """
+1205.220,1206.230,me013,b'\n      Fifty.\n    '
+1205.723,1206.570,mn007,b'\n      '
+1207.675,1209.500,me013,b'\n      Alright. So -\n    '
+1208.433,1212.676,mn007,"b'\n      But well, we could probably put the delta, um, '"
+1212.676,1216.820,mn007,"b'\n      before on-line normalization. It should not that make a big difference, because -\n    '"
+1215.870,1218.685,me018,b'\n      What if you used a smaller window for the delta?\n    '
+1218.685,1220.588,me018,b'\n      Could '
+1220.588,1223.140,me018,"b""\n      I mean, I guess there's a """
+1220.926,1221.470,mn007,b'\n      Yeah.\n    '
+1222.250,1223.166,me013,b'\n      Yeah.\n    '
+1222.664,1223.730,mn007,"b'\n      Yeah, but, nnn -\n    '"
+1223.166,1233.080,me013,"b""\n      So- Yeah. So if you - if you put the delta before the, uh, ana- on-line - If - Yeah - uh - then - then it could go in parallel. And then y- then you don't have that additive - """
+1228.042,1229.902,mn007,b'\n      Mm-hmm. Cuz i-\n    '
+1230.744,1231.249,mn052,b'\n      Yep.\n    '
+1231.117,1234.464,mn007,"b'\n      Yeah, cuz the time constant of the on-line normalization is\n    '"
+1234.464,1236.297,mn007,b'\n      pretty long compared to the\n    '
+1236.230,1237.060,me013,b'\n      '
+1236.297,1237.736,mn007,"b'\n      delta window, so.\n    '"
+1237.736,1239.190,mn007,b'\n      It should not make -\n    '
+1237.963,1238.885,me013,b'\n      O_K.\n    '
+1238.885,1246.634,me013,b'\n      And you ought to be able to shove '
+1246.200,1246.930,mn007,b'\n      Mm-hmm.\n    '
+1246.490,1247.670,me018,b'\n      Is two hundred the d-\n    '
+1246.634,1247.535,me013,b'\n      The hundred milla-\n    '
+1247.535,1253.497,me013,b'\n      mill- a hundred milliseconds for smoothing is sort of an arbitrary amount. It could be eighty and - and probably do '
+1251.885,1252.561,mn007,"b'\n      Yeah, yeah.\n    '"
+1252.740,1256.340,me018,"b""\n      i- a hun- uh - Wh- what's the baseline you need to be under?\n    """
+1255.794,1256.588,mn007,b'\n      '
+1256.828,1262.279,me013,"b""\n      Well, we don't know. They're still arguing about it. """
+1256.838,1257.389,me018,b'\n      Two hundred?\n    '
+1257.636,1258.255,mn007,b'\n      '
+1258.376,1258.697,me018,b'\n      Oh.\n    '
+1262.279,1264.977,me013,"b""\n      if it's two-fifty,\n    """
+1264.977,1269.303,me013,"b""\n      then we could keep the delta where it is if we shaved off twenty. If it's two hundred,\n    """
+1269.303,1274.970,me013,"b'\n      if we shaved off twenty, we could - we could, uh, meet it by moving the delta back.\n    '"
+1274.370,1278.670,me018,"b'\n      So, how do you know that what you have is too '"
+1278.280,1282.509,me013,"b""\n      Uh, we don't, but it's just - I mean, the """
+1282.509,1286.483,me013,"b""\n      and - you know, by not worrying about it very much, we're just staying """
+1283.454,1299.553,,b'\n      '
+1284.520,1285.240,me018,b'\n      Uh-huh.\n    '
+1286.483,1287.794,me013,b'\n      '
+1286.630,1288.220,me018,"b'\n      Oh, O_K, I see.\n    '"
+1287.461,1295.000,mn007,b'\n      '
+1287.794,1297.068,me013,"b'\n      And so, th- I mean, if - if - if a week before we have to be done someone says, ""Well, you have to have fifty milliseconds less than you have now"", it '"
+1296.030,1297.877,me018,"b'\n      Ah, O_K.\n    '"
+1297.068,1298.390,me013,b'\n      Uh -\n    '
+1297.877,1304.314,me018,b'\n      But '
+1304.314,1307.910,me018,b'\n      '
+1308.530,1314.129,me013,"b'\n      He added a bit on, I '"
+1309.147,1309.787,mn007,b'\n      Hmm.\n    '
+1314.129,1321.170,me013,"b'\n      uh, stuff, uh, and the L_V_A be in '"
+1320.900,1327.573,mn007,"b'\n      Well, but- I think the main thing, maybe, is the cleaning of the speech, which takes forty milliseconds or so.\n    '"
+1327.573,1328.850,mn007,b'\n      And -\n    '
+1327.630,1331.190,me013,"b""\n      Right. Well, so you say - let's say ten """
+1329.173,1333.767,mn007,"b'\n      and - but - the L_D_A is, well, pretty '"
+1332.780,1333.496,me013,"b'\n      Well, ten.\n    '"
+1333.496,1335.550,me013,b'\n      And then forty for the other.\n    '
+1333.760,1339.040,mn052,"b""\n      Yeah, the L_D_A - L_D_A - we don't know, is, like - is it very crucial for the features, right?\n    """
+1339.085,1340.510,mn007,b'\n      No. I just -\n    '
+1340.510,1345.877,mn007,"b""\n      This is the first try. I mean, I - maybe the L_D_A's not very useful then.\n    """
+1340.600,1341.650,mn052,b'\n      Yeah.\n    '
+1341.962,1343.396,mn052,b'\n      S- s- h-\n    '
+1342.040,1344.175,me013,"b'\n      Right, so you could start pulling back, but -\n    '"
+1343.396,1344.740,mn052,"b'\n      Yeah, l-\n    '"
+1344.175,1350.740,me013,"b""\n      But I think you have - I mean, you have twenty for delta computation which y- now you're sort of doing twice, right? But yo- w- were you doing that before?\n    """
+1350.356,1352.607,mn007,b'\n      Mmm. '
+1352.607,1354.185,mn007,b'\n      '
+1353.820,1356.044,mn052,b'\n      On the - in the - Mm-hmm.\n    '
+1354.185,1359.424,mn007,"b'\n      Well, in the proposal, um, the input of the V_A_D network were\n    '"
+1359.070,1360.135,mn052,b'\n      Just -\n    '
+1359.424,1361.272,mn007,"b'\n      just three frames, I think.\n    '"
+1360.135,1362.470,mn052,"b'\n      Yeah, just the static, no delta.\n    '"
+1361.272,1363.280,mn007,"b'\n      Uh, static features.\n    '"
+1361.890,1362.415,me013,b'\n      Right.\n    '
+1362.415,1369.841,me013,"b""\n      So, what you have now is fort- uh, forty for the - the noise, twenty for the delta, and ten for the L_D_A. That's seventy milliseconds\n    """
+1368.502,1370.072,mn007,b'\n      '
+1369.841,1372.619,me013,"b'\n      of stuff which was formerly in parallel, right?\n    '"
+1372.770,1373.254,me013,"b'\n      So I think,\n    '"
+1372.817,1373.195,mn007,b'\n      Mm-hmm.\n    '
+1374.374,1377.861,me013,"b""\n      you know, that's - that's the difference as far as the """
+1377.220,1377.900,mn007,b'\n      Yeah.\n    '
+1378.807,1384.556,me013,"b'\n      Um, and you could experiment with cutting various pieces of these back a bit, but -\n    '"
+1385.042,1386.870,me013,"b""\n      I mean, we're s- we're not -\n    """
+1387.877,1389.490,me013,"b""\n      we're not in terrible shape.\n    """
+1389.286,1391.750,me018,"b""\n      Yeah, that's what it seems like to me. It's pretty good.\n    """
+1390.854,1391.467,mn007,b'\n      Mm-hmm.\n    '
+1390.990,1395.110,me013,"b""\n      Yeah. It's - it's not like it's adding up to four hundred milliseconds or something.\n    """
+1392.794,1394.616,me018,b'\n      '
+1394.616,1399.570,me018,b'\n      where is this fifty-seven point O_ two in - in comparison to the last evaluation?\n    '
+1399.440,1402.680,me013,"b""\n      Well, it's - I think it's better than anything, uh, anybody got.\n    """
+1402.020,1402.550,mn007,b'\n      Yeah.\n    '
+1402.400,1403.280,me018,"b'\n      Oh, is that right?\n    '"
+1403.540,1405.785,mn007,b'\n      The best was fifty-four\n    '
+1405.680,1406.440,me013,b'\n      Yeah.\n    '
+1405.785,1407.152,mn007,b'\n      point five.\n    '
+1405.942,1406.563,mn052,b'\n      Point s- '
+1406.480,1407.200,me018,b'\n      '
+1406.870,1407.942,me013,b'\n      Yeah. Uh-\n    '
+1407.152,1409.311,mn007,b'\n      And our system was\n    '
+1407.942,1411.960,me013,b'\n      '
+1409.311,1412.470,mn007,"b'\n      forty-nine, but with the neural network.\n    '"
+1411.300,1413.920,me018,b'\n      Wow. So '
+1411.960,1415.000,me013,b'\n      With the f- '
+1413.438,1419.150,mn052,b'\n      '
+1413.899,1414.558,mn007,b'\n      '
+1415.785,1418.897,me013,b'\n      '
+1418.897,1423.151,me013,"b""\n      Yeah. Yeah. And we still don't have the neural net in. So - so it's - You know. So it's -\n    """
+1421.711,1422.345,mn007,b'\n      '
+1421.910,1422.730,me018,b'\n      Wow.\n    '
+1423.783,1426.253,me013,"b""\n      We're - we're doing """
+1425.024,1425.691,,b'\n      '
+1425.180,1426.524,me018,b'\n      This is - this is really good.\n    '
+1426.762,1430.587,me013,b'\n      better '
+1427.430,1437.568,,b'\n      '
+1429.069,1429.675,mn007,b'\n      '
+1430.587,1431.101,me013,b'\n      but -\n    '
+1430.850,1431.216,me018,b'\n      Yeah.\n    '
+1431.101,1431.812,me013,"b'\n      but, uh -\n    '"
+1432.859,1435.327,me013,"b'\n      Uh, I mean, the '"
+1435.670,1436.973,me013,"b'\n      learn how to do this better, and,\n    '"
+1437.274,1437.719,mn007,b'\n      '
+1437.705,1438.639,me013,b'\n      you know. So.\n    '
+1438.970,1439.730,me018,b'\n      '
+1439.418,1440.220,me013,"b'\n      Um,\n    '"
+1440.132,1440.930,mn052,b'\n      '
+1440.372,1441.340,me013,b'\n      '
+1441.340,1442.367,me013,b'\n      '
+1442.367,1443.500,me013,b'\n      um -\n    '
+1445.050,1450.591,me013,"b""\n      Yeah, you can see the kind of - kind of numbers that we're having, say, on SpeechDat-Car which is a hard task, cuz\n    """
+1450.930,1451.850,mn052,b'\n      '
+1451.400,1454.050,me013,"b""\n      it's really, um - I """
+1455.081,1456.851,me013,"b'\n      sort of reasonable numbers,\n    '"
+1456.851,1458.190,me013,b'\n      '
+1458.265,1458.785,mn007,b'\n      Mm-hmm.\n    '
+1458.543,1459.541,me013,"b""\n      I mean, it's still """
+1459.068,1461.344,mn007,"b""\n      Yeah, even for a well-matched case it's\n    """
+1461.413,1493.888,,b'\n      '
+1461.605,1464.367,mn007,"b'\n      sixty percent error rate reduction, which is -\n    '"
+1464.300,1465.040,me013,b'\n      Yeah.\n    '
+1466.594,1470.136,me013,b'\n      Yeah. '
+1470.136,1470.660,me013,b'\n      '
+1470.660,1499.705,me013,b'\n      '
+1471.527,1472.910,mn007,"b'\n      Um,\n    '"
+1474.230,1475.909,mn007,b'\n      '
+1475.909,1476.310,mn007,b'\n      Yeah.\n    '
+1478.960,1479.261,mn007,b'\n      '
+1480.123,1482.200,mn007,"b'\n      So actually, this is in between\n    '"
+1482.200,1483.179,mn007,b'\n      '
+1483.179,1486.175,mn007,b'\n      what we had with the previous V_A_D and\n    '
+1486.175,1489.996,mn007,b'\n      what Sunil did with an I_D_L V_A_D.\n    '
+1489.996,1492.890,mn007,"b'\n      Which gave sixty-two percent improvement, right?\n    '"
+1494.127,1496.589,,b'\n      '
+1494.550,1498.360,mn052,"b""\n      Yeah, it's almost that. It's almost an average somewhere around - Yeah.\n    """
+1495.300,1496.149,mn007,b'\n      So -\n    '
+1497.254,1497.945,mn007,b'\n      Yeah.\n    '
+1498.320,1500.110,me018,b'\n      What was that? Say that last part again?\n    '
+1499.207,1503.410,mn007,"b'\n      So, if you use, like, an I_D_L V_A_D,\n    '"
+1502.992,1503.956,mn052,b'\n      o- o- '
+1503.603,1505.520,mn007,"b'\n      uh, for dropping the frames,\n    '"
+1505.549,1507.009,mn052,b'\n      Or the best we can get.\n    '
+1506.407,1513.907,mn007,b'\n      the best that we can get - i- That means that we estimate the silence probability on the clean version of the utterances.\n    '
+1514.383,1519.087,mn007,"b'\n      Then you can go up to sixty-two percent error rate reduction, globally.\n    '"
+1518.499,1518.798,me018,b'\n      Mmm.\n    '
+1519.835,1521.602,mn007,b'\n      Mmm -\n    '
+1521.602,1523.005,mn007,b'\n      Yeah.\n    '
+1526.320,1529.660,me018,"b""\n      So that would be even - That wouldn't change this number down here to """
+1531.100,1531.797,mn007,b'\n      Yeah.\n    '
+1531.824,1533.946,me013,b'\n      Yeah. So you - you were get-\n    '
+1532.077,1534.994,mn007,b'\n      If you add a g- good v- '
+1534.980,1535.730,me018,b'\n      Yeah.\n    '
+1534.994,1537.682,mn007,"b'\n      that works as well as a V_A_D working on clean speech,\n    '"
+1535.370,1537.998,mn052,b'\n      '
+1537.900,1538.464,me018,b'\n      Yeah.\n    '
+1538.103,1539.501,mn007,b'\n      then you wou- you would go -\n    '
+1539.270,1541.569,me018,"b""\n      So that's sort of the best you could hope for.\n    """
+1541.458,1542.290,mn007,b'\n      Mm-hmm.\n    '
+1542.162,1542.793,me018,b'\n      I see.\n    '
+1542.230,1542.789,me013,b'\n      '
+1542.789,1543.211,me013,b'\n      '
+1542.965,1543.793,mn007,b'\n      '
+1543.211,1546.837,me013,b'\n      So fi- si- fifty-three is what you were getting with the old V_A_D.\n    '
+1547.082,1547.415,mn007,b'\n      Yeah.\n    '
+1547.550,1548.847,me013,"b'\n      And, uh -\n    '"
+1549.333,1556.176,me013,"b'\n      and sixty-two with the - the, you know, quote, unquote, cheating V_A_D. And fifty-seven is what you got with the real V_A_D.\n    '"
+1555.122,1556.086,mn007,b'\n      Mm-hmm.\n    '
+1556.529,1557.561,me013,b'\n      '
+1558.144,1559.592,me013,b'\n      '
+1563.689,1566.866,mn007,"b'\n      Uh, yeah, the next thing is, I started to play -\n    '"
+1567.054,1572.371,mn007,"b""\n      Well, I don't want to worry too much about the delay, no. Maybe it's better to wait\n    """
+1572.492,1572.916,me013,b'\n      O_K.\n    '
+1572.998,1574.245,mn007,b'\n      for the decision\n    '
+1574.421,1575.450,me013,b'\n      Yeah.\n    '
+1574.688,1576.282,mn007,b'\n      from the committee.\n    '
+1576.396,1579.823,mn007,"b'\n      Uh, but I started to play with the, um, '"
+1579.823,1582.422,mn007,b'\n      '
+1583.640,1584.360,mn007,b'\n      Mmm '
+1584.360,1584.675,mn007,b'\n      '
+1585.689,1589.407,mn007,"b""\n      I just did the configuration that's very similar to\n    """
+1589.983,1592.097,mn007,b'\n      what we did for the February proposal.\n    '
+1592.856,1593.940,mn007,b'\n      And -\n    '
+1595.270,1600.873,mn007,b'\n      Um. So. There is a f- a first feature stream that use uh straight\n    '
+1601.177,1602.735,mn007,b'\n      M_F_C_C features.\n    '
+1602.490,1603.410,me013,b'\n      Mm-hmm.\n    '
+1603.510,1604.850,mn007,"b'\n      Well, these features actually.\n    '"
+1605.353,1611.014,mn007,"b'\n      And the other stream is the output of a neural network, using as input, also, these,\n    '"
+1611.620,1612.550,mn007,"b'\n      um,\n    '"
+1613.048,1614.283,mn007,b'\n      cleaned\n    '
+1614.283,1615.259,mn007,b'\n      M_F_C_C.\n    '
+1616.014,1616.968,mn007,b'\n      Um -\n    '
+1617.794,1619.280,mn007,"b""\n      I don't have the comp- Mmm?\n    """
+1618.110,1621.300,me018,b'\n      Those are th- those are th- what is going into the tandem net?\n    '
+1621.287,1623.470,me013,b'\n      '
+1622.180,1622.990,me018,b'\n      Those two?\n    '
+1623.865,1629.012,mn007,b'\n      So there is just '
+1624.656,1625.710,me013,b'\n      No.\n    '
+1628.183,1628.573,me018,b'\n      Yeah?\n    '
+1629.012,1634.371,mn007,"b""\n      Um, so it's - makes forty-five features """
+1634.317,1637.540,me013,b'\n      '
+1634.371,1640.280,mn007,"b'\n      And then, there is - there are more inputs that comes from the tandem M_L_P.\n    '"
+1639.790,1641.270,me018,"b'\n      Oh, oh. O_K. I see.\n    '"
+1640.684,1645.760,me013,"b'\n      Yeah, h- he likes to use them '"
+1642.698,1643.237,me018,b'\n      Uh-'
+1642.720,1643.940,mn007,b'\n      Yeah. Um -\n    '
+1645.336,1646.197,me018,b'\n      Right. O_K.\n    '
+1647.920,1649.431,mn007,"b'\n      So, um,\n    '"
+1649.431,1652.650,mn007,"b'\n      uh, yeah. Right now it seems\n    '"
+1653.870,1659.686,mn007,b'\n      that - i- I just tested on SpeechDat-Car while the experiment are running on '
+1659.961,1665.828,mn007,"b'\n      Well, it improves on the well-matched and the mismatched conditions, but it\n    '"
+1665.828,1668.323,mn007,b'\n      get worse on the highly mismatched.\n    '
+1669.305,1670.970,mn007,"b'\n      Um,\n    '"
+1670.430,1672.280,me018,b'\n      Compared to '
+1672.090,1673.896,mn007,"b'\n      Compared to these numbers, yeah.\n    '"
+1674.513,1681.713,mn007,"b'\n      Um, like, on the well-match and medium mismatch, the gain is around five percent relative,\n    '"
+1675.570,1677.667,me013,b'\n      '
+1681.713,1684.000,mn007,b'\n      but it goes down\n    '
+1684.724,1686.776,mn007,"b'\n      a lot more, like\n    '"
+1686.776,1689.890,mn007,b'\n      fifteen percent on the H_M case.\n    '
+1689.740,1692.040,me013,"b""\n      You're just using the full ninety features?\n    """
+1689.890,1690.766,mn007,b'\n      '
+1692.423,1692.689,mn007,b'\n      The -\n    '
+1693.200,1694.656,me013,b'\n      Y- you have ninety features?\n    '
+1693.514,1693.989,mn007,b'\n      i-\n    '
+1694.874,1696.554,mn007,"b'\n      I have, um -\n    '"
+1696.554,1699.488,mn007,"b""\n      From the networks, it's twenty-eight. So -\n    """
+1700.270,1704.245,me013,"b""\n      And from the other side it's forty-five. So it's - you have seventy-three features,\n    """
+1700.532,1703.040,mn007,"b""\n      So, d- i- It's forty-five. Yeah.\n    """
+1703.607,1704.287,mn007,b'\n      Yeah.\n    '
+1704.245,1705.727,me013,"b""\n      and you're just feeding them like that.\n    """
+1705.453,1705.861,mn007,b'\n      Mm-hmm.\n    '
+1705.727,1708.340,me013,"b""\n      There isn't any K_L_T or anything?\n    """
+1707.059,1711.060,mn007,"b""\n      There's a K_L_T after the neural network, as - as before.\n    """
+1710.270,1711.920,me018,"b""\n      That's how you get down to twenty-eight?\n    """
+1711.680,1712.180,mn007,b'\n      Yeah.\n    '
+1712.180,1713.130,mn007,b'\n      '
+1712.700,1713.760,me018,b'\n      Why twenty-eight?\n    '
+1713.578,1715.353,mn007,b'\n      '
+1715.353,1716.825,mn007,"b""\n      I don't know. """
+1716.044,1716.457,me018,b'\n      Oh.\n    '
+1716.482,1721.211,me013,b'\n      '
+1716.825,1721.205,mn007,"b""\n      i- i- i- It's because it's what we did for the first proposal. We tested,\n    """
+1720.316,1720.672,me018,b'\n      Ah.\n    '
+1721.205,1724.760,mn007,"b'\n      uh, trying to go down '"
+1721.211,1723.270,me013,"b""\n      It's a multiple of seven.\n    """
+1722.711,1728.707,mn052,b'\n      Yeah. '
+1722.840,1726.566,me018,b'\n      '
+1723.567,1727.512,me013,b'\n      '
+1724.760,1726.058,mn007,b'\n      So - '
+1726.058,1727.245,mn007,b'\n      Um. '
+1727.245,1731.081,mn007,b'\n      I wanted to do something very similar to the proposal as a first -\n    '
+1729.572,1730.031,me018,b'\n      I see.\n    '
+1730.510,1731.200,me013,b'\n      Yeah.\n    '
+1731.029,1732.211,me018,b'\n      Yeah. That makes sense.\n    '
+1731.081,1732.160,mn007,b'\n      first try.\n    '
+1732.160,1737.410,mn007,"b'\n      But we have to - for sure, we have to go down, because the limit is now sixty features. So,\n    '"
+1736.600,1737.310,me013,b'\n      Yeah.\n    '
+1737.530,1742.397,mn007,"b'\n      uh, we have to find a way to decrease\n    '"
+1742.397,1744.257,mn007,b'\n      the number of features.\n    '
+1744.257,1745.138,mn007,b'\n      Um -\n    '
+1744.890,1748.008,me018,"b'\n      So, it seems funny that -\n    '"
+1748.008,1752.790,me018,"b""\n      I don't know, maybe I don't u- quite understand everything, """
+1753.420,1757.130,me018,"b""\n      I guess - I guess if you're keeping the """
+1754.845,1757.138,me013,b'\n      '
+1757.280,1763.902,me018,b'\n      Maybe '
+1763.902,1767.280,me018,b'\n      keeping the number of Gaussians fixed in the '
+1767.720,1772.785,me013,"b'\n      Well, yeah. But, I mean, just in general, adding information -\n    '"
+1768.200,1769.435,mn007,b'\n      '
+1772.785,1777.520,me013,"b'\n      Suppose the information you added, '"
+1777.710,1778.042,me018,b'\n      Yeah.\n    '
+1780.180,1782.600,me013,"b'\n      Right? So - so, um -\n    '"
+1783.498,1785.661,me013,"b""\n      Or - or suppose it wasn't\n    """
+1785.661,1790.917,me013,b'\n      completely '
+1791.382,1792.485,me013,b'\n      except it was '
+1792.686,1793.248,me018,b'\n      Uh-huh.\n    '
+1793.148,1797.070,me013,"b""\n      Right? In that case you wouldn't necessarily expect it to be better at """
+1796.994,1799.031,me018,"b""\n      Oh, yeah, I wasn't necessarily saying it should be """
+1799.031,1803.131,me018,"b""\n      I'm just surprised that you're getting fifteen percent relative """
+1799.210,1799.980,me013,b'\n      Uh-huh.\n    '
+1800.610,1801.790,mn007,"b""\n      But it's worse.\n    """
+1803.131,1806.260,me018,b'\n      on the wel- On the highly mismatch. Yeah.\n    '
+1803.363,1805.433,me013,b'\n      On the highly mismatched condition.\n    '
+1804.748,1807.022,mn007,"b'\n      Yeah, I -\n    '"
+1805.433,1810.829,me013,"b'\n      So, ""highly mismatched condition"" means that in fact your training is a bad estimate of your test.\n    '"
+1810.860,1811.660,mn007,b'\n      Uh-huh.\n    '
+1811.283,1819.080,me013,"b'\n      So having - having, uh, a g- a l- a greater number of '"
+1819.080,1820.532,me013,"b'\n      uh, make things worse.\n    '"
+1822.075,1825.236,me013,"b""\n      I mean, you're """
+1825.714,1829.577,me013,"b'\n      and you have - and your - your - your training is representative of your test,\n    '"
+1830.144,1834.920,me013,"b""\n      then getting more sources of information should just help. But - but it's -\n    """
+1836.502,1838.546,me013,"b""\n      It doesn't necessarily work that way.\n    """
+1836.772,1837.162,me018,b'\n      Huh.\n    '
+1837.785,1838.186,mn007,b'\n      Mm-hmm.\n    '
+1838.997,1840.080,mn052,b'\n      '
+1839.426,1842.222,me013,"b'\n      So I wonder, um,\n    '"
+1844.799,1848.300,me013,"b""\n      Well, what's your - what's your thought about what to do next with it?\n    """
+1847.396,1851.340,mn007,"b""\n      Um, I don't know. I'm surprised, because\n    """
+1851.340,1854.629,mn007,b'\n      I expected the neural net to help more\n    '
+1854.629,1857.042,mn007,"b'\n      when there is more mismatch, as\n    '"
+1857.042,1858.900,mn007,b'\n      it was the case for the -\n    '
+1858.410,1862.520,mn052,b'\n      '
+1858.620,1859.490,me013,b'\n      Mm-hmm.\n    '
+1862.520,1864.270,mn052,b'\n      '
+1862.615,1866.746,mn007,"b""\n      Yeah, it's the same training set, so it's TIMIT with\n    """
+1864.719,1865.170,mn052,b'\n      O_K.\n    '
+1866.746,1870.690,mn007,"b""\n      the T_I-digits', uh, noises,\n    """
+1869.520,1870.340,me013,b'\n      Mm-hmm.\n    '
+1871.523,1873.113,mn007,"b'\n      uh, added.\n    '"
+1874.160,1875.760,mn007,b'\n      Um -\n    '
+1875.590,1880.230,me013,"b'\n      Well, we might - uh, we might have to experiment with, uh\n    '"
+1880.860,1890.560,me013,"b'\n      better training sets. Again. But, I - The '"
+1882.960,1883.670,mn007,b'\n      Mm-hmm.\n    '
+1890.850,1894.304,me013,"b'\n      The rest of it is different, right? So, um,\n    '"
+1894.040,1895.650,mn052,b'\n      '
+1894.304,1896.320,me013,"b'\n      uh, '"
+1896.700,1899.356,me013,"b""\n      For instance, what's the effect of just putting\n    """
+1899.356,1902.870,me013,b'\n      the neural net on without the o- other - other path?\n    '
+1902.670,1903.470,mn007,b'\n      Mm-hmm.\n    '
+1904.233,1904.922,mn007,b'\n      Yeah.\n    '
+1904.390,1907.840,me013,"b'\n      I mean, you know what the '"
+1907.460,1907.842,mn007,b'\n      Mm-hmm.\n    '
+1907.860,1909.808,me013,b'\n      You know what it does in '
+1909.808,1911.780,me013,"b""\n      You don't necessarily know what -\n    """
+1911.900,1915.748,me018,b'\n      What if you did the - '
+1915.748,1919.237,me018,b'\n      on the full set of '
+1919.237,1920.980,me018,b'\n      Instead of just on the -\n    '
+1920.600,1925.391,mn007,b'\n      Yeah. I g- I '
+1925.888,1930.280,mn007,"b'\n      in February, it - we - we tested different things like that,\n    '"
+1929.676,1930.177,me018,b'\n      '
+1930.280,1934.044,mn007,"b'\n      so, having two K_L_T, having just a K_L_T for a network,\n    '"
+1934.044,1938.496,mn007,b'\n      or having a global K_L_T.\n    '
+1937.380,1938.290,me018,"b'\n      Oh, I see.\n    '"
+1938.496,1939.351,mn007,b'\n      And -\n    '
+1940.130,1943.240,me018,b'\n      So you '
+1940.229,1940.844,mn007,b'\n      Well -\n    '
+1941.722,1948.105,mn007,"b'\n      Yeah. And, uh, th- Yeah. The differences between these configurations were not huge, but -\n    '"
+1944.014,1944.820,me018,b'\n      I see.\n    '
+1948.785,1950.029,mn007,b'\n      it was\n    '
+1950.029,1952.362,mn007,b'\n      marginally better with\n    '
+1952.362,1955.470,mn007,b'\n      this configuration.\n    '
+1953.387,1954.603,me018,b'\n      Uh-huh. Uh-huh.\n    '
+1955.413,1958.012,me013,"b""\n      But, yeah, that's obviously another thing to try,\n    """
+1955.470,1955.912,mn007,b'\n      Um.\n    '
+1958.012,1961.560,me013,b'\n      since things are - things are different. And I guess if the -\n    '
+1958.622,1959.784,mn007,b'\n      Mm-hmm. Mm-hmm.\n    '
+1961.560,1965.418,me013,"b'\n      These are all - so all of these seventy-three features are going into,\n    '"
+1966.028,1967.141,me013,"b'\n      um,\n    '"
+1967.705,1969.603,me013,"b'\n      the, uh - the H_M_M.\n    '"
+1969.862,1970.636,mn007,b'\n      Yeah.\n    '
+1970.649,1975.760,me013,b'\n      And is - are - i- i- are - are any deltas being computed of tha- of '
+1976.360,1978.593,mn007,"b'\n      Of the straight features, yeah.\n    '"
+1979.029,1979.668,mn007,b'\n      So.\n    '
+1979.132,1980.990,me013,b'\n      n- Not of the -\n    '
+1980.087,1981.834,mn007,"b'\n      But n- th- the, um,\n    '"
+1980.120,1981.300,me018,b'\n      '
+1982.272,1983.920,mn007,b'\n      tandem features are\n    '
+1983.920,1984.555,mn007,b'\n      u-\n    '
+1984.220,1985.070,me013,b'\n      Are not. '
+1984.555,1985.530,mn007,"b'\n      used as they are. So,\n    '"
+1986.853,1990.683,mn007,"b'\n      yeah, maybe we can add some context from these features also as -\n    '"
+1990.820,1992.042,me013,b'\n      '
+1991.104,1994.190,mn007,b'\n      Dan did in - in his last work.\n    '
+1993.295,1998.074,me013,"b'\n      Yeah, but the other thing I was thinking was, um -\n    '"
+1999.530,2003.048,me013,"b'\n      Uh, now I lost track of what I was thinking. But. '"
+2002.690,2003.587,me018,b'\n      What is the -\n    '
+2003.587,2007.800,me018,b'\n      You said there was a limit of sixty features or something?\n    '
+2007.390,2008.130,mn007,b'\n      Mm-hmm.\n    '
+2008.040,2011.520,me018,"b""\n      What's the relation between that limit and the, um, forty-eight -\n    """
+2009.120,2011.293,me013,b'\n      '
+2011.820,2013.541,me018,"b'\n      uh, forty eight hundred\n    '"
+2014.508,2015.720,me018,b'\n      bits per second?\n    '
+2015.780,2020.859,mn007,"b'\n      Um, not - no relation. The f- the forty-eight\n    '"
+2016.440,2017.930,me013,b'\n      No relation.\n    '
+2017.678,2019.820,me018,"b""\n      So I - I - I don't understand, because i-\n    """
+2020.859,2024.768,mn007,b'\n      hundred bits is for transmission of some features.\n    '
+2020.990,2022.410,me018,"b""\n      I mean, if you're only using h-\n    """
+2025.223,2028.795,mn007,"b'\n      And generally, i- it - s- allows you to transmit like, fifteen,\n    '"
+2029.690,2031.486,mn007,"b'\n      uh, cepstrum.\n    '"
+2031.139,2038.690,me013,b'\n      '
+2038.690,2045.087,me013,"b'\n      which might be, you know, it - it might be a concern how many parameters are use - u- used and so forth. And so,\n    '"
+2045.578,2048.028,me013,"b'\n      uh, they felt they wanted to set a limit.\n    '"
+2048.028,2049.207,me013,b'\n      So they chose sixty.\n    '
+2049.718,2055.449,me013,b'\n      Some people wanted to use hundreds of parameters and - and that bothered some other people. u- And so\n    '
+2054.790,2055.177,me018,b'\n      Uh-huh.\n    '
+2055.449,2059.153,me013,"b""\n      they just chose that. I - I - I think it's kind of r- arbitrary too. But -\n    """
+2059.153,2064.506,me013,"b""\n      but that's - that's kind of what was chosen. I - I remembered what I was going to say. What I was going to say is that, um,\n    """
+2064.764,2070.500,me013,b'\n      '
+2071.290,2075.705,me013,"b'\n      So you have two sets of things that are kind of uncorrelated, uh,\n    '"
+2076.167,2077.414,me013,b'\n      within '
+2077.870,2080.149,me013,"b""\n      but they're pretty correlated with one """
+2080.010,2080.730,mn007,b'\n      Mm-hmm.\n    '
+2080.613,2082.475,me013,"b'\n      And, um, '"
+2082.475,2087.848,me013,"b""\n      they're being fed into these, uh, variants, only Gaussians and so forth, and - and, uh,\n    """
+2086.963,2087.708,mn007,b'\n      Mm-hmm.\n    '
+2088.425,2090.355,me013,b'\n      so maybe it would be\n    '
+2090.355,2096.113,me013,"b'\n      a better idea now than it was before to, uh, have, uh, one K_L_T over everything,\n    '"
+2096.514,2097.756,mn007,b'\n      Mm-hmm.\n    '
+2097.144,2098.670,me013,b'\n      to de-correlate it.\n    '
+2098.161,2099.720,mn007,"b'\n      Yeah, I see.\n    '"
+2099.680,2100.850,me013,b'\n      '
+2101.043,2104.460,mn052,"b'\n      What are the S_N_Rs in the training set, TIMIT?\n    '"
+2104.656,2106.936,mn007,"b""\n      It's, uh, ranging from\n    """
+2107.981,2110.330,mn007,b'\n      zero to clean? '
+2111.029,2111.937,mn052,b'\n      Mm-hmm.\n    '
+2111.176,2114.214,mn007,b'\n      Yeah. From zero to clean.\n    '
+2114.214,2115.553,mn007,b'\n      '
+2114.720,2115.622,me013,b'\n      Yeah.\n    '
+2115.622,2119.827,me013,"b'\n      So we found this - this, uh - this Macrophone data,\n    '"
+2119.827,2129.833,me013,"b""\n      and so forth, that we were using for these other experiments, to be pretty good. So that's - i- after you explore these other alternatives, that might be another way to start looking, is - is just improving the training set.\n    """
+2120.782,2121.556,mn007,b'\n      Mm-hmm.\n    '
+2127.425,2128.310,mn007,b'\n      Mm-hmm.\n    '
+2129.833,2130.765,me013,"b'\n      I mean, we were getting,\n    '"
+2132.212,2134.635,me013,"b'\n      uh, '"
+2134.635,2135.408,me013,b'\n      better\n    '
+2135.873,2136.950,me013,b'\n      recognition\n    '
+2136.950,2138.754,me013,"b'\n      using that, than -\n    '"
+2137.651,2140.666,mn007,b'\n      '
+2139.756,2141.591,me013,"b'\n      Of course, you '"
+2141.591,2142.620,me013,"b'\n      um,\n    '"
+2143.429,2144.247,me013,b'\n      u- i- '
+2144.247,2148.646,me013,"b'\n      we are not able to increase the number of Gaussians, uh, or anything to, uh,\n    '"
+2149.442,2150.529,me013,"b'\n      uh,\n    '"
+2151.285,2157.970,me013,b'\n      to '
+2157.710,2161.764,me018,"b""\n      So you're saying, add the Macrophone data to the training of the neural net? The tandem net?\n    """
+2159.257,2159.976,mn007,b'\n      '
+2160.204,2165.817,me013,"b""\n      Yeah, that's the only place that we can """
+2161.764,2163.118,me018,b'\n      Yeah.\n    '
+2163.118,2164.500,me018,b'\n      Right.\n    '
+2165.817,2167.066,me013,"b'\n      Um,\n    '"
+2167.066,2168.600,me013,b'\n      um -\n    '
+2168.130,2170.730,me018,b'\n      What - '
+2169.456,2173.016,mn007,"b""\n      It's TIMIT with noise.\n    """
+2171.246,2171.682,me018,b'\n      Uh-huh.\n    '
+2173.016,2175.950,mn007,"b""\n      So, yeah, it's rather a small -\n    """
+2173.468,2173.869,me013,b'\n      Yeah.\n    '
+2176.923,2178.870,me013,b'\n      How '
+2176.993,2177.600,mn007,"b'\n      Um,\n    '"
+2178.710,2184.310,mn007,"b""\n      Uh, it's, uh, five hundred hidden units. And -\n    """
+2184.490,2188.968,me013,"b'\n      And again, you did experiments back then where you made it bigger and it - and that was - that was sort of the\n    '"
+2188.968,2191.828,me013,"b'\n      threshold point. Much less than that, it was worse, and\n    '"
+2189.394,2190.424,mn007,b'\n      Yeah.\n    '
+2190.972,2191.630,mn007,b'\n      Yeah.\n    '
+2191.828,2193.750,me013,"b""\n      much more than that, it wasn't much better.\n    """
+2200.445,2201.594,mn007,b'\n      '
+2200.541,2201.035,me013,b'\n      Hmm.\n    '
+2202.590,2205.693,mn052,b'\n      So is it - is it '
+2202.808,2204.459,mn007,b'\n      Yeah. '
+2205.693,2209.274,mn052,"b'\n      big relation in the high ma- high mismatch has something to do with the,\n    '"
+2209.920,2212.006,mn052,"b'\n      uh, cleaning up\n    '"
+2212.006,2215.761,mn052,b'\n      that you - that is done on the TIMIT after adding noise? So -\n    '
+2216.409,2218.885,mn052,"b""\n      it's - i- All the noises are from the T_I-digits, right?\n    """
+2218.800,2219.550,mn007,b'\n      Yeah.\n    '
+2220.500,2222.317,mn052,b'\n      So you - i-\n    '
+2222.040,2222.699,mn007,b'\n      Um -\n    '
+2224.120,2227.215,mn052,"b""\n      Well, it- it's like the high mismatch of the SpeechDat-Car\n    """
+2224.366,2225.990,mn007,b'\n      '
+2227.215,2230.673,mn052,"b'\n      after cleaning up, maybe having more noise than the -\n    '"
+2231.881,2236.850,mn052,b'\n      the training set of TIMIT after clean - s- after you do the noise clean-up.\n    '
+2234.880,2237.090,mn007,b'\n      '
+2237.830,2241.656,mn052,"b'\n      I mean, '"
+2241.960,2242.720,mn007,b'\n      Mm-hmm.\n    '
+2242.512,2244.986,mn052,"b'\n      So it had like all these different conditions of S_N_Rs,\n    '"
+2245.230,2246.050,mn007,b'\n      Mm-hmm.\n    '
+2245.373,2247.389,mn052,b'\n      actually in their training set of neural net.\n    '
+2247.650,2248.160,mn007,b'\n      Mm-hmm.\n    '
+2247.871,2251.197,mn052,"b'\n      But after cleaning up you have now a different set of S_N_Rs, right?\n    '"
+2251.197,2252.678,mn052,b'\n      For the training of the neural net.\n    '
+2251.300,2252.000,mn007,b'\n      Yeah.\n    '
+2252.760,2253.450,mn007,b'\n      Mm-hmm.\n    '
+2253.256,2253.992,mn052,b'\n      And -\n    '
+2254.370,2258.984,mn052,"b""\n      is it something to do with the mismatch that - that's created """
+2255.340,2256.230,mn007,b'\n      '
+2261.299,2264.194,mn007,b'\n      You mean the - the most noisy\n    '
+2264.194,2267.086,mn007,b'\n      occurrences on SpeechDat-Car might be\n    '
+2267.005,2267.910,mn052,b'\n      Mm-hmm.\n    '
+2267.086,2268.900,mn007,b'\n      a lot more noisy than -\n    '
+2268.430,2273.030,mn052,"b'\n      Of - that - I mean, the S_N_R after the noise compensation of the SpeechDat-Car.\n    '"
+2271.400,2276.700,me013,"b'\n      Oh, so - Right. So the training - the - the '"
+2273.086,2274.370,mn007,b'\n      Maybe.\n    '
+2274.506,2275.960,mn052,b'\n      '
+2275.960,2276.770,mn052,b'\n      Yeah.\n    '
+2276.784,2277.582,mn007,"b'\n      Yeah, yeah.\n    '"
+2277.199,2279.700,me013,b'\n      stuff. Which makes '
+2278.170,2278.950,mn052,b'\n      Yeah.\n    '
+2279.820,2280.204,mn007,b'\n      '
+2280.357,2283.491,me013,"b""\n      but, uh, you're saying - Yeah, the noisier\n    """
+2283.491,2285.543,me013,b'\n      ones are '
+2284.480,2285.160,mn052,b'\n      Yeah.\n    '
+2286.520,2292.648,me013,"b'\n      even after our noise compensation, are still gonna be pretty noisy. '"
+2286.926,2288.006,mn007,b'\n      '
+2288.614,2289.532,mn007,b'\n      Mm-hmm.\n    '
+2289.532,2290.775,mn007,b'\n      '
+2290.380,2296.220,mn052,"b'\n      Yeah, so now the after-noise '"
+2296.220,2299.551,mn052,b'\n      Of TIMIT. Because in the TIMIT it was zero to some clean.\n    '
+2297.410,2298.160,me013,b'\n      Right.\n    '
+2299.551,2301.951,mn052,b'\n      So the net saw all the S_N_R '
+2299.580,2300.420,me013,b'\n      Yes.\n    '
+2301.951,2305.330,mn052,"b""\n      conditions. Now after cleaning up it's a different set of S_N_R.\n    """
+2302.150,2302.890,me013,b'\n      Right.\n    '
+2305.150,2305.960,me013,b'\n      Right.\n    '
+2305.330,2311.930,mn052,"b""\n      And that S_N_R may not be, like, com- covering the whole set of S_N_Rs that you're getting in the SpeechDat-Car.\n    """
+2311.117,2317.410,me013,"b""\n      Right, but the SpeechDat-Car data that you're seeing is """
+2315.210,2320.450,mn052,"b'\n      Yeah, yeah, yeah, yeah, it '"
+2315.318,2315.742,mn007,b'\n      Yeah.\n    '
+2318.139,2319.380,me013,b'\n      So.\n    '
+2320.200,2320.970,mn007,b'\n      Mm-hmm.\n    '
+2320.450,2321.930,mn052,b'\n      some issues of -\n    '
+2321.410,2321.926,me013,b'\n      Yeah.\n    '
+2323.776,2329.860,mn007,"b'\n      Well, if the initial range of S_N_R is different, we - the problem was already there before. And -\n    '"
+2330.890,2331.670,me013,b'\n      Yeah.\n    '
+2331.030,2331.830,mn007,b'\n      Because -\n    '
+2332.252,2333.283,mn007,b'\n      Mmm -\n    '
+2333.588,2342.290,me013,"b'\n      Yeah, I mean, it depends on whether you believe that the noise compensation is equally reducing the noise on the test set and the training set. '"
+2334.451,2335.164,mn007,b'\n      Hmm.\n    '
+2340.789,2343.550,mn052,"b'\n      On the test set, yeah. '"
+2342.734,2343.770,mn007,b'\n      '
+2342.882,2345.871,me013,"b""\n      Right? I mean, you're saying there's a mismatch in """
+2344.855,2345.710,mn052,b'\n      Hmm.\n    '
+2345.710,2346.510,mn052,b'\n      Mm-hmm.\n    '
+2346.960,2353.650,me013,"b""\n      that wasn't there """
+2348.390,2349.100,mn052,b'\n      Mm-hmm.\n    '
+2353.750,2354.633,me013,"b'\n      then,\n    '"
+2354.633,2356.232,me013,b'\n      there would '
+2356.628,2358.785,me013,"b'\n      So, I mean, this may be -\n    '"
+2358.785,2360.910,me013,"b'\n      Heaven forbid, this\n    '"
+2360.910,2362.925,me013,b'\n      noise compensation process may be '
+2363.238,2365.426,mn007,b'\n      '
+2363.410,2365.040,me018,b'\n      '
+2363.581,2367.850,me013,b'\n      but. '
+2365.380,2366.707,mn052,"b'\n      Well, I -\n    '"
+2365.426,2366.423,mn007,"b'\n      Yeah, uh -\n    '"
+2367.644,2376.160,mn052,"b""\n      I don't know. I - I just - that could be seen from the T_I-digits, uh, testing condition because, um, the noises are from the T_I-digits, right? Noise -\n    """
+2375.689,2378.515,mn007,b'\n      Yeah. So - '
+2376.277,2380.820,mn052,b'\n      '
+2381.471,2385.582,mn052,b'\n      goes '
+2384.990,2386.773,mn007,"b'\n      Clean training, yeah.\n    '"
+2385.582,2387.834,mn052,"b'\n      on a clean training, or zero D_B testing.\n    '"
+2387.329,2389.840,mn007,"b""\n      Yeah, we'll - so we'll see. Uh. Maybe.\n    """
+2388.439,2391.240,mn052,"b""\n      Yeah. Then it's something to do.\n    """
+2391.140,2393.050,mn007,b'\n      Mm-hmm. '
+2391.780,2396.151,me013,"b'\n      I mean, one of the things about - I mean, the Macrophone data,\n    '"
+2396.612,2400.128,me013,"b'\n      um, I think, you know, it was recorded over many different telephones.\n    '"
+2400.168,2400.913,mn007,b'\n      Mm-hmm.\n    '
+2400.840,2405.497,me013,"b""\n      And, um, so, there's lots of different kinds of acoustic conditions.\n    """
+2405.497,2408.174,me013,"b""\n      I mean, it's not artificially added noise or anything.\n    """
+2408.174,2411.965,me013,"b""\n      So it's not the same. I don't think there's """
+2411.965,2419.711,me013,"b""\n      from a car, but - I think it's - it's varied enough that if - if doing this adjustments, uh, and playing around with it\n    """
+2419.711,2424.651,me013,"b""\n      doesn't, uh, make it better, the most - uh, it seems like the most obvious thing to do is to improve the training set.\n    """
+2425.498,2427.769,me013,"b'\n      Um - I mean, what we were -\n    '"
+2428.170,2435.545,me013,b'\n      uh - the condition - It - it gave us an '
+2435.545,2438.189,me013,"b'\n      there, '"
+2438.189,2440.471,me013,"b'\n      digits were very, very '"
+2440.866,2443.825,me013,b'\n      what we were going on '
+2443.825,2446.304,me013,b'\n      But it was just - I think just having a - a nice variation in\n    '
+2446.734,2449.310,me013,b'\n      acoustic conditions was just a good thing.\n    '
+2448.521,2449.660,mn007,b'\n      Mm-hmm.\n    '
+2449.985,2450.536,mn052,b'\n      Mmm.\n    '
+2450.066,2450.524,mn007,b'\n      Yep.\n    '
+2453.542,2458.747,mn007,"b'\n      Yeah, actually '"
+2458.747,2460.952,mn007,b'\n      case is that\n    '
+2460.952,2462.480,mn007,b'\n      the number of deletion\n    '
+2462.921,2465.148,mn007,b'\n      dramatically increases. It -\n    '
+2465.148,2467.080,mn007,b'\n      it doubles.\n    '
+2467.421,2469.160,me013,b'\n      '
+2467.940,2471.939,mn007,b'\n      When I added the num- the neural network it doubles the number of deletions.\n    '
+2472.807,2474.411,mn007,"b""\n      Yeah, so I don't you know """
+2474.411,2478.250,mn007,"b'\n      how to interpret that, but, mmm -\n    '"
+2480.060,2480.994,me013,b'\n      Yeah. Me '
+2481.547,2482.744,mn007,b'\n      t-\n    '
+2481.591,2485.323,me013,b'\n      '
+2482.640,2487.620,me018,b'\n      And - and did - an- other numbers stay the same? Insertion substitutions stay the same?\n    '
+2487.390,2490.944,mn007,"b'\n      They p- stayed the same, they - maybe they are a little bit\n    '"
+2489.080,2489.900,me018,b'\n      Roughly?\n    '
+2490.944,2492.740,mn007,"b'\n      uh, lower.\n    '"
+2492.171,2492.630,me018,b'\n      Uh-huh.\n    '
+2494.865,2497.717,mn007,b'\n      They are a little bit better. Yeah. But -\n    '
+2494.877,2498.636,me013,b'\n      '
+2499.100,2499.820,mn007,b'\n      Mm-hmm.\n    '
+2499.381,2502.353,me013,b'\n      Did they increase the number of deletions even for the\n    '
+2503.547,2508.377,me013,b'\n      cases that got '
+2505.684,2507.176,mn007,"b""\n      No, it doesn't. No.\n    """
+2509.231,2513.370,me013,"b'\n      And it - Remind me again, the ""highly mismatched"" means that the -\n    '"
+2512.310,2514.505,mn007,b'\n      Clean training and -\n    '
+2514.130,2515.000,me013,"b'\n      Uh, sorry?\n    '"
+2514.505,2518.576,mn007,"b""\n      It's clean training - Well, close microphone training and\n    """
+2516.962,2518.860,me013,b'\n      Close mike training -\n    '
+2519.204,2524.052,mn007,"b'\n      distant microphone, um, high speed, I think. Well -\n    '"
+2524.052,2527.699,mn007,b'\n      The most noisy cases are the distant microphone for testing.\n    '
+2530.462,2531.205,me013,b'\n      Right.\n    '
+2533.231,2534.382,me013,b'\n      So -\n    '
+2535.699,2537.632,me013,"b'\n      Well, maybe the noise subtraction is\n    '"
+2538.188,2544.808,me013,b'\n      subtracting off '
+2538.571,2540.527,mn007,b'\n      '
+2540.527,2541.340,mn007,b'\n      Yeah.\n    '
+2542.631,2543.687,mn007,b'\n      But - Yeah.\n    '
+2545.750,2553.770,mn007,"b""\n      I mean, but without the neural network it's - well, it's better. It's just when we add the neural networks. The feature are the same except that -\n    """
+2551.160,2554.530,me013,"b""\n      Yeah, right. Uh, that's right, that's right. Um -\n    """
+2554.620,2557.718,me018,"b'\n      Well that - that says that, you know, the, um -\n    '"
+2557.718,2560.703,me018,"b'\n      the models in - in, uh,\n    '"
+2560.703,2565.620,me018,b'\n      the recognizer are really paying attention to the neural net features.\n    '
+2565.370,2567.940,mn007,b'\n      Yeah. '
+2567.430,2568.320,me018,b'\n      Uh.\n    '
+2567.773,2570.280,me013,"b'\n      But, yeah, '"
+2570.280,2571.294,me013,b'\n      '
+2571.294,2577.263,me013,b'\n      the TIMIT noises '
+2577.609,2578.219,mn007,b'\n      '
+2578.168,2581.680,me013,"b""\n      driving kind of noises, right? It's - it's pretty different. Isn't it?\n    """
+2581.135,2586.190,mn007,"b'\n      Uh, there '"
+2586.773,2586.878,mn007,b'\n      '
+2586.878,2587.268,mn007,b'\n      '
+2587.268,2589.031,mn007,"b'\n      uh, ""Car"", I think,\n    '"
+2589.186,2589.954,mn052,"b'\n      ""Babble.""\n    '"
+2589.518,2592.310,mn007,"b'\n      ""Babble"", ""Subway"", right? and -\n    '"
+2591.660,2593.735,mn052,"b'\n      ""Street"" or ""Airport"" or something.\n    '"
+2592.579,2596.970,mn007,"b'\n      and - ""Street"" isn\'t - ""'"
+2593.735,2595.164,mn052,"b'\n      Or ""Train station"".\n    '"
+2595.970,2596.527,mn052,b'\n      Yeah.\n    '
+2597.905,2602.048,mn007,"b'\n      So - it\'s mostly - Well, ""Car"" is stationary,\n    '"
+2601.822,2602.830,me013,b'\n      Mm-hmm.\n    '
+2602.329,2603.393,mn007,"b'\n      ""Babble"",\n    '"
+2603.393,2607.750,mn007,"b""\n      it's a stationary background plus some voices,\n    """
+2607.450,2608.370,me013,b'\n      Mm-hmm.\n    '
+2608.100,2609.237,mn007,b'\n      some speech\n    '
+2609.237,2610.872,mn007,b'\n      over it. And\n    '
+2610.872,2614.430,mn007,b'\n      the other two are rather stationary also.\n    '
+2614.050,2616.306,me013,"b'\n      Well, I - I think that\n    '"
+2616.306,2617.802,me013,b'\n      if you run it -\n    '
+2618.746,2623.239,me013,"b'\n      Actually, you - maybe you remember this. When you - in - in the '"
+2623.926,2627.282,me013,"b""\n      with the neural net only, and didn't have this side path,\n    """
+2627.774,2631.518,me013,"b'\n      um, uh, with the - the pure features as well,\n    '"
+2631.560,2632.250,mn007,b'\n      Mm-hmm.\n    '
+2632.540,2632.997,me013,b'\n      did it\n    '
+2633.655,2638.305,me013,b'\n      make things '
+2639.119,2640.220,me013,"b'\n      Uh, w- i-\n    '"
+2639.180,2640.580,mn007,b'\n      It was -\n    '
+2640.230,2642.750,mn052,b'\n      '
+2640.758,2642.940,mn007,b'\n      b- a little bit worse.\n    '
+2643.030,2644.230,me013,b'\n      Than - ? '
+2644.390,2646.110,mn007,"b'\n      Than just the features, yeah.\n    '"
+2646.400,2647.387,me013,"b'\n      So,\n    '"
+2647.387,2653.570,me013,"b""\n      until you put the second path in with the pure features, the neural net wasn't helping at all.\n    """
+2653.080,2653.810,mn007,b'\n      Mm-hmm.\n    '
+2657.850,2659.240,me013,"b'\n      Well, '"
+2659.393,2661.083,mn007,"b'\n      It was helping,\n    '"
+2661.083,2663.627,mn007,"b'\n      uh, if the features are b-\n    '"
+2663.627,2664.708,mn007,"b'\n      were bad, I mean.\n    '"
+2664.760,2665.650,me013,b'\n      Yeah.\n    '
+2665.665,2669.550,mn007,b'\n      Just plain P_L_Ps or M_F_C_Cs.\n    '
+2667.150,2667.940,me013,b'\n      Yeah.\n    '
+2669.550,2670.693,mn007,b'\n      But\n    '
+2670.693,2673.797,mn007,"b'\n      as soon as we added L_D_A on-line normalization, and\n    '"
+2673.797,2676.790,mn007,b'\n      '
+2674.824,2677.586,me013,b'\n      They were doing similar enough things.\n    '
+2677.586,2680.141,me013,"b'\n      Well, I '"
+2680.141,2681.207,me013,b'\n      what\n    '
+2681.207,2687.525,me013,"b'\n      would happen if you just had the neural net without the side thing. And - and the thing I - I have in mind is,\n    '"
+2683.391,2684.670,mn007,"b'\n      Yeah, mm-hmm.\n    '"
+2687.525,2692.831,me013,"b'\n      uh, '"
+2692.831,2694.220,me013,"b""\n      they're a """
+2694.809,2697.300,me013,"b'\n      You know? And, um -\n    '"
+2697.940,2699.942,me013,"b'\n      But if on the ha- other hand,\n    '"
+2699.942,2706.934,me013,"b""\n      uh, it's, say, somewhere in """
+2706.934,2709.222,me013,b'\n      then maybe there '
+2709.222,2711.205,me013,"b'\n      of a, uh, combination\n    '"
+2711.685,2714.446,me013,"b'\n      of these things, or correlation between them somehow.\n    '"
+2713.466,2714.149,mn007,b'\n      Mm-hmm.\n    '
+2714.966,2719.097,me013,b'\n      If it really is that the '
+2719.097,2721.402,me013,b'\n      I think the issue is to\n    '
+2721.402,2724.579,me013,"b'\n      focus on - on, uh, improving the - the '"
+2724.263,2725.673,mn007,"b'\n      Yeah, mm-hmm.\n    '"
+2724.579,2726.450,me013,b'\n      Um.\n    '
+2727.550,2731.623,me013,"b""\n      So what's the overall effe- I mean, you haven't done all the experiments but you said\n    """
+2731.623,2732.648,me013,b'\n      it was i-\n    '
+2733.377,2739.118,me013,"b'\n      somewhat better, say, five percent better, for the first two conditions, and fifteen percent worse for the '"
+2739.506,2744.790,me013,"b""\n      But it's - but of course that one's """
+2740.041,2742.320,mn007,"b'\n      Y- yeah, oh. Yeah.\n    '"
+2744.848,2745.902,mn007,b'\n      I d- I -\n    '
+2745.902,2750.361,mn007,"b""\n      I think it's - it was one or two percent.\n    """
+2750.361,2754.867,mn007,"b""\n      That's not that bad, but it was l- like two percent\n    """
+2754.867,2757.662,mn007,b'\n      relative worse on SpeechDat-Car.\n    '
+2757.662,2760.190,mn007,"b'\n      I have to - to check that. Well, I have - I will.\n    '"
+2760.190,2762.377,me013,b'\n      '
+2761.518,2765.248,mn052,"b'\n      Well, it will - '"
+2762.103,2762.568,mn007,b'\n      '
+2762.160,2762.834,,b'\n      '
+2762.377,2765.009,me013,b'\n      '
+2763.446,2764.486,mn007,b'\n      '
+2765.248,2766.667,mn052,b'\n      because the fifteen percent\n    '
+2767.451,2770.820,mn052,b'\n      worse is given like f- w- twenty-five -\n    '
+2767.584,2768.999,me013,b'\n      '
+2770.310,2775.499,me013,b'\n      '
+2771.440,2772.980,mn052,b'\n      point two five eight.\n    '
+2772.511,2773.767,mn007,b'\n      Mm-hmm.\n    '
+2774.248,2775.376,mn007,b'\n      Hmm.\n    '
+2776.760,2781.325,me013,"b'\n      Right. So the - so the worst it could be, if the others were '"
+2778.809,2780.000,mn052,b'\n      Is it like -\n    '
+2780.941,2782.142,mn052,"b""\n      Yeah, so it's four.\n    """
+2781.325,2785.550,me013,"b'\n      and - and, uh, in fact since the others are somewhat better -\n    '"
+2784.174,2784.472,mn052,b'\n      Is i-\n    '
+2785.235,2788.412,mn052,"b""\n      So either it'll get cancelled out, or you'll get, like, almost the same.\n    """
+2788.334,2791.850,mn007,"b'\n      Yeah, it was - it was slightly worse. Um,\n    '"
+2788.677,2789.335,me013,b'\n      Uh.\n    '
+2788.793,2789.536,mn052,b'\n      Slightly bad.\n    '
+2789.846,2790.864,mn052,b'\n      '
+2792.040,2794.300,me013,"b'\n      Yeah, it should be pretty close to cancelled out.\n    '"
+2793.781,2794.366,mn052,b'\n      Yeah.\n    '
+2794.045,2794.944,mn007,b'\n      '
+2794.490,2799.666,me018,"b'\n      You know, '"
+2799.666,2803.641,me018,"b'\n      the Hub-five systems, um, recently have been using L_D_A.\n    '"
+2804.084,2806.520,me018,"b'\n      and - and they, um -\n    '"
+2805.550,2809.593,me013,b'\n      '
+2806.540,2811.403,me018,b'\n      They run L_D_A on the features right before they train the models.\n    '
+2810.558,2811.750,mn007,b'\n      '
+2811.403,2815.578,me018,"b""\n      So there's the - the L_D_A is - is right there before the H_M_Ms.\n    """
+2811.700,2812.550,mn052,b'\n      Yeah.\n    '
+2815.898,2820.733,me018,"b""\n      So, you guys are using L_D_A but it seems like it's pretty far back in the process.\n    """
+2821.192,2825.895,mn052,"b'\n      Uh, this L_D_A is different from the L_D_A that you are talking about. The L_D_A that you -\n    '"
+2825.895,2830.031,mn052,"b'\n      saying is, like, you take a block of features, like nine frames or something, '"
+2828.470,2829.150,me018,b'\n      Yeah.\n    '
+2829.863,2830.335,me018,b'\n      Uh-huh.\n    '
+2830.031,2835.378,mn052,"b'\n      and then do an L_D_A on it, and then reduce the dimensionality to something like twenty-four or something like that.\n    '"
+2835.378,2837.040,mn052,b'\n      And then feed it to H_M_M.\n    '
+2835.450,2839.650,me018,"b'\n      Yeah, you c- you c- you '"
+2838.230,2839.682,mn052,"b'\n      Yeah, so this is like a two d-\n    '"
+2839.682,2841.330,mn052,b'\n      two dimensional '
+2839.810,2842.060,me018,"b""\n      You're shifting the feature space. """
+2841.330,2842.897,mn052,b'\n      So this is a two dimensional '
+2842.897,2846.823,mn052,"b'\n      And the L_D_A that we are f- applying is only in time, not in frequency -\n    '"
+2847.530,2851.287,mn052,b'\n      '
+2851.200,2852.510,me018,b'\n      Ah. O_K.\n    '
+2851.939,2853.430,mn052,b'\n      doing a r-\n    '
+2852.830,2855.879,me018,"b'\n      So what i- what about, um - i- u-\n    '"
+2855.879,2862.410,me018,"b""\n      what i- w- I mean, I don't know if this is a good idea or """
+2862.410,2866.750,me018,"b'\n      uh, on your features right before they go into\n    '"
+2862.823,2863.959,mn052,"b'\n      Uh, it -\n    '"
+2866.390,2867.280,me013,b'\n      '
+2866.750,2867.890,me018,b'\n      the H_M_M?\n    '
+2867.771,2872.116,me013,b'\n      '
+2868.006,2869.727,mn052,b'\n      '
+2868.120,2873.074,mn007,"b'\n      Mm-hmm. No, actually, I think - i- Well. What do we do with the A_N_N is -\n    '"
+2873.074,2876.440,mn007,"b""\n      is something like that except that it's not linear. But\n    """
+2876.560,2877.420,me018,b'\n      Yeah.\n    '
+2876.800,2880.690,mn007,"b""\n      it's - it's like a nonlinear discriminant analysis. But.\n    """
+2877.960,2883.640,me018,"b""\n      Right, it's the - It's - Right. The - So - Yeah, so it's sort of like - The """
+2883.140,2884.880,mn007,"b""\n      Yeah. It's -\n    """
+2883.965,2887.030,me018,b'\n      nonlinear L_D_A. '
+2885.512,2886.240,mn007,b'\n      Yeah.\n    '
+2885.900,2886.610,me013,b'\n      Yeah.\n    '
+2886.681,2888.010,mn007,b'\n      Uh.\n    '
+2887.230,2891.277,me018,"b'\n      But I mean, w- but the '"
+2891.277,2894.060,me018,b'\n      th- the non-'
+2891.393,2891.743,mn007,b'\n      Mm-hmm.\n    '
+2892.307,2895.990,mn007,"b'\n      Yeah, I know. That - that - Yeah. Well, in the proposal, they were\n    '"
+2894.410,2895.979,me013,b'\n      '
+2895.990,2898.101,mn007,"b'\n      transformed u- using P_C_A, but -\n    '"
+2898.694,2899.084,me018,b'\n      Uh-huh.\n    '
+2899.101,2901.015,mn007,"b'\n      Yeah, it might be that L_D_A\n    '"
+2899.128,2899.866,me013,b'\n      '
+2900.950,2908.043,me013,b'\n      The a- the '
+2901.015,2902.021,mn007,b'\n      could be better.\n    '
+2908.043,2914.309,me013,"b'\n      uh, we '"
+2913.815,2914.297,me018,b'\n      Yeah.\n    '
+2914.309,2921.186,me013,"b""\n      Uh, they're good because you - you - you learn to distinguish between these categories that you want to be good at distinguishing between.\n    """
+2920.950,2921.670,mn007,b'\n      '
+2921.186,2924.551,me013,"b""\n      And P_C_A doesn't do that. It - P_A_C- P_C_A -\n    """
+2924.551,2927.690,me013,b'\n      low-order P_C_A throws away pieces that are\n    '
+2928.080,2932.270,me013,"b""\n      uh, maybe not - not gonna be helpful just because they're """
+2931.814,2933.360,me018,b'\n      Right. '
+2933.010,2937.465,me013,"b""\n      But, uh, the problem is, training sets aren't perfect and testing sets are different.\n    """
+2937.465,2944.307,me013,b'\n      So you f- you - you face the '
+2944.307,2950.119,me013,b'\n      to discriminate between categories in '
+2949.490,2950.240,me018,b'\n      Uh-huh.\n    '
+2950.119,2953.164,me013,"b'\n      And so, uh, '"
+2953.164,2957.914,me013,"b""\n      uh, let's feed, uh, """
+2957.914,2959.590,me013,"b""\n      and something that's """
+2961.320,2965.029,me013,b'\n      So you have a '
+2964.672,2965.108,me018,b'\n      Yeah.\n    '
+2965.029,2969.452,me013,"b'\n      and then, uh, you - you discriminately train it, but you '"
+2969.452,2972.976,me013,b'\n      take the path that - that '
+2970.476,2970.935,me018,b'\n      Uh-huh.\n    '
+2972.976,2977.294,me013,"b""\n      And that - that seem- So it's kind of like a combination of the -\n    """
+2977.294,2984.902,me013,"b""\n      uh, what, uh, Dan has been calling, you know, a feature - uh, you know, a feature combination versus posterior combination or something. It's -\n    """
+2984.902,2991.811,me013,"b""\n      it's, you know, you """
+2991.811,2994.920,me013,"b'\n      And that seemed, at least in the '"
+2994.920,2997.850,me013,b'\n      he - when he '
+2997.443,2997.879,me018,b'\n      Yeah.\n    '
+2997.850,3003.511,me013,"b""\n      i- it actually was - was - it didn't help at """
+3003.511,3004.861,me013,b'\n      testing and training.\n    '
+3004.861,3008.160,me013,b'\n      But by having '
+3008.160,3010.387,me013,b'\n      the discriminative stuff is gonna '
+3010.050,3010.900,me018,b'\n      Mm-hmm.\n    '
+3010.387,3015.810,me013,b'\n      And '
+3012.224,3012.786,me018,b'\n      Right.\n    '
+3015.080,3017.930,me018,"b""\n      So you wouldn't necessarily then want to do L_D_A on\n    """
+3017.930,3020.190,me018,b'\n      the non-tandem features because\n    '
+3019.950,3021.250,me013,b'\n      That i- i-\n    '
+3020.270,3022.990,me018,"b""\n      now you're doing something to them that -\n    """
+3022.490,3028.143,me013,"b""\n      I think that's counter to that idea. Now, again, it's - we're just trying these different things. We don't really know what's gonna work best. But\n    """
+3023.980,3025.390,me018,"b'\n      Yeah, right.\n    '"
+3028.520,3032.700,me013,"b""\n      if that's the hypothesis, at least it would be counter to that hypothesis to do that.\n    """
+3032.429,3032.842,me018,b'\n      Right.\n    '
+3033.000,3036.802,me013,"b'\n      Um, and in '"
+3037.796,3038.864,me013,b'\n      better\n    '
+3038.864,3041.372,me013,b'\n      at the '
+3040.080,3041.534,me018,b'\n      Right.\n    '
+3041.534,3043.350,me018,b'\n      Yeah. Well - y-\n    '
+3041.975,3043.780,me013,"b'\n      Though, maybe '"
+3043.350,3049.461,me018,b'\n      '
+3049.461,3052.790,me018,"b'\n      and, um, Andreas and I '"
+3053.020,3055.239,me018,b'\n      the idea w- the '
+3055.239,3061.383,me018,"b'\n      uh, yeah, that i- you know - th- the neural net should be '"
+3061.383,3066.268,me018,"b'\n      uh, a '"
+3066.268,3068.760,me018,b'\n      in '
+3067.671,3068.221,me013,b'\n      Right.\n    '
+3068.820,3074.099,me018,"b'\n      you know, show a clear '"
+3074.099,3075.436,me018,b'\n      theoretically. So.\n    '
+3075.436,3077.370,me018,b'\n      I was just wondering - I - I -\n    '
+3076.525,3078.046,me013,"b""\n      Well, I think that's a good idea.\n    """
+3077.720,3078.820,me018,b'\n      Yeah.\n    '
+3078.340,3080.380,me013,b'\n      Did - did you '
+3079.560,3084.610,me018,"b""\n      Um. No. That's what - that's what we're gonna do """
+3082.620,3085.514,me013,b'\n      Yeah. '
+3085.514,3086.308,me013,b'\n      I - I -\n    '
+3087.026,3087.973,me013,b'\n      i- Yeah. '
+3087.170,3090.821,me018,b'\n      We just want to '
+3088.390,3089.259,me013,"b""\n      Oh, no it's a g-\n    """
+3089.944,3094.414,me013,"b'\n      No, no, but it might not - not even be '"
+3091.820,3092.590,me018,b'\n      Yeah.\n    '
+3094.414,3101.318,me013,"b'\n      one of the things that always disturbed me, uh, in the - the resurgence of neural nets that happened in the eighties was that, um,\n    '"
+3101.318,3104.983,me013,b'\n      a lot of people - Because neural nets were pretty easy to - to use -\n    '
+3104.240,3104.714,me018,b'\n      Yeah.\n    '
+3104.983,3107.994,me013,"b'\n      a lot of people were just using them for all sorts of things without,\n    '"
+3107.994,3112.073,me013,"b'\n      uh, looking at '"
+3109.840,3110.650,me018,b'\n      Mm-hmm.\n    '
+3111.366,3111.825,me018,b'\n      Yeah.\n    '
+3112.073,3119.410,me013,"b""\n      uh, people were doing recurrent nets but not looking at I_I_R filters, and - You know, I mean, uh, so I think, yeah, it's definitely a good idea to try it.\n    """
+3115.890,3116.600,mn052,b'\n      '
+3119.060,3124.133,me018,"b""\n      Yeah, and everybody's putting that on their """
+3123.890,3128.170,me013,"b""\n      Well, they've been putting them in their systems off and on for ten years, but - but - but, uh,\n    """
+3124.133,3125.220,me018,"b'\n      this, but.\n    '"
+3127.580,3132.585,me018,"b""\n      Yeah, what I mean is it's - it's like in the Hub-five evaluations, you know, and you read the system descriptions and\n    """
+3131.980,3133.592,me013,b'\n      And now they all have that.\n    '
+3132.585,3137.320,me018,b'\n      '
+3133.592,3134.600,me013,b'\n      I see.\n    '
+3135.790,3136.650,me013,b'\n      Yeah.\n    '
+3137.301,3139.904,mn007,"b""\n      It's the transformation they're estimating on -\n    """
+3139.904,3141.900,mn007,"b'\n      Well, they are trained on the same\n    '"
+3141.900,3142.810,mn007,b'\n      data\n    '
+3142.810,3144.980,mn007,b'\n      as the final '
+3143.010,3152.524,me018,"b""\n      Yeah, so it's """
+3146.630,3147.300,mn007,b'\n      Mm-hmm.\n    '
+3150.958,3151.348,mn007,b'\n      Mm-hmm.\n    '
+3152.524,3155.720,me018,"b""\n      I - I don't know enough about it, but - Um.\n    """
+3152.713,3153.172,mn007,b'\n      Mm-hmm.\n    '
+3155.630,3159.507,me013,"b'\n      I mean, '"
+3159.507,3162.352,me013,b'\n      describing to me at one point that you wanted to\n    '
+3162.352,3163.730,me013,"b'\n      see if,\n    '"
+3163.730,3169.904,me013,"b'\n      uh, you know, getting good orthogonal features was - and '"
+3169.904,3171.151,me013,b'\n      temporal\n    '
+3171.151,3176.185,me013,b'\n      '
+3176.185,3178.393,me013,"b""\n      I think you r- I mean, this is - it doesn't have the\n    """
+3178.393,3180.310,me013,b'\n      L_D_A aspect but th- as far as the\n    '
+3180.879,3185.211,me013,"b'\n      orthogonalizing transformation, you were trying '"
+3184.095,3184.977,mn007,b'\n      Mm-hmm.\n    '
+3184.977,3185.880,mn007,b'\n      Mm-hmm.\n    '
+3185.211,3186.280,me013,b'\n      I think you were.\n    '
+3187.346,3187.748,mn007,b'\n      Yeah.\n    '
+3189.292,3191.590,me013,b'\n      Does '
+3191.521,3192.595,mn007,b'\n      '
+3191.956,3192.404,me013,b'\n      Yeah.\n    '
+3193.872,3194.250,me013,b'\n      Yeah.\n    '
+3196.020,3202.427,mn052,"b""\n      So, yeah, I've been exploring a parallel V_A_D without neural network with, like,\n    """
+3197.460,3204.204,me013,b'\n      '
+3202.427,3206.050,mn052,"b'\n      less latency using S_N_R and energy,\n    '"
+3206.264,3208.433,mn052,"b'\n      um, after the cleaning up.\n    '"
+3208.433,3212.235,mn052,"b""\n      So what I'd been trying was, um,\n    """
+3212.235,3213.066,mn052,b'\n      uh -\n    '
+3213.066,3215.793,mn052,"b'\n      After the b- after the noise compensation,\n    '"
+3215.793,3223.665,mn052,"b'\n      n- I was trying t- to f- find a f- feature based on the ratio of the energies, that is, cl- after clean and before clean.\n    '"
+3223.665,3230.572,mn052,"b""\n      So that if - if they are, like, pretty c- close to one, which means it's speech. And if it is n- if it is close to zero, which is -\n    """
+3230.572,3233.039,mn052,"b""\n      So it's like a scale """
+3233.670,3238.069,mn052,"b'\n      So I was trying, uh, with full band and multiple bands,\n    '"
+3238.069,3244.576,mn052,"b'\n      m- ps- uh - separating them to different frequency bands and deriving separate decisions on each bands, and trying to combine them.\n    '"
+3244.576,3245.502,mn052,"b'\n      Uh,\n    '"
+3245.502,3253.279,mn052,"b""\n      the advantage being like it doesn't have the latency of the neural net if it - if it can g- And """
+3248.966,3249.529,me013,b'\n      Mm-hmm.\n    '
+3253.279,3259.368,mn052,b'\n      One - more than one percent '
+3259.368,3262.130,mn052,b'\n      '
+3259.830,3260.560,me013,b'\n      Mm-hmm.\n    '
+3262.130,3266.637,mn052,"b""\n      Which means that it's - it's doing a slightly better job than the previous V_A_D,\n    """
+3266.400,3267.190,me013,b'\n      Mm-hmm.\n    '
+3266.637,3268.338,mn052,"b'\n      uh, at a l- lower delay.\n    '"
+3268.730,3269.550,me013,b'\n      Mm-hmm.\n    '
+3269.070,3272.475,mn052,"b'\n      Um, so, um - so - u-\n    '"
+3271.280,3275.033,me013,"b""\n      But - i- d- I'm sorry, does it still have the median """
+3273.827,3276.100,mn052,b'\n      It '
+3275.033,3278.090,me013,b'\n      So it still has '
+3276.846,3282.280,mn052,"b""\n      Yeah, so d- with the delay, that's gone is the """
+3283.480,3285.928,mn052,b'\n      The forty plus '
+3285.928,3291.810,mn052,"b'\n      At the input of the neural net you have this, uh, f- nine frames of context plus the delta.\n    '"
+3286.530,3287.330,me013,"b'\n      Well, w- i-\n    '"
+3292.027,3292.532,mn007,b'\n      Mm-hmm.\n    '
+3292.200,3294.140,me013,"b'\n      Oh, plus the delta, right. O_K.\n    '"
+3293.109,3295.924,mn052,"b'\n      Yeah. So that delay, plus the L_D_A.\n    '"
+3295.680,3297.130,me013,b'\n      Mm-hmm. '
+3295.924,3302.523,mn052,"b'\n      Uh, so the delay is only the forty millisecond of the noise cleaning, plus the hundred millisecond smoothing at the output.\n    '"
+3299.080,3300.524,me013,b'\n      '
+3303.945,3304.772,mn052,b'\n      Um.\n    '
+3304.772,3307.365,mn052,b'\n      So. Yeah. So the - the - di- the biggest -\n    '
+3307.365,3313.572,mn052,b'\n      The problem f- for me was to find a consistent threshold that works '
+3313.572,3323.034,mn052,"b""\n      I try to make it work on tr- SpeechDat-Car and it fails on T_I-digits, or if I try to make it work on that it's just the Italian or something, it doesn't work on the Finnish.\n    """
+3313.761,3314.540,me013,b'\n      Mm-hmm.\n    '
+3322.730,3324.660,me013,b'\n      Mm-hmm. '
+3323.034,3324.510,mn052,"b'\n      So, um.\n    '"
+3324.990,3331.732,mn052,"b'\n      So there are - there was, like, some problem in balancing the deletions and insertions when I try different thresholds. So -\n    '"
+3329.440,3330.290,me013,b'\n      Mm-hmm. '
+3331.732,3332.640,mn052,b'\n      The -\n    '
+3332.760,3335.061,mn052,"b""\n      I'm still trying to make it\n    """
+3335.061,3339.604,mn052,b'\n      better by using some other features from the -\n    '
+3339.604,3342.076,mn052,"b'\n      after the p- clean up - maybe, some,\n    '"
+3342.076,3347.530,mn052,"b'\n      uh, correlation - auto-correlation or some s- additional features '"
+3347.710,3349.681,mn052,b'\n      the improvement of the '
+3349.681,3351.310,mn052,"b""\n      I've been trying.\n    """
+3350.934,3352.705,me013,"b'\n      Now this - this - this, uh,\n    '"
+3353.319,3356.094,me013,"b'\n      ""before and '"
+3356.572,3359.142,me013,"b'\n      That - that, it - you th- think that the, uh - the -\n    '"
+3359.766,3362.932,me013,"b'\n      i- it appears to be a good feature, right?\n    '"
+3362.182,3363.230,mn052,b'\n      Mm-hmm. Yeah.\n    '
+3362.932,3364.580,me013,b'\n      What about using it in the '
+3364.686,3367.580,mn007,"b'\n      Yeah, eventually we could - could just\n    '"
+3365.196,3369.236,mn052,"b""\n      Yeah, so - Yeah, so that's the - Yeah. So we've been thinking about putting it into the neural net also. """
+3366.800,3371.957,me013,b'\n      '
+3367.580,3370.336,mn007,b'\n      '
+3369.594,3371.510,mn052,b'\n      Because they did - that itself -\n    '
+3370.691,3373.344,mn007,"b""\n      Then you don't have to worry about the thresholds and - """
+3372.129,3375.910,mn052,"b""\n      There's a threshold and - Yeah. Yeah. So that - that's, uh -\n    """
+3372.651,3375.030,me013,b'\n      '
+3373.801,3374.663,mn007,b'\n      but just -\n    '
+3375.030,3380.490,me013,b'\n      Yeah. So if we - if we can '
+3378.461,3380.287,mn052,b'\n      Yeah. Yeah.\n    '
+3380.490,3381.560,me013,"b'\n      uh,\n    '"
+3382.009,3388.801,me013,"b'\n      good thing. Um, anybody - has anybody - you guys or - or '"
+3388.801,3390.160,me013,"b'\n      um,\n    '"
+3391.250,3393.738,me013,b'\n      second th- second stream thing?\n    '
+3393.738,3394.830,me013,b'\n      Uh.\n    '
+3393.745,3398.590,mn052,"b'\n      Oh, I just - I just h- put the second stream in place and, uh\n    '"
+3395.760,3397.075,mn007,b'\n      '
+3398.690,3401.949,mn052,"b'\n      ran one experiment, but just like - just to know that everything is fine.\n    '"
+3401.630,3402.740,me013,b'\n      Uh-huh.\n    '
+3401.949,3407.230,mn052,"b'\n      So it was like, uh, forty-five cepstrum plus twenty-three mel - '"
+3407.160,3407.940,me013,b'\n      Yeah.\n    '
+3407.450,3412.921,mn052,b'\n      '
+3412.921,3414.722,mn052,b'\n      zero improvement. '
+3413.020,3413.730,me013,b'\n      Yeah.\n    '
+3414.400,3415.100,me013,b'\n      Yeah.\n    '
+3414.722,3420.808,mn052,b'\n      So I just tried it on Italian just to know that everything is - '
+3420.340,3420.827,me013,b'\n      Yeah.\n    '
+3420.808,3421.439,mn052,b'\n      So. '
+3420.827,3427.884,me013,"b'\n      Yeah. Well, what I think, you know, would be '"
+3427.152,3428.970,mn052,"b'\n      Yeah, yeah, yeah, yeah.\n    '"
+3427.711,3428.158,mn007,b'\n      Mm-hmm.\n    '
+3427.884,3429.150,me013,b'\n      Right? And then - '
+3430.117,3435.810,me013,b'\n      '
+3436.610,3437.400,mn007,b'\n      Yeah.\n    '
+3438.990,3442.223,mn052,"b'\n      The uh, '"
+3442.223,3449.227,mn052,"b'\n      if the neural net, um, has any - because of the different noise con- unseen noise conditions for the\n    '"
+3449.227,3452.665,mn052,"b'\n      neural net, where, like, you train it on those four noise conditions,\n    '"
+3451.677,3452.530,mn007,b'\n      Mm-hmm.\n    '
+3452.665,3454.293,mn052,"b'\n      while you are feeding it with, like,\n    '"
+3454.293,3460.134,mn052,"b""\n      a- additional - some four plus some - f- few more conditions which it hasn't seen, actually,\n    """
+3460.134,3463.522,mn052,b'\n      from the - f- f- while testing. Um -\n    '
+3461.886,3463.210,mn007,"b'\n      Yeah, yeah. Right.\n    '"
+3463.522,3465.711,mn052,b'\n      instead of just h- having c-\n    '
+3465.711,3470.480,mn052,"b'\n      uh, those cleaned up t- cepstrum, sh- should we feed some additional information, like -\n    '"
+3470.480,3478.910,mn052,b'\n      The - the - We '
+3478.312,3480.560,mn007,b'\n      Hmm-'
+3480.800,3482.820,me013,b'\n      '
+3482.410,3485.750,mn052,b'\n      We have the V_A_D information also available at the '
+3485.030,3486.080,mn007,b'\n      '
+3485.660,3486.600,me013,b'\n      Uh-huh.\n    '
+3486.180,3491.806,mn052,b'\n      So if it is something the neural net is not able to discriminate the classes -\n    '
+3487.467,3487.942,mn007,b'\n      '
+3489.187,3489.707,mn007,b'\n      '
+3491.730,3492.162,me013,b'\n      Yeah.\n    '
+3491.806,3492.423,mn052,b'\n      I mean -\n    '
+3492.423,3494.100,mn052,b'\n      Because most of it is sil-\n    '
+3494.100,3496.177,mn052,"b'\n      I mean, we have dropped some silence f-\n    '"
+3496.177,3499.880,mn052,b'\n      We have dropped so- silence frames? '
+3496.285,3496.801,me013,b'\n      Mm-hmm.\n    '
+3499.200,3501.510,mn007,"b'\n      Uh, still '"
+3500.990,3505.740,mn052,b'\n      Yeah. So - the b- b- biggest classification would be the speech and silence.\n    '
+3502.098,3502.569,mn007,b'\n      Th-\n    '
+3507.630,3516.120,mn052,"b'\n      So, by having an additional, uh, feature which says ""this is speech and this is '"
+3509.130,3509.810,mn007,b'\n      '
+3512.631,3513.846,mn007,b'\n      '
+3516.319,3517.125,me018,b'\n      What -\n    '
+3517.125,3520.430,me018,b'\n      Do y- do you have that feature available for the '
+3520.230,3528.467,mn052,"b'\n      Well, I mean, we have - we are transferring the V_A_D to the '"
+3527.200,3529.400,me018,"b'\n      Oh, oh, '"
+3527.515,3528.550,mn007,b'\n      '
+3528.467,3533.060,mn052,b'\n      so the neural - so that is coming from a separate neural net or '
+3532.650,3534.090,me018,b'\n      O_K. O_K.\n    '
+3533.257,3535.643,mn052,b'\n      Which is - which is certainly\n    '
+3535.643,3536.739,mn052,b'\n      giving a\n    '
+3535.940,3538.220,me018,"b""\n      So you're saying, feed that, """
+3537.033,3541.220,mn052,b'\n      '
+3538.220,3540.435,me018,b'\n      the neural net. Yeah. '
+3540.435,3541.493,me018,b'\n      Right.\n    '
+3541.568,3546.174,me013,b'\n      You could feed it into the neural net. The '
+3541.680,3542.830,mn052,b'\n      So that -\n    '
+3546.174,3547.831,me013,"b'\n      is just, um, p-\n    '"
+3547.831,3552.649,me013,"b'\n      modify the, uh, '"
+3553.366,3554.660,me013,"b'\n      uh,\n    '"
+3555.680,3561.081,me013,"b'\n      um, neural net, '"
+3561.710,3562.440,mn052,b'\n      Mm-hmm.\n    '
+3562.419,3563.353,me013,b'\n      Right? '
+3563.079,3563.719,mn007,b'\n      Mm-hmm.\n    '
+3563.353,3563.828,me013,b'\n      '
+3563.828,3568.346,me013,"b'\n      So you have an independent estimator of what the silence probability is,\n    '"
+3568.346,3571.550,me013,b'\n      and you could '
+3572.050,3574.021,me013,"b""\n      Uh, I mean, you'd have to do the\n    """
+3572.160,3572.910,mn007,b'\n      Yeah.\n    '
+3574.598,3583.180,me013,b'\n      nonlinearity part and deal with '
+3577.782,3580.670,mn052,b'\n      '
+3582.247,3584.330,mn007,"b'\n      Yeah, so - maybe, yeah, when -\n    '"
+3584.410,3587.740,me018,"b""\n      But in principle wouldn't it be """
+3587.740,3589.173,me013,"b'\n      Well, u- Not '"
+3589.173,3594.352,me013,"b""\n      I mean, let's put it """
+3589.283,3589.616,me018,b'\n      Hmm.\n    '
+3594.040,3594.373,me018,b'\n      Yeah.\n    '
+3594.352,3596.560,me013,"b'\n      and you can tell it, uh, ""'"
+3596.560,3599.553,me013,"b'\n      Or you can say, ""It\'s '"
+3599.553,3605.260,me013,"b'\n      I mean, '"
+3603.454,3604.050,me018,b'\n      What -\n    '
+3604.050,3605.611,me018,b'\n      what if you - '
+3605.611,3609.175,me018,"b'\n      So, what if you then, uh - since you '"
+3609.175,3611.550,me018,b'\n      use the '
+3613.070,3614.240,me013,"b'\n      Well, uh,\n    '"
+3613.288,3614.680,mn007,"b""\n      That's what -\n    """
+3613.960,3616.480,me018,"b""\n      Well, I guess that's the """
+3614.810,3618.150,me013,"b""\n      Yeah, I mean, y- you'd have to actually """
+3617.350,3619.970,me018,"b'\n      But I mean - I mean, '"
+3620.130,3625.046,me013,"b'\n      Well, no, you want to train on - on the nonspeech '"
+3625.046,3629.210,me013,"b""\n      to - to - to generate, that it's - it has to distinguish """
+3625.698,3626.890,mn052,b'\n      Speech.\n    '
+3627.210,3631.690,me018,"b""\n      But I mean, if you're gonna - if you're going to multiply the output of the net by this other """
+3631.690,3633.240,me018,"b'\n      uh,\n    '"
+3634.139,3637.980,me018,"b""\n      would - then you don't """
+3634.827,3635.438,me013,b'\n      '
+3636.975,3639.370,me013,"b'\n      Well, yeah. But this '"
+3639.720,3640.510,me018,b'\n      Ah.\n    '
+3639.980,3643.180,me013,b'\n      So that you bring in '
+3641.051,3643.560,me018,"b""\n      Right, O_K. That's a good point.\n    """
+3643.892,3648.690,me013,b'\n      Yeah. Now the only thing that - that bothers me about all this is that I - I - I -\n    '
+3649.483,3650.570,me013,b'\n      The - the fact -\n    '
+3650.570,3653.973,me013,"b""\n      i- i- It's """
+3653.744,3655.060,mn007,b'\n      Yeah.\n    '
+3654.218,3657.100,me013,b'\n      '
+3655.060,3656.000,mn007,b'\n      But -\n    '
+3656.000,3658.246,mn007,"b'\n      So I might maybe look at,\n    '"
+3658.246,3661.000,mn007,b'\n      is it due to the fact that\n    '
+3662.070,3666.624,mn007,"b'\n      um, the probability of the silence at the output of the network, is,\n    '"
+3666.624,3668.590,mn007,"b'\n      uh,\n    '"
+3668.249,3669.740,me013,b'\n      Is too '
+3668.590,3670.687,mn007,b'\n      too - too high or -\n    '
+3670.687,3673.971,mn007,"b""\n      If it's the case, then multiplying it again by -\n    """
+3670.750,3672.340,me013,b'\n      Yeah. So maybe - So -\n    '
+3673.550,3675.795,mn052,b'\n      It may not be - it -\n    '
+3673.971,3676.613,mn007,b'\n      i- by something? Mm-hmm.\n    '
+3675.795,3679.648,mn052,"b""\n      Yeah, it - it may be too - it's too high in a sense, like, everything is more like a, um,\n    """
+3675.840,3676.570,me013,b'\n      Yeah.\n    '
+3679.648,3681.748,mn052,b'\n      flat probability.\n    '
+3681.970,3682.990,me013,b'\n      Yeah.\n    '
+3682.660,3689.430,mn052,"b""\n      So, like, it's not """
+3682.719,3684.543,mn007,b'\n      Oh-eee-hhh. '
+3684.543,3686.010,mn007,"b'\n      Uh, yeah.\n    '"
+3688.930,3689.790,me013,b'\n      Yeah.\n    '
+3689.428,3690.350,mn007,b'\n      Mm-hmm.\n    '
+3690.690,3693.965,me018,"b'\n      Be interesting to look at the - Yeah, for the -\n    '"
+3693.965,3695.630,me018,b'\n      I wonder if you could '
+3695.630,3703.214,me018,"b'\n      But if you look at the, um, highly mism- high mismat- the output of the net on the '"
+3703.214,3708.530,me018,b'\n      versus the - the '
+3704.282,3705.280,mn007,b'\n      Yeah. '
+3709.540,3712.670,mn007,"b'\n      Yeah, like the entropy of the - the output, or -\n    '"
+3711.816,3713.000,me018,b'\n      Yeah.\n    '
+3712.540,3713.672,me013,"b'\n      Yeah, for instance.\n    '"
+3714.135,3717.632,mn007,b'\n      '
+3714.557,3715.630,me013,b'\n      But I - bu-\n    '
+3717.632,3718.950,mn007,"b""\n      it doesn't drop,\n    """
+3719.833,3723.669,mn007,"b'\n      uh, too many frames because the dele- the number of deletion is reasonable.\n    '"
+3723.669,3726.310,mn007,"b""\n      But it's just when we add the tandem,\n    """
+3726.500,3728.034,mn007,"b'\n      the final M_L_P, and then -\n    '"
+3728.330,3733.315,me013,b'\n      Yeah. Now the '
+3729.415,3730.374,mn007,b'\n      u-\n    '
+3733.917,3740.810,me013,b'\n      before you can put something '
+3740.569,3741.446,mn052,b'\n      Mm-hmm.\n    '
+3740.822,3741.830,mn007,b'\n      But -\n    '
+3741.830,3742.874,mn007,b'\n      Yeah.\n    '
+3742.874,3743.800,mn007,b'\n      Right.\n    '
+3744.060,3747.399,me013,"b""\n      Yeah. So that's maybe a """
+3747.399,3749.570,me013,b'\n      but - I- I guess -\n    '
+3749.750,3754.370,me018,b'\n      But if you were gonna '
+3754.840,3761.150,mn052,"b""\n      Um, well. We - w- we don't have it, actually, because it's - it has a high """
+3758.340,3759.190,me013,b'\n      No.\n    '
+3759.757,3760.946,me018,b'\n      Ah.\n    '
+3761.130,3761.759,me013,b'\n      Yeah.\n    '
+3762.155,3762.625,me018,b'\n      O_K.\n    '
+3762.304,3764.677,me013,"b""\n      It's """
+3764.677,3766.373,me013,"b'\n      not in parallel, '"
+3766.373,3767.314,me013,"b'\n      certainly,\n    '"
+3767.314,3769.779,me013,b'\n      it would be in parallel with the - with a '
+3769.831,3770.359,me018,b'\n      '
+3770.937,3772.010,me013,b'\n      In time.\n    '
+3773.170,3776.091,me013,"b""\n      So maybe, if that doesn't work, um -\n    """
+3776.091,3778.785,me013,"b'\n      But it would be interesting to see if that was the problem, anyway.\n    '"
+3779.314,3784.621,me013,b'\n      And - and - and then I guess another alternative '
+3779.600,3780.290,mn007,b'\n      Mm-hmm.\n    '
+3784.621,3786.920,me013,b'\n      and feeding it into the other one as well.\n    '
+3786.960,3787.680,mn007,b'\n      Mm-hmm.\n    '
+3787.210,3789.670,me013,b'\n      And then maybe it would just learn - '
+3791.160,3791.764,me013,b'\n      Um -\n    '
+3791.764,3796.219,me013,"b""\n      But that's - Yeah, that's an interesting thing to try to """
+3796.219,3798.655,me013,"b'\n      is that in the highly mismatched condition,\n    '"
+3798.655,3806.610,me013,"b""\n      it's, um, causing deletions by having this silence probability up - up too high,\n    """
+3807.449,3807.977,mn007,b'\n      Mm-hmm.\n    '
+3809.690,3813.810,me013,"b""\n      at some point where the V_A_D is saying it's actually speech.\n    """
+3814.353,3816.650,mn007,"b'\n      Yeah. So, m-\n    '"
+3815.150,3817.280,me013,b'\n      Which is probably '
+3818.087,3819.248,mn007,b'\n      '
+3818.660,3826.420,me013,"b'\n      Cuz - Well, the V_A_- if the V_A_D said - since the V_A_D is - is - is '"
+3821.279,3823.160,mn007,b'\n      '
+3824.258,3826.670,mn007,b'\n      '
+3828.493,3829.800,me013,b'\n      Hmm. Anyway.\n    '
+3830.496,3831.010,me013,b'\n      '
+3831.329,3831.854,mn007,b'\n      Mm-hmm.\n    '
+3835.620,3839.390,me013,"b'\n      Yeah. Well, we just started working with it. But these are - these are some good ideas I think.\n    '"
+3839.047,3839.554,mn007,b'\n      '
+3841.033,3841.509,mn007,b'\n      Mm-hmm.\n    '
+3841.509,3841.672,mn007,b'\n      '
+3842.405,3846.378,mn007,"b'\n      Yeah, and the other thing - Well, there are other issues maybe for the tandem, like,\n    '"
+3847.114,3849.632,mn007,"b'\n      uh, well, do we want to, w- uh n-\n    '"
+3849.632,3851.464,mn007,"b'\n      Do we want to work on the targets? Or,\n    '"
+3852.497,3857.463,mn007,"b'\n      like, instead of using phonemes, using more context dependent\n    '"
+3859.500,3860.557,mn007,b'\n      units?\n    '
+3860.557,3861.100,mn007,b'\n      '
+3860.902,3863.138,me018,b'\n      For the tandem net you mean? Hmm.\n    '
+3861.100,3862.147,mn007,"b""\n      Well, I'm -\n    """
+3862.147,3864.874,mn007,"b""\n      Yeah. I'm thinking, also, a w- about\n    """
+3864.874,3865.809,mn007,"b""\n      Dan's work\n    """
+3866.357,3867.169,mn007,b'\n      where he -\n    '
+3868.381,3874.219,mn007,b'\n      he trained '
+3875.610,3876.644,mn007,b'\n      And -\n    '
+3877.260,3879.970,mn007,b'\n      it was giving s- slightly better\n    '
+3879.970,3880.679,mn007,b'\n      results.\n    '
+3880.890,3883.648,me013,b'\n      '
+3883.648,3885.860,me013,b'\n      going to run this on different\n    '
+3886.771,3887.330,me013,b'\n      m-\n    '
+3886.784,3887.660,mn007,b'\n      Yeah.\n    '
+3887.330,3889.686,me013,"b'\n      test sets, including large vocabulary,\n    '"
+3890.219,3890.785,me013,b'\n      '
+3890.668,3891.323,mn007,b'\n      Yeah.\n    '
+3891.298,3892.310,me013,"b'\n      um,\n    '"
+3891.679,3893.011,mn007,b'\n      Uh -\n    '
+3893.011,3893.449,mn007,b'\n      '
+3893.449,3895.666,mn007,"b'\n      Mmm. I was just thinking maybe about,\n    '"
+3893.789,3894.776,me013,b'\n      I think -\n    '
+3896.229,3899.062,mn007,"b'\n      like, generalized diphones, and -\n    '"
+3900.776,3902.043,mn007,b'\n      come up with a -\n    '
+3902.043,3903.820,mn007,"b'\n      a reasonable,\n    '"
+3903.820,3906.937,mn007,"b'\n      not too large, set of context dependent units, and -\n    '"
+3909.257,3910.630,mn007,b'\n      and -\n    '
+3910.630,3911.763,mn007,b'\n      '
+3911.763,3918.754,mn007,b'\n      And then anyway we would have to reduce this with the K_L_T. So. But - '
+3913.429,3919.137,me013,b'\n      '
+3914.733,3923.219,mn052,b'\n      '
+3919.137,3921.541,me013,b'\n      Yeah. '
+3921.237,3921.730,mn007,b'\n      Mm-hmm.\n    '
+3921.541,3923.380,me013,b'\n      But I d- I d- it - it - i-\n    '
+3923.380,3930.132,me013,"b""\n      it's all worth looking at, but it sounds to me like, uh, looking at the relationship between this and the - speech noise stuff is - is -\n    """
+3929.097,3930.324,mn007,b'\n      Mm-hmm.\n    '
+3930.132,3931.355,me013,b'\n      is probably a key thing.\n    '
+3931.355,3935.060,me013,b'\n      That and the correlation '
+3936.560,3938.873,me018,"b'\n      So if, uh -\n    '"
+3939.840,3943.629,me018,"b'\n      if the, uh, high mismatch case had been more like the,\n    '"
+3943.629,3945.404,me018,"b'\n      uh,\n    '"
+3945.404,3949.708,me018,b'\n      the other two cases '
+3946.779,3947.307,mn007,b'\n      Mm-hmm.\n    '
+3949.708,3951.930,me018,b'\n      how would this number have changed?\n    '
+3952.525,3954.215,mn007,"b'\n      Oh, it would be -\n    '"
+3954.215,3955.477,mn007,b'\n      Yeah.\n    '
+3955.477,3958.750,mn007,b'\n      Around five percent '
+3958.859,3959.920,me018,b'\n      y- Like sixty?\n    '
+3959.310,3960.157,mn007,b'\n      if - i-\n    '
+3959.980,3963.700,me013,"b""\n      Well, we don't know what's it's gonna be the T_I-digits yet. He hasn't got the results back yet.\n    """
+3962.032,3963.082,mn007,b'\n      Yeah.\n    '
+3963.082,3968.177,mn007,"b'\n      If you extrapolate the SpeechDat-Car well-matched and medium-mismatch,\n    '"
+3965.346,3965.850,me018,b'\n      Uh-huh.\n    '
+3967.605,3967.960,me018,b'\n      Yeah.\n    '
+3968.177,3970.250,mn007,"b""\n      it's around, yeah, maybe five.\n    """
+3972.020,3973.496,me018,b'\n      So this would be\n    '
+3973.496,3975.210,me018,b'\n      '
+3973.770,3974.937,me013,b'\n      Sixty-'
+3974.740,3976.290,mn007,"b'\n      Sixty-two, yeah. '"
+3974.937,3975.387,me013,b'\n      Yeah.\n    '
+3974.956,3977.210,mn052,"b'\n      Somewhere around sixty, must be.\n    '"
+3975.420,3976.330,me018,b'\n      Which is -\n    '
+3977.620,3979.323,mn052,b'\n      '
+3979.728,3984.480,mn007,"b""\n      Well, it's around five """
+3981.494,3984.240,mn052,b'\n      '
+3985.835,3986.523,mn007,b'\n      Mm-hmm.\n    '
+3986.080,3988.160,me018,b'\n      All the '
+3987.795,3991.740,mn007,"b'\n      I d- I d- I just have the SpeechDat-Car right now, so -\n    '"
+3987.900,3988.570,me013,b'\n      Yeah.\n    '
+3991.260,3992.100,me018,b'\n      Yeah.\n    '
+3992.671,3998.400,mn007,"b""\n      It's running - it shou- we should have the results today during the afternoon, but -\n    """
+3994.937,3995.516,me018,b'\n      Hmm.\n    '
+3999.064,3999.545,mn007,b'\n      Well. '
+3999.545,4000.390,mn007,b'\n      '
+4001.314,4001.809,mn007,b'\n      '
+4004.279,4004.715,me013,b'\n      Hmm.\n    '
+4006.500,4007.590,me013,b'\n      '
+4007.590,4008.420,me013,b'\n      Well -\n    '
+4009.550,4011.706,me013,b'\n      Um -\n    '
+4011.706,4013.575,me013,"b""\n      So I won't be here\n    """
+4014.309,4016.120,me013,b'\n      for -\n    '
+4014.608,4015.070,me018,b'\n      When -\n    '
+4015.524,4015.940,me018,b'\n      '
+4015.940,4017.160,me018,b'\n      When do you leave?\n    '
+4016.719,4019.171,me013,"b""\n      Uh, I'm leaving next Wednesday.\n    """
+4019.171,4022.044,me013,b'\n      May or may not be in in the morning. I leave in the afternoon.\n    '
+4022.044,4022.625,me013,b'\n      '
+4022.625,4023.909,me013,"b'\n      Um, so I -\n    '"
+4023.440,4026.220,me018,"b""\n      But you're - are you - you're not gonna be around this afternoon?\n    """
+4026.488,4027.157,me013,b'\n      Yeah.\n    '
+4027.157,4032.130,me013,b'\n      '
+4027.223,4027.544,me018,b'\n      Oh.\n    '
+4032.130,4037.580,me013,"b""\n      This afternoon - uh - Oh, right, for the Meeting meeting? Yeah, that's just cuz of something on campus.\n    """
+4032.309,4032.664,me018,b'\n      Uh-huh.\n    '
+4036.920,4038.630,me018,"b'\n      Ah, O_K, O_K.\n    '"
+4037.580,4038.295,me013,b'\n      Yeah.\n    '
+4039.144,4040.320,me013,"b'\n      But, um,\n    '"
+4040.320,4043.483,me013,"b""\n      yeah, so next week I won't,\n    """
+4043.483,4047.625,me013,"b""\n      and the week after I won't, cuz I'll be in Finland.\n    """
+4047.625,4049.284,me013,"b""\n      And the week after that I won't.\n    """
+4049.284,4051.125,me013,b'\n      By that time '
+4051.125,4053.325,me013,"b""\n      Uh, you'll """
+4054.152,4059.905,me013,"b""\n      So there'll be no - definitely no meeting on - on September sixth. """
+4059.905,4061.517,me013,"b'\n      Uh, and -\n    '"
+4060.680,4062.270,me018,"b""\n      What's September sixth?\n    """
+4062.150,4064.014,me013,"b""\n      Uh, that's during """
+4063.793,4064.999,me018,"b'\n      Oh, oh, right. O_K.\n    '"
+4064.740,4070.005,me013,"b'\n      So, uh, Sunil will be in Oregon. Uh, Stephane and I will be in Denmark.\n    '"
+4070.859,4072.239,me013,b'\n      Uh -\n    '
+4073.336,4074.161,me013,b'\n      Right?\n    '
+4074.161,4078.457,me013,"b""\n      So it'll be a few weeks, really, before we have a meeting of the same\n    """
+4078.457,4079.759,me013,b'\n      cast of characters.\n    '
+4080.408,4082.360,me013,"b'\n      Um, but, uh -\n    '"
+4083.620,4084.345,me013,"b'\n      I guess,\n    '"
+4084.670,4085.862,me013,b'\n      just -\n    '
+4085.970,4090.253,me013,"b'\n      I mean, you guys should probably meet. And maybe Barry - Barry will be around. And -\n    '"
+4091.623,4092.882,me013,"b'\n      and then uh,\n    '"
+4093.756,4096.258,me013,"b""\n      uh, we'll start up again with\n    """
+4096.258,4099.024,me013,b'\n      Dave and - Dave and Barry and Stephane\n    '
+4099.024,4101.212,me013,"b'\n      and us on the, uh,\n    '"
+4101.212,4102.443,me013,b'\n      twentieth.\n    '
+4102.653,4103.969,me013,b'\n      '
+4103.969,4104.496,me013,b'\n      No.\n    '
+4105.635,4106.463,me013,b'\n      Thirteenth?\n    '
+4107.557,4108.631,me013,b'\n      '
+4108.631,4109.399,me013,b'\n      About a month?\n    '
+4110.660,4113.885,me013,b'\n      '
+4111.630,4114.477,me018,"b""\n      So, uh, you're gonna be gone for the next\n    """
+4114.477,4116.220,me018,b'\n      '
+4115.970,4119.820,me013,"b""\n      I'm gone for two and a half weeks starting - starting next Wed- late next Wednesday.\n    """
+4119.660,4122.547,me018,"b""\n      So that's - you won't be at the next three of these meetings.\n    """
+4122.547,4123.600,me018,b'\n      Is that right?\n    '
+4123.970,4125.292,me013,"b""\n      Uh, I won't -\n    """
+4125.292,4127.708,me013,"b""\n      it's probably """
+4127.708,4130.085,me013,b'\n      is it '
+4130.085,4131.760,me013,"b'\n      twenty-third, thirtieth,\n    '"
+4131.760,4134.921,me013,"b""\n      sixth. That's right, next three.\n    """
+4134.921,4137.000,me013,b'\n      And the - the '
+4137.350,4143.957,me013,"b""\n      won't - probably won't """
+4141.340,4142.672,me018,"b'\n      Oh, right. Right.\n    '"
+4143.957,4145.280,me013,b'\n      Um -\n    '
+4146.220,4151.985,me013,b'\n      Mmm. '
+4151.985,4156.870,me013,"b""\n      where there will be - there, you know, may as well be meetings, but I just won't be at them.\n    """
+4155.465,4155.924,me018,b'\n      O_K.\n    '
+4159.280,4162.587,me013,b'\n      '
+4162.587,4169.630,me013,"b""\n      uh, we'll have meetings again but we'll have to do without """
+4166.909,4167.996,me018,b'\n      '
+4167.996,4169.190,me018,b'\n      When do you go back?\n    '
+4169.130,4171.850,mn052,"b'\n      Thirty-first, August. '"
+4170.560,4171.555,me013,b'\n      Yeah.\n    '
+4171.555,4173.110,me013,b'\n      Yeah.\n    '
+4173.110,4173.934,me013,b'\n      So.\n    '
+4175.244,4176.735,me013,b'\n      '
+4177.070,4180.480,me018,"b'\n      When is the evaluation? November, or something?\n    '"
+4180.010,4183.890,me013,"b'\n      Yeah, it was supposed to be November fifteenth. Has anybody heard anything different?\n    '"
+4182.958,4189.218,mn007,"b""\n      I don't know. The meeting in - is the five and six of December.\n    """
+4188.852,4192.440,mn052,"b""\n      p- s- It's like - Yeah, it's tentatively """
+4189.218,4190.220,mn007,b'\n      So -\n    '
+4192.258,4193.250,mn007,b'\n      Mm-hmm.\n    '
+4193.151,4195.840,mn052,"b""\n      Uh, that's a proposed date, I guess.\n    """
+4195.343,4196.694,mn007,"b'\n      Yeah, um -\n    '"
+4196.694,4198.961,mn007,b'\n      so the evaluation should be '
+4199.665,4200.764,mn007,b'\n      a week before or -\n    '
+4200.764,4201.902,mn007,b'\n      '
+4200.793,4201.264,me018,b'\n      Yeah.\n    '
+4204.520,4205.383,me013,b'\n      Yep.\n    '
+4206.399,4208.433,me013,"b'\n      But, no, this is good progress.\n    '"
+4208.433,4209.871,me013,b'\n      So.\n    '
+4209.871,4211.090,me013,b'\n      Uh -\n    '
+4214.757,4216.830,me013,b'\n      '
+4217.069,4224.591,mn007,b'\n      '
+4217.146,4217.940,me013,"b""\n      Guess we're done.\n    """
+4217.156,4219.300,me018,b'\n      Should we do digits?\n    '
+4217.940,4218.746,me013,b'\n      Digits? Yep.\n    '
+4218.746,4220.748,me013,b'\n      '
+4224.920,4227.645,me018,b'\n      Transcript L_ dash three five two. '
+4227.977,4232.686,me018,"b'\n      Five seven six four, five six seven zero, four six nine three. '"
+4233.127,4237.016,me018,"b'\n      Six eight five zero, nine one three nine, four six four eight. '"
+4237.577,4240.484,me018,"b'\n      Three four four two, seven, one eight two. '"
+4241.004,4244.776,me018,"b'\n      One eight seven four, nine nine eight four, five eight nine seven. '"
+4245.746,4249.490,me018,"b'\n      One eight three nine, zero one four five, three six two nine. '"
+4250.038,4253.279,me018,"b'\n      Five four three, six two, six six seven three. '"
+4254.026,4258.049,me018,"b'\n      Seven one five one, six zero seven two, five nine four two. '"
+4258.733,4261.880,me018,"b'\n      Nine eight eight, eight one, nine eight one eight. '"
+4263.693,4265.851,mn007,b'\n      Transcript L_ dash three five three. '
+4266.716,4269.644,mn007,"b'\n      Seven nine one, one two six, five four two. '"
+4270.302,4273.856,mn007,"b'\n      Eight seven three, nine eight four, nine six four six. '"
+4274.366,4278.144,mn007,"b'\n      Three five, seven four, two two, five nine, six one. '"
+4278.884,4282.607,mn007,"b'\n      Five nine, nine seven, nine eight, five one, eight two. '"
+4283.268,4288.178,mn007,"b'\n      Seven five four five, six six five three, zero one one two. '"
+4288.736,4291.862,mn007,"b'\n      Nine nine zero seven, three, nine two six. '"
+4292.823,4297.157,mn007,"b'\n      Zero one nine, three nine eight, zero three five zero. '"
+4297.977,4301.370,mn007,"b'\n      Two eight six, two zero two, one eight one. '"
+4301.594,4304.054,mn052,b'\n      Transcript L_ dash three five four. '
+4304.806,4307.768,mn052,"b'\n      Two nine six, eight six three, seven six zero five. '"
+4308.214,4311.944,mn052,"b'\n      Seven one five six, one three seven zero, four two five six. '"
+4312.701,4315.834,mn052,"b'\n      Nine five three seven, zero, two one eight. '"
+4316.572,4320.371,mn052,"b'\n      One eight six three, nine eight seven one, one zero two nine. '"
+4320.984,4324.975,mn052,"b'\n      Three five three three, four nine three nine, zero three one five. '"
+4325.199,4329.067,mn052,"b'\n      Four zero eight six, four eight, nine five zero, three. '"
+4329.528,4332.445,mn052,"b'\n      Eight zero two eight, nine, seven nine one. '"
+4332.890,4336.864,mn052,"b'\n      Eight nine, nine one, three five, one eight, zero four. '"
+4337.352,4338.250,mn052,b'\n      '
+4338.170,4341.667,me013,b'\n      Transcr- transcript L_ dash three five zero. '
+4342.315,4345.465,me013,"b'\n      Eight four four, two three two, two six one seven. '"
+4346.337,4349.737,me013,"b'\n      One two, eight three, one nine, nine one, one three. '"
+4350.238,4353.785,me013,"b'\n      Four five, two four, five nine, six two, three three. '"
+4354.192,4358.173,me013,"b'\n      Three, eight four six, five five, two zero two, five. '"
+4358.819,4362.830,me013,"b'\n      Four, six nine three, one three, three six four, six. '"
+4363.374,4366.963,me013,"b'\n      Two, eight four six, four one, four four six, four. '"
+4367.654,4371.266,me013,"b'\n      Two nine nine four, three two eight seven, eight seven four two. '"
+4371.849,4375.180,me013,"b'\n      Four two eight, two zero, seven four eight zero. '"
+4375.685,4376.790,me018,b'\n      O_K.\n    '
+4376.304,4377.438,me013,"b""\n      It's a wrap.\n    """

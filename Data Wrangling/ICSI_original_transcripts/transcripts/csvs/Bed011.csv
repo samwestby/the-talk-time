@@ -1,0 +1,1301 @@
+start,end,participant,text
+2.432,2.672,mn015,b'\n      '
+4.850,7.445,mn015,b'\n      Now can you give me the uh '
+6.020,9.490,fe046,"b'\n      seven nine seven seven, five, eight one five '"
+9.980,13.753,fe046,"b'\n      three two five, four one, six zero zero three '"
+14.250,18.684,fe046,"b'\n      nine six seven eight, five nine nine five, four eight six nine '"
+17.136,17.699,,b'\n      '
+19.491,23.855,fe046,"b'\n      two eight, three nine, six two, nine one, two three '"
+24.320,28.648,fe046,"b'\n      six four seven, eight three two, seven three three one '"
+28.780,34.213,fe046,"b'\n      seven, nine three nine, five seven, six two one, two '"
+30.950,32.338,,b'\n      '
+34.910,38.708,fe046,"b'\n      one six four, seven zero, nine three four three. '"
+39.070,43.526,fe046,"b'\n      six one, four nine, zero one, six zero, six four. '"
+46.730,49.480,me010,"b'\n      O_K, so Eva, co- uh - could you read your numbers? Yeah.\n    '"
+48.020,48.740,fn050,b'\n      Go ahead and read.\n    '
+48.950,49.343,fn050,b'\n      O_K.\n    '
+50.120,55.043,fn050,"b'\n      zero, one nine four, five zero, five eight five, eight '"
+55.795,59.076,fn050,"b'\n      nine four two eight, eight, seven three seven '"
+59.692,62.492,fn050,"b'\n      four seven six five, one, seven eight eight '"
+63.650,67.695,fn050,"b'\n      three nine four one, three zero two nine, two eight one three '"
+68.393,73.401,fn050,"b'\n      four five six five, six six seven eight, six eight eighty-seven '"
+74.467,80.340,fn050,"b'\n      five, six eight nine, five four, zero eight eight, seven '"
+80.708,85.153,fn050,"b'\n      seven nine, nine four, nine three, nine four, two seven '"
+85.930,89.170,fn050,"b'\n      zero one seven eight, zero, one four three '"
+92.430,93.140,mn015,b'\n      Alright.\n    '
+93.310,94.640,me010,"b""\n      Yeah, let's get started.\n    """
+94.980,95.920,me010,b'\n      Um -\n    '
+96.390,98.450,me010,"b""\n      Hopefully Nancy will come, if not, she won't.\n    """
+98.782,99.700,fn050,b'\n      '
+99.460,99.700,me045,b'\n      '
+100.620,102.651,me045,"b'\n      Uh, Robert, do you uh\n    '"
+102.850,104.649,me045,b'\n      have any way to turn off your uh\n    '
+105.040,109.830,me045,"b""\n      screensaver on there so that it's not going off every - uh, it seems to have about at two minute -\n    """
+109.850,113.510,mn015,"b""\n      Yeah, I've - I - uh - it's not that I didn't try. """
+110.266,111.730,me045,b'\n      '
+112.723,115.410,me045,b'\n      '
+113.216,114.670,fe046,b'\n      '
+113.510,114.050,fn050,b'\n      '
+113.977,119.478,mn015,"b""\n      and um I - I told it to stay on forever and ever, but if it's not plugged in it just doesn't obey my commands.\n    """
+119.090,119.770,me045,b'\n      O_K.\n    '
+119.696,120.750,mn015,b'\n      It has a mind.\n    '
+121.701,122.891,me045,b'\n      Got it.\n    '
+122.020,122.546,mn015,b'\n      But I-\n    '
+122.160,123.640,fe046,b'\n      Wants to conserve.\n    '
+123.150,125.870,mn015,"b'\n      I just - You know, sort of keep on wiggling. '"
+124.906,125.841,me045,"b'\n      Yeah, O_K. '"
+125.385,126.600,fe046,b'\n      '
+128.617,134.040,mn015,"b""\n      But uh - we'll just be m- m- working on it at intensity so it doesn't happen.\n    """
+134.040,134.890,mn015,"b""\n      We'll see.\n    """
+136.967,138.940,mn015,b'\n      Should we plunge right into it?\n    '
+139.050,139.730,me010,b'\n      Yeah.\n    '
+139.882,141.000,mn015,"b'\n      So, would you like to - '"
+139.920,140.870,me010,b'\n      I think so.\n    '
+141.360,143.431,mn015,"b""\n      So what I've tried to do here is\n    """
+143.431,148.340,mn015,b'\n      list all the decision nodes that we have identified on this '
+149.220,150.790,mn015,b'\n      Commented and -\n    '
+151.110,153.080,mn015,"b""\n      what they're about and sort of -\n    """
+153.180,155.176,mn015,b'\n      the properties we may\n    '
+155.630,156.380,mn015,b'\n      um\n    '
+156.700,157.500,mn015,b'\n      give them.\n    '
+158.200,161.260,mn015,b'\n      And here are the uh -\n    '
+163.460,172.110,mn015,b'\n      tasks to be implemented via our data collection. So all of these tasks -\n    '
+164.000,164.551,fe046,b'\n      '
+172.680,174.267,mn015,b'\n      The reading is out of these tasks\n    '
+174.668,177.430,mn015,"b'\n      more or less imply that the user wants to go there,\n    '"
+178.010,179.770,mn015,b'\n      sometime or the other.\n    '
+180.591,182.477,mn015,b'\n      And analogously\n    '
+182.924,185.037,mn015,"b'\n      for example, here we have\n    '"
+185.600,186.046,mn015,b'\n      our\n    '
+186.571,187.570,mn015,b'\n      EVA\n    '
+187.790,189.740,mn015,b'\n      um - intention.\n    '
+189.636,190.683,me045,b'\n      '
+189.740,190.656,mn015,b'\n      And these are the\n    '
+192.520,194.260,mn015,b'\n      data tasks where w-\n    '
+194.260,198.580,mn015,"b'\n      we can assume the person would like to enter, view or just approach\n    '"
+198.883,200.650,mn015,b'\n      the thing. Analogously\n    '
+200.770,202.830,mn015,b'\n      the same on the object information\n    '
+203.000,205.560,mn015,"b'\n      we can see that, you know, we have sort of\n    '"
+205.560,213.720,mn015,"b""\n      created these tasks before we came up with our decision nodes so there's a lot of things where we have no analogous\n    """
+213.980,225.600,mn015,"b'\n      tasks, and '"
+225.971,228.810,mn015,b'\n      decision node so - trying to im-\n    '
+230.050,230.800,mn015,b'\n      um -\n    '
+233.110,241.120,mn015,"b'\n      implant the intention of going to a place now, going to a place later on the same tour, or trying to plant the intention of going sometime\n    '"
+241.620,244.719,mn015,"b'\n      on the next tour, or the next day or whenever.\n    '"
+243.939,244.579,me010,"b'\n      Right, right. '"
+244.719,247.080,mn015,b'\n      But I think that might be overdoing it a little.\n    '
+244.890,245.290,me010,b'\n      So -\n    '
+246.340,249.150,me010,b'\n      Yeah. So let me pop up a level.\n    '
+249.430,251.215,me010,b'\n      And uh\n    '
+251.215,254.030,me010,"b""\n      s- s- make sure that we're all oriented\n    """
+254.150,255.830,me010,b'\n      the same. So\n    '
+256.060,260.368,me010,"b""\n      What we're gonna do today is two related things.\n    """
+260.368,265.920,me010,b'\n      Uh one of them is to work on\n    '
+266.075,276.740,me010,b'\n      the semantics of the belief-net which is going to be the main inference engine for thi- the system\n    '
+277.080,281.840,me010,b'\n      uh making decisions. And decisions are going to turn out to be\n    '
+282.130,286.937,me010,b'\n      parameter choices for calls on other modules.\n    '
+286.937,290.215,me010,b'\n      so f- the natural language understanding thing\n    '
+290.215,291.946,me010,"b'\n      is uh, we think\n    '"
+291.946,295.160,me010,"b'\n      gonna only have to choose parameters, but\n    '"
+295.280,306.980,me010,"b""\n      You know, a fairly large set of parameters. So to do that, we need to do two things. One of which is figure out what all the choices are, which we've done a fair amount.\n    """
+295.280,296.240,fe004,b'\n      '
+300.580,301.769,fe004,b'\n      '
+307.060,312.270,me010,b'\n      Then we need to figure out what influences its choices and finally we have to do some technical work on\n    '
+312.270,314.529,me010,b'\n      the actual belief relations and\n    '
+314.529,319.685,me010,"b""\n      presumably estimates of the probabilities and stuff. But we aren't gonna do the probability stuff today.\n    """
+319.685,321.390,me010,"b""\n      Technical stuff we'll do -\n    """
+319.891,321.240,fe004,b'\n      '
+321.520,322.850,me010,b'\n      uh -\n    '
+323.080,324.980,me010,b'\n      another day. Probably next week.\n    '
+325.480,327.203,me010,b'\n      But we are gonna worry about\n    '
+327.203,333.550,me010,b'\n      all the decisions and the things that pert- that contribute to them. And\n    '
+333.900,336.849,me010,"b""\n      we're also, sort of uh in the same process,\n    """
+336.849,339.369,me010,b'\n      going to work with Fey on\n    '
+339.369,342.570,me010,b'\n      what there should be in the dialogues. So\n    '
+342.570,347.430,me010,"b""\n      One of the s- steps that's coming up real soon is to actually get subjects\n    """
+347.470,351.880,me010,"b'\n      uh - in here, and have them\n    '"
+353.000,355.090,me010,b'\n      actually record like this.\n    '
+355.270,357.440,me010,b'\n      Uh record dialogues more or less.\n    '
+355.867,357.055,fe004,b'\n      '
+357.500,358.750,me010,b'\n      And -\n    '
+359.099,360.760,me010,b'\n      depending on\n    '
+360.770,367.239,me010,"b""\n      what Fey sort of provokes them to say, we'll get information on different things.\n    """
+367.239,367.729,me010,b'\n      So -\n    '
+367.300,370.310,mn015,"b'\n      Well how people phrase different intentions more or less, huh?\n    '"
+369.010,371.386,me010,b'\n      Fo- v- yeah- people with the - phrase them and so -\n    '
+371.386,375.841,me010,"b'\n      Uh for, you know, Keith and people worrying about what constructions people use,\n    '"
+375.033,376.358,fe046,b'\n      '
+375.841,379.690,me010,b'\n      uh - we have some i- we have some ways to\n    '
+379.690,382.525,me010,b'\n      affect that by the way the dialogues go.\n    '
+383.037,386.690,me010,"b'\n      So what Robert kindly did, is to lay out\n    '"
+386.690,395.820,me010,b'\n      a table of the kinds of uh '
+389.481,390.777,fe004,b'\n      '
+396.112,397.680,me010,"b'\n      and,\n    '"
+398.048,400.843,me010,b'\n      the kinds of decisions. So the uh -\n    '
+401.659,404.826,me010,"b'\n      uh - on the left are decision nodes,\n    '"
+402.871,403.440,fe004,b'\n      '
+405.788,406.814,me010,b'\n      and\n    '
+406.150,406.930,fe004,b'\n      '
+407.520,410.683,me010,"b""\n      discreet values. So if - if we're right,\n    """
+407.725,409.560,fe004,b'\n      '
+410.683,412.740,me010,b'\n      you can get by with\n    '
+412.830,414.340,me010,b'\n      um\n    '
+414.470,422.360,me010,"b""\n      just this middle column worth of decisions, and it's not all that many, and it's perfectly feasible technically to build belief-nets\n    """
+422.450,424.430,me010,b'\n      that will do that. And he has a handout.\n    '
+425.160,429.037,mn015,"b'\n      Yeah. Maybe it was too fast plunging in there, because\n    '"
+428.762,429.309,me010,b'\n      Yeah.\n    '
+429.037,433.430,mn015,b'\n      j- we have two updates. Um you can look at '
+429.092,429.995,fe004,b'\n      '
+433.430,441.773,mn015,"b""\n      what our subject's going to have to fill out. Any comments I can - can still be made and the changes will be put in """
+437.870,439.306,fe046,b'\n      m- '
+441.773,448.900,mn015,"b""\n      Let me summarize in two sentences, mainly for Eva's benefit, who probably has not heard about the data collection, at all. Or have you heard about it?\n    """
+446.337,448.357,fe004,b'\n      '
+446.546,447.314,fn050,b'\n      O_K.\n    '
+448.357,3276.915,fe004,b'\n      '
+448.900,449.720,mn015,b'\n      No.\n    '
+448.900,450.350,fn050,b'\n      Not that much '
+449.720,454.206,mn015,b'\n      O_K. We were gonna put this in front of people. They give us some information on themselves.\n    '
+450.667,451.291,fe046,b'\n      '
+454.206,461.040,mn015,b'\n      Then - then they will read uh - a task where lots of German words are sort of thrown in between.\n    '
+454.580,455.510,fn050,b'\n      O_K.\n    '
+460.951,461.830,fe046,b'\n      '
+462.040,465.797,mn015,b'\n      And um - and they have to read isolated proper names\n    '
+466.690,468.314,mn015,b'\n      And these change -\n    '
+466.853,467.276,me010,b'\n      S-\n    '
+467.960,470.080,me010,"b""\n      I don't see a release """
+469.272,471.721,mn015,"b'\n      No, this is not the release form. This is the speaker\n    '"
+470.675,472.630,me010,"b'\n      Got it. O_K, fine. O_K.\n    '"
+471.634,472.948,fe046,b'\n      '
+471.721,475.070,mn015,b'\n      information form. The release form is over there in that box.\n    '
+474.550,475.530,me010,"b'\n      Alright, fair enough.\n    '"
+475.404,476.870,mn015,b'\n      And um -\n    '
+477.730,479.410,mn015,b'\n      And then they gonna have to f-\n    '
+480.102,481.340,mn015,b'\n      um\n    '
+484.900,485.760,mn015,b'\n      um\n    '
+485.830,495.310,mn015,"b'\n      choose from one of these tasks, which are listed here. They - they pick a couple, say three - uh - uh six as a matter of fact.\n    '"
+495.310,500.705,mn015,b'\n      Six different things they sort of think they would do if they were in Heidelberg or traveling someplace -\n    '
+501.750,503.150,mn015,b'\n      and um -\n    '
+503.930,505.490,mn015,b'\n      and they have a map.\n    '
+506.110,506.902,me045,b'\n      Hmm.\n    '
+506.940,509.590,mn015,"b'\n      Like this. Very sketchy, simplified map.\n    '"
+509.590,511.460,mn015,b'\n      And they can take notes on that map.\n    '
+511.870,516.910,mn015,"b'\n      And then they call this computer system that works perfectly, and understands everything.\n    '"
+514.112,514.848,fn050,b'\n      O_K.\n    '
+516.371,517.649,me045,b'\n      '
+516.860,519.690,fe046,b'\n      '
+517.480,519.440,mn015,b'\n      And um -\n    '
+518.095,518.853,me045,b'\n      '
+519.440,522.259,me045,"b'\n      This is a fictional system obviously, huh. '"
+519.440,519.977,mn015,b'\n      The comp-\n    '
+521.340,524.411,mn015,"b""\n      Yeah, the computer system sits right in front of you, that's Fey.\n    """
+521.950,523.000,fe046,b'\n      '
+523.200,526.320,fe046,"b""\n      Yes. I've - I understand everything. Yes I do.\n    """
+523.415,524.660,me045,b'\n      '
+524.400,526.440,me010,b'\n      And she does know everything. '
+524.508,526.616,fn050,b'\n      '
+525.690,526.320,me045,b'\n      '
+526.307,546.538,mn015,"b'\n      And she has a way of making this machine talk. So she can copy sentences into a window, or type really fast and this machine will use speech synthesis to produce that. So if you ask ""How do I get to the castle"" then a m- s- several seconds later it\'ll come out of here ""In order to get to the castle you do -"" '"
+535.140,535.967,fe046,b'\n      '
+545.500,546.692,me045,b'\n      '
+545.550,547.828,fe046,b'\n      '
+546.538,548.290,mn015,b'\n      And um -\n    '
+548.290,550.760,mn015,b'\n      And then after three tasks the system breaks down.\n    '
+551.033,554.540,mn015,b'\n      And Fey comes on the phone as a human operator.\n    '
+555.290,560.079,mn015,"b'\n      And says ""Sorry the system broke down but let\'s continue."" And we sort of get the idea what\n    '"
+560.770,566.050,mn015,"b'\n      people do when they s- think they speak to a machine and what people say when they think they speak to a human,\n    '"
+566.315,570.030,mn015,"b'\n      or know, or assume they speak to a human. '"
+566.359,566.940,fn050,b'\n      O_K.\n    '
+567.364,568.108,fn050,b'\n      Huh.\n    '
+567.560,568.488,me045,b'\n      Mm-hmm. Mm-hmm.\n    '
+568.641,569.833,fe046,b'\n      '
+569.610,570.390,me045,b'\n      '
+570.900,572.610,mn015,"b""\n      That's the data collection.\n    """
+572.910,574.480,mn015,b'\n      And um -\n    '
+575.653,579.300,mn015,b'\n      And Fey has some thirty subjects lined up? Something?\n    '
+578.884,581.404,fe046,b'\n      Yeah. And more and more every day.\n    '
+580.180,581.400,mn015,b'\n      And um -\n    '
+582.060,583.140,mn015,"b""\n      And they're - r-\n    """
+583.550,589.710,mn015,"b""\n      ready uh - to roll. And we're gonna start tomorrow at three? four? one?\n    """
+589.545,593.870,fe046,"b""\n      Tomorrow, well we don't know for sure. Because we don't know whether that person is coming or not, but -\n    """
+593.322,595.290,mn015,b'\n      O_K. Around four-ish.\n    '
+595.560,602.340,mn015,"b""\n      And um we're still l- looking for a room on the sixth floor because they stole away that conference room.\n    """
+602.831,605.560,mn015,b'\n      Um - behind our backs. But -\n    '
+604.870,605.560,me045,b'\n      '
+605.560,611.068,me010,"b""\n      Well, there are these - uh - uh - oh, I see, we have to - Yeah, it's tricky. We'll - let's - let - we'll do that off-line, O_K.\n    """
+609.580,616.300,mn015,"b""\n      Yeah, but I - i- i- it's happening. David and - and Jane and - and Lila are working on that as we speak.\n    """
+611.319,612.720,fe046,b'\n      '
+612.820,613.560,me010,b'\n      O_K.\n    '
+616.520,617.300,mn015,b'\n      O_K.\n    '
+617.300,618.740,mn015,b'\n      That was the uh -\n    '
+619.000,621.109,mn015,b'\n      the data collection in a nutshell.\n    '
+622.250,623.980,mn015,b'\n      And um -\n    '
+630.200,635.900,mn015,b'\n      I can report a - so I did this but I also tried to do\n    '
+636.090,639.120,mn015,"b""\n      this - so if I click on here, Isn't this wonderful?\n    """
+639.840,641.980,mn015,b'\n      we get to the uh -\n    '
+642.430,645.830,mn015,b'\n      uh belief-net just focusing on - on the g-\n    '
+645.830,653.960,mn015,b'\n      Go-there node. uh - Analogously this would be sort of the reason node and the timing node and so forth. And what w-\n    '
+651.919,652.691,me045,b'\n      Mm-hmm.\n    '
+654.180,655.990,mn015,b'\n      what happened is that\n    '
+656.240,657.320,mn015,b'\n      um\n    '
+657.440,660.630,mn015,"b""\n      design-wise I'd sort of n- noticed that we can -\n    """
+660.920,662.400,mn015,b'\n      we still get a lot of\n    '
+662.570,669.040,mn015,b'\n      errors from a lot of points to one of these sub Go-there User Go-there Situation nodes.\n    '
+669.040,683.710,mn015,"b'\n      So I came up with a couple of additional nodes here where um whether the user is thrifty or not, and what his budget is currently like, is going to result in some financial state of the user. How much will he - is he willing to spend?\n    '"
+684.150,692.510,mn015,"b'\n      Or can spend. Being the same at this - just the money available, which may influence us, whether he wants to go there if it is - you know - charging\n    '"
+692.510,696.280,mn015,b'\n      tons of dollars for admission or its gonna g- cost a lot of t- e-\n    '
+696.280,699.370,mn015,b'\n      whatever. Twenty-two million to fly to\n    '
+699.580,701.180,mn015,"b'\n      International Space Station, you know.\n    '"
+700.966,701.817,me010,b'\n      Right.\n    '
+701.230,702.170,me045,b'\n      '
+701.477,701.690,mn015,b'\n      just -\n    '
+701.840,702.810,fn050,b'\n      '
+702.710,704.230,mn015,b'\n      Not all people can do that.\n    '
+702.870,704.820,fe046,b'\n      '
+704.890,707.980,mn015,"b'\n      So, and this actually turned out to be\n    '"
+708.229,710.200,mn015,"b'\n      pretty key, because\n    '"
+710.620,715.150,mn015,b'\n      having specified sort of these - uh - this - this - intermediate level\n    '
+715.310,716.210,mn015,b'\n      Um\n    '
+716.440,718.210,mn015,b'\n      and sort of noticing that\n    '
+718.340,721.140,mn015,b'\n      everything that '
+721.450,722.940,mn015,b'\n      favorite endpoint one\n    '
+723.410,724.410,mn015,b'\n      is again\n    '
+724.800,729.470,mn015,b'\n      more or less - we have - um - then the situation\n    '
+730.370,736.499,mn015,"b'\n      nodes contributing to the - the endpoint situation node, which contributes to the endpoint and so forth.\n    '"
+736.830,741.100,mn015,"b'\n      um - I can now sort of draw straight lines from these to here, meaning it\n    '"
+741.100,743.043,mn015,b'\n      g- of course goes where the sub-S_ -\n    '
+743.043,754.000,mn015,"b'\n      everything that comes from situation, everything that comes from user goes with the sub-U_, and whatever we specify for the so-called ""Keith node"", or the discourse, what comes from the - um -\n    '"
+754.144,761.050,mn015,"b'\n      parser, construction parser, um will contribute to the D_ and the ontology to the sub-O_ node.\n    '"
+761.490,762.740,mn015,b'\n      And um\n    '
+763.150,765.370,mn015,b'\n      one just s- sort of has to watch which -\n    '
+766.160,769.290,mn015,"b""\n      also final decision node so it doesn't make sense -\n    """
+769.290,774.551,mn015,"b'\n      t- to figure out whether he wants to enter, view or approach an object if he never wants to go there in the first place.\n    '"
+775.127,778.690,mn015,b'\n      But this makes the design thing fairly simple.\n    '
+779.280,780.740,mn015,b'\n      And um\n    '
+781.310,794.280,mn015,"b""\n      now all w- that's left to do then is the C_P_G's, the conditional probabilities, for the likelihood of a person having enough money, actually wanting to go a place if it costs, you know this or that. """
+795.520,796.950,mn015,b'\n      And um -\n    '
+797.421,798.083,mn015,b'\n      O_K.\n    '
+799.855,809.520,mn015,"b""\n      and once um Bhaskara has finished his classwork that's where we're gonna end up doing. You get involved in that process too.\n    """
+810.110,811.440,mn015,b'\n      And um -\n    '
+812.960,814.120,mn015,b'\n      And for now uh-\n    '
+814.200,816.290,mn015,b'\n      the - the question\n    '
+816.720,823.020,mn015,"b'\n      is ""How much of these decisions do we want to build in explicitly into our\n    '"
+823.430,824.680,mn015,"b'\n      data collection?""\n    '"
+825.850,826.860,mn015,b'\n      So -\n    '
+828.100,829.550,mn015,"b'\n      Um, one could -\n    '"
+829.730,831.430,mn015,b'\n      sort of - think of -\n    '
+833.620,840.950,mn015,"b'\n      you know we could call the z- see or - you know, people who visit the zoo we could s- call it ""Visit the zoo tomorrow"", so we have\n    '"
+841.243,844.440,mn015,"b'\n      an intention of seeing something, but not now - but later.\n    '"
+841.260,842.580,me010,b'\n      Right.\n    '
+843.510,845.410,me010,"b'\n      Yeah. Yeah, so -\n    '"
+845.530,846.880,me010,"b""\n      let's s- uh- s-\n    """
+846.990,849.820,me010,b'\n      see I th- I think that\n    '
+850.770,852.070,me010,b'\n      from\n    '
+852.600,854.290,me010,"b'\n      one point of view,\n    '"
+854.726,858.850,me010,"b'\n      Uh, um, all these places are the same, so that d- d-\n    '"
+858.930,860.620,me010,"b'\n      That, um -\n    '"
+860.890,863.905,me010,"b'\n      in terms of the linguistics and stuff,\n    '"
+863.905,867.310,me010,"b'\n      there may be a few different kinds of places, so\n    '"
+867.310,870.190,me010,b'\n      I th- i- it seems to me that\n    '
+870.710,872.200,me010,b'\n      We ought to decide\n    '
+873.080,876.343,me010,"b'\n      you know, what things are k- are actually going to matter to us.\n    '"
+876.343,882.020,me010,"b'\n      And um, so the zoo, and the university and the castle, et cetera.\n    '"
+882.120,886.184,me010,b'\n      Um are all big-ish things that\n    '
+886.184,890.350,me010,"b'\n      um - you know - have different parts to them, and one of them might be fine.\n    '"
+887.061,887.801,mn015,b'\n      Hmm.\n    '
+888.744,895.750,mn015,"b'\n      Hmm, hmm. Yeah - The - the reason why we did it that way, as a - as a reminder, is uh -\n    '"
+890.380,891.160,me010,b'\n      And -\n    '
+895.980,897.410,mn015,b'\n      no person is gonna\n    '
+897.450,899.940,mn015,"b""\n      do all of them. They're just gonna select u-\n    """
+900.050,907.440,mn015,"b'\n      um, according to their preferences. ""Ah, yeah, I usually visit zoos, or I usually visit castles, or I usually -"" And then you pick that one.\n    '"
+900.380,901.180,me010,"b'\n      Yeah, yeah.\n    '"
+906.090,908.550,me010,"b'\n      Right, no no, but - but s- th- point is\n    '"
+908.674,910.506,fe046,"b""\n      They're redundant. """
+908.780,911.470,me010,b'\n      to - to y- to -\n    '
+912.180,915.740,me010,"b""\n      build a system that's got everything in it that might happen you do one thing.\n    """
+915.810,922.270,me010,b'\n      T- to build a system that um - had the most data\n    '
+922.360,926.510,me010,"b'\n      on a relatively confined set of things, you do something else.\n    '"
+926.510,929.650,me010,"b'\n      And the speech people, for example, are gonna do better\n    '"
+930.140,933.500,me010,b'\n      if they - if - things come up\n    '
+934.110,939.170,me010,"b""\n      uh - repeatedly. Now, of course, if everybody says exactly the same thing then it's not interesting.\n    """
+939.490,941.560,me010,"b""\n      So, all I'm saying is i- th- there's -\n    """
+941.930,945.870,me010,"b""\n      there's a kind of question of what we're trying t- to accomplish.\n    """
+946.567,948.020,me010,b'\n      and -\n    '
+949.644,953.860,me010,b'\n      I think my temptation for the data gathering would be to\n    '
+953.860,965.370,me010,"b""\n      uh, you know - And each person is only gonna do it once, so you don't have to worry about them being bored, so if - if it's one service, one luxury item, you know, one big-ish place, and so forth and so on, um -\n    """
+967.632,969.170,me010,b'\n      then\n    '
+971.312,975.590,me010,b'\n      my guess is that - that the data is going to be easier\n    '
+976.620,978.100,me010,b'\n      to handle. Now of course you have this\n    '
+978.100,982.326,me010,"b""\n      I guess possible danger that somehow there're certain constructions that people use\n    """
+982.326,988.020,me010,"b""\n      uh when talking about a museum that they wouldn't talk about with a university and stuff,\n    """
+988.610,989.900,me010,b'\n      um -\n    '
+991.180,996.280,me010,"b""\n      but I guess I'm - I- uh- m- my temptation is to go for simpler.\n    """
+996.968,1001.800,me010,"b""\n      You know, less variation. But I don't know what other people think about this in terms of -\n    """
+1002.150,1003.540,me010,b'\n      uh -\n    '
+1002.660,1007.470,me045,"b""\n      So I don't exactly understand - like I- I - I guess we're trying to -\n    """
+1007.799,1011.494,me045,"b'\n      limit the detail of our ontology or types of places that someone could go, right?\n    '"
+1011.494,1014.690,me045,"b'\n      But who is it that has to care about this, or what component of the system?\n    '"
+1014.690,1019.740,me010,"b'\n      Oh, well, uh - th- I think there are two places where it comes up. One is\n    '"
+1019.780,1025.930,me010,b'\n      uh - in the - th- these people who are gonna take this and - and try to do speech with it.\n    '
+1025.435,1026.078,me045,b'\n      Mm-hmm.\n    '
+1026.440,1030.970,me010,b'\n      uh - Lots of pronunciations of th- of the same thing are going to give you\n    '
+1031.160,1032.270,me010,b'\n      better data\n    '
+1032.410,1033.370,me010,b'\n      than\n    '
+1033.941,1037.320,me010,"b'\n      l- you know, a few pronunciations of lots more things.\n    '"
+1036.389,1037.269,me045,b'\n      O_K.\n    '
+1037.510,1038.420,me010,"b""\n      That's one.\n    """
+1038.750,1040.790,me045,b'\n      So we would rather just\n    '
+1041.250,1044.720,me045,"b'\n      ask - uh have a bunch of people talk about the zoo,\n    '"
+1045.800,1047.460,me045,b'\n      uh and assume that that will -\n    '
+1047.550,1051.260,me045,b'\n      that the constructions that they use there will give us everything we need to know about these sort of\n    '
+1051.636,1052.343,me010,b'\n      Bigger -\n    '
+1051.750,1055.410,me045,"b'\n      zoo, castle, whatever type things, these bigger places.\n    '"
+1055.410,1057.670,me010,b'\n      Y- yeah thi- well this is a question for -\n    '
+1056.180,1060.281,me045,"b'\n      And that way you get the speech data of people saying ""zoo"" over and over again or whatever too. O_K.\n    '"
+1057.898,1058.127,me010,b'\n      Yeah.\n    '
+1059.057,1059.357,me010,b'\n      Yeah.\n    '
+1059.620,1069.150,me010,"b'\n      Yeah. So this is a question for you, and, you know, if we - if we do, and we probably will, actually try to uh build a prototype,\n    '"
+1061.134,1061.762,me045,b'\n      Mm-hmm.\n    '
+1069.419,1070.600,me010,b'\n      uh\n    '
+1071.537,1073.740,me010,b'\n      probably we could get by\n    '
+1074.380,1077.450,me010,b'\n      with the prototype only handling a few of them anyway.\n    '
+1077.930,1078.560,me010,"b'\n      So,\n    '"
+1078.560,1079.420,mn036,b'\n      '
+1079.370,1080.800,me010,b'\n      Um -\n    '
+1080.560,1081.541,mn015,"b'\n      Yeah, the-\n    '"
+1082.010,1086.560,mn015,b'\n      this was sort of - these are all different sort of activities.\n    '
+1086.760,1087.690,mn015,b'\n      Um\n    '
+1088.100,1092.230,mn015,b'\n      But I think y- I - I got the point and I think I like it. We can do -\n    '
+1092.838,1095.840,mn015,"b'\n      put them in a more hierarchical fashion. So,\n    '"
+1095.840,1107.260,mn015,"b'\n      ""Go to place"" and then give them a choice, you know either they\'re the symphony type or opera type or the tourist site guide type or the nightclub disco type person and they say ""yeah this is -\n    '"
+1107.260,1110.660,mn015,"b'\n      on that ""go to big-ish place"", this is what I would do.""\n    '"
+1109.398,1110.226,me045,b'\n      Mm-hmm.\n    '
+1110.660,1116.160,mn015,"b'\n      And then we have the ""Fix"" thing, and then maybe ""Do something the other day"" thing, so.\n    '"
+1116.200,1117.690,mn015,b'\n      My question is -\n    '
+1120.280,1126.220,mn015,"b'\n      I guess, to some extent, we should - y- we just have to try it out and see if it works. It would be\n    '"
+1127.810,1132.970,mn015,"b'\n      challenging, in - in a sense, to try to make it so - so complex that they even really should\n    '"
+1133.110,1137.030,mn015,"b'\n      schedule, or to plan it, uh, a more complex\n    '"
+1137.560,1142.390,mn015,"b'\n      thing in terms of O_K, you know, they should get the feeling that there are\n    '"
+1142.390,1144.560,mn015,b'\n      these s- six things they have to do\n    '
+1144.514,1146.026,me010,b'\n      Well - yeah.\n    '
+1144.760,1147.490,mn015,b'\n      and they sh- can be done maybe in two days.\n    '
+1147.710,1149.680,me010,b'\n      Well I think th- th- yeah.\n    '
+1148.040,1152.680,mn015,"b'\n      So they make these decisions, ""Can I go there tomorrow?"" or - you know - influences\n    '"
+1151.780,1152.450,me010,b'\n      Yeah.\n    '
+1152.006,1152.729,me045,b'\n      Mm-hmm.\n    '
+1152.680,1156.984,me010,"b""\n      Well, I think it's easy enough to set that up if that's your expectation. So,\n    """
+1156.984,1163.670,me010,"b'\n      the uh system could say, ""Well, uh we\'d like to - to set up your program for two days\n    '"
+1164.070,1165.640,me010,"b'\n      in Heidelberg,\n    '"
+1165.740,1168.840,me010,"b""\n      you know, let's first think about all the things you might like to do.\n    """
+1170.390,1182.240,me010,"b""\n      So there - th- i- i- in - I mean - in - I th- I - I'm sure that if that's what you did then they would start telling you about that, and then you could get into um various things about ordering, if you wanted.\n    """
+1177.905,1178.485,mn015,b'\n      Mm-hmm.\n    '
+1180.670,1181.333,mn015,b'\n      Yeah.\n    '
+1182.340,1189.360,mn015,"b'\n      Yeah, but I think this is part of the instructor\'s job. And that can be done, sort of to say, ""O_K now we\'ve picked these six tasks.""\n    '"
+1189.510,1194.050,mn015,"b'\n      ""Now you have- you can call the system and you have two days.""\n    '"
+1194.410,1199.020,me010,"b""\n      I'm sorry. No, we have to help - we have to decide. Fey will p- carry out whatever we decide.\n    """
+1194.425,1195.637,mn015,b'\n      And th- w-\n    '
+1194.590,1195.360,fn050,b'\n      '
+1199.020,1200.910,me010,b'\n      But we have to decide\n    '
+1200.970,1203.442,me010,"b'\n      you know, what is the appropriate scenario.\n    '"
+1204.220,1205.960,me010,"b""\n      That's what we're gonna talk about t- yeah.\n    """
+1204.891,1205.686,mn015,"b'\n      Yep, yep.\n    '"
+1206.260,1209.770,mn036,"b'\n      But these are two different scenarios entirely. I mean, one is a planner -\n    '"
+1210.060,1213.495,mn036,"b'\n      The other, it kind of give you instructions on the spot\n    '"
+1213.240,1224.240,mn015,"b'\n      Yeah, but th- the - I don\'t - I\'m not really interested in sort of ""Phase planning"" capabilities. '"
+1219.313,1220.026,me045,b'\n      '
+1224.750,1229.720,mn015,"b'\n      So are we gonna masquerade the system as this - as you said simple response system,\n    '"
+1229.900,1233.180,mn015,"b'\n      ""I have one question I get one response"", or should\n    '"
+1233.180,1239.730,mn015,b'\n      we allow for a certain level of complexity. And a- I w- think the data would be nicer if we get temporal\n    '
+1239.900,1240.830,mn015,b'\n      references.\n    '
+1240.010,1242.490,me010,"b'\n      Well, so Keith, what do you think?\n    '"
+1241.330,1242.190,fe046,b'\n      '
+1244.120,1246.120,me045,"b'\n      Well, um\n    '"
+1247.420,1249.220,me045,"b'\n      it seems that - Yeah, I mean,\n    '"
+1251.130,1260.910,me045,"b'\n      off the top of my head it kinda seems like you would probably just want, you know, richer data, more complex stuff going on, people trying to do more complex sets of things. I mean '"
+1262.195,1269.290,me045,"b'\n      be able to handle a whole bunch of different stuff, then throwing harder situations at people will get them to do more linguistic - more interesting linguistic stuff.\n    '"
+1269.290,1271.280,me045,"b""\n      But I mean - I'm - I'm not really sure\n    """
+1271.470,1273.030,me045,"b""\n      Uh, because I don't\n    """
+1273.450,1276.730,me045,b'\n      fully understand like what our choices are of ways to do this here yet.\n    '
+1275.720,1285.530,mn015,b'\n      I mean w- we have tested this and a- y- have you heard - listen to the f- first two or th- as a matter of fact the second person is uh - is - was faced with exactly this kind of setup.\n    '
+1280.220,1281.340,fe046,b'\n      '
+1285.787,1286.407,mn015,b'\n      And -\n    '
+1285.890,1288.960,me045,"b'\n      I started to listen to one and it was just like, um,\n    '"
+1289.160,1290.020,me045,"b'\n      uh,\n    '"
+1290.290,1296.394,me045,b'\n      sort of depressing. '
+1296.030,1298.550,mn015,"b'\n      Oh, O_K. That was the first subject.\n    '"
+1296.265,1296.702,me010,b'\n      Yeah.\n    '
+1296.680,1297.540,fe046,b'\n      '
+1297.550,1297.944,me045,b'\n      Yeah.\n    '
+1297.550,1298.880,me010,"b""\n      First one wasn't very good.\n    """
+1298.550,1298.896,mn015,b'\n      Yeah.\n    '
+1298.590,1298.930,me045,b'\n      Yeah.\n    '
+1299.390,1301.450,me045,"b'\n      So um, I -\n    '"
+1300.654,1302.600,fe046,b'\n      Although - '
+1300.720,1305.058,mn015,"b'\n      Um, it is - already with this it got pretty - with this setup\n    '"
+1305.058,1307.340,mn015,b'\n      and that particular subject\n    '
+1306.872,1307.301,me045,b'\n      Mm-hmm.\n    '
+1308.090,1310.380,mn015,b'\n      it got pretty complex. Maybe -\n    '
+1310.430,1311.630,mn015,b'\n      I suggest we\n    '
+1311.900,1314.320,mn015,"b'\n      make some fine tuning of these,\n    '"
+1314.793,1324.820,mn015,"b""\n      get - sort of - run through ten or so subjects and then take a breather, and see whether we wanna make it more complex or not, depending on what - what sort of results we're getting.\n    """
+1317.384,1317.975,me045,b'\n      Mm-hmm.\n    '
+1322.234,1323.410,me045,b'\n      Right.\n    '
+1324.820,1326.620,me045,"b'\n      Yeah. It - In fact, um,\n    '"
+1326.800,1328.600,me045,b'\n      I am just\n    '
+1328.670,1338.202,me045,"b""\n      you know - today, next couple days gonna start really diving into this data. I've basically looked at one of the files - you know one of these - l- y- y- y- you gave me those dozens of files and I looked at one of them which was about ten sentences,\n    """
+1338.202,1349.350,me045,"b'\n      found fifteen, twenty different construction types that we would have to look for and so on and like, ""alright, well, let\'s start here."" Um. So I haven\'t really gone into the, you know - looked at all of the stuff that\'s going on. So I don\'t really -\n    '"
+1349.600,1351.010,me045,"b'\n      Right, I mean,\n    '"
+1351.130,1353.500,me045,"b""\n      once I start doing that I'll have more to say about this kind of thing.\n    """
+1353.500,1354.300,me010,b'\n      O_K.\n    '
+1354.440,1355.560,mn015,b'\n      And y- and always -\n    '
+1354.730,1357.587,me010,"b'\n      But well th- but you did say something important, which is\n    '"
+1357.587,1359.000,me010,b'\n      that\n    '
+1359.330,1363.573,me010,b'\n      um you can probably keep yourself fairly well occupied\n    '
+1363.573,1366.590,me010,b'\n      uh - with the simple cases for quite a while.\n    '
+1366.590,1367.240,me045,b'\n      Yeah.\n    '
+1367.240,1372.860,me010,"b'\n      Although, obviously th- so - so that sa- s- does suggest that -\n    '"
+1372.860,1376.622,me010,"b""\n      Uh, now, I have looked at all the data, and it's pre- it's actually\n    """
+1376.622,1381.162,me010,"b'\n      at least to an amateur, quite redundant. That - that it was - it was very stylized,\n    '"
+1379.266,1379.907,me045,"b'\n      Yeah, Yeah.\n    '"
+1381.162,1384.010,me010,b'\n      and quite a lot of people said more or less the same thing.\n    '
+1384.010,1389.854,me045,"b'\n      I um - I did sort of scan it at first and noticed that, and then looked in detail at one of them. But yeah, yeah I noticed that, too.\n    '"
+1386.295,1386.973,me010,b'\n      Yeah.\n    '
+1389.630,1392.880,me010,"b'\n      So, we - we - we wanna do more than that.\n    '"
+1393.130,1394.680,mn015,"b""\n      And with this we're getting more.\n    """
+1394.680,1395.520,me010,b'\n      O_K.\n    '
+1394.890,1395.800,mn015,b'\n      No question.\n    '
+1395.800,1396.510,me010,b'\n      Right.\n    '
+1396.770,1397.570,me010,b'\n      So -\n    '
+1397.570,1401.450,mn015,"b'\n      uh w- do we wanna get going beyond more, which is sort of the -\n    '"
+1399.890,1402.090,me010,"b""\n      Well, O_K, so let's - let's take - let's I -\n    """
+1402.090,1404.111,me010,"b'\n      I think your suggestion is good, which is\n    '"
+1404.111,1406.790,me010,"b""\n      we'll do a b- uh - a batch.\n    """
+1407.200,1408.100,me010,b'\n      O_K.\n    '
+1408.100,1412.930,me010,"b'\n      And, uh, Fey, How long is it gonna be till you have ten subjects?\n    '"
+1413.220,1414.540,me010,b'\n      Couple days? Or thr- f- a-\n    '
+1414.700,1416.720,me010,"b""\n      A week? Or - I don't - I don't have a feel for th-\n    """
+1415.880,1420.240,fe046,"b'\n      Um - I can - Yeah, I mean I s- I think can probably schedule ten people,\n    '"
+1422.050,1422.710,fe046,"b'\n      uh,\n    '"
+1423.230,1424.270,fe046,b'\n      whenever.\n    '
+1424.475,1430.600,me010,"b""\n      Well, it's - it's up to you, I mean I j- I - uh- e- We don't have any huge time pressure. It's just - when you have t- Yeah.\n    """
+1428.950,1432.630,fe046,b'\n      How long will it be? Um - I - I would say maybe two weeks.\n    '
+1432.620,1433.630,me010,"b'\n      Oh, O_K.\n    '"
+1434.170,1437.670,me010,"b""\n      So let's do this. Let's plan next Monday,\n    """
+1437.830,1440.950,me010,"b'\n      O_K, to have a review of what we have\n    '"
+1441.310,1442.610,me010,b'\n      so far.\n    '
+1442.910,1444.150,me010,b'\n      and -\n    '
+1443.070,1444.790,mn015,"b'\n      This means audio, but -\n    '"
+1444.440,1445.180,me010,b'\n      Huh?\n    '
+1445.020,1447.330,mn015,"b'\n      no transcriptions of course, yeah.\n    '"
+1446.380,1449.355,me010,"b""\n      No, we won't have the transcriptions, but what we should\n    """
+1449.355,1450.655,me010,b'\n      be able to do\n    '
+1451.040,1457.080,me010,"b""\n      and I don't know if, Fey, if you will have time to do this, but it would be great if you could, um,\n    """
+1457.900,1460.050,me010,"b'\n      not transcribe it all, but pick out\n    '"
+1460.450,1462.993,me010,"b'\n      uh, some stuff. I mean we\n    '"
+1462.993,1465.159,me010,b'\n      could lis- uh - just sit here and listen to it all.\n    '
+1465.159,1469.130,me010,b'\n      Are you gonna have the audio on the web site?\n    '
+1470.080,1470.600,me010,b'\n      O_K.\n    '
+1470.610,1473.461,mn015,b'\n      Until we reach the gigabyte thing and David Johnson s-\n    '
+1473.461,1474.571,mn015,b'\n      ki- kills me.\n    '
+1474.571,1476.530,mn015,"b""\n      And we're gonna put it on the web site. Yeah.\n    """
+1476.930,1482.402,me010,"b""\n      Oh, we could get - I mean, you can buy another disk for two hundred dollars, right? I mean it's - it's not like - O_K.\n    """
+1477.330,1479.020,fe046,b'\n      '
+1481.260,1482.356,me045,b'\n      '
+1482.283,1483.482,fe046,b'\n      '
+1482.402,1484.810,me010,"b""\n      So, we'll take care of David Johnson. O_K.\n    """
+1484.290,1486.081,me045,b'\n      '
+1484.403,1484.978,mn015,"b'\n      No, he -\n    '"
+1485.180,1486.980,fe046,b'\n      '
+1485.610,1490.270,mn015,"b'\n      uh, he - he has been solving all our problems or - is wonderful, so s-\n    '"
+1488.110,1488.870,me010,b'\n      O_K.\n    '
+1489.730,1492.779,me010,"b""\n      Alright. So we'll buy a disk. But anyway, so,\n    """
+1492.779,1494.550,me010,"b'\n      um,\n    '"
+1495.830,1498.370,me010,b'\n      If you - if you can think of a way -\n    '
+1498.570,1499.900,me010,b'\n      to\n    '
+1500.280,1506.240,me010,"b""\n      uh, point us to th- to interesting things, sort of as you're doing this or - or something\n    """
+1506.390,1512.800,me010,"b'\n      uh, make your - make notes or something that - that this is, you know, something worth looking at. And\n    '"
+1513.800,1517.720,me010,"b""\n      other than that, yeah I guess we'll just have to\n    """
+1518.250,1521.830,me010,"b""\n      uh, listen - although I guess it's only ten minutes each, right? Roughly.\n    """
+1520.750,1524.830,fe046,"b""\n      Well, I guess. I'm not sure how long it's actually going to take.\n    """
+1523.510,1527.970,mn015,"b'\n      The reading task is a lot shorter. That was cut by fifty percent. And the reading,\n    '"
+1527.970,1530.770,mn015,"b""\n      nobody's interested in that except for the speech people.\n    """
+1529.090,1530.750,me010,"b""\n      Right. No, we don't care about that at all.\n    """
+1530.870,1531.760,mn015,b'\n      So.\n    '
+1531.830,1534.700,mn015,"b""\n      It's actually like five minutes dialogue.\n    """
+1534.431,1536.044,me010,"b""\n      I- b- My guess is it's gonna be ten.\n    """
+1538.100,1538.598,me010,b'\n      People -\n    '
+1538.280,1539.600,mn015,b'\n      Ten minutes is long.\n    '
+1539.600,1542.690,me010,"b'\n      I understand, but people - people - you know uh -\n    '"
+1539.961,1544.274,fe046,b'\n      '
+1542.836,1548.370,mn015,"b""\n      Yeah. It feels like forever when you're doing it, but then it turns out to be three minutes and forty five seconds.\n    """
+1543.360,1544.240,me045,b'\n      '
+1543.396,1543.852,me010,b'\n      Yeah.\n    '
+1545.490,1546.150,me010,b'\n      Yeah.\n    '
+1547.521,1549.040,me045,b'\n      Yeah. '
+1547.710,1551.230,me010,"b'\n      Could be. O_K. I was thinking people would, you know, hesitate and -\n    '"
+1551.780,1554.220,me010,"b""\n      Whatever. Whatever it is we'll - we'll deal with it.\n    """
+1553.850,1554.870,mn015,"b""\n      Yeah, it's not -\n    """
+1554.990,1556.770,me010,"b""\n      O_K, so that'll be - that'll be -\n    """
+1555.330,1556.230,mn015,"b""\n      And it's fun.\n    """
+1557.280,1559.610,me010,b'\n      um - on - on the web page.\n    '
+1559.367,1560.276,mn015,b'\n      O_K.\n    '
+1559.610,1560.706,me010,"b""\n      That's great.\n    """
+1560.706,1562.193,me010,b'\n      Um\n    '
+1562.920,1564.210,me010,"b'\n      But anyway - yeah, so I think -\n    '"
+1564.660,1570.160,me010,"b""\n      it's a good idea to start with the sort of relatively straight forward res- just response system.\n    """
+1570.250,1572.150,me010,b'\n      And then if we want to\n    '
+1572.660,1579.460,me010,b'\n      uh - get them to start doing - uh - multiple step planning with a whole bunch of things and then organize them an-\n    '
+1579.520,1582.640,me010,b'\n      um tell them which things are near each other and -\n    '
+1583.020,1584.480,me010,"b'\n      you know, any of that stuff.\n    '"
+1585.470,1586.640,me010,b'\n      uh -\n    '
+1587.202,1589.790,me010,"b'\n      You know, ""Which things would you like to do Tuesday morning?""\n    '"
+1591.475,1592.103,mn015,b'\n      Yeah.\n    '
+1594.595,1595.798,me010,b'\n      So yeah I - th- that seems -\n    '
+1596.475,1597.407,me010,b'\n      pretty straight forward.\n    '
+1599.732,1600.496,mn015,b'\n      '
+1600.450,1602.170,fe046,b'\n      But were you saying that -\n    '
+1602.580,1604.947,mn015,b'\n      I need those back by the way. '
+1603.794,1604.166,me010,b'\n      O_K.\n    '
+1603.814,1605.991,me045,b'\n      O_K. '
+1603.940,1604.925,fe046,b'\n      Yeah. '
+1608.149,1609.078,mn015,b'\n      '
+1609.390,1610.540,me010,"b""\n      I'm sorry, Fey, what?\n    """
+1610.118,1610.494,fe046,b'\n      That w-\n    '
+1611.220,1615.182,fe046,b'\n      maybe one thing we should do is go through this list and sort of select things that are categories and then o-\n    '
+1615.182,1617.011,fe046,b'\n      offer only one member of that category?\n    '
+1616.860,1619.150,me010,"b""\n      That's what I was suggesting for the first round, yeah.\n    """
+1618.529,1618.864,fe046,b'\n      O_K.\n    '
+1619.790,1621.670,me045,b'\n      So rather than having zoo and castle.\n    '
+1620.150,1620.820,fn050,b'\n      '
+1620.820,1623.580,fe046,"b'\n      And then, I mean, they could be alternate versions of the same -\n    '"
+1623.580,1624.886,me010,"b'\n      They could, but i- but i- uh- tha-\n    '"
+1624.360,1626.080,fe046,b'\n      If you wanted data on different\n    '
+1625.690,1628.292,me010,"b'\n      eh- they- c- yeah, but - uh -\n    '"
+1626.655,1627.435,fe046,b'\n      constructions.\n    '
+1628.820,1629.600,me010,b'\n      but -\n    '
+1633.150,1637.030,fe046,"b'\n      Like one person gets the version with the zoo as a choice, and the other person gets the -\n    '"
+1635.330,1638.760,me010,"b'\n      You could, but i- but I - I - I think in the short run, -\n    '"
+1637.030,1647.644,mn015,"b""\n      And no, th- the per- the person don't get it. I mean, this is why we did it, because when we gave them just three tasks for w- part-A_ and three tasks for part-B_ a-\n    """
+1641.792,1642.008,me010,b'\n      Right.\n    '
+1644.380,1645.080,me010,b'\n      Yeah.\n    '
+1645.890,1650.783,fe046,"b""\n      Well no, they could still choose. They just wouldn't be able to choose both zoo and say, touring the castle.\n    """
+1650.210,1652.752,mn015,"b'\n      Exactly. This is limiting the choices, but yeah.\n    '"
+1652.752,1656.060,mn015,"b'\n      Right. O_K, sorry. But um I - I think this approach will\n    '"
+1656.060,1660.260,mn015,"b'\n      very well work, but the person was able to look at it and say ""O_K, This is what I would actually do.""\n    '"
+1658.320,1660.240,fe046,b'\n      Yeah. '
+1660.260,1661.080,me010,b'\n      O_K.\n    '
+1660.640,1663.338,mn015,b'\n      Yeah. '
+1662.970,1665.240,fe046,b'\n      He was vicious. '
+1665.555,1671.860,mn015,"b'\n      O_K, we gotta - we gotta disallow uh - traveling to zoos and uh castles at the same time, sort of -\n    '"
+1671.860,1674.670,fe046,"b'\n      I mean there - they are significantly different, but.\n    '"
+1675.600,1686.800,mn015,"b""\n      But no, they're - I mean they're sort of - this is where tour becomes - you know tourists maybe a bit different and, um, these are just places where you - you enter um, much like here.\n    """
+1680.140,1681.440,fe046,"b'\n      Yeah, I guess so.\n    '"
+1681.734,1682.012,me010,b'\n      Yeah.\n    '
+1687.170,1688.520,mn015,b'\n      But we can uh -\n    '
+1688.350,1691.850,me010,"b'\n      Yeah, in fact if y- if y- if you use the right verb for each\n    '"
+1692.020,1698.660,me010,"b'\n      in common, like at- you know, ""attend a theater, symphony or opera"" is - is a group, and ""tour the university, castle or zoo"",\n    '"
+1698.536,1699.054,mn015,b'\n      mm-hmm\n    '
+1698.840,1701.750,me010,"b'\n      all of these d- do have this kind of ""tour""\n    '"
+1702.580,1706.220,me010,b'\n      um - aspect about the way you would go to them.\n    '
+1702.693,1702.962,mn015,b'\n      Yeah.\n    '
+1706.590,1708.750,me010,"b'\n      And uh,\n    '"
+1709.470,1711.360,me010,b'\n      the movie theater is probably also\n    '
+1711.460,1713.070,me010,"b'\n      uh - e- is a- ""attend""\n    '"
+1712.216,1713.128,mn015,"b'\n      Attend, yeah.\n    '"
+1713.350,1714.230,me010,b'\n      et cetera.\n    '
+1714.320,1715.940,me010,b'\n      So it may turn out to be\n    '
+1716.520,1724.044,me010,"b'\n      not so many different kinds of things, and then, what one would expect is that - that the sentence types would -\n    '"
+1718.448,1719.660,mn015,"b'\n      Hmm, mm-hmm.\n    '"
+1724.810,1726.190,me010,b'\n      uh their responses would\n    '
+1726.220,1727.710,me010,b'\n      tend to be\n    '
+1728.660,1729.580,me010,b'\n      grouped\n    '
+1730.197,1733.100,me010,"b'\n      according to the kind of activity, you would expect.\n    '"
+1732.802,1733.432,me045,b'\n      Mm-hmm.\n    '
+1735.240,1737.250,mn036,b'\n      But I mean i- it seem that um -\n    '
+1737.480,1739.210,mn036,b'\n      there is a difference between going -\n    '
+1739.210,1743.790,mn036,"b'\n      to see something, and things like ""exchange money"" or ""dine out"" uh -\n    '"
+1742.210,1743.480,me010,"b'\n      Oh, absolutely. Yeah.\n    '"
+1744.260,1748.263,mn015,"b'\n      Yeah, this is where - yeah - th- the function stuff is definitely different and the\n    '"
+1744.510,1746.070,mn036,b'\n      '
+1748.263,1750.200,mn015,b'\n      getting information or g-\n    '
+1750.820,1751.330,mn015,b'\n      stuff - yeah. '
+1755.401,1764.150,mn015,"b""\n      O_K. But this is open. So since people gonna still pick something, we- we're not gonna get any significant amount of redundancy.\n    """
+1764.210,1764.890,mn015,b'\n      And\n    '
+1764.890,1768.280,mn015,"b""\n      for reasons, we don't want it, really, in that sense.\n    """
+1768.610,1769.930,mn015,b'\n      And um\n    '
+1771.390,1776.420,mn015,b'\n      we would be ultimately more interested in getting all the possible ways of people\n    '
+1776.460,1780.880,mn015,"b'\n      asking, oh, for different things with - or with a computer.\n    '"
+1780.960,1787.810,mn015,"b""\n      And so if you can think of any other sort of high level tasks a tourist may do just always - just m- mail them to us and we'll\n    """
+1787.810,1789.390,mn015,b'\n      sneak them into the\n    '
+1790.208,1790.673,mn015,b'\n      collection.\n    '
+1792.020,1794.610,mn015,"b""\n      We're not gonna do much statistical stuff with it.\n    """
+1794.610,1795.740,me010,"b""\n      We don't have enough.\n    """
+1795.757,1796.325,mn015,b'\n      No.\n    '
+1798.230,1804.820,mn015,b'\n      But it seems like since we - since we are getting towards uh subject - uh fifty subjects and if we can keep it up\n    '
+1805.160,1807.040,mn015,b'\n      um to a - uh -\n    '
+1808.520,1810.590,mn015,b'\n      sort of five four-ish per week\n    '
+1810.880,1816.390,mn015,"b'\n      rate, we may even reach the one hundred before Fey t- takes off to Chicago.\n    '"
+1816.240,1816.960,fe046,b'\n      '
+1817.260,1819.810,fe046,b'\n      That means that one hundred people have to be interested.\n    '
+1819.678,1820.718,me045,b'\n      '
+1821.218,1822.018,me045,b'\n      Good luck.\n    '
+1822.187,1822.898,fe046,b'\n      Yeah.\n    '
+1822.930,1823.690,me010,"b'\n      Well,\n    '"
+1823.990,1824.360,me045,b'\n      '
+1824.360,1825.055,me010,"b'\n      um,\n    '"
+1825.680,1828.330,me010,"b'\n      these are all f- people off campus s- from campus so far, right?\n    '"
+1827.380,1828.240,fe046,b'\n      Yeah.\n    '
+1828.330,1829.040,fe046,b'\n      Yeah.\n    '
+1829.050,1833.790,me010,"b""\n      So we - yeah we don't know how many we can get next door at the - uh shelter for example.\n    """
+1833.399,1834.142,me045,b'\n      Hmm.\n    '
+1834.420,1836.670,me010,"b'\n      Uh for ten bucks, probably quite a few.\n    '"
+1836.208,1836.657,me045,b'\n      Yeah.\n    '
+1837.245,1837.788,me045,"b""\n      That's right.\n    """
+1838.330,1839.500,me010,b'\n      Yeah.\n    '
+1839.520,1841.940,me010,"b""\n      So, alright, so let's go - let's go back then,\n    """
+1841.659,1841.843,mn015,b'\n      Yep.\n    '
+1842.360,1843.410,me010,b'\n      to the -\n    '
+1843.680,1846.280,me010,"b'\n      the chart with all the decisions and stuff, and see\n    '"
+1846.570,1850.400,me010,"b""\n      how we're doing. Do - do people think that, you know this is - is gonna -\n    """
+1851.020,1852.190,me010,b'\n      um\n    '
+1852.674,1855.830,me010,"b'\n      cover what we need, or should we be thinking about more?\n    '"
+1857.270,1859.181,mn015,"b'\n      Okay, in terms of decision nodes?\n    '"
+1858.903,1859.123,me010,b'\n      Yep.\n    '
+1859.181,1861.800,mn015,"b'\n      I mean, Go-there is - is a yes or no.\n    '"
+1862.100,1862.890,mn015,b'\n      Right?\n    '
+1862.690,1862.923,me010,b'\n      Yep.\n    '
+1862.802,1863.630,me045,b'\n      Mm-hmm.\n    '
+1863.460,1868.740,mn015,"b'\n      I\'m also interested in th- in this ""property"" uh line here, so if you\n    '"
+1868.740,1869.630,mn015,b'\n      look at -\n    '
+1869.630,1871.000,mn015,"b'\n      sorry, look at that\n    '"
+1871.200,1872.170,mn015,"b'\n      um ,\n    '"
+1872.410,1873.830,mn015,b'\n      timing was\n    '
+1875.160,1878.880,mn015,b'\n      um - I have these three. Do we need a final differentiation there?\n    '
+1879.700,1883.260,mn015,"b'\n      Now, later on the same tour, sometimes on the next tour.\n    '"
+1883.260,1885.480,me045,"b'\n      What\'s this idea of ""next tour""? I mean -\n    '"
+1885.230,1888.780,mn015,"b""\n      It's sort of next day, so you're doing something now\n    """
+1889.140,1894.830,mn015,"b'\n      and you have planned to do these three four things, and you can do something immediately,\n    '"
+1891.691,1892.315,me045,b'\n      Mm-hmm.\n    '
+1894.336,1895.033,me045,b'\n      Mm-hmm.\n    '
+1895.130,1897.500,mn015,b'\n      you could sort of tag it on to that tour\n    '
+1897.342,1898.146,me045,b'\n      Or - O_K.\n    '
+1897.660,1901.600,mn015,b'\n      or you can say this is something I would do s- I wanna do sometime l-\n    '
+1901.396,1901.853,me045,b'\n      O_K.\n    '
+1902.110,1903.470,mn015,"b'\n      in my life,\n    '"
+1903.050,1903.405,me045,b'\n      O_K.\n    '
+1903.601,1904.177,mn015,b'\n      basically.\n    '
+1903.617,1907.090,me045,b'\n      So - so this tour is sort of just like th- the idea of\n    '
+1904.070,1905.260,fe046,b'\n      '
+1907.261,1911.384,me045,"b'\n      current s- round of - of touristness or whatever, O_K.\n    '"
+1908.950,1909.620,me010,b'\n      Right.\n    '
+1910.730,1913.490,me010,"b'\n      Yeah. Yeah, probably between stops back at the hotel.\n    '"
+1911.590,1912.540,fe046,b'\n      '
+1913.490,1914.168,me045,b'\n      O_K. Got it.\n    '
+1914.050,1920.340,me010,"b""\n      I mean if you - if - if you wanted precise about it, uh you know, uh - and I think that's the way tourists do organize their lives.\n    """
+1916.839,1917.215,me045,b'\n      Got it.\n    '
+1920.060,1921.680,me045,"b'\n      Sure, sure, sure.\n    '"
+1920.570,1923.650,me010,"b'\n      You know, ""O_K, we\'ll go back to the hotel and then we\'ll go off and -""\n    '"
+1923.160,1923.767,me045,b'\n      O_K.\n    '
+1923.620,1927.360,mn036,b'\n      So all tours - b- a tour happens only within one day?\n    '
+1927.360,1928.130,me010,b'\n      Yes.\n    '
+1927.873,1928.249,me045,b'\n      O_K.\n    '
+1928.120,1929.880,mn036,b'\n      So the next tour will be tomorrow?\n    '
+1928.342,1928.574,me010,b'\n      It -\n    '
+1929.753,1930.018,me010,b'\n      Right.\n    '
+1930.660,1931.510,me010,b'\n      For this.\n    '
+1931.510,1931.829,me045,b'\n      O_K.\n    '
+1932.180,1934.154,me045,b'\n      Just to be totally clear. O_K.\n    '
+1933.650,1942.979,mn015,"b""\n      Well, my visit to Prague there were some nights where I never went back to the hotel, so whether that counts as a two-day tour or not we'll have to """
+1937.830,1939.800,fe046,b'\n      '
+1939.160,1940.010,me045,b'\n      '
+1940.760,1941.630,me045,b'\n      '
+1943.952,1946.142,me045,"b'\n      You just spend the whole time at U_ Fleku or something, ri-\n    '"
+1944.350,1945.030,mn036,b'\n      Yeah.\n    '
+1944.990,1948.930,me010,b'\n      I - w- we will - we will not ask you more. '
+1945.870,1946.880,fe046,b'\n      '
+1946.142,1947.060,me045,b'\n      '
+1947.030,1948.930,fe046,b'\n      Right. '
+1947.130,1948.800,mn015,b'\n      '
+1947.230,1948.842,me045,b'\n      '
+1947.750,1948.480,fn050,b'\n      '
+1947.760,1948.660,mn036,b'\n      Right.\n    '
+1948.930,1952.660,mn015,"b""\n      I don't know. What is the uh - the - the English co- uh um\n    """
+1953.720,1956.550,mn015,"b'\n      cognate if you want, for  '"
+1957.710,1958.999,me045,b'\n      '
+1959.053,1959.895,me010,b'\n      Yeah.\n    '
+1959.110,1960.920,mn015,"b'\n      Sort of ""We\'ll do it\n    '"
+1961.090,1964.200,mn015,"b""\n      on - when you say on that d- day it means it'll never happen.\n    """
+1963.628,1964.340,me010,b'\n      Right.\n    '
+1964.340,1964.985,me045,b'\n      O_K. '
+1964.980,1966.270,mn015,b'\n      Do you have an expression?\n    '
+1966.600,1967.550,mn015,b'\n      Probably you sh-\n    '
+1968.915,1971.200,me045,b'\n      Not that I know of actually.\n    '
+1972.290,1976.307,mn015,"b""\n      Yeah, when hell - Yep, we'll do it when hell freezes over. So maybe that should be another\n    """
+1972.430,1973.410,me045,b'\n      '
+1973.304,1973.870,me010,b'\n      Yeah.\n    '
+1975.810,1978.200,fe046,b'\n      '
+1976.124,1977.790,me010,b'\n      '
+1976.307,1979.870,mn015,b'\n      '
+1976.450,1978.610,me045,b'\n      '
+1976.860,1977.580,mn036,b'\n      Right.\n    '
+1977.090,1978.230,fn050,b'\n      '
+1977.870,1978.540,me010,b'\n      Yeah.\n    '
+1979.903,1980.208,me010,b'\n      No.\n    '
+1980.475,1981.663,me045,b'\n      '
+1984.412,1984.890,mn015,b'\n      O_K.\n    '
+1985.260,1988.760,mn015,"b'\n      Um, the reason why - why do we go there in the first place\n    '"
+1988.810,1995.060,mn015,"b""\n      I_E uh - it's either uh - for sightseeing, for meeting people, for running errands, or doing business.\n    """
+1996.000,1997.644,fe004,b'\n      Is this the theater thing?\n    '
+1998.042,1999.722,fe004,b'\n      Like entertainment or something like that?\n    '
+2001.170,2004.410,mn015,"b'\n      Entertainment is a good one in there, I think. I agree.\n    '"
+2006.090,2006.970,me045,"b'\n      So,\n    '"
+2007.950,2010.590,me045,"b'\n      business is supposed to uh,\n    '"
+2011.791,2014.430,me045,"b'\n      be sort of - it - like professional type stuff, right, or something like that?\n    '"
+2014.060,2014.730,mn015,b'\n      Yep.\n    '
+2014.565,2014.956,me045,b'\n      O_K.\n    '
+2021.987,2022.808,me045,b'\n      Um.\n    '
+2024.230,2025.911,mn015,b'\n      I mean - this w- this is uh\n    '
+2025.911,2035.940,mn015,"b'\n      an old uh Johno thing. He sort of had it in there. ""Who is the - the tour- is the person?"" So it might be a tourist, it might be a business man who\'s using the system, who wants to sort of go to some -\n    '"
+2032.476,2032.770,me045,b'\n      Mm-hmm.\n    '
+2033.578,2033.925,me045,b'\n      Yeah.\n    '
+2035.940,2037.250,me010,"b'\n      Yeah, or - or both.\n    '"
+2036.449,2036.812,me045,b'\n      Yeah.\n    '
+2037.250,2042.590,me045,"b""\n      Yeah, I mean like for example my - my father is about to travel to Prague. He'll be there for two weeks. He is going to uh -\n    """
+2037.446,2037.714,mn015,b'\n      Yep.\n    '
+2042.590,2047.737,me045,"b""\n      He's there to teach a course at the business school but he also is touring around and so he may have some mixture of these things.\n    """
+2046.561,2047.835,mn015,b'\n      Yep. Yep.\n    '
+2046.750,2048.258,me010,b'\n      Mmm. Sure. Right.\n    '
+2050.320,2051.020,mn015,b'\n      He would - '
+2050.550,2051.520,mn036,b'\n      What ab-\n    '
+2051.750,2055.609,mn036,b'\n      What do you have in mind in terms of um - socializing? What kind of activities?\n    '
+2055.140,2057.390,mn015,"b'\n      Eh, just meeting people, basically.\n    '"
+2057.390,2058.350,mn036,b'\n      Oh -\n    '
+2057.560,2062.740,mn015,"b'\n      ""I want to meet someone somewhere"", which be- puts a very heavy constraint on the ""EVA""\n    '"
+2063.337,2063.892,me045,b'\n      Yeah.\n    '
+2063.410,2069.770,mn015,"b""\n      you know, because then if you're meeting somebody at the town hall, you're not entering it usually, you're just - want to approach it.\n    """
+2070.704,2073.860,me045,"b'\n      So - I mean, does this capture, like, where do you put -\n    '"
+2073.910,2080.820,me045,"b'\n      ""Exchange money"" is an errand, right? But what about uh - So, like ""Go to a movie"" is now entertainment, ""Dine out"" is -\n    '"
+2075.590,2076.450,me010,b'\n      Mm-hmm\n    '
+2075.600,2076.010,mn015,b'\n      Yep.\n    '
+2080.909,2081.940,mn036,"b'\n      Socializing, I guess.\n    '"
+2081.940,2086.860,me010,"b""\n      No, I- I- well, I dunno. Let - Let - well, we'll put it somewhere, but - but - um -\n    """
+2082.613,2083.899,fe046,b'\n      '
+2084.023,2084.692,me045,b'\n      So I mean -\n    '
+2085.170,2085.680,me045,b'\n      Right.\n    '
+2088.020,2094.300,me010,"b'\n      I would say that if ""Dine out"" is a special c- uh - if you\'re doing it for that purpose then it\'s entertainment.\n    '"
+2094.151,2094.697,me045,b'\n      Yeah.\n    '
+2094.940,2104.830,me010,"b'\n      And - we\'ll also as y- as you\'ll s- further along we\'ll get into business about ""Well, you\'re - you know - this is going over a meal time, do you wanna stop for a meal or pick up food or something?""\n    '"
+2103.679,2104.562,me045,b'\n      Mm-hmm.\n    '
+2104.900,2105.940,me010,"b""\n      And that's\n    """
+2106.010,2110.850,me010,"b""\n      different. That's - that's sort of part of th- that's not a destination\n    """
+2110.814,2111.770,me045,b'\n      Right.\n    '
+2110.900,2113.781,me010,"b""\n      reason, that's sort of  """
+2113.140,2116.190,mn015,"b'\n      That goes with the ""energy depletion"" function, blech. '"
+2113.769,2114.457,me045,b'\n      Yeah.\n    '
+2115.279,2116.901,fe046,b'\n      '
+2115.365,2116.873,me045,b'\n      '
+2115.370,2116.580,me010,"b'\n      Right, yeah. '"
+2117.690,2119.160,mn015,"b'\n      O_K, ""endpoint"".\n    '"
+2118.190,2120.180,me045,"b'\n      ""Tourist needs food, badly"" '"
+2120.273,2120.555,me010,b'\n      Right.\n    '
+2120.870,2124.220,mn015,"b'\n      ""Endpoint"" is pretty clear. Um,\n    '"
+2125.090,2133.210,mn015,"b'\n      ""mode"", uh, I have found three, ""drive there"", ""walk there"" uh - or ""be driven"", which means bus, taxi, BART.\n    '"
+2133.626,2133.975,me010,b'\n      O_K.\n    '
+2134.452,2137.090,fe004,b'\n      The public transport in general is '
+2135.940,2136.610,mn015,b'\n      Yeah.\n    '
+2137.197,2137.547,mn015,b'\n      Yep.\n    '
+2138.590,2144.020,me010,"b""\n      Obviously taxis are very different than buses, but on the other hand the system doesn't have\n    """
+2140.502,2141.519,fe004,b'\n      Yeah.\n    '
+2144.160,2148.791,me010,"b""\n      any public transport - This - the planner system doesn't have any public transport in it yet.\n    """
+2148.223,2149.083,fe004,b'\n      O_K.\n    '
+2148.980,2157.390,mn015,"b'\n      So this granularity would suffice, I think w- if we say the person probably, based on the utterance we- on the situation we can conclude\n    '"
+2157.460,2159.136,mn015,"b'\n      wants to drive there, walk there, or\n    '"
+2159.600,2162.393,mn015,b'\n      use some other form of transportation.\n    '
+2162.604,2169.180,me045,"b""\n      H- How much of Heidelberg can you get around by public transport? I mean in terms of the interesting bits. There's lots of bits where you don't really\n    """
+2169.560,2172.895,me045,"b""\n      I've only ev- was there ten years ago, for a day, so I don't remember, but.\n    """
+2174.500,2174.942,me010,b'\n      Mm-\n    '
+2174.720,2177.434,me045,"b'\n      I mean, like the - sort of the tourist-y bits - is it like -\n    '"
+2174.970,2175.830,mn015,b'\n      Everywhere.\n    '
+2176.410,2181.560,me010,"b""\n      Well, you can't get to the Philosophers' Way very well, but, """
+2178.654,2180.240,me045,b'\n      Yeah. '
+2181.216,2181.538,mn015,b'\n      Yeah.\n    '
+2181.632,2181.975,me045,b'\n      O_K.\n    '
+2182.370,2184.490,me010,"b'\n      but I think other things you can, if I remember right.\n    '"
+2185.910,2189.790,fn050,"b'\n      So is like ""biking there"" - part of like ""driving there"", or - ? '"
+2187.730,2196.120,mn015,"b'\n      Yeah, um we actually - biking should be - should be a separate point because we have a very strong bicycle planning component.\n    '"
+2196.120,2196.550,me010,b'\n      Oh!\n    '
+2196.550,2197.064,mn015,b'\n      So.\n    '
+2196.695,2197.593,me045,b'\n      '
+2196.740,2198.250,fe046,"b""\n      Mmm g- that's good.\n    """
+2197.808,2198.770,me010,b'\n      Put it in.\n    '
+2197.860,2198.740,mn015,b'\n      Um.\n    '
+2198.880,2201.440,mn015,"b'\n      Bicycles c- should be in there, but,\n    '"
+2201.950,2202.700,mn015,b'\n      '
+2204.280,2207.200,mn015,b'\n      will we have bic- I mean is this realistic? I mean -\n    '
+2207.214,2207.684,me045,b'\n      Yeah.\n    '
+2208.070,2209.480,me010,"b'\n      O_K, we can leave it out, I guess.\n    '"
+2209.335,2209.806,me045,b'\n      Yeah.\n    '
+2209.790,2211.910,mn015,"b'\n      We can - we can sort of uh,\n    '"
+2212.754,2213.317,mn015,b'\n      drive -\n    '
+2213.660,2217.890,me045,"b'\n      I would - I would lump it with ""walk"" because hills matter. Right? You know. Things like that.\n    '"
+2215.480,2216.220,mn015,b'\n      Yeah.\n    '
+2216.930,2218.263,mn015,b'\n      Yeah. '
+2218.032,2218.711,me010,b'\n      O_K.\n    '
+2219.680,2222.780,me010,b'\n      Skateboards '
+2220.690,2221.950,me045,b'\n      '
+2221.350,2221.904,mn036,b'\n      Right.\n    '
+2221.460,2222.390,fn050,b'\n      '
+2222.860,2225.020,me010,"b'\n      Scooters, right? '"
+2223.820,2224.210,mn015,b'\n      Yep.\n    '
+2224.210,2225.020,fn050,b'\n      '
+2225.710,2226.410,me010,b'\n      Alright.\n    '
+2226.140,2229.050,mn015,"b'\n      O_K, ""Length"" is um,\n    '"
+2230.230,2233.210,mn015,"b'\n      you wanna get this over with as fast as possible,\n    '"
+2232.860,2233.820,fe046,b'\n      '
+2234.010,2237.890,mn015,b'\n      you wanna use some part of what - of the time you have.\n    '
+2237.494,2238.782,fe004,"b'\n      They can specify ""long"".\n    '"
+2239.270,2248.780,mn015,"b'\n      Um, they can. But we should just make a decision whether we feel that they want to use some substantial or some fraction of their time.\n    '"
+2240.775,2241.263,me010,b'\n      Ye-\n    '
+2249.570,2256.220,mn015,"b'\n      You know, they wanna do it so badly that they are willing to spend uh - you know the necessary and plus time.\n    '"
+2249.648,2250.149,me045,b'\n      Hmm.\n    '
+2256.680,2257.970,mn015,b'\n      And um -\n    '
+2261.000,2261.730,mn015,b'\n      And y-\n    '
+2262.090,2268.460,mn015,"b'\n      you know, if we feel that they wanna do nothing but that thing then, you know, we should point out that -\n    '"
+2268.520,2272.560,mn015,"b'\n      to the planner, that they probably want to use all the time they have.\n    '"
+2272.560,2275.010,mn015,"b'\n      So, stretch out that visit for\n    '"
+2274.716,2275.259,me010,b'\n      Mm-hmm.\n    '
+2275.470,2278.090,me045,b'\n      Wow - It seems like this would be really hard to guess.\n    '
+2275.516,2275.724,mn015,b'\n      that.\n    '
+2278.090,2280.350,me045,"b'\n      I mean, on the part of the system. It seems like it -\n    '"
+2280.730,2285.270,me045,"b""\n      I mean you're - you're talking about rather than having the user decide this you're supposed t- we're supposed to figure it out?\n    """
+2284.345,2284.675,me010,b'\n      w-\n    '
+2285.120,2293.601,mn015,"b""\n      Th- the user can always s- say it, but it's just sort of we - we hand over these parameters if we make - if we have a feeling that they are important.\n    """
+2285.270,2286.170,me010,b'\n      well-\n    '
+2286.763,2288.020,me045,b'\n      Overrider '
+2287.510,2288.250,me010,b'\n      Yeah.\n    '
+2293.424,2294.008,me045,b'\n      Mm-hmm.\n    '
+2293.601,2299.440,mn015,"b'\n      And that we can actually infer them to a significant de- degree, or we ask.\n    '"
+2297.540,2298.610,me010,b'\n      And -\n    '
+2299.365,2299.961,me045,b'\n      O_K.\n    '
+2299.440,2305.060,me010,"b""\n      And par- yeah, and part of the system design is that if it looks to be important and you can't figure it out, then you ask.\n    """
+2299.917,2300.321,mn015,b'\n      Yeah.\n    '
+2304.491,2305.030,me045,b'\n      O_K.\n    '
+2305.160,2306.820,me010,"b""\n      But hopefully you don't ask\n    """
+2306.870,2308.700,me010,"b'\n      you know, a- all these things all the time. Or -\n    '"
+2308.700,2310.740,me045,b'\n      Yeah. Yeah. Right. Yeah.\n    '
+2309.210,2313.930,me010,"b""\n      eh- so, y- but there's th- but definitely a back-off position to asking.\n    """
+2313.930,2318.750,mn015,"b'\n      And if no - no part of the system ever comes up with the idea that this could be important,\n    '"
+2318.860,2320.793,mn015,b'\n      no planner is ever gonna ask for it.\n    '
+2320.793,2334.940,mn015,"b""\n      y- so - And I like the idea that, you know, sort of - Jerry pushed this idea from the very beginning, that it's part of the understanding business to sort of make a good question of what's s- sort of important in this general picture, what you need t-\n    """
+2320.800,2321.500,me045,b'\n      Yeah.\n    '
+2332.831,2333.619,me045,b'\n      Mm-hmm.\n    '
+2334.940,2338.880,mn015,"b'\n      If you wanna simulate it, for example, what parameters would you need for the simulation?\n    '"
+2338.880,2339.713,mn015,"b'\n      And,\n    '"
+2339.713,2341.410,mn015,"b'\n      Timing, uh,\n    '"
+2341.470,2344.110,mn015,"b'\n      uh, Length would definitely be part of it,\n    '"
+2344.110,2345.370,mn015,"b'\n      ""Costs"",\n    '"
+2346.190,2348.300,mn015,"b'\n      ""Little money, some money, lots of money""?\n    '"
+2347.838,2348.128,me010,b'\n      Mm-hmm.\n    '
+2350.795,2352.390,mn015,"b'\n      Actually, maybe uh F- '"
+2352.390,2354.330,mn015,"b'\n      uh so, F- Yeah, O_K.\n    '"
+2355.175,2357.199,fe004,b'\n      '
+2356.791,2357.168,mn015,b'\n      Hmm?\n    '
+2358.250,2358.860,fe046,b'\n      '
+2358.782,2360.500,me045,"b'\n      You could say ""some"" in there.\n    '"
+2361.280,2362.410,mn036,b'\n      I must say that thi-\n    '
+2362.660,2366.510,mn036,b'\n      this one looks a bit strange to me. Um - maybe - It seems like appropriate\n    '
+2366.637,2368.110,mn036,b'\n      if I go to Las Vegas.\n    '
+2368.330,2370.990,mn036,b'\n      Well - but I decide k- kind of how much money\n    '
+2369.466,2370.650,me045,b'\n      '
+2371.150,2372.630,mn036,"b""\n      uh I'm willing to lose.\n    """
+2372.820,2377.930,mn036,"b""\n      But a- I as a tourist, I'll just paying what's - what's more or less is required.\n    """
+2372.820,2373.950,me045,b'\n      '
+2376.290,2380.289,me010,"b""\n      Well, no. I think there are - there're different things where you have a ch- choice, for example,\n    """
+2377.970,2380.110,fe046,b'\n      Mmm. '
+2379.520,2380.330,me045,b'\n      Yeah.\n    '
+2380.289,2383.940,me010,"b'\n      uh this t- interacts with ""do- am I do- oh- are you willing to take a taxi?""\n    '"
+2380.330,2381.190,me045,b'\n      Dinner.\n    '
+2381.198,2382.237,fe004,b'\n      Restaurant.\n    '
+2384.540,2391.270,me010,"b""\n      Or uh, you know, if - if you're going to the opera are you gonna l- look for\n    """
+2391.169,2392.630,mn036,b'\n      The best seat or - or -\n    '
+2391.770,2395.147,me010,"b'\n      the best seats or the peanut gallery or, you know, whatever?\n    '"
+2394.360,2395.170,mn036,b'\n      Right.\n    '
+2394.985,2395.434,me045,b'\n      O_K. So -\n    '
+2395.147,2398.250,me010,b'\n      S- so I think there are a variety of things in which\n    '
+2398.960,2400.800,me010,b'\n      um -\n    '
+2401.430,2405.550,me010,"b'\n      Tour- tourists really do have different styles eating. Another one, you know.\n    '"
+2404.960,2405.710,me045,b'\n      Yeah.\n    '
+2405.550,2406.650,mn036,"b""\n      Right, that's true.\n    """
+2405.830,2406.230,fe046,b'\n      Right.\n    '
+2407.278,2410.700,mn015,"b""\n      The - what - what my sort of sentiment is they're -\n    """
+2411.320,2420.071,mn015,"b'\n      Well, I - I once had to write a - a - a - a charter, a carter for a - a student organization. And they had - wanted me to define what the quorum is going to be.\n    '"
+2420.071,2425.850,mn015,"b""\n      And I looked at the other ones and they always said ten percent of the student body has to be present at their general meeting otherwise it's not a -\n    """
+2421.490,2422.190,mn036,b'\n      '
+2425.900,2428.450,mn015,"b'\n      And I wrote in there ""En- Enough""\n    '"
+2428.576,2429.278,me010,b'\n      '
+2428.732,2429.954,me045,b'\n      '
+2428.910,2432.495,fe046,b'\n      '
+2429.270,2430.618,mn015,b'\n      people have to be there.\n    '
+2430.430,2431.200,me045,b'\n      '
+2430.618,2432.765,mn015,"b'\n      And it was hotly debated, but\n    '"
+2432.765,2441.410,mn015,"b'\n      people agreed with me that everybody probably has a good feeling whether it was a farce, a joke, or whether there were enough people. And if you go to Turkey, you will find\n    '"
+2438.015,2438.325,me045,b'\n      Yeah.\n    '
+2441.410,2445.420,mn015,"b'\n      when people go shopping, they will say ""How much cheese do you want?"" and they say ""Ah, enough.""\n    '"
+2445.420,2448.124,mn015,b'\n      And the - and the - this used all over the place.\n    '
+2445.420,2446.420,me045,b'\n      '
+2448.124,2455.565,mn015,"b'\n      Because the person selling the cheese knows, you know, that person has two kids and you know, a husband that dislikes cheese, so this is enough.\n    '"
+2450.509,2450.897,me045,b'\n      Mm-hmm.\n    '
+2454.400,2456.260,me045,b'\n      '
+2454.890,2455.640,me010,b'\n      '
+2455.565,2466.220,mn015,"b'\n      And um so the middle part is always sort of the - the golden way, right? So you can s- you can be really - make it as cheap as possible, or you can say ""I want, er, you know, I don\'t care""\n    '"
+2460.130,2461.210,me045,b'\n      '
+2466.660,2467.850,me045,b'\n      Money is no object. Mm-hmm.\n    '
+2467.566,2467.938,me010,b'\n      Yeah.\n    '
+2467.850,2471.490,mn015,"b'\n      Money is no object, or you say ""I just want to spend enough"".\n    '"
+2469.900,2471.090,fe046,b'\n      '
+2471.366,2471.770,me045,b'\n      Mm-hmm.\n    '
+2471.770,2474.880,mn015,"b'\n      Or the sufficient, or the- the appropriate amount.\n    '"
+2474.267,2474.788,me045,b'\n      Yeah.\n    '
+2476.690,2477.000,mn015,"b'\n      But,\n    '"
+2477.000,2479.560,mn015,"b'\n      Then again, this may turn out to be\n    '"
+2479.800,2482.050,mn015,"b'\n      insufficient for our purposes. But well,\n    '"
+2482.270,2487.300,mn015,"b'\n      this is my first guess, '"
+2483.090,2483.950,me045,b'\n      I mean y-\n    '
+2484.097,2484.391,me045,b'\n      Yeah.\n    '
+2487.690,2492.490,mn015,"b""\n      you know - should the route be? Should it be the easiest route, even if it's a b- little bit longer?\n    """
+2491.933,2492.550,me045,b'\n      Mm-hmm.\n    '
+2492.790,2501.360,mn015,"b'\n      No steep inclinations? Go the normal way? Whatever that again means, er - or do you - does the person wanna rough it?\n    '"
+2496.449,2497.521,mn036,b'\n      '
+2497.825,2498.416,me045,b'\n      Mm-hmm.\n    '
+2501.457,2502.483,fe046,b'\n      '
+2502.410,2509.997,me045,"b'\n      I mean - th- so there\'s a couple of different ways you can interpret these things right? You know - ""I want to go there and I don\'t care if it\'s really hard.""\n    '"
+2509.997,2519.920,me045,"b'\n      Or if you\'re an extreme sport person, you know. ""I wanna go there and I insist on it being the hard way."" Right? you know, so I assume we\'re going for the first interpretation, right? Something like -\n    '"
+2513.060,2514.850,fe046,b'\n      '
+2513.843,2514.740,me010,b'\n      Right.\n    '
+2516.028,2517.020,fe046,b'\n      Right.\n    '
+2520.260,2521.710,me045,"b""\n      I'll go th- I mean -\n    """
+2522.010,2524.050,me045,"b""\n      I'd li- I dunno. It's different from thing to -\n    """
+2522.440,2525.000,me010,"b'\n      No, I think he was going for the second one ar- actually.\n    '"
+2524.280,2525.020,me045,b'\n      Yeah?\n    '
+2525.020,2527.330,me010,"b""\n      Anyway, we'll sort th- yeah, we'll sort that out.\n    """
+2525.100,2526.238,me045,b'\n      I - I - O_K.\n    '
+2528.566,2528.925,me010,b'\n      Right.\n    '
+2529.120,2530.210,me045,b'\n      Yeah. '
+2529.540,2530.550,me010,b'\n      Absolutely.\n    '
+2534.150,2535.690,mn015,"b'\n      Well, this is all sort of\n    '"
+2536.740,2540.530,mn015,"b'\n      um, top of my head. No - no research behind that.\n    '"
+2538.490,2538.857,me045,b'\n      Yeah.\n    '
+2541.050,2545.950,mn015,"b'\n      Um - ""Object information"", ""Do I - do I wanna know anything about that object?"" is either true or false.\n    '"
+2546.850,2547.720,mn015,b'\n      And.\n    '
+2548.200,2551.020,mn015,"b'\n      if I care about it being open, accessible or not,\n    '"
+2551.488,2554.030,mn015,"b""\n      I don't think there's any middle ground there.\n    """
+2555.080,2556.080,mn015,"b'\n      Um,\n    '"
+2556.240,2558.230,mn015,"b'\n      either I wanna know where it is or not,\n    '"
+2558.620,2560.670,mn015,"b""\n      I wanna know about it's history or not,\n    """
+2560.750,2561.670,mn015,"b'\n      or,\n    '"
+2561.990,2563.560,mn015,b'\n      um I wanna know about\n    '
+2563.620,2565.340,mn015,"b""\n      what it's good for or not.\n    """
+2567.050,2571.290,mn015,"b'\n      Maybe one could put scales in there, too. So I wanna know a l-\n    '"
+2569.860,2571.060,me010,"b'\n      Yeah, now ob-\n    '"
+2571.440,2573.480,me010,"b""\n      O_K, I'm sorry, go ahead, what were you gonna say?\n    """
+2571.620,2572.780,mn015,b'\n      lot about it.\n    '
+2573.660,2576.850,mn015,"b'\n      One could put scales in there. So I wanna know a lot about the history, just a bit.\n    '"
+2576.730,2579.270,me010,"b'\n      Yeah, right well y- i- w- if we - w- right.\n    '"
+2579.520,2581.580,me010,"b'\n      So ""object"" becomes ""entity"", right?\n    '"
+2581.512,2582.970,mn015,"b""\n      Yep, that's true.\n    """
+2582.830,2584.320,me010,"b""\n      Yeah, but we don't have to do it now.\n    """
+2584.522,2585.540,mn015,b'\n      Yep.\n    '
+2588.223,2590.132,mn015,b'\n      That was the wrong shortcut anyhow.\n    '
+2595.060,2598.340,me010,"b""\n      And we think that's it, interestingly enough, that\n    """
+2598.510,2599.840,me010,"b'\n      um,\n    '"
+2600.460,2605.000,me010,"b'\n      you know, th- or - or - or something very close to it is going to be uh -\n    '"
+2613.070,2614.530,me010,b'\n      going to be enough.\n    '
+2615.480,2617.230,me010,b'\n      And -\n    '
+2617.423,2618.607,fe046,b'\n      '
+2619.488,2620.854,fe046,b'\n      '
+2626.650,2627.650,fe046,b'\n      Still wrong.\n    '
+2627.720,2630.120,fe046,b'\n      '
+2627.760,2628.700,mn015,b'\n      '
+2627.980,2629.369,me045,b'\n      '
+2630.380,2631.240,mn015,b'\n      Yeah. '
+2637.080,2638.550,me045,b'\n      O_K. '
+2637.980,2640.930,me010,"b'\n      Alright, so um -\n    '"
+2641.310,2644.630,me010,b'\n      So I think the order of things is that\n    '
+2644.900,2646.160,me010,"b'\n      um,\n    '"
+2646.620,2649.360,me010,"b'\n      Robert will clean this up a little bit, although it looks pretty good.\n    '"
+2649.570,2650.444,me010,b'\n      And -\n    '
+2650.200,2654.300,mn015,"b'\n      What, well this is the part that - this is the part that needs the work.\n    '"
+2651.490,2652.280,me010,b'\n      Huh?\n    '
+2653.150,2656.020,me010,"b'\n      Right. Yeah, so - right, so - So,\n    '"
+2653.749,2654.760,me045,b'\n      Yeah.\n    '
+2656.180,2657.560,me010,b'\n      um\n    '
+2658.280,2659.295,me010,"b'\n      In parallel,\n    '"
+2660.100,2662.440,me010,b'\n      uh - three things are going to happen.\n    '
+2662.790,2666.050,me010,b'\n      Uh Robert and Eva and Bhaskara are gonna actually -\n    '
+2666.110,2675.140,me010,"b""\n      build a belief-net that - that, um, has C_P_T's and, you know, tries to infer this from various kinds of information.\n    """
+2675.293,2680.310,me010,"b'\n      And Fey is going to start collecting data,\n    '"
+2680.390,2686.940,me010,"b""\n      and we're gonna start thinking a- about - uh - what constructions we want to elicit.\n    """
+2687.460,2690.010,me010,b'\n      And then w- go- it may iterate on\n    '
+2690.530,2693.187,me010,"b'\n      uh, further data collection to elicit -\n    '"
+2692.595,2693.860,me045,b'\n      D- Do you mean -\n    '
+2693.860,2699.010,me045,b'\n      Do you mean eliciting particular constructions? Or do you mean like what kinds of things we want to get people talking about?\n    '
+2699.010,2700.070,me010,"b'\n      Well, yes.\n    '"
+2699.178,2700.637,me045,"b'\n      Semantically speaking, eh?\n    '"
+2700.520,2701.310,me010,b'\n      Both.\n    '
+2700.637,2701.600,me045,b'\n      O_K.\n    '
+2701.600,2703.980,me010,"b'\n      Uh, and -\n    '"
+2701.930,2702.630,mn015,b'\n      '
+2704.280,2707.390,me010,"b'\n      Though for us, constructions are primarily semantic, right?\n    '"
+2707.650,2708.470,me045,b'\n      Right.\n    '
+2709.390,2710.400,me010,b'\n      And -\n    '
+2709.790,2710.620,me045,b'\n      Sure.\n    '
+2710.630,2712.759,me010,b'\n      And so - uh -\n    '
+2712.050,2715.910,me045,"b""\n      I mean from my point of view I'm - I'm trying to care about the syntax, so you know -\n    """
+2715.710,2718.610,me010,"b'\n      Well that too, but um -\n    '"
+2717.170,2717.910,me045,b'\n      O_K.\n    '
+2718.950,2725.040,me010,"b'\n      You know if th- if we in - if we you know, make sure that we get them talking about temporal order.\n    '"
+2725.040,2725.490,me045,b'\n      Yeah.\n    '
+2725.490,2732.560,me010,"b'\n      O_K, that would be great and if th- if they use prepositional phrases or subordinate clauses or whatever, um -\n    '"
+2728.506,2729.018,me045,b'\n      Mm-hmm.\n    '
+2730.150,2731.110,me045,b'\n      Right. O_K.\n    '
+2733.460,2735.500,me010,"b'\n      W- You know, whatever form they use\n    '"
+2736.180,2737.100,me010,b'\n      is fine.\n    '
+2736.690,2737.420,me045,b'\n      O_K.\n    '
+2737.370,2742.080,me010,"b""\n      But I - I think that probably we're gonna try to look at it as\n    """
+2742.620,2748.710,me010,"b'\n      you know, s- what semantic constructions d- do we - do we want them to uh do direc- you know, um,\n    '"
+2744.570,2745.330,me045,b'\n      O_K.\n    '
+2748.840,2751.250,me010,"b'\n      ""Caused motion"", I don\'t know, something like that.\n    '"
+2750.780,2751.144,me045,b'\n      O_K.\n    '
+2752.035,2753.330,me010,b'\n      Uh\n    '
+2752.472,2753.226,me045,b'\n      Got it.\n    '
+2753.330,2754.070,me010,"b'\n      But,\n    '"
+2754.220,2758.080,me010,b'\n      Eh- uh- this is actually a conversation you and I have to have about\n    '
+2756.801,2757.490,me045,b'\n      Yeah.\n    '
+2758.280,2761.880,me010,"b'\n      your thesis fantasies, and how all this fits into that.\n    '"
+2759.810,2760.800,me045,b'\n      '
+2761.880,2763.346,me045,b'\n      Uh Yeah. O_K.\n    '
+2763.620,2764.830,me010,b'\n      But uh -\n    '
+2764.830,2767.370,mn015,"b'\n      Well, I will tell you the German tourist data.\n    '"
+2767.280,2767.946,me045,b'\n      O_K.\n    '
+2767.640,2768.970,mn015,b'\n      Because I have not\n    '
+2769.300,2771.687,mn015,b'\n      been able to dig out all the stuff out of the\n    '
+2771.687,2774.260,mn015,b'\n      m- ta- thirty D_V_Ds.\n    '
+2774.160,2774.910,me045,b'\n      O_K.\n    '
+2775.010,2775.840,mn015,b'\n      Um -\n    '
+2776.378,2779.542,me045,"b""\n      Is that roughly the equivalent of - of what I've seen in English or is it -\n    """
+2776.550,2777.300,mn015,b'\n      If you -\n    '
+2779.360,2781.760,mn015,"b'\n      No, not at all. Dialogues.\n    '"
+2780.224,2780.785,me045,b'\n      O_K.\n    '
+2781.370,2782.220,me045,b'\n      O_K.\n    '
+2782.200,2783.440,mn015,b'\n      SmartKom -\n    '
+2783.830,2785.780,mn015,b'\n      Human. Wizard of Oz.\n    '
+2785.530,2787.790,me045,"b'\n      O_K. Same - O_K, that. Got it.\n    '"
+2788.060,2798.156,me045,"b""\n      Like what - What have I got now? I mean I have uh what - what I'm loo- what I - Those files that you sent me are the user side of some interaction with Fey? Is that what it is? Or - ? """
+2789.710,2790.100,mn015,b'\n      '
+2793.080,2794.740,mn015,"b'\n      A little bit of data, I -\n    '"
+2797.440,2798.850,mn015,b'\n      With nothing.\n    '
+2798.280,2798.929,me010,"b'\n      No, no.\n    '"
+2798.670,2801.850,me045,b'\n      Just talking into a box and not hearing anything back. O_K.\n    '
+2799.898,2800.587,mn015,b'\n      Yep.\n    '
+2800.928,2801.567,mn015,b'\n      Yep.\n    '
+2801.733,2802.672,fe046,b'\n      '
+2803.310,2809.170,mn015,b'\n      Some data I collected in a couple weeks for training recognizers and email way back when.\n    '
+2807.516,2808.201,me045,b'\n      O_K.\n    '
+2809.039,2809.618,me045,b'\n      O_K.\n    '
+2810.900,2812.710,mn015,b'\n      Nothing to write home about.\n    '
+2812.710,2813.400,me045,b'\n      O_K.\n    '
+2813.900,2815.150,mn015,b'\n      And um -\n    '
+2815.420,2821.580,mn015,b'\n      the - see this - this - this - uh - ontology node is probably something that I will\n    '
+2821.860,2825.407,mn015,"b'\n      try to expand. Once we have the full ontology A_P_I,\n    '"
+2825.407,2828.500,mn015,b'\n      what can we expect to get from the ontology?\n    '
+2828.540,2831.010,mn015,b'\n      And hopefully you can sort of also\n    '
+2831.010,2833.650,mn015,"b'\n      try to find out, you know, sooner or later\n    '"
+2833.720,2840.380,mn015,"b'\n      in the course of the summer what we can expect to get from the discourse that might, you know - or the - not the discourse, the utterance\n    '"
+2836.788,2837.326,me045,b'\n      Mm-hmm.\n    '
+2838.130,2838.870,me010,b'\n      mm-hmm.\n    '
+2839.891,2840.321,me045,b'\n      Mm-hmm.\n    '
+2840.258,2840.523,me010,b'\n      Right.\n    '
+2840.380,2843.360,mn015,"b'\n      as it were, uh, in terms of uh -\n    '"
+2844.000,2847.480,me010,"b""\n      Right, but we're """
+2847.480,2850.560,mn015,"b'\n      No, no, no, no, no. Uh, this is -\n    '"
+2847.930,2849.020,me045,"b'\n      Right, Right.\n    '"
+2848.290,2849.060,me010,b'\n      O_K.\n    '
+2849.060,2849.630,me045,b'\n      '
+2849.630,2851.940,me010,b'\n      We '
+2850.800,2851.690,me045,b'\n      '
+2850.960,2851.760,mn015,b'\n      Yes.\n    '
+2851.940,2853.050,me045,"b'\n      By the end of the summer, too.\n    '"
+2851.940,2852.887,me010,b'\n      '
+2852.887,2853.214,me010,b'\n      No.\n    '
+2853.050,2855.980,me045,b'\n      '
+2853.630,2854.790,mn015,b'\n      No.\n    '
+2853.918,2854.416,me010,b'\n      No.\n    '
+2854.980,2856.230,me010,b'\n      Uh -\n    '
+2856.230,2858.050,mn015,"b""\n      But it's sort of - it's -\n    """
+2857.120,2860.840,me010,"b""\n      He's g- he's hoping to do this for his masters' thesis s- by a year from now.\n    """
+2859.192,2859.646,me045,b'\n      Right.\n    '
+2861.008,2861.780,me045,b'\n      Hmm.\n    '
+2862.070,2865.660,me045,"b'\n      Still, pretty formidable actually. '"
+2863.348,2864.530,me010,b'\n      Eh- absolutely.\n    '
+2865.386,2874.150,me010,"b'\n      Uh - limited. I mean, you know, the idea is - is, Well, the hope is that the parser itself is, uh, pretty robust.\n    '"
+2867.231,2867.684,me045,b'\n      Yeah.\n    '
+2874.270,2877.360,me010,"b""\n      But it's not popular - it's only p- only -\n    """
+2876.040,2878.800,me045,"b'\n      Right, Right. Existence proof, you know. Set up the\n    '"
+2877.780,2877.974,me010,b'\n      Right.\n    '
+2878.502,2879.255,me010,"b""\n      It's only popula-\n    """
+2878.800,2880.390,me045,"b'\n      infrastructure, yeah.\n    '"
+2879.730,2880.390,me010,b'\n      Right.\n    '
+2881.510,2886.760,me045,"b'\n      Um sometime, I have to talk to some subset of the people in this group, at least about um\n    '"
+2887.530,2890.603,me045,"b""\n      what sort of constructions I'm looking for. I mean, you know obviously like just\n    """
+2890.603,2894.836,me045,"b'\n      again, looking at this one uh thing, you know, I saw y- things from -\n    '"
+2894.836,2907.290,me045,"b'\n      sort of as general as argument structure constructions. Oh, you know, I have to do Verb Phrase. I have to do uh - uh - unbounded dependencies, you know, which have a variety of constructions in - uh - uh - instantiate that.\n    '"
+2907.290,2910.000,me045,"b""\n      On the other hand I have to have, you know, there's particular\n    """
+2911.510,2912.490,me045,"b'\n      uh,\n    '"
+2912.490,2922.865,me045,"b'\n      fixed expressions, or semi-fixed expressions like ""Get"" plus path expression for, you know, ""how d- ho- how do I get there?"", ""How do I get in?"", ""How do I get away?"" and all that kind of stuff.\n    '"
+2917.586,2918.069,me010,b'\n      Mm-hmm.\n    '
+2920.570,2920.835,me010,b'\n      Right.\n    '
+2922.865,2925.174,me045,"b""\n      Um, so there's a variety of sort of different\n    """
+2924.890,2926.110,me010,b'\n      Absolutely.\n    '
+2925.174,2929.540,me045,"b""\n      sorts of constructions and it - you know it's - it's sort of like anything goes. Like -\n    """
+2928.882,2931.610,me010,"b""\n      O_K, so this is - I think we're gonna mainly work on with George.\n    """
+2931.610,2932.510,me045,b'\n      O_K.\n    '
+2932.130,2933.697,me010,"b'\n      O_K, and hi- let me f-\n    '"
+2934.220,2939.030,me010,b'\n      th - say what I think is - is - so the idea is - uh - first of all\n    '
+2939.260,2940.898,me010,b'\n      I misspoke when I said\n    '
+2941.350,2946.397,me010,b'\n      we thought you should do the constructions. Cause apparently for a linguist that means to do completely and perfectly.\n    '
+2946.397,2952.450,me010,"b'\n      So what I - yeah, O_K, - So what - what I meant was ""Do a first cut at"".\n    '"
+2946.740,2950.890,me045,"b""\n      er - that's what """
+2946.820,2949.487,fe046,b'\n      '
+2948.599,2949.970,mn036,b'\n      '
+2951.880,2952.450,me045,"b'\n      Yeah, yeah.\n    '"
+2952.450,2954.845,me010,"b'\n      O_K, Because uh - we do wanna get them r- u-\n    '"
+2954.845,2959.490,me010,"b""\n      perfectly - but I think we're gonna have to do a first cut at a lot of them to see how they interact.\n    """
+2958.061,2958.843,me045,b'\n      Of course.\n    '
+2958.080,2958.850,fn050,b'\n      '
+2958.843,2959.775,me045,"b'\n      Right, exactly.\n    '"
+2959.775,2965.520,me045,"b'\n      Now it - w- we talked about this before, right. And I - I me- it would- it would be completely out of the question to really do more than, say, like,\n    '"
+2965.750,2970.010,me045,"b""\n      oh I don't know, ten, over the summer, but uh, but you know obviously we need to get\n    """
+2966.770,2967.044,me010,b'\n      Yeah.\n    '
+2967.920,2968.730,fe046,b'\n      '
+2970.490,2973.057,me045,"b'\n      sort of a general view of what things look like, so yeah.\n    '"
+2972.630,2975.950,me010,b'\n      Right. So the idea is going to be\n    '
+2976.480,2985.710,me010,"b'\n      to do - sort of like Nancy did in some of the- er these papers where you do enough of them so you can go from top to bottom - so you can do f- you know,\n    '"
+2985.730,2991.680,me010,b'\n      f- f- uh - have a complete story ov- of s- of some piece of dialogue.\n    '
+2991.267,2991.740,me045,b'\n      Mm-hmm.\n    '
+2992.150,2995.790,me010,"b""\n      And that's gonna be much more useful\n    """
+2996.180,3003.510,me010,"b'\n      than having all of the clausal constructions and nothing else, or - or - or something like that. So that the - the trick is going to be\n    '"
+2999.590,3000.740,me045,b'\n      Yeah. Sure.\n    '
+3001.107,3001.559,me045,b'\n      Yeah.\n    '
+3003.520,3009.370,me010,b'\n      t- to take this and pick a - some sort of lattice\n    '
+3007.410,3009.060,fn050,b'\n      '
+3009.096,3009.626,me045,b'\n      Mm-hmm.\n    '
+3009.450,3016.060,me010,"b'\n      of constructions, so- some lexical and some phrasal, and - and, you know, whatever you need in order to\n    '"
+3012.261,3012.887,me045,b'\n      Mm-hmm.\n    '
+3016.060,3018.500,me010,"b'\n      uh, be able to then,\n    '"
+3019.370,3020.480,me010,"b'\n      uh, by hand,\n    '"
+3020.990,3022.160,me010,"b'\n      you know, explain,\n    '"
+3021.020,3021.614,me045,b'\n      Mm-hmm.\n    '
+3022.160,3022.420,me045,b'\n      Yeah.\n    '
+3022.420,3024.270,me010,b'\n      some fraction of the utterances.\n    '
+3024.680,3030.620,me010,"b'\n      And so, exactly which ones will partly depend on your research interests and a bunch of other things.\n    '"
+3029.344,3029.939,me045,b'\n      Mm-hmm.\n    '
+3030.620,3031.360,me045,b'\n      Sure.\n    '
+3031.550,3033.981,me045,b'\n      O_K. But I mean in terms of the s- th- sort of level of\n    '
+3033.981,3035.456,me045,"b'\n      uh - of analysis, you know,\n    '"
+3035.456,3042.176,me045,"b'\n      these don\'t necessarily have to be more complex than like the ""Out of"" construction in the B_C_P paper where it\'s just like, you know, half a page on each one or something.\n    '"
+3039.826,3040.377,me010,b'\n      Correct.\n    '
+3041.630,3044.300,me010,"b""\n      Oh yeah - yeah. V- a half a page is - is what we'd like.\n    """
+3043.490,3044.530,me045,b'\n      Yeah.\n    '
+3044.760,3049.540,me010,"b""\n      And if - if there's something that really requires a lot more than that then it does and we have to do it, but -\n    """
+3048.780,3049.540,me045,b'\n      Yeah.\n    '
+3050.758,3052.860,me045,"b'\n      For the first cut, that should be fine, yeah.\n    '"
+3052.331,3052.748,me010,b'\n      Yeah.\n    '
+3052.860,3055.320,mn015,b'\n      We could sit down and think of sort of the -\n    '
+3055.590,3060.490,mn015,"b'\n      the ideal speaker utterances, and I mean\n    '"
+3059.175,3059.834,me045,b'\n      Mm-hmm.\n    '
+3060.700,3061.560,mn015,b'\n      two\n    '
+3062.740,3065.780,mn015,"b'\n      or three that follow each other, so,\n    '"
+3066.450,3069.934,mn015,"b'\n      where we can also sort of, once we have everything up and running,\n    '"
+3069.934,3074.936,mn015,"b'\n      show the tremendous, insane inferencing capabilities of our system.\n    '"
+3074.791,3075.719,me045,b'\n      Mm-hmm. '
+3074.807,3076.430,fe046,b'\n      '
+3074.936,3078.648,mn015,"b'\n      So, you know, as - as the SmartKom people have. This is sort of their standard\n    '"
+3078.648,3083.888,mn015,"b'\n      demo dialogue, which is, you know, what the system survives and nothing but\n    '"
+3079.841,3080.454,me045,b'\n      Mm-hmm.\n    '
+3083.888,3087.891,mn015,"b'\n      that. Um, we could also sor- sort of have the '"
+3084.060,3085.180,fe046,b'\n      '
+3084.279,3084.895,me045,b'\n      Mm-hmm.\n    '
+3087.891,3092.540,mn015,"b'\n      o- our sample sentences, the ideal sentences where we have complete\n    '"
+3092.811,3094.339,mn015,b'\n      construction coverage\n    '
+3094.359,3094.985,me045,b'\n      Mm-hmm.\n    '
+3094.940,3096.105,mn015,"b'\n      and, sort of,\n    '"
+3096.500,3097.749,mn015,b'\n      they match nicely. So the -\n    '
+3097.749,3101.036,mn015,"b'\n      the ""How do I get to X_?"", you know, that\'s definitely gonna be\n    '"
+3099.580,3100.310,me045,b'\n      Yeah.\n    '
+3101.036,3102.530,mn015,"b'\n      uh, a major one.\n    '"
+3102.530,3106.440,me045,"b""\n      Yeah. That's about six times in this little one here, so uh, """
+3105.196,3105.416,me010,b'\n      Right.\n    '
+3105.650,3106.280,mn015,b'\n      Yep.\n    '
+3106.440,3110.326,mn015,"b'\n      ""Where is X_?"" might be another one which is not too complicated.\n    '"
+3108.150,3108.910,me045,b'\n      Yeah.\n    '
+3110.244,3110.637,me045,b'\n      Mm-hmm.\n    '
+3111.140,3113.570,mn015,"b'\n      And um ""Tell me something about X_.""\n    '"
+3113.880,3114.230,me045,b'\n      Yeah.\n    '
+3114.230,3117.160,mn015,"b""\n      And hey, that's - that's already covering\n    """
+3117.320,3119.070,mn015,"b""\n      eighty percent of the system's functionality.\n    """
+3117.454,3117.789,me010,b'\n      Ye-\n    '
+3118.918,3120.367,me045,b'\n      '
+3119.070,3122.140,me010,"b""\n      Right, but it's not covering eighty percent of the intellectual interest.\n    """
+3122.300,3123.030,me045,b'\n      Yeah. '
+3123.030,3126.860,mn015,"b'\n      No, we can w- throw in an ""Out of Film"" construction if you want to, but -\n    '"
+3125.630,3129.450,me010,"b""\n      No, no, no. Well the - th- the thing is there's a lot that needs to be done\n    """
+3126.209,3126.656,me045,b'\n      '
+3129.900,3130.840,me010,b'\n      to get this right. '
+3131.500,3132.900,me010,"b'\n      O_K, I th-\n    '"
+3131.596,3132.039,mn015,b'\n      O_K.\n    '
+3133.650,3134.410,me010,b'\n      We done?\n    '
+3134.560,3137.170,mn015,"b'\n      I have one bit of news. Um,\n    '"
+3135.640,3136.310,me010,b'\n      Good.\n    '
+3136.578,3136.757,me010,b'\n      Good.\n    '
+3138.980,3141.309,mn015,b'\n      the action planner guy has wrote -\n    '
+3141.309,3143.120,mn015,b'\n      has written a -\n    '
+3143.540,3144.250,mn015,b'\n      a p-\n    '
+3144.770,3149.000,mn015,b'\n      lengthy - proposal on how he wants to do the action planning.\n    '
+3149.260,3154.300,mn015,"b'\n      And I responded to him, also rather lengthy, how he should do the action planning.\n    '"
+3154.030,3154.730,me045,b'\n      '
+3154.730,3155.040,mn015,b'\n      And -\n    '
+3155.040,3156.710,me010,"b'\n      ""Action planning"" meaning ""Discourse Modeling""?\n    '"
+3156.710,3161.582,mn015,b'\n      Yes. And I tacked on a little paragraph about the fact that the whole world calls that\n    '
+3158.901,3159.347,me010,b'\n      Right.\n    '
+3161.582,3164.500,mn015,"b'\n      module a dis- disc- dialogue manager, and\n    '"
+3163.900,3164.630,me010,b'\n      Right.\n    '
+3164.870,3166.953,mn015,"b""\n      wouldn't it make sense to do this here too?\n    """
+3166.953,3173.840,mn015,"b'\n      And also Rainer M- Malaka is going to be visiting us shortly, most likely in the beginning of June.\n    '"
+3174.230,3175.390,me010,"b""\n      Uh-huh, I'll be gone.\n    """
+3175.390,3178.740,mn015,"b""\n      Yeah. He- he's just in a conference somewhere and he is just swinging through town.\n    """
+3177.470,3178.370,me010,"b'\n      Sure, O_K.\n    '"
+3179.050,3180.120,mn015,b'\n      And um -\n    '
+3180.340,3185.390,mn015,"b'\n      m- making me incapable of going to N_A_A_C_L,\n    '"
+3185.614,3187.480,mn015,b'\n      for which I had funding.\n    '
+3187.350,3188.150,me045,b'\n      '
+3187.986,3188.467,mn015,b'\n      But.\n    '
+3190.760,3192.610,mn015,"b'\n      No, no Pittsburg this year.\n    '"
+3193.384,3193.896,me045,b'\n      Hmm.\n    '
+3194.035,3194.629,me010,b'\n      S-\n    '
+3194.180,3198.200,mn015,b'\n      When is the uh- Santa Barbara? Who is going to? uh- should a lot of people.\n    '
+3203.720,3206.430,mn015,"b""\n      That's something I will - would - sort of enjoy.\n    """
+3205.010,3206.070,me010,b'\n      Probably should go.\n    '
+3206.220,3207.960,me010,b'\n      That was - '
+3207.245,3207.943,mn015,b'\n      Yep.\n    '
+3209.220,3212.660,me045,b'\n      How much does it cost? '
+3209.330,3209.685,mn015,"b""\n      There's\n    """
+3212.880,3213.960,me010,"b'\n      Uh,\n    '"
+3213.980,3217.520,me010,b'\n      probably we can uh - pay for it.\n    '
+3217.445,3218.047,me045,b'\n      O_K.\n    '
+3218.310,3220.550,me010,"b""\n      Um a student rate shouldn't be very high.\n    """
+3223.360,3226.895,me010,"b""\n      So, if we all decide it's a good idea for you to go then you'll - we'll pay for it.\n    """
+3225.858,3227.138,me045,b'\n      Right. Sure. '
+3225.907,3228.117,fe046,b'\n      '
+3226.895,3230.810,me010,"b""\n      I mean I - I don't have a feeling one way or the other at the moment, but it probably is.\n    """
+3229.361,3229.772,me045,b'\n      O_K.\n    '
+3232.180,3233.220,me010,"b'\n      O_K, great.\n    '"
+3233.580,3234.363,me045,b'\n      Thanks.\n    '
